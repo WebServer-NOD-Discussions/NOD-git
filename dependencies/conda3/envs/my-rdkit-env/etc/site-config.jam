@@ -1,0 +1,4 @@
+import os ;
+local CXXFLAGS = [ os.environ CXXFLAGS ] ;
+local LDFLAGS = [ os.environ LDFLAGS ] ;
+using gcc : custom : x86_64-conda_cos6-linux-gnu-c++ : <compileflags>-I/prod/www/NOD_v1_2/dependencies/conda3/envs/my-rdkit-env/include $(CXXFLAGS) -Wno-deprecated-declarations <linkflags>-L/prod/www/NOD_v1_2/dependencies/conda3/envs/my-rdkit-env/lib $(LDFLAGS) ;

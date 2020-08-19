@@ -1,0 +1,6 @@
+#copy files which do not contains the word "detected" (the entire phrase is 'No hits detected'), i.e., the queries for which some hits could be obtained. 
+
+$ cp `grep -rL "detected" .` ./hit_txt_files
+
+
+# for the .tab and .dom files: the ones which contain some hits information has more than 3 lines. Using the 'wc -l' command,files were listed and sorted based on wc -l>3
