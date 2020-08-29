@@ -67,12 +67,41 @@ print('<a href="index.html" class="get-started-btn scrollto">Start Over</a>')
 print('</div>')
 print('</header>')
 # <-- End Header -->
-# <!-- ======= Hero Section ======= -->
 print('<section id="hero" class="d-flex align-items-center">')
 #in_title=form['textinput'] #Use this id for results directory.
-in_item= form["uploadBtn"]	#Get data from text input- Mode-1
-print (form.getvalue('textinput'),form.getvalue('sequence'))
-print (in_item)
-os.system("python3 ../WS-NOD_vm/bin/master_handler.py mode1 %s"%in_item)
-print('</section>')
+#print (form.getvalue('textinput'),form.getvalue('sequence'))
+jobId= form.getvalue('title')
+sequence= form.getvalue('sequence')
+checked= form.getvalue('declare')
+
+
+if jobId:
+	print('<div class="d-flex">')
+	print('<textarea class="form-control" id="sequence" name="sequence" rows="6" value="file">%s</textarea></div>' %sequence)
+else:
+	print ('<div class="container=-fluid" value="error">Job Title is mandatory. It will be the identity of your job in our servers/n</div>')
+
+if checked:
+	print (jobId)
+	sequence.split(">")
+#	print("os.system\"echo -e %s >> %s.FASTA\" (sequence,jobId))")
+#	os.system("python /prod/www/NOD_v1_2/bin/master_handler.py mode1 %s"%in_file)
+
+infile= form['uploadBtn']	#Get data from the upload file option.
+
+if infile.file:
+	lc=0
+	while True:
+		line= infile.file.readline()
+		if not line: break
+		lc= lc+1
+
+		msg= "The file"+ lc +"was uploaded successfully"
+else:
+	msg= "\nNo file was uploaded\n"
+
+print('<div class="col-md-4">')
+print('<textarea class="form-control" id="sequence" name="sequence" rows="6" value="file">%s</textarea></div>' %msg)
+
+print('</section>'
 #<!-- End Hero -->
