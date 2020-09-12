@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=yes">
+
+  <title>NOD-New use of Old Drugs</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="../img/NOD_img2.png" rel="icon">
+
+
+  <!-- Google Fonts -->
+  <!--  Main CSS File -->
+  <link href="../css/style.css" rel="stylesheet">
+  <script src="../js/helper.js"></script>
+
+  <!-- =======================================================
+  *Name: WS-NOD - v 1.2.0
+  *Author: Tarun Jairaj Narwani
+  *License: Creative Commons
+  ======================================================== -->
+</head>
+
+<body>
+<header>
+    <div id="header" class="container">
+        <div>
+        <h1 class="logo"><a href="../index.html"><img src="../img/icons/NOD_logo.png" height="60px" width="180px"></a></h1>
+        </div>
+        <div>
+        <nav>
+          <ul>
+            <li><a href="../index.html">Home</a></li>
+            <li><a href="about.html">About-NOD</a></li>
+            <li class="active"><a href="instructions.html">Instructions</a></li>
+            <li><a href="run.html">Run-Options</a></li>
+            <!--<li><a href="organisms.html">Model Organisms</a></li>-->
+			<li><a href="faq.html">F.A.Q</a></li>
+            <li><a href="team.html">The Team</a></li>
+            <li><a href="contact.html">Contact</a></li>
+          </ul>
+        </nav><!-- .nav-menu -->
+        </div>
+    </div>
+</header>
+
+<!--Welcome Section -->
+<div id="noheader" class="noheader section-bg">
+<section id="about" class="grid-2">
+		<div class="grid-child" data-aos="fade-up">
+			<h2>Get to know and know how to...</h2>
+			<p>This section introduces the user to the different <u>Modes of operation</u> for NOD. The following information is intended to get the user acquainted with the NOD drug repurposing pipeline and make a decision on the best use-case operation for their scientific query.
+			</p>  
+			<div id="accordList-1"><h2><a href="#" onclick="accordian('MODE1'); return false;">Mode-1</h2></a>
+			<div id="MODE1" class="collapse show" data-parent="accordList-1">
+				<p>The MODE-1 of the pipeline should be used when the user is interested in finding potential repurpose-able candidates against multiple query protein sequences of choice.
+For example: When a user is interested in getting a list of potential drugs/drug candidates which can be repurposed against:</p>
+					<ol>
+					<li>all the proteins encoded in the genome of a pathogenic organism like <i>P. falciparum, M. tuberculosis, SARS-CoV-2</i> etc.</li>
+					<li>a set of proteins involved in a specific biological pathway that play a role in a disease condition like proteins involved in bacterial cell wall synthesis, proteins involved cancer signalling pathways etc.
+					<li>multiple orthologous proteins of interest from different organisms, such as main proteases of different species of coronaviruses.</li>
+					<li>any set protein sequences of user’s interest.</li>
+					</ol>					
+				<div class="collapsed" data-parent="accordList-1"><a href="#" onclick="accordian('mResults1'); return false;"><h2><u>Results</u></h2></a>
+					<div id="mResults1" class="collapse show" data-parent="accordList-1">
+					<p> Upon completion, an output table containing details of potential DrugBank molecules which could be targeted against the protein(s) of interest are listed.</p>
+					<table id="resDisplay" style="border: 1px solid black; width=100%;">
+						<thead>
+						<tr>
+						<th>Number</th>
+						<th>Query</th>
+						<th>Target homolog</th>
+						<th>DrugBank ID</th>
+						<th>Molecule Name</th>
+						<th>Regulatory Status</th>
+						<th>SMILES</tr>
+						</tr>
+						</thead>
+						<tr>
+						<td><i> No. of approved drugs hit against the query protein(s)</td></i>
+						<td><i> Input query name based on which hits are retreived.</td></i>
+						<td><i> The UNIPROT id for target protein sequence that is homologous to the query protein is reported</td></i>
+						<td><i> The DrugBank id of the molecule targetting homolog protein sequence. A single protein can be a target of multiple compounds.</td></i>
+						<td><i> Name of the molecule as defined in DrugBank.
+						<td><i> Regulatory status and category of the chemical compound. Drugs that passed the trials and got the approval but had to be discontinued later are also listed.</td></i>
+						<td><i> 1-D coordinates for generating the drug molecule. If unavailable, a Nan value is printed. These coordinates can be directly used in standard drug chemistry softwares.</td></i>
+						</tr>
+					</table>
+					</div>
+				</div>
+            </div>
+			</div>
+			
+			<div id="accordList-2"><h2><a href="#" onclick="accordian('MODE2'); return false;">Mode-2</h2></a>
+			<div id="MODE2" class="collapse show" data-parent="accordList-2">
+				<p>MODE-2 of the pipeline should be used when the user is interested in finding potential repurpose-able candidates against only one particular protein, for example, dihydrofolate reductase of Mtb, main protease of SARS-CoV-2, human aurora kinase-A/B/C etc. This mode of the pipeline is faster than MODE-1 (since here only one protein sequence is queried vs. multiple protein sequences in MODE-1) and also comes with an advantage of an extra analysis. After the initial list of repurpose-able candidates (based on the homologous associations identified between the queried protein sequence and the DrugBank dataset of protein sequences) are fetched, chemically similar molecules from the approved subset of small molecules in DrugBank are also listed. This helps in enhancing the chemical space of the potential repurpose-able agents against the queried target protein.
+			<div class="collapsed" data-parent="accordList-2"><a href="#" onclick="accordian('mResults2'); return false;"><h2><u>Results</u></h2></a>
+				<div id="mResults2" class="collapse show" data-parent="accordList-2">
+							<p> Upon completion, an output table containing primary candidates (<i>based on homology search</i>) are listed. The table is further extended with approved molecules that are structurally (2D) similar to the primary candidate. </p>
+					<table id="resDisplay" style="border: 1px solid black; width=100%;">
+						<thead>
+						<tr><i>Results for Query protein entered</i></tr>
+						<tr>
+						<th>Target homolog</th>
+						<th>1&deg;Candidate</th>
+						<th>Molecule Name</th>
+						<th>Regulatory Status</th>
+						<th>2&deg;Candidate</th>
+						<th>Molecule Name</th>
+						<th>Regulatory Status</th>
+						<th>Similarity (T<sub>C</sub>)</th>
+						</tr>
+						</thead>
+						<tr>
+						<td><i> The UNIPROT id for the target protein sequence that is homologous to the query protein.</td></i>
+						<td><i> The DrugBank id for the target homolog protein sequence. The query protein can be a target of multiple drugs in DrugBank.</td></i>
+						<td><i> Name of the 1&deg;Candidate (Molecues found while searching in the complete dataset).
+						<td><i> Regulatory status and category of the 1&deg; Candidate.</td></i>
+						<td><i> The DrugBank id for the 2&deg; Candidate that is similar in structure to the 1&deg;Candidate.</td></i>
+						<td><i> Name of the 2&deg;Candidate.
+						<td><i> Regulatory status and category of the 2&deg;Candidate.</td></i>
+						<td><i> 2D chemical similarity index, Tanimoto Co-efficient*(T<sub>C</sub>), obtained by comparing 1&deg;Candidate and 2&deg;Candidate is reported.</td></i>
+						</tr>
+					</table>
+						<tfoot><p style="text-align: right">*T<sub>C</sub> ranges from 0 to 1. Values > 0.7 are selected to ensure that highly similar 2&deg;Candidates are reported.<br>
+				</div>
+				
+			</div>
+			</div>   
+            </div>
+			<div id="accordList-3"><h2><a href="#" onclick="accordian('discretion'); return false;">User Discretion</h2></a>
+			<div id="discretion" class="collapse show" data-parent="accordList-3">
+				<p>We advise user discretion while selecting candidates from the results table. There might be metal ions or nutraceutical which shall be removed before processing the final results.....
+			</div>   
+            </div>
+		<div class="grid-3">
+			<div class="grid-child">
+			<a href="#" class="btn-special">Know More <br></a> <!-- Cite Lab publications-->
+			</div>
+			<div class="grid-child">
+			<a href="https://youtu.be/ZLc71ZJJ-ag" class="btn-special" target="_blank"> Watch a Video <i class="icofont-play-alt-2"></i></a>			
+			</div>
+			<div class="grid-child">
+			<a href="run.html" class="btn-special">GET STARTED</a><i class="icofont-play-alt-2"></i>
+			</div>
+		</div>
+        </div>
+		<div class="grid-child" class="img-fluid animated">
+		<img src="../img/NOD_img2.png" class="logo" alt="waiting for image to load..." height="500" width="500">
+        </div>
+</section>	<!-- End welcome Section -->
+</div>
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+    <div class="container footer-bottom clearfix">
+		<div class="copyright">
+      <p>If you find NOD useful for your work:<br> Please cite:
+(Manuscript under preparation...)</p>
+		</div>
+      <div class="credits">
+      <p class="tooltip"><u>Designed by</u> <a href="https://scholar.google.com/citations?user=qCW95VwAAAAJ&hl=en"><strong>Tarun Jairaj Narwani</strong></a><br>
+		<span class=tooltiptext style="width:200px">css+html support: Mr. H.Tandon</span>
+	  &copy; Copyright <a href="http://pauling.mbu.iisc.ac.in/"><strong><span>NSlab-MBU</span></strong></a>. All Rights Reserved</p>
+      </div>
+    </div>
+  </footer><!-- End Footer -->
+</body>
+</html>

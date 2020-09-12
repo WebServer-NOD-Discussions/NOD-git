@@ -1,0 +1,79 @@
+NOD is programmed to take input for protein sequence(s) in one of the FASTA formats (For now, the NOD friendly extensions are:
+										(.FASTA, .fasta, .fas, .faa, .fa)
+
+*************/Following is a small description to get the user acquainted to FASTA format for protein sequences.*************/
+
+>FASTA FILE FORMAT:
+A text-based format for representing either nucleotide or peptide sequences. The sequence is composed of a series of standard 
+IUB/IUPAC single letter codes for amino acid or nucleotide bases. Since NOD works only with protein sequences, hereafter the 
+fasta format discussed is only for protein sequences and NOT for nucleotide sequences.
+Each sequence in FASTA format begins with a single-line description, followed by line(s) of sequence data.
+The description line is distinguished from the sequence data by a greater-than '>' symbol at the very start of the line. The
+following line or lines shall contain the protein sequence.
+
+>CANONICAL .FASTA FORMAT:
+Traditionally a .fasta file shall have a canonical .FASTA format as described in below points.
+	1. The first line of each sequence is called DESCRIPTOR. It shall start with a '>' symbol followed by the database notifier
+	of the sequence. For eg. if the sequence arises from Swiss-prot DB (>sp), if it arises from NCBI RefSeq (>ref, >gi, etc.).
+	If the sequence is not submitted in any public DB, user can choose their own identifiers (>NOD, >newSeq, etc.)
+	2. The DB notifier is followed by a pipe character '|' that separates the accession code from the preceeding DB notifier and
+	a following pipe character separating it from the succeeding fields. The accession codes arise from public sequence databases. 
+	Incase, the sequence is not from a public database, the field can be left empty.
+	3. The (>DBnotifier|accession|) is followed by the source organism of the sequence thus making the descriptor formatted as:
+	>DBnotifier | seq. Accession | Source Organism general description about the sequence and its characteristics
+	4. This line is followed by the actual sequence of the protein. The canonical .FASTA format limits 60 characters per line.
+	Therefore, a sequence that is longer than 60 amino acids shall be split in (Total sequence length/60) lines.
+	
+An example sequence in canonical .FASTA format:
+
+	>sp|P02144|MYG_HUMAN Myoglobin OS=Homo sapiens OX=9606 GN=MB
+	MGLSDGEWQLVLNVWGKVEADIPGHGQEVLIRLFKGHPETLEKFDKFKHLKSEDEMKASE
+	DLKKHGATVLTALGGILKKKGHHEAEIKPLAQSHATKHKIPVKYLEFISECIIQVLQSKH
+	PGDFGADAQGAMNKALELFRKDMASNYKELGFQG
+		
+		Thus the sequence header (descriptor) above details the following information for the given sequence.
+		I) 	      >sp|:	The sequence arises from SwissProt database.
+		II)	 |P022144|:	The accession number with which the sequence is accessible in the UniProt database.
+		III)|MYG_HUMAN:	The details about the protein name (Myoglobin) and its source organism: Human, followed by other details.
+		IV)	  Sequence:	The single letter amino acid codes for protein sequence.
+		Each line is delimited at 60 characters.
+	
+	The accepted IUPAC amino acid codes are:
+
+        A ALA alanine                         P PRO proline
+        B ASX aspartate or asparagine         Q GLN glutamine
+        C CYS cystine                         R ARG arginine
+        D ASP aspartate                       S SER serine
+        E GLU glutamate                       T THR threonine
+        F PHE phenylalanine                   U     selenocysteine
+        G GLY glycine                         V VAL valine
+        H HIS histidine                       W TRP tryptophan
+        I ILE isoleucine                      Y TYR tyrosine
+        K LYS lysine                          Z GLX glutamate or glutamine
+        L LEU leucine                         X     any
+        M MET methionine                      -     gap of indeterminate length
+        N ASN asparagine                      
+
+The format is widely acceptable across databases and webserver as it is easy to parse important information from the header and the
+sequence is also represented in a machine-friendly as well as human-friendly manner.
+
+>The .FASTA format has also evolved over time and has multiple derivatives of the canonical format that are available. Following are
+the examples of such .fasta format derivatives:
+	
+	1.	>refseq|noAcc|query protein; random sequence from human proteome.
+		MTSRRSVKSGPREVPRDEYEDLYYTPSSGMASPDSPPDTSRRGALQTRSRQRGEVRFVQYDESDYALYGGSSSEDDEHPEVPRTRRPVSGAVLSGPGPARAPPPPAGSGGAGRTPTTAPRAPRTQRVATKAPAAPAAETTRGRKSAQPESAALPDAPASTAPTRSKTPAQGLARKLHFSTAPPNPDAPWTPRVAGFNKRVFCAAVGRLAAMHARMAAVQLWDMSRPRTDEDLNELLGITTIRVTVCEGKNLLQRANELVNPDVVQDVDAATATRGRSAASRPTERPRAPARSASRPRRPV
+	
+	2.	>Query protein of interest but not with any DB notifier, or accession number.
+		MGRRKIEIKREYIESLKEKELDLEEKIQNYLPHKELLETVFSKRRNGLIDEIQHADELRA
+		DESDYALYGGSSSEDDEHPEVPRTRRPVSGAVLSGPGPARAPPPPAGSGGAGRTPTTAPR
+		NELLGITTIRVTVCEGKNLLQRANELVNPDVVQDVDAATATRGRSAASRPTERPRAPARSA
+	
+	3.	>Query protein of interest with the descriptor going well beyond 60 characters and not having any DB notifier, accession number, or any other related information for the sequence.
+		MGRRKIEIKREYIESLKEKELDLEEKIQNYLPHKELLETVFSKRRNGLIDEIQHADELRAMNELLGITTIRVTVCEGKNLLQRANELVNPDVVQDVDAATATRGRSAASRPTERPRAPARSASRPRRPVRAMGRRKIEIKREYIESLKEKELDLEEKIQNYLPHKELLETVFSKRRNGLIDEIQHADELRA
+
+
+*******************************************************/NOD FRIENDLY FASTA FORMATS/********************************************************
+
+Although NOD would intake any of the above described .fasta formats. The NOD treats the canonical .fasta format as the most suitable for its
+processing pipeline. The file extension can vary as per user descrition. Any file extensions acceptable to be read as the internet media 
+text/x-fasta would work until the sequence provided inside the file has .fasta format.

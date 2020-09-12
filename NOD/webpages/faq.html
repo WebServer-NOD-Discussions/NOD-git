@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=yes">
+
+  <title>NOD-New use of Old Drugs</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="../img/NOD_img2.png" rel="icon">
+
+  <!-- Google Fonts -->
+  <!--  Main CSS File -->
+  <link href="../css/style.css" rel="stylesheet">
+  <script src="../js/helper.js"></script>
+
+  <!-- =======================================================
+  *Name: WS-NOD - v 1.2.0
+  *Author: Tarun Jairaj Narwani
+  *License: Creative Commons
+  ======================================================== -->
+</head>
+
+<body>
+<header>
+    <div id="header" class="container">
+        <div>
+        <h1 class="logo"><a href="../index.html"><img src="../img/icons/NOD_logo.png" height="60px" width="180px"></a></h1>
+        </div>
+        <div>
+        <nav>
+          <ul>
+            <li><a href="../index.html">Home</a></li>
+            <li><a href="about.html">About-NOD</a></li>
+            <li><a href="instructions.html">Instructions</a></li>
+            <li><a href="run.html">Run-Options</a></li>
+            <!--<li><a href="organisms.html">Model Organisms</a></li>-->
+			<li class="active"><a href="faq.html">F.A.Q</a></li>
+            <li><a href="team.html">The Team</a></li>
+            <li><a href="contact.html">Contact</a></li>
+          </ul>
+        </nav><!-- .nav-menu -->
+        </div>
+    </div>
+</header>
+
+<!-- Section -->
+<div id="noheader" class="noheader section-bg">
+<section id="about" class="grid-2">
+		<div class="grid-child">
+			<div id="faq">
+			  <div class="container">
+				<div class="section-title" style="padding-bottom:0px"><h2>Frequently Asked Questions</h2></div>
+
+				<div id="faq-list">
+				  <ol class="container">
+					<li class="collapsed"><a href="#" onclick="accordian('faq-list-1'); return false;">How can the sequence of the protein of interest to be submitted to NOD be obtained??</i></a> 
+					  <div id="faq-list-1" class="collapse show" data-parent=".faq-list">
+						<p><i>
+						  If the sequence of the protein of interest is already available in any publicly available databases like UniProt, it can be downloaded in .FASTA format and submitted to NOD. If it is unavailable, then, the experimental sequencing techniques need to be employed to obtain the sequence and then it can be submitted to NOD.
+						</i></p>
+					  </div>
+					</li><br>
+					<li class="collapsed"><a href="#" onclick="accordian('faq-list-2'); return false;">What happens if only one sequence is submitted under MODE-1 operation of NOD?</i></a>
+					  <div id="faq-list-2" class="collapse show" data-parent=".faq-list">
+						<p><i>
+						  The MODE-1 of NOD is optimized for handling multiple sequences. Therefore, extensive analysis pertaining to expansion of the chemical space through similarity search method is not implemented in MODE-1 which would be highly time-consuming when dealing with a large input set of protein sequences. Whereas MODE-2 is optimized for handling only a single input sequence and is therefore faster. Additional feature of expansion of chemical space through chemical similarity search is available only in MODE-2. Thus, if a single sequence is given as input in MODE-1, the user will be deprived of the extensive analysis features available in MODE-2.
+						</i></p>
+					  </div>
+					</li><br>
+					<li class="collapsed"><a href="#" onclick="accordian('faq-list-3'); return false;">What happens if multiple sequences are submitted under MODE-2 operation of NOD?</i></a>
+					  <div id="faq-list-3" class="collapse show" data-parent=".faq-list">
+						<p><i>	
+						  MODE-2 of NOD accepts only one sequence per job. The algorithm will throw an error and the job will be terminated if more than one sequence is submitted under MODE-2.
+						</i></p>
+					  </div>
+					</li><br>
+					<li class="collapsed"><a href="#" onclick="accordian('faq-list-4'); return false;">How long does NOD take to run a job?</i></a>
+					  <div id="faq-list-4" class="collapse show" data-parent=".faq-list">
+						<p><i>	
+						 On an average a single sequence takes ~1 second to complete the Jackhmmer search. The time taken for post-processing the Jackhmmer results to identify reliable hits and fetch the associated DrugBank molecules varies from case-to-case basis. The total number of Jackhmmer hits obtained from homology search, the number of known DrugBank molecules for those hits are the two major factors which determine the run time of the jobs. For example, a submitted sequence which is homologous to any kinases or GPCRs, might take a longer time to run as the number of DrugBank molecules against these proteins are higher. Therefore, the time taken in fetching details of each molecule against each protein hit is expected to be longer than the cases where the number of homologous protein hits and associated DrugBank molecules are less. 
+						</i></p>
+					  </div>
+					</li><br>
+					<li class="collapsed"><a href="#" onclick="accordian('faq-list-5'); return false;">How to interpret the results obtained from NOD server?</i></a>
+					  <div id="faq-list-5" class="collapse show" data-parent=".faq-list">
+						<p><i>
+						 Descriptions of the data tabulated in each column of the result table are explained under the ‘How to read the Table’ section in the html result file (the link to which is sent in the e-mail to the user). Sample result files with interpretation can be found here.
+						</i></p>
+					  </div>
+					</li><br>
+					<li class="collapsed"><a href="#" onclick="accordian('faq-list-6'); return false;">What is the confidence level that the predicted repurpose-able candidates will translate to similar observations during in vitro and in vivo experiments?</i></a>
+					  <div id="faq-list-6" class="collapse show" data-parent=".faq-list">
+						<p><i>	
+						  Any computational pipeline for drug repurposing approaches are the initial points which help to rationally narrow down the search space by providing a reasonably small set of compounds to start with. Careful assessment of the results from our computational drug discovery pipelines have shown agreement with experimental results in the past which proves the strength of <a target="_/blank" href="(ref. GR’s Mtb paper, SC’s candida chp)">our protocol</a>. It is therefore expected that results from the NOD pipeline when probed rationally will help the users to take informed decisions and plan subsequent experiments which are expected to corroborate with experimental observations.
+						</i></p>
+					  </div>
+					</li><br>
+					<li class="collapsed"><a href="#" onclick="accordian('faq-list-7'); return false;">Are there any published literature which can be referred to as a guide for in-depth analysis of the results obtained from NOD?</i></a>
+					  <div id="faq-list-7" class="collapse show" data-parent=".faq-list">
+						<p><i>	
+						  Interested users are encouraged to read the relevant publications from <a target="_/blank" href="http://pauling.mbu.iisc.ac.in">our group</a> which can be found <a target="_/blank" href="#">here</a>. The mentioned publications demonstrate the use of pipelines similar to NOD and integration of structure-based analytical approaches to extract meaningful insights from sequence-based analyses. These can serve as guide to non-experts to get an idea on planning subsequent analysis.
+						</i></p>
+					  </div>
+					</li><br>
+					<li class="collapsed"><a href="#faq-list-8" onclick="accordian('faq-list-8'); return false;">Can NOD accept a DNA and RNA sequence?</i></a>
+					  <div id="faq-list-8" class="collapse show" data-parent=".faq-list">
+						<p><i>	
+						No, NOD does not accept DNA and/RNA sequences. Only protein sequences should be submitted.	
+						</i></p>
+					  </div>
+					</li><br>
+					<li class="collapsed"><a href="#faq-list-8" onclick="accordian('faq-list-9'); return false;">Can NOD accept any in-house protein sequence which is not available in the public domain?</i></a>
+					  <div id="faq-list-9" class="collapse show" data-parent=".faq-list">
+						<p><i>	
+						Yes, NOD can accept any valid protein sequence (irrespective of its availability in public domain). Ideally, NOD should reformat the input query into NOD-friendly .FASTA format. If an error still occurs, please report the error to <a href="contact.html">us</a>.
+						</i></p>
+					  </div>
+					</li><br>
+					<li class="collapsed"><a href="#" onclick="accordian('faq-list-10'); return false;">An e-mail notification regarding job completion on NOD server has not been received. What can be done?</i></a>
+					  <div id="faq-list-10" class="collapse show" data-parent=".faq-list">
+						<p><i>	
+						  The SMTP server might have detected an error in the user’s email domain and pushed the email from NOD in the Spam/Junk folder. NOD users are requested to check the Spam/Junk folder if they are unable to find any email in the primary inbox. To avoid missing emails from NOD, users may wish to add nod.server.pushemail@gmail.com to their list of trusted contacts.  If the email is not found even in the Spam/Junk folder, users are requested to wait as it implies that the submitted job is not yet completed. However, if a user finds that the wait time is unusually long, the NOD team can be contacted by filling up the <a href="contact.html">contact form</a> with relevant details.
+						</i></p>
+					  </div>
+					</li><br>
+					<li class="collapsed"><a href="#" onclick="accordian('faq-list-11'); return false;">Can NOD be used for commercial purposes?</i></a>
+					  <div id="faq-list-11" class="collapse show" data-parent=".faq-list">
+						<p><i>	
+						  NOD can be used freely by academic as well as commercial users unless proper <a href="">citation</a> to NOD is done.
+						</i></p>
+					  </div>
+					</li><br>
+					<li class="collapsed"><a href="#" onclick="accordian('faq-list-12'); return false;">Can NOD algorithm be used as a standalone program on the local system of the users?</i></a>
+					  <div id="faq-list-12" class="collapse show" data-parent=".faq-list">
+						<p><i>	
+						As of now, NOD is only available as a web-based pipeline. The NOD team is working toward making this pipeline available as a standalone version in the future.
+						</i></p>
+					  </div>
+					</li><br>
+					<li class="collapsed"><a href="#" onclick="accordian('faq-list-13'); return false;">Can anyone consume the listed drugs obtained as hits in NOD result to get rid of a disease in which the protein of interest is implicated?</i></a>
+					  <div id="faq-list-13" class="collapse show" data-parent=".faq-list">
+						<p><i>	
+						  <b style="color: red">NO, Team NOD strongly discourages the practice of self-medication.</b> The NOD server is solely intended to aid the scientific community for research activities related to drug repurposing programs. The results obtained from this server shall not be interpreted for any medical advice, diagnosis or treatment without approval from any competent regulatory/medical authority and subsequent consultation with registered medical practitioners.
+						</i></p>
+					  </div>
+					</li><br>
+					<li class="collapsed"><a href="#" onclick="accordian('faq-list-14'); return false;">What are the limitations of NOD?</i></a>
+					  <div id="faq-list-14" class="collapse show" data-parent=".faq-list">
+						<p><i>	
+						  NOD is primarily a sequence-based homology search mediated pipeline to identify potential drugs/drug candidates which can be repurposed against the disease of interest. The pipeline ensures that only reliable associations are fetched (query coverage: ≥ 70% of the alignment length and E-value < 10<sup>-4</sup>) for further analysis.<br> So, it is likely that ligand binding regions of a pair of homologous proteins would be similar and by virtue of this similarity, it can be expected to recognize similar ligands. However, if the alignment region does not encompass the ligand binding region, then the chances of recognizing similar molecules is low. <br>Users are encouraged to inspect the alignment files available with result table to confirm if the aligned regions of the protein sequences span over the ligand binding region. Further, ligand binding is an event that involves the 3-D coordinate space, which is influenced by a bunch of other physiological factors (like shape and electrostatic feature of the ligand binding pocket, influence of the surrounding environment, flexibility of the protein and ligand etc.). These factors are beyond the scope of NOD to consider. Thus, the results from NOD shall be treated as a starting point for any drug repurposing projects and it is advisable that the user should perform thorough analysis on a case-to-case basis as recommended in Q7.
+Additionally, it should be noted that many DrugBank molecules which are listed against a particular protein target are not true drugs like nutraceuticals, dietary supplements, metallic elements approved for usage in medical devices etc. However, differentiating true drugs/drug candidates from molecules which are unlikely to be drugs is beyond the scope of NOD. Upon establishing a reliable evolutionary relationship between a query protein sequence and the dataset of target protein sequences, any DrugBank molecule linked with the later are fetched. Users are recommended to thoroughly analyze the details of each DrugBank hit. To make this process user-friendly, the hits in the result table of the html file are hyperlinked to the respective DrugBank page. Users should visit the respective DrugBank page to know details about each hit molecule.
+
+						</i></p>
+					  </div>
+					</li><br>
+					<li class="collapsed"><a href="#" onclick="accordian('faq-list-15'); return false;">How can a user reach the NOD team if there are any queries?</i></a>
+					  <div id="faq-list-15" class="collapse show" data-parent=".faq-list">
+						<p><i>	
+						  All users are requested to go through the FAQs thoroughly. In case, there is any query which is not addressed above, users may feel free to write to the NOD team by filling up the contact form which can be found here. The team shall get back to the user ASAP. 
+Additionally, feedback and/suggestions from the users are always welcome which can also be submitted using the said form. The NOD team looks forward to learning from users’ experiences to improve further and provide better services. The team is thankful to all the NOD users.
+						</i></p>
+					  </div>
+					</li><br>
+					</ol>
+				</div>
+				</div>
+			</div>
+		</div>
+		<div class="grid-child" class="img-fluid animated">
+		<img src="../img/NOD_img2.png" class="logo" alt="waiting for image to load..." height="500" width="500">
+        </div>
+</section>	<!-- End Section -->
+</div>
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+    <div class="container footer-bottom clearfix">
+		<div class="copyright">
+      <p>If you find NOD useful for your work:<br> Please cite:
+(Manuscript under preparation...)</p>
+		</div>
+      <div class="credits">
+      <p class="tooltip"><u>Designed by</u> <a href="https://scholar.google.com/citations?user=qCW95VwAAAAJ&hl=en"><strong>Tarun Jairaj Narwani</strong></a><br>
+		<span class=tooltiptext style="width:200px">css+html support: Mr. H.Tandon</span>
+	  &copy; Copyright <a href="http://pauling.mbu.iisc.ac.in/"><strong><span>NSlab-MBU</span></strong></a>. All Rights Reserved</p>
+      </div>
+    </div>
+  </footer><!-- End Footer -->
+</body>
+</html>

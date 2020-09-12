@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=yes">
+
+  <title>NOD-New use of Old Drugs</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="../img/NOD_img2.png" rel="icon">
+
+  <!-- Google Fonts -->
+  <!--  Main CSS File -->
+  <link href="../css/style.css" rel="stylesheet">
+  <script src="../js/helper.js"></script>
+
+  <!-- =======================================================
+  *Name: WS-NOD - v 1.2.0
+  *Author: Tarun Jairaj Narwani
+  *License: Creative Commons
+  ======================================================== -->
+</head>
+
+<body>
+<header>
+    <div id="header" class="container">
+        <div>
+        <h1 class="logo"><a href="../index.html"><img src="../img/icons/NOD_logo.png" height="60px" width="180px"></a></h1>
+        </div>
+        <div>
+        <nav>
+          <ul>
+            <li><a href="../index.html">Home</a></li>
+            <li class="active"><a href="about.html">About-NOD</a></li>
+            <li><a href="instructions.html">Instructions</a></li>
+            <li><a href="run.html">Run-Options</a></li>
+            <!--<li><a href="organisms.html">Model Organisms</a></li>-->
+			<li><a href="faq.html">F.A.Q</a></li>
+            <li><a href="team.html">The Team</a></li>
+            <li><a href="contact.html">Contact</a></li>
+          </ul>
+        </nav><!-- .nav-menu -->
+        </div>
+    </div>
+</header>
+
+<!--About Section -->
+<div id="noheader" class="noheader section-bg">
+<section id="about" class="grid-2">
+		<div class="grid-child" data-aos="fade-up">
+			<h2>About NOD</h2>
+			<p>
+			The <i>in silico</i> drug repurposing pipeline of NOD exploits the information on evolutionary relationship between a query protein sequence and a pre-defined set of target protein sequences (as available in <a target ="_/blank" href="https://www.drugbank.ca/releases/latest#target-sequences"> DrugBank_v5.1.7</a>). These sequences are targeted by one or more DrugBank molecules.<br><br>
+			An iterative markov model based sequence search defined using <a target="_/blank" href="http://eddylab.org/software/hmmer/Userguide.pdf">Jackhmmer</a> module from <a target="_/blank" href="http://hmmer.org/">HMMER3.3 suite</a> is used to search the query protein against the target database.
+			Once a reliable evolutionary relation is identified between two proteins, the DrugBank molecule(s) associated with the target protein are fetched and reported.  These candidates may be considered for repurposing against the query protein of interest.<br><br> In general, proteins which are evolutionarily related are expected to have similar structure and functions. 
+			Consequently, they are expected to be targeted by similar molecules.<br><br>
+			NOD pipeline has two distinct <a href="run.html">modes of operation</a>, details of which are explained <a href="instructions.html">here. </a></p>
+		<!--Accordian List -->
+			  <ul id="NODalgoSec" class="container collapsed"><h2><a href="#" onclick="accordian('algoDetails'); return false;">The Pipeline</h2></a>
+					<p id="NODalgoSec"><i>
+					NOD backend algorithm is scripted in <u>Python3.8</u> while the front-end web application is designed in <u>html5</u> (<i>supported by javascript</i>). The communication between the two is done using <u>Python-CGI</u>.<br>
+					</i></p>
+			  <div id="algoDetails" class="collapse show" data-parent=".NODalgoSec">
+				<li class="collapsed"><a href="#" onclick="accordian('cgiComm'); return false;"><u>CGI-communication</u>:</i></a> 
+				  <div id="cgiComm" class="collapse show" data-parent=".algoDetails">
+				  <p><i>
+					  Upon click on submit button, the entries are quickly validated and the uploaded file is verified to be in .FASTA format.<br>
+					  Once all checks are passed, the CGI script calls a handler that would feed the values to the main pipeline.
+					</i></p>
+				  </div>
+				</li><br>
+				<li class="collapsed"><a href="#" onclick="accordian('preSubChk'); return false;"><u>Pre Submission Checks</u>:</i></a> 
+				  <div id="preSubChk" class="collapse show" data-parent=".algoDetails">
+				  <p><i>
+					  Each submitted query file is tested for validation and removal of any non-canonical characters. If the file is validated, the file contents are converted to NOD-friendly <a target= "_/blank" href="help+ex/FASTA_help.txt">FASTA format.</a>
+					</i></p>
+				  </div>
+				</li><br>
+				<li class="collapsed"><a href="#" onclick="accordian('algo'); return false;"><u>Algorithm</u>:</i></a> 
+				  <div id="algo" class="collapse show" data-parent=".algoDetails">
+				  <p><i>
+					  The main algorithm contains of 5 modules.
+						<ol>
+						<li><u><b>In Module 1</b></u>: The input sequence(s) are searched against the <a target="_/blank" href="https:/www.drugbank.ca">DrugBank DB</a> using a pre-optimized Jackhmmer string as command.</li>
+						<li><u><b>In Module 2</b></u>: The Jackhmmer output is converted to NOD-friendly format. If the output from Jackhmmer is empty, the script would check for any traceable errors.<br>If no errors are found, "No homologs found" is given as output</li>
+						<li><u><b>In Module-3</b></u>: After filtering of the homology tables based on Query coverage (> 70%) of the alignment length, the DrugBank ids are extracted from the target sequences that are identified as homologs and stored.</li>
+						<li><u><b>In Module-4</b></u>: Based on the operations mode entered, a decision is taken to direct the script to either Mode-1 or Mode-2 modules.
+						<ul><li><u><b>Module Mode1</b></u>: The identified DrugBank ids are searched in the whole DrugBank tables and the matched candidates are reported in a table with their annotated regulatory status.</li>
+						<li><u><b>Module-I Mode2</b></u>: The identified DrugBank id(s) are searched for required annotations in the DrugBank tables and SMILES are extracted for each DrugBank id.</li>
+						<li><u><b>Module-II Mode2</b></u>: The SMILES from Mode2 round-I are converted to molecular fingerprints that are compared to the converted fingerprints of all the available molecules annotated as approved in the DrugBank database.<br>
+						Those comparisons that return a Tanimoto Co-efficient of more than 0.7 are extracted and listed in the result table along with other important details.
+						</ul>
+						</ol>
+					</i></p>
+				  </div>
+				</li><br>
+				<li class="collapsed"><a href="#" onclick="accordian('mailer'); return false;"><u>Mailer</u>:</i></a> 
+				  <div id="mailer" class="collapse show" data-parent=".algoDetails">
+				  <p><i>
+					  Based on the output from the main pipeline, an .html page is compiled. Incase the job has failed then an error message is included in the .html page.<br>
+					  If the job completed successfully, the result table and the instructions to read the table are written to the .html page.<br>Finally, the mailer script sends an email with the .html link in the message.
+					</i></p>
+				  </div>
+				</li><br>
+				</ul>
+		<div class="grid-3">
+			<div class="grid-child">
+			<a href="#" class="btn-special">Know More <br></a> <!-- Cite Lab publications-->
+			</div>
+			<div class="grid-child">
+			<a href="https://youtu.be/ZLc71ZJJ-ag" class="btn-special" target="_blank"> Watch a Video <i class="icofont-play-alt-2"></i></a>			
+			</div>
+			<div class="grid-child">
+			<a href="run.html" class="btn-special">GET STARTED</a><i class="icofont-play-alt-2"></i>
+			</div>
+		</div>
+        </div>
+		<div class="grid-child" class="img-fluid animated">
+		<img src="../img/NOD_img2.png" class="logo" alt="waiting for image to load..." height="500" width="500">
+        </div>
+</section>	<!-- End About Section -->
+</div>
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+    <div class="container footer-bottom clearfix">
+		<div class="copyright">
+      <p>If you find NOD useful for your work:<br> Please cite:
+(Manuscript under preparation...)</p>
+		</div>
+      <div class="credits">
+      <p class="tooltip"><u>Designed by</u> <a href="https://scholar.google.com/citations?user=qCW95VwAAAAJ&hl=en"><strong>Tarun Jairaj Narwani</strong></a><br>
+		<span class=tooltiptext style="width:200px">css+html support: Mr. H.Tandon</span>
+	  &copy; Copyright <a href="http://pauling.mbu.iisc.ac.in/"><strong><span>NSlab-MBU</span></strong></a>. All Rights Reserved</p>
+      </div>
+    </div>
+  </footer><!-- End Footer -->
+</body>
+</html>
