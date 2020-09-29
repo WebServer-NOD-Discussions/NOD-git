@@ -341,7 +341,7 @@ background-color:#f5f5f5;
   left: 20%;
   margin-left: -60px;
   opacity: 0;
-  transition: opacity 0.3s;
+  transition: opacity 0.5s;
 }
 
 .tooltip .tooltiptext::after {
@@ -352,12 +352,12 @@ background-color:#f5f5f5;
   margin-left: -5px;
   border-width: 5px;
   border-style: solid;
-  border-color: #555 transparent transparent transparent;
+  border-color: #543 transparent transparent transparent;
 }
 
 .tooltip:hover .tooltiptext {
   visibility: visible;
-  opacity: 1;
+  opacity: 3;
 }
 
 /**TEAM**/

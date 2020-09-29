@@ -126,12 +126,16 @@ if '1' in mode:
 	</div>
     <div style="text-align: center"><p><b>NOTE:</b> <i>NOD users are encouraged to use the <a href="#">clickable links</a> provided in the table to access further details about the compound or the protein.</i></b></p></div>
     <div class="container section-fg">
+		<a href="%s_matches.tbl" class="btn-special">Download Table</a></tfoot></div>
 			<table id="resDisplay">
                 <thead>
                 <tr>
                     <th>#</th>
                     <th>Query</th>
                     <th>Target Homolog</th>
+		<th>Query Coverage</th>
+		<th>Alignment From</th>
+		<th>Alignment Until</th>
                     <th>DrugBank ID</th>
                     <th>Molecule Name</th>
                     <th>Regulatory Status</th>
@@ -145,10 +149,13 @@ if '1' in mode:
         html_pg= html_pg+'<td> %s </td>' %(tbl["No.s"][row]+1)
         html_pg= html_pg+'<td> %s </td>' %tbl["Query"][row]
         html_pg= html_pg+'<td><a href="https://www.uniprot.org/uniprot/%s"> %s </a></td>' %(tbl["Target"][row],tbl["Target"][row])
+        html_pg= html_pg+'<td> %s </td>' %tbl["Query-Cov"][row]
+        html_pg= html_pg+'<td> %s </td>' %tbl["Align-From"][row]
+        html_pg= html_pg+'<td> %s </td>' %tbl["Align-To"][row]
         html_pg= html_pg+'<td><a href="https://www.drugbank.ca/drugs/%s"> %s </a></td>' %(tbl["DrugBank ID"][row],tbl["DrugBank ID"][row])
-        html_pg= html_pg+'<td> %s </td>' %tbl["Mol. Name"][row]
-        html_pg= html_pg+'<td> %s </td>' %tbl["Reg. Status"][row]
-        html_pg= html_pg+'<td> %s </td>' %tbl["SMILES"][row]
+        html_pg= html_pg+'<td> %s </td>' %tbl["Mol.Name"][row]
+        html_pg= html_pg+'<td> %s </td>' %tbl["Reg.Status"][row]
+        html_pg= html_pg+'<td style="word-wrap:break-word;"> %s </td>' %tbl["SMILES"][row]
         html_pg= html_pg+'</tr>'
     html_pg= html_pg+'</table>'
     html_pg= html_pg+'<tfoot style="align: right"><a href="%s_matches.tbl" class="btn-special">Download Table</a></tfoot></div>' %(mode)
@@ -194,6 +201,9 @@ if '2' in mode:
                 <tr></tr><tr>
                     <th>S.No</th>
                     <th>Target homolog</th>
+		<th>Query Coverage</th>
+                <th>Alignment From</th>
+                <th>Alignment Until</th>
                     <th>1&deg;Candidate</th>
                     <th>Molecule Name (1&deg;)</th>
                     <th>Regulatory Status (1&deg;)</th>
@@ -210,6 +220,9 @@ if '2' in mode:
         html_pg= html_pg+'<td> %s </td>' %(tbl["No.s"][row]+1)
         #html_pg= html_pg+'<td> %s </td>' %tbl["Query"][row]
         html_pg= html_pg+'<td><a href="https://www.uniprot.org/uniprot/%s"> %s </a></td>' %(tbl["Target"][row],tbl["Target"][row])
+        html_pg= html_pg+'<td> %s </td>' %tbl["Query-Cov"][row]
+        html_pg= html_pg+'<td> %s </td>' %tbl["Align-From"][row]
+        html_pg= html_pg+'<td> %s </td>' %tbl["Align-To"][row]
         html_pg= html_pg+'<td><a href="https://www.drugbank.ca/drugs/%s"> %s </a></td>' %(tbl["1-Candidate"][row],tbl["1-Candidate"][row])
         html_pg= html_pg+'<td> %s </td>' %tbl["1-Mol.Name"][row]
         html_pg= html_pg+'<td> %s </td>' %tbl["1-Reg.Status"][row]
