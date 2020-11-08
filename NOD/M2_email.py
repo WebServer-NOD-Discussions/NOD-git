@@ -51,7 +51,7 @@ html_pg= """
             <li><a href="webpages/about.html">About-NOD</a></li>
             <li><a href="webpages/instructions.html">Instructions</a></li>
             <li class="active"><a href="webpages/run.html">Run-Options</a></li>
-            <!--<li><a href="webpages/organisms.html">Model Organisms</a></li>-->
+            <li><a href="webpages/archives.html">Arch-NOD</a></li>
 			<li><a href="webpages/faq.html">F.A.Q</a></li>
             <li><a href="webpages/team.html">The Team</a></li>
             <li><a href="webpages/contact.html">Contact</a></li>
@@ -90,6 +90,7 @@ email= form.getvalue('toaddr')
 sequence= form.getvalue('sequence')
 infile= form['uploadBtn']	#Get data from the upload file option.
 checked= form.getvalue('declare')
+qCov= form.getvalue('sliderVal')
 
 jobId=jobTitle.replace(" ","") # to remove all spaces from user input JobId. Comment this if form validation for no space and underscore are in place.
 jobTitle=jobId
@@ -120,7 +121,7 @@ else:
     html_pg= html_pg+heroSec(msg1,msg2)
 #Setup Conda local environment for using rdkit and JackHmmer. Calling main python script from bash wrapper.
     #print('%s/bin/envSetup.sh mode2 %s/qFile.fasta %s/ %s %s %s %s &> %s/shOut.log &' %(upld_path,upld_dir,upld_dir,jobId,jobTitle,email,resDir,upld_dir))
-    os.system('%s/bin/envSetup.sh mode2 %s/qFile.fasta %s/ %s \"%s\" %s %s &> %s/shOut.log &' %(upld_path,upld_dir,upld_dir,jobId,jobTitle,email,resDir,upld_dir))
+    os.system('%s/bin/envSetup.sh mode2 %s/qFile.fasta %s/ %s \"%s\" %s %s %s &> %s/shOut.log &' %(upld_path,upld_dir,upld_dir,jobId,jobTitle,email,resDir,qCov,upld_dir))
 """        else:
             msg1="MANDATORY: A valid email address"
             msg2= "Sorry! I could not find a valid email address?<br><br><i>I do have your results, but now I don't know where to send them.</i>"

@@ -53,8 +53,8 @@ html_pg= """
             <li><a href="webpages/about.html">About-NOD</a></li>
             <li><a href="webpages/instructions.html">Instructions</a></li>
             <li><a href="webpages/run.html">Run-Options</a></li>
-            <!--<li><a href="webpages/organisms.html">Model Organisms</a></li>-->
-                        <li><a href="webpages/faq.html">F.A.Q</a></li>
+            <li><a href="archives.html">Arch-NOD</a></li>
+            <li><a href="webpages/faq.html">F.A.Q</a></li>
             <li><a href="webpages/team.html">The Team</a></li>
             <li class="active"><a href="webpages/contact.html">Contact</a></li>
   

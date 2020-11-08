@@ -1,13 +1,28 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=yes">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
   <title>NOD-New use of Old Drugs</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
+<style>
+table {
+  border-spacing:5px;
+  width: 100%;
+  padding: 2px;
+  border-collapse: collapse;
+}
 
+th, td {
+  padding: 6px;
+  text-align:left;
+}
+
+td:hover {background-color:#f5f5f5;}
+</style>
   <!-- Favicons -->
   <link href="../img/NOD_img2.png" rel="icon">
 
@@ -27,28 +42,161 @@
 <header>
     <div id="header" class="container">
         <div>
-        <h1 class="logo"><a href="index.html">WS-NOD</a></h1>
+        <h1 class="logo"><a href="../index.html"><img src="../img/icons/NOD_logo.png" height="60px" width="180px"></a></h1>
         </div>
         <div>
         <nav>
           <ul>
-            <li><a href="index.html">Home</a></li>
+            <li><a href="../index.html">Home</a></li>
             <li><a href="about.html">About-NOD</a></li>
             <li><a href="instructions.html">Instructions</a></li>
-            <li><a href="run.html">Run-Options</a></li>
+            <li class="active"><a href="run.html">Run-Options</a></li>
             <!--<li><a href="organisms.html">Model Organisms</a></li>-->
-			<li class="active"><a href="faq.html">F.A.Q</a></li>
+			<li><a href="faq.html">F.A.Q</a></li>
             <li><a href="team.html">The Team</a></li>
             <li><a href="contact.html">Contact</a></li>
+  
           </ul>
         </nav><!-- .nav-menu -->
         </div>
-    </div>
+      </div>
 </header>
 
-<!-- Section -->
-<div id="noheader" class="noheader">
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/2.js?i=5rrmwxcdxah&amp;m=0&amp;s=130&amp;c=ff0000&amp;t=1" async="async"></script>
+<div id="noheader">
+    <div class="runOps section-fg">
+      <h4><a href="#">MODE-1</a></h4>
+      <p>allows you to query <strong><u>MULTIPLE PROTEIN SEQUENCES</u></strong> of interest to find potential candidates in the <a target="/_blank" href="https://www.drugbank.ca">DrugBank</a> database. It shall output a list of drug candidates reported to work against the query or its homolog protein.<br></p>
+	  <p style="text-align: right"><i>Input sequence format:<a target="_blank" href="help+ex/FASTA_help.txt"> .FASTA </a> </p></i>
+      <form class="form-horizontal" action = "../M1_email.py" method = "post" enctype="multipart/form-data">
+      
+      <fieldset>
+
+      <!-- Form Name -->
+		<legend>Enter the following details:</legend>
+			<table>
+			<tr> <td>	<!-- Text input-->
+							<div class="row" "form-group">
+								<label class="col-md-4 control-label" for="title">Job Title</label>
+			</td><td>			<div class="col-md-4">
+									<input id="title" name="title" type="text"  placeholder="A name ID for your Job." class="form-control input-auto" required maxlength="15">
+			</td><td>				<div class="tooltip"><a href=""> Need Help? </a>
+									<span class=tooltiptext>No more than 15 characters allowed.<br>Do not use special characters other than '_'</span>
+									</div>
+								</div>
+							</div>
+			</td></tr>
+			<tr><div></div></tr>
+			<tr><td>	<!-- email input-->
+							<div class="row">
+								<label class="col-md-4 control-label" for="email">Email address</label>
+			</td><td>			<div class="col-md-4">
+									<input id="email" name="toaddr" type="email" placeholder="An email address for results." class="form-control input-auto"  required autocomplete="on">
+			</td><td>			</div>
+							</div>
+<!--		</td></tr>	<!-- Textarea --
+							<div class="row form-group">
+								<label class="col-md-4 control-label" for="sequence">Type sequence</label>
+								<div class="col-md-4">
+									<textarea class="form-control" id="sequence" name="sequence" rows="6" value="file">&gt;Example Fasta Sequence IAMENTERINGAVALIDFASTAxExUENCE</textarea>
+								</div>
+							</div>
+							<div> <h2>OR</h2> </div>
+
+						<!-- File Button -->
+			</td></tr>
+			<tr><td>		<div class="row form-group">
+								<label class="col-md-4 control-label" for="uploadBtn">Upload Fasta File</label>
+			</td><td>			<div class="col-md-4">
+									<input id="uploadButton" name="uploadBtn" type="file" required>
+								</div>
+							</div>
+			</td><td>		<span class="help-block"><a target="_blank" href="help+ex/NOD_query_mod1.fasta"> Example.fasta </a></span>
+			</td></tr>
+			<tr><td>	<!-- checkbox -->
+							<div class= "row form-group">
+								<label class="col-md-4 control-label" for="checkFormat">Check input format </label>
+			</td><td colspan="2">	<div class="col-6">
+									<div class="input-group">
+										<span class="input-group-addon" class="align-right">
+											<input type="checkbox" name="declare" value="off" required> I declare that the sequences are in .fasta format.</input>
+											</span>
+									</div>
+			</td></tr>
+			<tr><td></td><td></td><td  class="tooltip">
+			<input class="btn-special" type="submit" value="SUBMIT">
+			<span id="sbmtBtn" class=tooltiptext style="background-color:#913A1E; font-family:courier; width:1000px; left:-350%; bottom:-200%">DISCLAIMER:<br>The results obtained from this server shall not be interpreted for any medical advice, diagnosis, or treatment without approval from any competent regulatory/medical authority.<br>We strongly discourage the practice of self-medication.</span>
+			</td></tr></div></table>	
+      </fieldset>
+      </form>
+	</div>
+	
+    <div class="runOps section-fg">
+      <h4><a href="#">MODE-2</a></h4>
+      <p>allows you to query a <strong><u>SINGLE PROTEIN SEQUENCE</u></strong> of interest to find potential candidates in the <a target="/_blank" href="https://www.drugbank.ca">DrugBank</a> database. It shall output a list of primary drug candidates as well as a secondary list of structurally similar candidates.<br></p>
+	  <p style="text-align: right"><i>Input sequence format:<a target="_blank" href="help+ex/FASTA_help.txt"> .FASTA </a> </p></i>
+      <form class="form-horizontal" action = "../M2_email.py" method = "post" enctype="multipart/form-data">
+      
+      <fieldset>
+
+      <!-- Form Name -->
+		<legend>Enter the following details:</legend>
+			<table>
+			<tr> <td>	<!-- Text input-->
+							<div class="row" "form-group">
+								<label class="col-md-4 control-label" for="title">Job Title</label>
+			</td><td>			<div class="col-md-4">
+									<input id="title" name="title" type="text"  placeholder="A name ID for your Job." class="form-control input-auto" required maxlength="15">
+			</td><td>				<div class="tooltip"><a href=""> Need Help? </a>
+									<span class=tooltiptext>No more than 15 characters allowed.<br>Do not use special characters other than '_'
+									</div>
+								</div>
+							</div>
+			</td></tr>
+			<tr><div></div></tr>
+			<tr><td>	<!-- email input-->
+							<div class="row">
+								<label class="col-md-4 control-label" for="email">Email address</label>
+			</td><td>			<div class="col-md-4">
+									<input id="email" name="toaddr" type="email" placeholder="An email address for results." class="form-control input-auto"  required autocomplete="on">
+			</td><td>			</div>
+							</div>
+<!--		</td></tr>	<!-- Textarea --
+							<div class="row form-group">
+								<label class="col-md-4 control-label" for="sequence">Type sequence</label>
+								<div class="col-md-4">
+									<textarea class="form-control" id="sequence" name="sequence" rows="6" value="file">&gt;Example Fasta Sequence IAMENTERINGAVALIDFASTAxExUENCE</textarea>
+								</div>
+							</div>
+							<div> <h2>OR</h2> </div>
+
+						<!-- File Button -->
+			</td></tr>
+			<tr><td>		<div class="row form-group">
+								<label class="col-md-4 control-label" for="uploadBtn">Upload Fasta File</label>
+			</td><td>			<div class="col-md-4">
+									<input id="uploadButton" name="uploadBtn" type="file" required>
+								</div>
+							</div>
+			</td><td>		<span class="help-block"><a target="_blank" href="help+ex/NOD_query_mod2.fasta"> Example.fasta </a></span>
+			</td></tr>
+			<tr><td>	<!-- checkbox -->
+							<div class= "row form-group">
+								<label class="col-md-4 control-label" for="checkFormat">Check input format </label>
+			</td><td colspan="2">	<div class="col-6">
+									<div class="input-group">
+										<span class="input-group-addon" class="align-right">
+											<input type="checkbox" name="declare" value="off" required> I declare that the sequences are in .fasta format.</input>
+											</span>
+			</td></tr>
+			<tr><td></td><td></td><td class="tooltip">
+			<input class="btn-special" type="submit" value="SUBMIT">
+			<span id="sbmtBtn" class=tooltiptext style="background-color:#913A1E; font-family:courier; width:1000px; left:-500%; bottom:-200%">DISCLAIMER:<br>The results obtained from this server shall not be interpreted for any medical advice, diagnosis, or treatment without approval from any competent regulatory/medical authority.<br>We strongly discourage the practice of self-medication.</span>
+									</div>
+								</div>
+			</td></tr></div></table>	
+      </fieldset>
+      </form>
+	</div>
 </div>
   <!-- ======= Footer ======= -->
   <footer id="footer">

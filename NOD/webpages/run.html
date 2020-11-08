@@ -4,7 +4,6 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-
   <title>NOD-New use of Old Drugs</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
@@ -51,7 +50,7 @@ td:hover {background-color:#f5f5f5;}
             <li><a href="about.html">About-NOD</a></li>
             <li><a href="instructions.html">Instructions</a></li>
             <li class="active"><a href="run.html">Run-Options</a></li>
-            <!--<li><a href="organisms.html">Model Organisms</a></li>-->
+            <li><a href="archives.html">Arch-NOD</a></li>
 			<li><a href="faq.html">F.A.Q</a></li>
             <li><a href="team.html">The Team</a></li>
             <li><a href="contact.html">Contact</a></li>
@@ -93,17 +92,8 @@ td:hover {background-color:#f5f5f5;}
 									<input id="email" name="toaddr" type="email" placeholder="An email address for results." class="form-control input-auto"  required autocomplete="on">
 			</td><td>			</div>
 							</div>
-<!--		</td></tr>	<!-- Textarea --
-							<div class="row form-group">
-								<label class="col-md-4 control-label" for="sequence">Type sequence</label>
-								<div class="col-md-4">
-									<textarea class="form-control" id="sequence" name="sequence" rows="6" value="file">&gt;Example Fasta Sequence IAMENTERINGAVALIDFASTAxExUENCE</textarea>
-								</div>
-							</div>
-							<div> <h2>OR</h2> </div>
-
+		</td></tr>
 						<!-- File Button -->
-			</td></tr>
 			<tr><td>		<div class="row form-group">
 								<label class="col-md-4 control-label" for="uploadBtn">Upload Fasta File</label>
 			</td><td>			<div class="col-md-4">
@@ -111,6 +101,24 @@ td:hover {background-color:#f5f5f5;}
 								</div>
 							</div>
 			</td><td>		<span class="help-block"><a target="_blank" href="help+ex/NOD_query_mod1.fasta"> Example.fasta </a></span>
+			</td></tr>
+<!--			<tr><td span=2>	<h2>OR</h2> 
+			</td></tr>
+			<tr><td>			<!-- Textarea --
+							<div class="row form-group">
+								<label class="col-md-4 control-label" for="sequence">Type sequence</label>
+			</td><td>					<div class="col-md-4">
+									<textarea class="form-control" id="sequence" name="sequence" rows="6" value="file">&gt;Example Fasta Sequences IAMENTERINGAVALIDFASTAxExUENCES</textarea>
+								</div>
+							</div>
+			</td></tr>-->
+						<!-- QCoverage Slider -->
+			</tr><tr>
+			<td> <label class="col-md-4 control-label" for="slider">Threshold: Alignment coverage</label>
+			</td><td><div class="slidecontainer">
+					<input type="range" min="40" max="100" value="70" name="sliderVal" class="slider" id="myRange1">
+			</td><td><p><span name="sliderVal" id="SliderVal1"></span></p>
+					</div>
 			</td></tr>
 			<tr><td>	<!-- checkbox -->
 							<div class= "row form-group">
@@ -160,17 +168,8 @@ td:hover {background-color:#f5f5f5;}
 									<input id="email" name="toaddr" type="email" placeholder="An email address for results." class="form-control input-auto"  required autocomplete="on">
 			</td><td>			</div>
 							</div>
-<!--		</td></tr>	<!-- Textarea --
-							<div class="row form-group">
-								<label class="col-md-4 control-label" for="sequence">Type sequence</label>
-								<div class="col-md-4">
-									<textarea class="form-control" id="sequence" name="sequence" rows="6" value="file">&gt;Example Fasta Sequence IAMENTERINGAVALIDFASTAxExUENCE</textarea>
-								</div>
-							</div>
-							<div> <h2>OR</h2> </div>
-
-						<!-- File Button -->
 			</td></tr>
+						<!-- File Button -->
 			<tr><td>		<div class="row form-group">
 								<label class="col-md-4 control-label" for="uploadBtn">Upload Fasta File</label>
 			</td><td>			<div class="col-md-4">
@@ -178,6 +177,24 @@ td:hover {background-color:#f5f5f5;}
 								</div>
 							</div>
 			</td><td>		<span class="help-block"><a target="_blank" href="help+ex/NOD_query_mod2.fasta"> Example.fasta </a></span>
+			</td></tr>
+<!--		<tr><td></td><td>	<h2>OR</h2> 
+			</td></tr>
+			<tr><td>			<!-- Textarea --
+							<div class="row form-group">
+								<label class="col-md-4 control-label" for="sequence">Type sequence</label>
+			</td><td>					<div class="col-md-4">
+									<textarea class="form-control" id="sequence" name="sequence" rows="6" value="file">&gt;Example Fasta Sequences IAMENTERINGAVALIDFASTAxExUENCES</textarea>
+								</div>
+							</div>
+						</td></tr>-->
+						<!-- QCoverage Slider -->
+			</tr><tr>
+			<td> <label class="col-md-4 control-label" for="slider">Threshold: Alignment coverage</label>
+			</td><td><div class="slidecontainer">
+					<input type="range" min="00" max="100" value="70" class="slider" id="myRange2">
+			</td><td><p><span name="sliderVal" id="SliderVal2"></span></p>
+					</div>
 			</td></tr>
 			<tr><td>	<!-- checkbox -->
 							<div class= "row form-group">
@@ -212,5 +229,7 @@ td:hover {background-color:#f5f5f5;}
       </div>
     </div>
   </footer><!-- End Footer -->
+  
+  <script src="../js/helper.js"></script>
 </body>
 </html>

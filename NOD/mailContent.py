@@ -74,7 +74,7 @@ tr:hover {background-color:#f5f5f5;}
             <li><a href="../../NOD/webpages/about.html">About-NOD</a></li>
             <li><a href="../../NOD/webpages/instructions.html">Instructions</a></li>
             <li class="active"><a href="../../NOD/webpages/run.html">Run-Options</a></li>
-            <!--<li><a href="../../NOD/webpages/organisms.html">Model Organisms</a></li>-->
+            <li><a href="../../NOD/webpages/archives.html">Arch-NOD</a></li>
 			<li><a href="../../NOD/webpages/faq.html">F.A.Q</a></li>
             <li><a href="../../NOD/webpages/team.html">The Team</a></li>
             <li><a href="../../NOD/webpages/contact.html">Contact</a></li>
@@ -116,7 +116,7 @@ if '1' in mode:
 			<tr>
 			<td><i> No. of approved drugs hit against the query protein(s)</td></i>
 			<td><i> Input query name based on which hits are retreived.</td></i>
-            <td><i> The UNIPROT id for target protein sequence that is homologous to the query protein is reported</td></i>
+            <td><i> The UNIPROT id and Name of the target protein sequence that is homologous to the query protein is reported</td></i>
             <td><i> The DrugBank id of the molecule targetting homolog protein sequence. A single protein can be a target of multiple compounds.</td></i>
             <td><i> Name of the molecule as defined in DrugBank.</td></i>
 			<td><i> Regulatory status and category of the chemical compound. Drugs that passed the trials and got the approval but had to be discontinued later are also listed.</td></i>
@@ -132,7 +132,8 @@ if '1' in mode:
                 <tr>
                     <th>#</th>
                     <th>Query</th>
-                    <th>Target Homolog</th>
+                    <th>Target Access</th>
+		<th>Target Name</th>
 		<th>Query Coverage</th>
 		<th>Alignment From</th>
 		<th>Alignment Until</th>
@@ -148,7 +149,8 @@ if '1' in mode:
         html_pg= html_pg+'<tr>'
         html_pg= html_pg+'<td> %s </td>' %(tbl["No.s"][row]+1)
         html_pg= html_pg+'<td> %s </td>' %tbl["Query"][row]
-        html_pg= html_pg+'<td><a href="https://www.uniprot.org/uniprot/%s"> %s </a></td>' %(tbl["Target"][row],tbl["Target"][row])
+        html_pg= html_pg+'<td><a href="https://www.uniprot.org/uniprot/%s"> %s </a></td>' %(tbl["T_Acc"][row],tbl["T_Acc"][row])
+        html_pg= html_pg+'<td> %s </td>' %tbl["T_Name"][row]
         html_pg= html_pg+'<td> %s </td>' %tbl["Query-Cov"][row]
         html_pg= html_pg+'<td> %s </td>' %tbl["Align-From"][row]
         html_pg= html_pg+'<td> %s </td>' %tbl["Align-To"][row]
