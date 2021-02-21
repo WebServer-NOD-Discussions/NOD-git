@@ -1,0 +1,3 @@
+	tName	tAcc	tLen	qName	qAcc	qLen	eVal	score	bias	domNo	totDom	domCval	domIval	domScor	domBias	hmmStrt	hmmEnd	aliStrt	aliEnd	envStrt	envEnd	envAccu	description	qCov
+0	drugbank_target|P12823	-	3388	sp|Q32ZE1|POLG_ZIK	-	3419	0.0	7063.8	31.6	1	1	0.0	0.0	7063.6	31.6	3	3418	2	3386	1	3387	1.0	Genome polyprotein (DB00811; DB01752)	98.98
+1	drugbank_target|P27915	-	3390	sp|Q32ZE1|POLG_ZIK	-	3419	0.0	6932.0	36.1	1	1	0.0	0.0	6931.9	36.1	3	3417	2	3388	1	3390	1.0	Genome polyprotein (DB04473)	99.03

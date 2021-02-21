@@ -1,0 +1,19 @@
+	Query	Target	Query-Cov	Align-From	Align-To	1-Candidate	1-Mol.Name	1-Reg.Status	2-Candidate	2-Mol.Name	2-Reg.Status	Similarity by Tcoff
+0	sp|Q32ZE1|POLG_ZIK	P12823	98.98	2	3386	DB00811	Ribavirin	approved	DB00811	Ribavirin	approved	1.0
+1	sp|Q32ZE1|POLG_ZIK	P12823	98.98	2	3386	DB01752	S-adenosyl-L-homocysteine	experimental	DB00118	Ademetionine	approved; investigational; nutraceutical	0.98
+2	sp|Q32ZE1|POLG_ZIK	P12823	98.98	2	3386	DB01752	S-adenosyl-L-homocysteine	experimental	DB00131	Adenosine phosphate	approved; investigational; nutraceutical	0.83
+3	sp|Q32ZE1|POLG_ZIK	P12823	98.98	2	3386	DB01752	S-adenosyl-L-homocysteine	experimental	DB00157	NADH	approved; nutraceutical	0.72
+4	sp|Q32ZE1|POLG_ZIK	P12823	98.98	2	3386	DB01752	S-adenosyl-L-homocysteine	experimental	DB00194	Vidarabine	approved; investigational	0.88
+5	sp|Q32ZE1|POLG_ZIK	P12823	98.98	2	3386	DB01752	S-adenosyl-L-homocysteine	experimental	DB00242	Cladribine	approved; investigational	0.77
+6	sp|Q32ZE1|POLG_ZIK	P12823	98.98	2	3386	DB01752	S-adenosyl-L-homocysteine	experimental	DB00631	Clofarabine	approved; investigational	0.74
+7	sp|Q32ZE1|POLG_ZIK	P12823	98.98	2	3386	DB01752	S-adenosyl-L-homocysteine	experimental	DB00640	Adenosine	approved; investigational	0.88
+8	sp|Q32ZE1|POLG_ZIK	P12823	98.98	2	3386	DB01752	S-adenosyl-L-homocysteine	experimental	DB01073	Fludarabine	approved	0.83
+9	sp|Q32ZE1|POLG_ZIK	P12823	98.98	2	3386	DB01752	S-adenosyl-L-homocysteine	experimental	DB01280	Nelarabine	approved; investigational	0.73
+10	sp|Q32ZE1|POLG_ZIK	P12823	98.98	2	3386	DB01752	S-adenosyl-L-homocysteine	experimental	DB06213	Regadenoson	approved; investigational	0.73
+11	sp|Q32ZE1|POLG_ZIK	P12823	98.98	2	3386	DB01752	S-adenosyl-L-homocysteine	experimental	DB13156	Inosine pranobex	approved	0.72
+12	sp|Q32ZE1|POLG_ZIK	P27915	99.03	2	3388	DB04473	alpha-L-fucose	experimental	DB04173	Fructose	approved; experimental	0.7
+13	sp|Q32ZE1|POLG_ZIK	P27915	99.03	2	3388	DB04473	alpha-L-fucose	experimental	DB04465	Lactose	approved; experimental; investigational	0.8
+14	sp|Q32ZE1|POLG_ZIK	P27915	99.03	2	3388	DB04473	alpha-L-fucose	experimental	DB11602	Hydroxyethyl cellulose	approved	0.76
+15	sp|Q32ZE1|POLG_ZIK	P27915	99.03	2	3388	DB04473	alpha-L-fucose	experimental	DB12767	Gaxilose	approved; investigational	0.77
+16	sp|Q32ZE1|POLG_ZIK	P27915	99.03	2	3388	DB04473	alpha-L-fucose	experimental	DB12942	Lactitol	approved; investigational	0.83
+17	sp|Q32ZE1|POLG_ZIK	P27915	99.03	2	3388	DB04473	alpha-L-fucose	experimental	DB15617	Ferric derisomaltose	approved	0.82

@@ -1,0 +1,9 @@
+	Query	Target	Query-Cov	Align-From	Align-To	DrugBank ID	Reg.Status	Mol.Name	SMILES
+0	sp|P0DTD1|R1AB_SAR	P0C6X7	99.66	1	7073	DB07293	experimental	benzyl (2-oxopropyl)carbamate	CC(=O)CNC(=O)OCc1ccccc1
+1	sp|P0DTD1|R1AB_SAR	P0C6X7	99.66	1	7073	DB07620	experimental	2-[(2,4-DICHLORO-5-METHYLPHENYL)SULFONYL]-1,3-DINITRO-5-(TRIFLUOROMETHYL)BENZENE	Clc1cc(Cl)c(cc1C)S(=O)(=O)c2c([N+]([O-])=O)cc(C(F)(F)F)cc2[N+]([O-])=O
+2	sp|P0DTD1|R1AB_SAR	P0C6X7	99.66	1	7073	DB07743	experimental	S-[5-(TRIFLUOROMETHYL)-4H-1,2,4-TRIAZOL-3-YL] 5-(PHENYLETHYNYL)FURAN-2-CARBOTHIOATE	FC(F)(F)c1nnc([nH]1)SC(=O)c2ccc(o2)C#Cc3ccccc3
+3	sp|P0DTD1|R1AB_SAR	P0C6X7	99.66	1	7073	DB08656	experimental	5-amino-2-methyl-N-[(1R)-1-naphthalen-1-ylethyl]benzamide	c1cccc(c12)cccc2[C@@H](C)NC(=O)c3c(C)ccc(N)c3
+4	sp|P0DTD1|R1AB_SAR	P0C6X7	99.66	1	7073	DB08732	experimental	NALPHA-[(BENZYLOXY)CARBONYL]-N-[(1R)-4-HYDROXY-1-METHYL-2-OXOBUTYL]-L-PHENYLALANINAMIDE	c1ccccc1C[C@@H](C(=O)N[C@H](C)C(=O)CCO)NC(=O)OCc2ccccc2
+5	sp|P0DTD1|R1AB_SAR	P0C6X7	99.66	1	7073	DB08748	experimental	4-(Dimethylamino)benzoic acid	CN(C)c1ccc(cc1)C(=O)O
+6	sp|P0DTD1|R1AB_SAR	P0C6X7	99.66	1	7073	DB14761	investigational	Remdesivir	CCC(CC)COC(=O)[C@H](C)N[P@@](=O)(Oc1ccccc1)OC[C@@H](O2)[C@@H](O)[C@@H](O)[C@]2(C#N)c3ccc(n34)c(N)ncn4
+7	sp|P0DTD1|R1AB_SAR	P0C6X7	99.66	1	7073	DB15686	experimental	GS-441524	Nc1ncnn(c12)c(cc2)[C@]3(C#N)O[C@H](CO)[C@@H](O)[C@H]3O

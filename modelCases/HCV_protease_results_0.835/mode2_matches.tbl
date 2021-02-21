@@ -1,0 +1,243 @@
+	Query	Target	Query-Cov	Align-From	Align-To	1-Candidate	1-Mol.Name	1-Reg.Status	2-Candidate	2-Mol.Name	2-Reg.Status	Similarity by Tcoff
+0	tr|Q91RS4|Q91RS4_9	Q91RS4	99.45	1	181	DB06290	Simeprevir	approved	DB00200	Hydroxocobalamin	approved	0.75
+1	tr|Q91RS4|Q91RS4_9	Q91RS4	99.45	1	181	DB06290	Simeprevir	approved	DB00290	Bleomycin	approved; investigational	0.71
+2	tr|Q91RS4|Q91RS4_9	Q91RS4	99.45	1	181	DB06290	Simeprevir	approved	DB00309	Vindesine	approved; investigational	0.73
+3	tr|Q91RS4|Q91RS4_9	Q91RS4	99.45	1	181	DB06290	Simeprevir	approved	DB00361	Vinorelbine	approved; investigational	0.74
+4	tr|Q91RS4|Q91RS4_9	Q91RS4	99.45	1	181	DB06290	Simeprevir	approved	DB00541	Vincristine	approved; investigational	0.74
+5	tr|Q91RS4|Q91RS4_9	Q91RS4	99.45	1	181	DB06290	Simeprevir	approved	DB00570	Vinblastine	approved	0.74
+6	tr|Q91RS4|Q91RS4_9	Q91RS4	99.45	1	181	DB06290	Simeprevir	approved	DB03614	Mecobalamin	approved; investigational	0.75
+7	tr|Q91RS4|Q91RS4_9	Q91RS4	99.45	1	181	DB06290	Simeprevir	approved	DB05109	Trabectedin	approved; investigational	0.71
+8	tr|Q91RS4|Q91RS4_9	Q91RS4	99.45	1	181	DB06290	Simeprevir	approved	DB06290	Simeprevir	approved	1.0
+9	tr|Q91RS4|Q91RS4_9	Q91RS4	99.45	1	181	DB06290	Simeprevir	approved	DB09297	Paritaprevir	approved; investigational	0.71
+10	tr|Q91RS4|Q91RS4_9	Q91RS4	99.45	1	181	DB06290	Simeprevir	approved	DB11191	Cobamamide	approved	0.75
+11	tr|Q91RS4|Q91RS4_9	Q91RS4	99.45	1	181	DB06290	Simeprevir	approved	DB11575	Grazoprevir	approved	0.7
+12	tr|Q91RS4|Q91RS4_9	Q91RS4	99.45	1	181	DB06290	Simeprevir	approved	DB11641	Vinflunine	approved; investigational	0.74
+13	tr|Q91RS4|Q91RS4_9	Q91RS4	99.45	1	181	DB06290	Simeprevir	approved	DB11691	Naldemedine	approved; investigational	0.71
+14	tr|Q91RS4|Q91RS4_9	Q91RS4	99.45	1	181	DB06290	Simeprevir	approved	DB12026	Voxilaprevir	approved; investigational	0.71
+15	tr|Q91RS4|Q91RS4_9	Q91RS4	99.45	1	181	DB06290	Simeprevir	approved	DB12674	Lurbinectedin	approved; investigational	0.73
+16	tr|Q91RS4|Q91RS4_9	Q91RS4	99.45	1	181	DB07582	N-[(2R,3S)-1-((2S)-2-{[(CYCLOPENTYLAMINO)CARBONYL]AMINO}-3-METHYLBUTANOYL)-2-(1-FORMYL-1-CYCLOBUTYL)PYRROLIDINYL]CYCLOPROPANECARBOXAMIDE	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+17	tr|Q91RS4|Q91RS4_9	Q91RS4	99.45	1	181	DB13879	Glecaprevir	approved; investigational	DB00115	Cyanocobalamin	approved; nutraceutical	0.72
+18	tr|Q91RS4|Q91RS4_9	Q91RS4	99.45	1	181	DB13879	Glecaprevir	approved; investigational	DB00200	Hydroxocobalamin	approved	0.78
+19	tr|Q91RS4|Q91RS4_9	Q91RS4	99.45	1	181	DB13879	Glecaprevir	approved; investigational	DB00290	Bleomycin	approved; investigational	0.73
+20	tr|Q91RS4|Q91RS4_9	Q91RS4	99.45	1	181	DB13879	Glecaprevir	approved; investigational	DB00309	Vindesine	approved; investigational	0.75
+21	tr|Q91RS4|Q91RS4_9	Q91RS4	99.45	1	181	DB13879	Glecaprevir	approved; investigational	DB00320	Dihydroergotamine	approved; investigational	0.7
+22	tr|Q91RS4|Q91RS4_9	Q91RS4	99.45	1	181	DB13879	Glecaprevir	approved; investigational	DB00361	Vinorelbine	approved; investigational	0.76
+23	tr|Q91RS4|Q91RS4_9	Q91RS4	99.45	1	181	DB13879	Glecaprevir	approved; investigational	DB00512	Vancomycin	approved	0.71
+24	tr|Q91RS4|Q91RS4_9	Q91RS4	99.45	1	181	DB13879	Glecaprevir	approved; investigational	DB00541	Vincristine	approved; investigational	0.76
+25	tr|Q91RS4|Q91RS4_9	Q91RS4	99.45	1	181	DB13879	Glecaprevir	approved; investigational	DB00570	Vinblastine	approved	0.76
+26	tr|Q91RS4|Q91RS4_9	Q91RS4	99.45	1	181	DB13879	Glecaprevir	approved; investigational	DB00615	Rifabutin	approved; investigational	0.72
+27	tr|Q91RS4|Q91RS4_9	Q91RS4	99.45	1	181	DB13879	Glecaprevir	approved; investigational	DB00696	Ergotamine	approved	0.72
+28	tr|Q91RS4|Q91RS4_9	Q91RS4	99.45	1	181	DB13879	Glecaprevir	approved; investigational	DB00970	Dactinomycin	approved; investigational	0.72
+29	tr|Q91RS4|Q91RS4_9	Q91RS4	99.45	1	181	DB13879	Glecaprevir	approved; investigational	DB01200	Bromocriptine	approved; investigational	0.72
+30	tr|Q91RS4|Q91RS4_9	Q91RS4	99.45	1	181	DB13879	Glecaprevir	approved; investigational	DB03614	Mecobalamin	approved; investigational	0.78
+31	tr|Q91RS4|Q91RS4_9	Q91RS4	99.45	1	181	DB13879	Glecaprevir	approved; investigational	DB04911	Oritavancin	approved; investigational	0.73
+32	tr|Q91RS4|Q91RS4_9	Q91RS4	99.45	1	181	DB13879	Glecaprevir	approved; investigational	DB05109	Trabectedin	approved; investigational	0.74
+33	tr|Q91RS4|Q91RS4_9	Q91RS4	99.45	1	181	DB13879	Glecaprevir	approved; investigational	DB06402	Telavancin	approved	0.73
+34	tr|Q91RS4|Q91RS4_9	Q91RS4	99.45	1	181	DB13879	Glecaprevir	approved; investigational	DB09297	Paritaprevir	approved; investigational	0.73
+35	tr|Q91RS4|Q91RS4_9	Q91RS4	99.45	1	181	DB13879	Glecaprevir	approved; investigational	DB11191	Cobamamide	approved	0.78
+36	tr|Q91RS4|Q91RS4_9	Q91RS4	99.45	1	181	DB13879	Glecaprevir	approved; investigational	DB11275	Epicriptine	approved	0.7
+37	tr|Q91RS4|Q91RS4_9	Q91RS4	99.45	1	181	DB13879	Glecaprevir	approved; investigational	DB11575	Grazoprevir	approved	0.84
+38	tr|Q91RS4|Q91RS4_9	Q91RS4	99.45	1	181	DB13879	Glecaprevir	approved; investigational	DB11586	Asunaprevir	approved; investigational; withdrawn	0.74
+39	tr|Q91RS4|Q91RS4_9	Q91RS4	99.45	1	181	DB13879	Glecaprevir	approved; investigational	DB11641	Vinflunine	approved; investigational	0.76
+40	tr|Q91RS4|Q91RS4_9	Q91RS4	99.45	1	181	DB13879	Glecaprevir	approved; investigational	DB11691	Naldemedine	approved; investigational	0.72
+41	tr|Q91RS4|Q91RS4_9	Q91RS4	99.45	1	181	DB13879	Glecaprevir	approved; investigational	DB12026	Voxilaprevir	approved; investigational	0.9
+42	tr|Q91RS4|Q91RS4_9	Q91RS4	99.45	1	181	DB13879	Glecaprevir	approved; investigational	DB12674	Lurbinectedin	approved; investigational	0.76
+43	tr|Q91RS4|Q91RS4_9	Q91RS4	99.45	1	181	DB13879	Glecaprevir	approved; investigational	DB13345	Dihydroergocristine	approved; experimental	0.71
+44	tr|Q91RS4|Q91RS4_9	Q91RS4	99.45	1	181	DB13879	Glecaprevir	approved; investigational	DB13879	Glecaprevir	approved; investigational	1.0
+45	tr|Q91RS4|Q91RS4_9	Q91RS4	99.45	1	181	DB13879	Glecaprevir	approved; investigational	DB13997	Baloxavir marboxil	approved; investigational	0.71
+46	tr|Q91RS4|Q91RS4_9	Q99AU2	99.45	1027	1207	DB06913	(3R)-3-[3,5-Bis(trifluoromethyl)anilino]-2-cyano-3-sulfanylpropanamide	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+47	tr|Q91RS4|Q91RS4_9	Q99AU2	99.45	1027	1207	DB07085	2-{[N-(2-ACETYL-5-CHLORO-4-FLUOROPHENYL)GLYCYL]AMINO}BENZOIC ACID	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+48	tr|Q91RS4|Q91RS4_9	Q99AU2	99.45	1027	1207	DB07185	2-{[(4-CHLOROPHENOXY)ACETYL]AMINO}BENZOIC ACID	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+49	tr|Q91RS4|Q91RS4_9	Q99AU2	99.45	1027	1207	DB07273	1-[(2-AMINO-4-CHLORO-5-METHYLPHENYL)SULFONYL]-L-PROLINE	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+50	tr|Q91RS4|Q91RS4_9	Q99AU2	99.45	1027	1207	DB07275	3-(1,1-dioxido-4H-1,2,4-benzothiadiazin-3-yl)-4-hydroxy-1-(3-methylbutyl)quinolin-2(1H)-one	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+51	tr|Q91RS4|Q91RS4_9	Q99AU2	99.45	1027	1207	DB07547	5-(4-CYANOPHENYL)-3-{[(2-METHYLPHENYL)SULFONYL]AMINO}THIOPHENE-2-CARBOXYLIC ACID	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+52	tr|Q91RS4|Q91RS4_9	Q99AU2	99.45	1027	1207	DB07770	5-(4-FLUOROPHENYL)-3-{[(4-METHYLPHENYL)SULFONYL]AMINO}THIOPHENE-2-CARBOXYLIC ACID	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+53	tr|Q91RS4|Q91RS4_9	Q99AU2	99.45	1027	1207	DB08556	5'-ACETYL-4-{[(2,4-DIMETHYLPHENYL)SULFONYL]AMINO}-2,2'-BITHIOPHENE-5-CARBOXYLIC ACID	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+54	tr|Q91RS4|Q91RS4_9	P26662	99.45	1027	1207	DB01720	(2Z)-2-(Benzoylamino)-3-[4-(2-bromophenoxy)phenyl]acrylic acid	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+55	tr|Q91RS4|Q91RS4_9	P26662	99.45	1027	1207	DB04005	Uridine 5'-triphosphate	experimental; investigational	DB00987	Cytarabine	approved; investigational	0.72
+56	tr|Q91RS4|Q91RS4_9	P26662	99.45	1027	1207	DB04005	Uridine 5'-triphosphate	experimental; investigational	DB09144	Uridine triacetate	approved; investigational	0.74
+57	tr|Q91RS4|Q91RS4_9	P26662	99.45	1027	1207	DB04005	Uridine 5'-triphosphate	experimental; investigational	DB12153	Citicoline	approved; experimental	0.83
+58	tr|Q91RS4|Q91RS4_9	P26664	99.45	1027	1207	DB05868	Ciluprevir	investigational	DB00200	Hydroxocobalamin	approved	0.72
+59	tr|Q91RS4|Q91RS4_9	P26664	99.45	1027	1207	DB05868	Ciluprevir	investigational	DB00361	Vinorelbine	approved; investigational	0.7
+60	tr|Q91RS4|Q91RS4_9	P26664	99.45	1027	1207	DB05868	Ciluprevir	investigational	DB03614	Mecobalamin	approved; investigational	0.72
+61	tr|Q91RS4|Q91RS4_9	P26664	99.45	1027	1207	DB05868	Ciluprevir	investigational	DB06290	Simeprevir	approved	0.71
+62	tr|Q91RS4|Q91RS4_9	P26664	99.45	1027	1207	DB05868	Ciluprevir	investigational	DB11191	Cobamamide	approved	0.72
+63	tr|Q91RS4|Q91RS4_9	P26664	99.45	1027	1207	DB05868	Ciluprevir	investigational	DB11641	Vinflunine	approved; investigational	0.71
+64	tr|Q91RS4|Q91RS4_9	P26664	99.45	1027	1207	DB05868	Ciluprevir	investigational	DB12674	Lurbinectedin	approved; investigational	0.71
+65	tr|Q91RS4|Q91RS4_9	P26664	99.45	1027	1207	DB06058	XTL-6865	investigational	DB00200	Hydroxocobalamin	approved	0.72
+66	tr|Q91RS4|Q91RS4_9	P26664	99.45	1027	1207	DB06058	XTL-6865	investigational	DB00361	Vinorelbine	approved; investigational	0.7
+67	tr|Q91RS4|Q91RS4_9	P26664	99.45	1027	1207	DB06058	XTL-6865	investigational	DB03614	Mecobalamin	approved; investigational	0.72
+68	tr|Q91RS4|Q91RS4_9	P26664	99.45	1027	1207	DB06058	XTL-6865	investigational	DB06290	Simeprevir	approved	0.71
+69	tr|Q91RS4|Q91RS4_9	P26664	99.45	1027	1207	DB06058	XTL-6865	investigational	DB11191	Cobamamide	approved	0.72
+70	tr|Q91RS4|Q91RS4_9	P26664	99.45	1027	1207	DB06058	XTL-6865	investigational	DB11641	Vinflunine	approved; investigational	0.71
+71	tr|Q91RS4|Q91RS4_9	P26664	99.45	1027	1207	DB06058	XTL-6865	investigational	DB12674	Lurbinectedin	approved; investigational	0.71
+72	tr|Q91RS4|Q91RS4_9	P26664	99.45	1027	1207	DB07582	N-[(2R,3S)-1-((2S)-2-{[(CYCLOPENTYLAMINO)CARBONYL]AMINO}-3-METHYLBUTANOYL)-2-(1-FORMYL-1-CYCLOBUTYL)PYRROLIDINYL]CYCLOPROPANECARBOXAMIDE	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+73	tr|Q91RS4|Q91RS4_9	P26664	99.45	1027	1207	DB11779	Danoprevir	investigational	DB09297	Paritaprevir	approved; investigational	0.71
+74	tr|Q91RS4|Q91RS4_9	P26664	99.45	1027	1207	DB11779	Danoprevir	investigational	DB11575	Grazoprevir	approved	0.73
+75	tr|Q91RS4|Q91RS4_9	P26664	99.45	1027	1207	DB11779	Danoprevir	investigational	DB11586	Asunaprevir	approved; investigational; withdrawn	0.73
+76	tr|Q91RS4|Q91RS4_9	P26664	99.45	1027	1207	DB11779	Danoprevir	investigational	DB13879	Glecaprevir	approved; investigational	0.7
+77	tr|Q91RS4|Q91RS4_9	Q9WMX2	99.45	1027	1207	DB07238	Nesbuvir	investigational	-	Sorry! Cannot find	structurally similar	approved molecules
+78	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB02331	(2s)-2-[(5-Benzofuran-2-Yl-Thiophen-2-Ylmethyl)-(2,4-Dichloro-Benzoyl)-Amino]-3-Phenyl-Propionic Acid	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+79	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB03605	(2s)-2-[(2,4-Dichloro-Benzoyl)-(3-Trifluoromethyl-Benzyl)-Amino]-3-Phenyl-Propionic Acid	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+80	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB04005	Uridine 5'-triphosphate	experimental; investigational	DB00987	Cytarabine	approved; investigational	0.72
+81	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB04005	Uridine 5'-triphosphate	experimental; investigational	DB09144	Uridine triacetate	approved; investigational	0.74
+82	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB04005	Uridine 5'-triphosphate	experimental; investigational	DB12153	Citicoline	approved; experimental	0.83
+83	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB04137	Guanosine-5'-Triphosphate	experimental	DB00131	Adenosine phosphate	approved; investigational; nutraceutical	0.79
+84	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB04137	Guanosine-5'-Triphosphate	experimental	DB00157	NADH	approved; nutraceutical	0.74
+85	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB04137	Guanosine-5'-Triphosphate	experimental	DB00194	Vidarabine	approved; investigational	0.73
+86	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB04137	Guanosine-5'-Triphosphate	experimental	DB00640	Adenosine	approved; investigational	0.73
+87	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB04137	Guanosine-5'-Triphosphate	experimental	DB01073	Fludarabine	approved	0.72
+88	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB04137	Guanosine-5'-Triphosphate	experimental	DB01280	Nelarabine	approved; investigational	0.75
+89	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB04137	Guanosine-5'-Triphosphate	experimental	DB03147	Flavin adenine dinucleotide	approved	0.72
+90	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB04137	Guanosine-5'-Triphosphate	experimental	DB05528	Mipomersen	approved; investigational	0.74
+91	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB04137	Guanosine-5'-Triphosphate	experimental	DB06441	Cangrelor	approved	0.72
+92	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB04137	Guanosine-5'-Triphosphate	experimental	DB13156	Inosine pranobex	approved	0.78
+93	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB04298	3-(4-Amino-2-Tert-Butyl-5-Methyl-Phenylsulfanyl)-6-Cyclopentyl-4-Hydroxy-6-[2-(4-Hydroxy-Phenyl)-Ethyl]-5,6-Dihydro-Pyran-2-One	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+94	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB06974	5-hydroxy-4-(7-methoxy-1,1-dioxido-2H-1,2,4-benzothiadiazin-3-yl)-2-(3-methylbutyl)-6-phenylpyridazin-3(2H)-one	experimental	DB00200	Hydroxocobalamin	approved	0.75
+95	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB06974	5-hydroxy-4-(7-methoxy-1,1-dioxido-2H-1,2,4-benzothiadiazin-3-yl)-2-(3-methylbutyl)-6-phenylpyridazin-3(2H)-one	experimental	DB00309	Vindesine	approved; investigational	0.73
+96	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB06974	5-hydroxy-4-(7-methoxy-1,1-dioxido-2H-1,2,4-benzothiadiazin-3-yl)-2-(3-methylbutyl)-6-phenylpyridazin-3(2H)-one	experimental	DB00361	Vinorelbine	approved; investigational	0.73
+97	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB06974	5-hydroxy-4-(7-methoxy-1,1-dioxido-2H-1,2,4-benzothiadiazin-3-yl)-2-(3-methylbutyl)-6-phenylpyridazin-3(2H)-one	experimental	DB00541	Vincristine	approved; investigational	0.73
+98	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB06974	5-hydroxy-4-(7-methoxy-1,1-dioxido-2H-1,2,4-benzothiadiazin-3-yl)-2-(3-methylbutyl)-6-phenylpyridazin-3(2H)-one	experimental	DB00570	Vinblastine	approved	0.73
+99	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB06974	5-hydroxy-4-(7-methoxy-1,1-dioxido-2H-1,2,4-benzothiadiazin-3-yl)-2-(3-methylbutyl)-6-phenylpyridazin-3(2H)-one	experimental	DB03614	Mecobalamin	approved; investigational	0.75
+100	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB06974	5-hydroxy-4-(7-methoxy-1,1-dioxido-2H-1,2,4-benzothiadiazin-3-yl)-2-(3-methylbutyl)-6-phenylpyridazin-3(2H)-one	experimental	DB04911	Oritavancin	approved; investigational	0.7
+101	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB06974	5-hydroxy-4-(7-methoxy-1,1-dioxido-2H-1,2,4-benzothiadiazin-3-yl)-2-(3-methylbutyl)-6-phenylpyridazin-3(2H)-one	experimental	DB05109	Trabectedin	approved; investigational	0.7
+102	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB06974	5-hydroxy-4-(7-methoxy-1,1-dioxido-2H-1,2,4-benzothiadiazin-3-yl)-2-(3-methylbutyl)-6-phenylpyridazin-3(2H)-one	experimental	DB11191	Cobamamide	approved	0.75
+103	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB06974	5-hydroxy-4-(7-methoxy-1,1-dioxido-2H-1,2,4-benzothiadiazin-3-yl)-2-(3-methylbutyl)-6-phenylpyridazin-3(2H)-one	experimental	DB11641	Vinflunine	approved; investigational	0.73
+104	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB06974	5-hydroxy-4-(7-methoxy-1,1-dioxido-2H-1,2,4-benzothiadiazin-3-yl)-2-(3-methylbutyl)-6-phenylpyridazin-3(2H)-one	experimental	DB12674	Lurbinectedin	approved; investigational	0.72
+105	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB07062	N-{3-[4-Hydroxy-1-(3-methylbutyl)-2-oxo-1,2-dihydropyrrolo[1,2-b]pyridazin-3-yl]-1,1-dioxido-2H-1,2,4-benzothiadiazin-7-yl}methanesulfonamide	experimental	DB00115	Cyanocobalamin	approved; nutraceutical	0.71
+106	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB07062	N-{3-[4-Hydroxy-1-(3-methylbutyl)-2-oxo-1,2-dihydropyrrolo[1,2-b]pyridazin-3-yl]-1,1-dioxido-2H-1,2,4-benzothiadiazin-7-yl}methanesulfonamide	experimental	DB00200	Hydroxocobalamin	approved	0.77
+107	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB07062	N-{3-[4-Hydroxy-1-(3-methylbutyl)-2-oxo-1,2-dihydropyrrolo[1,2-b]pyridazin-3-yl]-1,1-dioxido-2H-1,2,4-benzothiadiazin-7-yl}methanesulfonamide	experimental	DB00309	Vindesine	approved; investigational	0.74
+108	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB07062	N-{3-[4-Hydroxy-1-(3-methylbutyl)-2-oxo-1,2-dihydropyrrolo[1,2-b]pyridazin-3-yl]-1,1-dioxido-2H-1,2,4-benzothiadiazin-7-yl}methanesulfonamide	experimental	DB00361	Vinorelbine	approved; investigational	0.75
+109	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB07062	N-{3-[4-Hydroxy-1-(3-methylbutyl)-2-oxo-1,2-dihydropyrrolo[1,2-b]pyridazin-3-yl]-1,1-dioxido-2H-1,2,4-benzothiadiazin-7-yl}methanesulfonamide	experimental	DB00541	Vincristine	approved; investigational	0.75
+110	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB07062	N-{3-[4-Hydroxy-1-(3-methylbutyl)-2-oxo-1,2-dihydropyrrolo[1,2-b]pyridazin-3-yl]-1,1-dioxido-2H-1,2,4-benzothiadiazin-7-yl}methanesulfonamide	experimental	DB00570	Vinblastine	approved	0.75
+111	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB07062	N-{3-[4-Hydroxy-1-(3-methylbutyl)-2-oxo-1,2-dihydropyrrolo[1,2-b]pyridazin-3-yl]-1,1-dioxido-2H-1,2,4-benzothiadiazin-7-yl}methanesulfonamide	experimental	DB00615	Rifabutin	approved; investigational	0.71
+112	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB07062	N-{3-[4-Hydroxy-1-(3-methylbutyl)-2-oxo-1,2-dihydropyrrolo[1,2-b]pyridazin-3-yl]-1,1-dioxido-2H-1,2,4-benzothiadiazin-7-yl}methanesulfonamide	experimental	DB01200	Bromocriptine	approved; investigational	0.71
+113	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB07062	N-{3-[4-Hydroxy-1-(3-methylbutyl)-2-oxo-1,2-dihydropyrrolo[1,2-b]pyridazin-3-yl]-1,1-dioxido-2H-1,2,4-benzothiadiazin-7-yl}methanesulfonamide	experimental	DB03614	Mecobalamin	approved; investigational	0.77
+114	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB07062	N-{3-[4-Hydroxy-1-(3-methylbutyl)-2-oxo-1,2-dihydropyrrolo[1,2-b]pyridazin-3-yl]-1,1-dioxido-2H-1,2,4-benzothiadiazin-7-yl}methanesulfonamide	experimental	DB04911	Oritavancin	approved; investigational	0.71
+115	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB07062	N-{3-[4-Hydroxy-1-(3-methylbutyl)-2-oxo-1,2-dihydropyrrolo[1,2-b]pyridazin-3-yl]-1,1-dioxido-2H-1,2,4-benzothiadiazin-7-yl}methanesulfonamide	experimental	DB05109	Trabectedin	approved; investigational	0.72
+116	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB07062	N-{3-[4-Hydroxy-1-(3-methylbutyl)-2-oxo-1,2-dihydropyrrolo[1,2-b]pyridazin-3-yl]-1,1-dioxido-2H-1,2,4-benzothiadiazin-7-yl}methanesulfonamide	experimental	DB06402	Telavancin	approved	0.71
+117	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB07062	N-{3-[4-Hydroxy-1-(3-methylbutyl)-2-oxo-1,2-dihydropyrrolo[1,2-b]pyridazin-3-yl]-1,1-dioxido-2H-1,2,4-benzothiadiazin-7-yl}methanesulfonamide	experimental	DB11191	Cobamamide	approved	0.77
+118	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB07062	N-{3-[4-Hydroxy-1-(3-methylbutyl)-2-oxo-1,2-dihydropyrrolo[1,2-b]pyridazin-3-yl]-1,1-dioxido-2H-1,2,4-benzothiadiazin-7-yl}methanesulfonamide	experimental	DB11641	Vinflunine	approved; investigational	0.75
+119	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB07062	N-{3-[4-Hydroxy-1-(3-methylbutyl)-2-oxo-1,2-dihydropyrrolo[1,2-b]pyridazin-3-yl]-1,1-dioxido-2H-1,2,4-benzothiadiazin-7-yl}methanesulfonamide	experimental	DB11691	Naldemedine	approved; investigational	0.71
+120	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB07062	N-{3-[4-Hydroxy-1-(3-methylbutyl)-2-oxo-1,2-dihydropyrrolo[1,2-b]pyridazin-3-yl]-1,1-dioxido-2H-1,2,4-benzothiadiazin-7-yl}methanesulfonamide	experimental	DB12674	Lurbinectedin	approved; investigational	0.74
+121	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB07169	5R-(3,4-DICHLOROPHENYLMETHYL)-3-(2-THIOPHENESULFONYLAMINO)-4-OXO-2-THIONOTHIAZOLIDINE	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+122	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB07199	(2S,4S,5R)-1-(4-TERT-BUTYLBENZOYL)-2-ISOBUTYL-5-(1,3-THIAZOL-2-YL)PYRROLIDINE-2,4-DICARBOXYLIC ACID	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+123	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB07200	(2S,4S,5R)-2-ISOBUTYL-5-(2-THIENYL)-1-[4-(TRIFLUOROMETHYL)BENZOYL]PYRROLIDINE-2,4-DICARBOXYLIC ACID	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+124	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB07238	Nesbuvir	investigational	-	Sorry! Cannot find	structurally similar	approved molecules
+125	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB07414	(5S)-1-benzyl-3-(1,1-dioxido-1,2-benzisothiazol-3-yl)-4-hydroxy-5-(1-methylethyl)-1,5-dihydro-2H-pyrrol-2-one	experimental	DB00200	Hydroxocobalamin	approved	0.71
+126	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB07414	(5S)-1-benzyl-3-(1,1-dioxido-1,2-benzisothiazol-3-yl)-4-hydroxy-5-(1-methylethyl)-1,5-dihydro-2H-pyrrol-2-one	experimental	DB00361	Vinorelbine	approved; investigational	0.7
+127	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB07414	(5S)-1-benzyl-3-(1,1-dioxido-1,2-benzisothiazol-3-yl)-4-hydroxy-5-(1-methylethyl)-1,5-dihydro-2H-pyrrol-2-one	experimental	DB03614	Mecobalamin	approved; investigational	0.71
+128	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB07414	(5S)-1-benzyl-3-(1,1-dioxido-1,2-benzisothiazol-3-yl)-4-hydroxy-5-(1-methylethyl)-1,5-dihydro-2H-pyrrol-2-one	experimental	DB11191	Cobamamide	approved	0.71
+129	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB07414	(5S)-1-benzyl-3-(1,1-dioxido-1,2-benzisothiazol-3-yl)-4-hydroxy-5-(1-methylethyl)-1,5-dihydro-2H-pyrrol-2-one	experimental	DB11641	Vinflunine	approved; investigational	0.7
+130	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB07570	3-CYCLOHEXYL-1-(2-MORPHOLIN-4-YL-2-OXOETHYL)-2-PHENYL-1H-INDOLE-6-CARBOXYLIC ACID	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+131	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB08031	N-[(13-CYCLOHEXYL-6,7-DIHYDROINDOLO[1,2-D][1,4]BENZOXAZEPIN-10-YL)CARBONYL]-2-METHYL-L-ALANINE	experimental	DB11191	Cobamamide	approved	0.7
+132	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB08278	1-(2-cyclopropylethyl)-3-(1,1-dioxo-2H-1,2,4-benzothiadiazin-3-yl)-6-fluoro-4-hydroxy-2(1H)-quinolinone	experimental	DB00200	Hydroxocobalamin	approved	0.71
+133	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB08278	1-(2-cyclopropylethyl)-3-(1,1-dioxo-2H-1,2,4-benzothiadiazin-3-yl)-6-fluoro-4-hydroxy-2(1H)-quinolinone	experimental	DB00361	Vinorelbine	approved; investigational	0.7
+134	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB08278	1-(2-cyclopropylethyl)-3-(1,1-dioxo-2H-1,2,4-benzothiadiazin-3-yl)-6-fluoro-4-hydroxy-2(1H)-quinolinone	experimental	DB03614	Mecobalamin	approved; investigational	0.71
+135	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB08278	1-(2-cyclopropylethyl)-3-(1,1-dioxo-2H-1,2,4-benzothiadiazin-3-yl)-6-fluoro-4-hydroxy-2(1H)-quinolinone	experimental	DB11191	Cobamamide	approved	0.72
+136	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB08278	1-(2-cyclopropylethyl)-3-(1,1-dioxo-2H-1,2,4-benzothiadiazin-3-yl)-6-fluoro-4-hydroxy-2(1H)-quinolinone	experimental	DB11641	Vinflunine	approved; investigational	0.7
+137	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB08279	3-{ISOPROPYL[(TRANS-4-METHYLCYCLOHEXYL)CARBONYL]AMINO}-5-PHENYLTHIOPHENE-2-CARBOXYLIC ACID	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+138	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB08390	(6S)-6-CYCLOPENTYL-6-[2-(3-FLUORO-4-ISOPROPOXYPHENYL)ETHYL]-4-HYDROXY-5,6-DIHYDRO-2H-PYRAN-2-ONE	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+139	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB08481	4-Methyl-N-[5-(5-methyl-furan-2-ylmethylene)-4-oxo-thiazolidin-2-ylidene]-benzenesulfonamide	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+140	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB08578	4-[(5-bromopyridin-2-yl)amino]-4-oxobutanoic acid	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+141	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB08579	4-bromo-2-{[(3R,5S)-3,5-dimethylpiperidin-1-yl]carbonyl}aniline	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+142	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB08580	4-bromo-2-{[(2R)-2-(2-chlorobenzyl)pyrrolidin-1-yl]carbonyl}aniline	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+143	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB08581	4-[(4-bromo-2-{[(3R,5S)-3,5-dimethylpiperidin-1-yl]carbonyl}phenyl)amino]-4-oxobutanoic acid	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+144	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB08582	N-(4-bromo-2-{[(3R,5S)-3,5-dimethylpiperidin-1-yl]carbonyl}phenyl)-4-morpholin-4-yl-4-oxobutanamide	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+145	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB08701	2-(3-BROMOPHENYL)-6-[(2-HYDROXYETHYL)AMINO]-1H-BENZO[DE]ISOQUINOLINE-1,3(2H)-DIONE	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+146	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB08706	(2S)-({(5Z)-5-[(5-Ethyl-2-furyl)methylene]-4-oxo-4,5-dihydro-1,3-thiazol-2-yl}amino)(4-fluorophenyl)acetic acid	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+147	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB08710	(5Z)-5-[(5-ethylfuran-2-yl)methylidene]-2-[[(S)-(4-fluorophenyl)-(2H-tetrazol-5-yl)methyl]amino]-1,3-thiazol-4-one	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+148	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB11586	Asunaprevir	approved; investigational; withdrawn	DB09297	Paritaprevir	approved; investigational	0.83
+149	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB11586	Asunaprevir	approved; investigational; withdrawn	DB11575	Grazoprevir	approved	0.8
+150	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB11586	Asunaprevir	approved; investigational; withdrawn	DB11586	Asunaprevir	approved; investigational; withdrawn	1.0
+151	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB11586	Asunaprevir	approved; investigational; withdrawn	DB12026	Voxilaprevir	approved; investigational	0.75
+152	tr|Q91RS4|Q91RS4_9	P26663	99.45	1027	1207	DB11586	Asunaprevir	approved; investigational; withdrawn	DB13879	Glecaprevir	approved; investigational	0.74
+153	tr|Q91RS4|Q91RS4_9	P27958	99.45	1027	1207	DB08644	{1-[2-(1-FORMYL-PROPYL)-3-METHANESULFONYLAMINO-PYRROLIDINE-1-CARBONYL]-2-METHYL-PROPYL}-CARBAMIC ACID TERT-BUTYL ESTER	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+154	tr|Q91RS4|Q91RS4_9	O92972	99.45	1027	1207	DB08747	(11R)-10-acetyl-11-(2,4-dichlorophenyl)-6-hydroxy-3,3-dimethyl-2,3,4,5,10,11-hexahydro-1H-dibenzo[b,e][1,4]diazepin-1-one	experimental	DB00115	Cyanocobalamin	approved; nutraceutical	0.7
+155	tr|Q91RS4|Q91RS4_9	O92972	99.45	1027	1207	DB08747	(11R)-10-acetyl-11-(2,4-dichlorophenyl)-6-hydroxy-3,3-dimethyl-2,3,4,5,10,11-hexahydro-1H-dibenzo[b,e][1,4]diazepin-1-one	experimental	DB00200	Hydroxocobalamin	approved	0.75
+156	tr|Q91RS4|Q91RS4_9	O92972	99.45	1027	1207	DB08747	(11R)-10-acetyl-11-(2,4-dichlorophenyl)-6-hydroxy-3,3-dimethyl-2,3,4,5,10,11-hexahydro-1H-dibenzo[b,e][1,4]diazepin-1-one	experimental	DB00309	Vindesine	approved; investigational	0.73
+157	tr|Q91RS4|Q91RS4_9	O92972	99.45	1027	1207	DB08747	(11R)-10-acetyl-11-(2,4-dichlorophenyl)-6-hydroxy-3,3-dimethyl-2,3,4,5,10,11-hexahydro-1H-dibenzo[b,e][1,4]diazepin-1-one	experimental	DB00361	Vinorelbine	approved; investigational	0.74
+158	tr|Q91RS4|Q91RS4_9	O92972	99.45	1027	1207	DB08747	(11R)-10-acetyl-11-(2,4-dichlorophenyl)-6-hydroxy-3,3-dimethyl-2,3,4,5,10,11-hexahydro-1H-dibenzo[b,e][1,4]diazepin-1-one	experimental	DB00541	Vincristine	approved; investigational	0.74
+159	tr|Q91RS4|Q91RS4_9	O92972	99.45	1027	1207	DB08747	(11R)-10-acetyl-11-(2,4-dichlorophenyl)-6-hydroxy-3,3-dimethyl-2,3,4,5,10,11-hexahydro-1H-dibenzo[b,e][1,4]diazepin-1-one	experimental	DB00570	Vinblastine	approved	0.74
+160	tr|Q91RS4|Q91RS4_9	O92972	99.45	1027	1207	DB08747	(11R)-10-acetyl-11-(2,4-dichlorophenyl)-6-hydroxy-3,3-dimethyl-2,3,4,5,10,11-hexahydro-1H-dibenzo[b,e][1,4]diazepin-1-one	experimental	DB00615	Rifabutin	approved; investigational	0.71
+161	tr|Q91RS4|Q91RS4_9	O92972	99.45	1027	1207	DB08747	(11R)-10-acetyl-11-(2,4-dichlorophenyl)-6-hydroxy-3,3-dimethyl-2,3,4,5,10,11-hexahydro-1H-dibenzo[b,e][1,4]diazepin-1-one	experimental	DB03614	Mecobalamin	approved; investigational	0.75
+162	tr|Q91RS4|Q91RS4_9	O92972	99.45	1027	1207	DB08747	(11R)-10-acetyl-11-(2,4-dichlorophenyl)-6-hydroxy-3,3-dimethyl-2,3,4,5,10,11-hexahydro-1H-dibenzo[b,e][1,4]diazepin-1-one	experimental	DB05109	Trabectedin	approved; investigational	0.71
+163	tr|Q91RS4|Q91RS4_9	O92972	99.45	1027	1207	DB08747	(11R)-10-acetyl-11-(2,4-dichlorophenyl)-6-hydroxy-3,3-dimethyl-2,3,4,5,10,11-hexahydro-1H-dibenzo[b,e][1,4]diazepin-1-one	experimental	DB11191	Cobamamide	approved	0.75
+164	tr|Q91RS4|Q91RS4_9	O92972	99.45	1027	1207	DB08747	(11R)-10-acetyl-11-(2,4-dichlorophenyl)-6-hydroxy-3,3-dimethyl-2,3,4,5,10,11-hexahydro-1H-dibenzo[b,e][1,4]diazepin-1-one	experimental	DB11641	Vinflunine	approved; investigational	0.74
+165	tr|Q91RS4|Q91RS4_9	O92972	99.45	1027	1207	DB08747	(11R)-10-acetyl-11-(2,4-dichlorophenyl)-6-hydroxy-3,3-dimethyl-2,3,4,5,10,11-hexahydro-1H-dibenzo[b,e][1,4]diazepin-1-one	experimental	DB11691	Naldemedine	approved; investigational	0.71
+166	tr|Q91RS4|Q91RS4_9	O92972	99.45	1027	1207	DB08747	(11R)-10-acetyl-11-(2,4-dichlorophenyl)-6-hydroxy-3,3-dimethyl-2,3,4,5,10,11-hexahydro-1H-dibenzo[b,e][1,4]diazepin-1-one	experimental	DB12674	Lurbinectedin	approved; investigational	0.73
+167	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB05521	Telaprevir	approved; withdrawn	DB05521	Telaprevir	approved; withdrawn	1.0
+168	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB08873	Boceprevir	approved; withdrawn	DB08873	Boceprevir	approved; withdrawn	1.0
+169	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB09297	Paritaprevir	approved; investigational	DB00200	Hydroxocobalamin	approved	0.71
+170	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB09297	Paritaprevir	approved; investigational	DB03614	Mecobalamin	approved; investigational	0.7
+171	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB09297	Paritaprevir	approved; investigational	DB06290	Simeprevir	approved	0.71
+172	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB09297	Paritaprevir	approved; investigational	DB09297	Paritaprevir	approved; investigational	1.0
+173	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB09297	Paritaprevir	approved; investigational	DB11191	Cobamamide	approved	0.7
+174	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB09297	Paritaprevir	approved; investigational	DB11575	Grazoprevir	approved	0.78
+175	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB09297	Paritaprevir	approved; investigational	DB11586	Asunaprevir	approved; investigational; withdrawn	0.83
+176	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB09297	Paritaprevir	approved; investigational	DB12026	Voxilaprevir	approved; investigational	0.74
+177	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB09297	Paritaprevir	approved; investigational	DB13879	Glecaprevir	approved; investigational	0.73
+178	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB11575	Grazoprevir	approved	DB00200	Hydroxocobalamin	approved	0.74
+179	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB11575	Grazoprevir	approved	DB00309	Vindesine	approved; investigational	0.72
+180	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB11575	Grazoprevir	approved	DB00361	Vinorelbine	approved; investigational	0.73
+181	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB11575	Grazoprevir	approved	DB00541	Vincristine	approved; investigational	0.72
+182	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB11575	Grazoprevir	approved	DB00570	Vinblastine	approved	0.72
+183	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB11575	Grazoprevir	approved	DB03614	Mecobalamin	approved; investigational	0.74
+184	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB11575	Grazoprevir	approved	DB05109	Trabectedin	approved; investigational	0.7
+185	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB11575	Grazoprevir	approved	DB06290	Simeprevir	approved	0.7
+186	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB11575	Grazoprevir	approved	DB09297	Paritaprevir	approved; investigational	0.78
+187	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB11575	Grazoprevir	approved	DB11191	Cobamamide	approved	0.74
+188	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB11575	Grazoprevir	approved	DB11575	Grazoprevir	approved	1.0
+189	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB11575	Grazoprevir	approved	DB11586	Asunaprevir	approved; investigational; withdrawn	0.8
+190	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB11575	Grazoprevir	approved	DB11641	Vinflunine	approved; investigational	0.73
+191	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB11575	Grazoprevir	approved	DB12026	Voxilaprevir	approved; investigational	0.89
+192	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB11575	Grazoprevir	approved	DB12674	Lurbinectedin	approved; investigational	0.72
+193	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB11575	Grazoprevir	approved	DB13879	Glecaprevir	approved; investigational	0.84
+194	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB12026	Voxilaprevir	approved; investigational	DB00115	Cyanocobalamin	approved; nutraceutical	0.74
+195	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB12026	Voxilaprevir	approved; investigational	DB00200	Hydroxocobalamin	approved	0.8
+196	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB12026	Voxilaprevir	approved; investigational	DB00256	Lymecycline	approved; investigational	0.71
+197	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB12026	Voxilaprevir	approved; investigational	DB00290	Bleomycin	approved; investigational	0.74
+198	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB12026	Voxilaprevir	approved; investigational	DB00309	Vindesine	approved; investigational	0.77
+199	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB12026	Voxilaprevir	approved; investigational	DB00320	Dihydroergotamine	approved; investigational	0.71
+200	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB12026	Voxilaprevir	approved; investigational	DB00361	Vinorelbine	approved; investigational	0.78
+201	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB12026	Voxilaprevir	approved; investigational	DB00512	Vancomycin	approved	0.72
+202	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB12026	Voxilaprevir	approved; investigational	DB00541	Vincristine	approved; investigational	0.78
+203	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB12026	Voxilaprevir	approved; investigational	DB00560	Tigecycline	approved	0.71
+204	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB12026	Voxilaprevir	approved; investigational	DB00570	Vinblastine	approved	0.78
+205	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB12026	Voxilaprevir	approved; investigational	DB00595	Oxytetracycline	approved; investigational; vet_approved	0.71
+206	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB12026	Voxilaprevir	approved; investigational	DB00615	Rifabutin	approved; investigational	0.74
+207	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB12026	Voxilaprevir	approved; investigational	DB00618	Demeclocycline	approved	0.7
+208	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB12026	Voxilaprevir	approved; investigational	DB00696	Ergotamine	approved	0.73
+209	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB12026	Voxilaprevir	approved; investigational	DB00762	Irinotecan	approved; investigational	0.71
+210	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB12026	Voxilaprevir	approved; investigational	DB00931	Metacycline	approved; investigational	0.7
+211	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB12026	Voxilaprevir	approved; investigational	DB00970	Dactinomycin	approved; investigational	0.73
+212	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB12026	Voxilaprevir	approved; investigational	DB01200	Bromocriptine	approved; investigational	0.74
+213	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB12026	Voxilaprevir	approved; investigational	DB01220	Rifaximin	approved; investigational	0.71
+214	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB12026	Voxilaprevir	approved; investigational	DB01301	Rolitetracycline	approved	0.71
+215	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB12026	Voxilaprevir	approved; investigational	DB03614	Mecobalamin	approved; investigational	0.8
+216	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB12026	Voxilaprevir	approved; investigational	DB04911	Oritavancin	approved; investigational	0.74
+217	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB12026	Voxilaprevir	approved; investigational	DB05109	Trabectedin	approved; investigational	0.76
+218	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB12026	Voxilaprevir	approved; investigational	DB06290	Simeprevir	approved	0.71
+219	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB12026	Voxilaprevir	approved; investigational	DB06402	Telavancin	approved	0.74
+220	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB12026	Voxilaprevir	approved; investigational	DB06590	Ceftaroline fosamil	approved; investigational	0.7
+221	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB12026	Voxilaprevir	approved; investigational	DB09093	Chlortetracycline	approved; investigational; vet_approved	0.71
+222	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB12026	Voxilaprevir	approved; investigational	DB09297	Paritaprevir	approved; investigational	0.74
+223	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB12026	Voxilaprevir	approved; investigational	DB11191	Cobamamide	approved	0.8
+224	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB12026	Voxilaprevir	approved; investigational	DB11273	Dihydroergocornine	approved	0.71
+225	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB12026	Voxilaprevir	approved; investigational	DB11274	Dihydro-alpha-ergocryptine	approved	0.71
+226	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB12026	Voxilaprevir	approved; investigational	DB11275	Epicriptine	approved	0.71
+227	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB12026	Voxilaprevir	approved; investigational	DB11575	Grazoprevir	approved	0.89
+228	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB12026	Voxilaprevir	approved; investigational	DB11586	Asunaprevir	approved; investigational; withdrawn	0.75
+229	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB12026	Voxilaprevir	approved; investigational	DB11613	Velpatasvir	approved; investigational	0.7
+230	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB12026	Voxilaprevir	approved; investigational	DB11641	Vinflunine	approved; investigational	0.78
+231	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB12026	Voxilaprevir	approved; investigational	DB11691	Naldemedine	approved; investigational	0.74
+232	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB12026	Voxilaprevir	approved; investigational	DB12026	Voxilaprevir	approved; investigational	1.0
+233	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB12026	Voxilaprevir	approved; investigational	DB12329	Eravacycline	approved; investigational	0.71
+234	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB12026	Voxilaprevir	approved; investigational	DB12455	Omadacycline	approved; investigational	0.72
+235	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB12026	Voxilaprevir	approved; investigational	DB12674	Lurbinectedin	approved; investigational	0.78
+236	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB12026	Voxilaprevir	approved; investigational	DB13345	Dihydroergocristine	approved; experimental	0.72
+237	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB12026	Voxilaprevir	approved; investigational	DB13879	Glecaprevir	approved; investigational	0.9
+238	tr|Q91RS4|Q91RS4_9	B0B3C9	99.45	1	181	DB12026	Voxilaprevir	approved; investigational	DB13997	Baloxavir marboxil	approved; investigational	0.72
+239	tr|Q91RS4|Q91RS4_9	P26660	99.45	1031	1211	DB03388	3-[(2,4-Dichlorobenzoyl)(Isopropyl)Amino]-5-Phenylthiophene-2-Carboxylic Acid	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+240	tr|Q91RS4|Q91RS4_9	P26660	99.45	1031	1211	DB03647	3-[Isopropyl(4-Methylbenzoyl)Amino]-5-Phenylthiophene-2-Carboxylic Acid	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+241	tr|Q91RS4|Q91RS4_9	P26661	98.9	1031	1210	DB08701	2-(3-BROMOPHENYL)-6-[(2-HYDROXYETHYL)AMINO]-1H-BENZO[DE]ISOQUINOLINE-1,3(2H)-DIONE	experimental	-	Sorry! Cannot find	structurally similar	approved molecules

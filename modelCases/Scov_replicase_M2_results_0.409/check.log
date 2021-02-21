@@ -1,0 +1,156 @@
+	Number of sequences input by user are: 1
+
+	INITIATIED Homology Search with	
+:/prod/www/nslab/NOD/Results/SC_CS_M2_16_results_0.409//pyRunHmmer.smry	/prod/www/nslab/NOD/Results/SC_CS_M2_16_results_0.409//pyRunHmmer.align	/prod/www/nslab/NOD/Results/SC_CS_M2_16_results_0.409//pyRunHmmer.tsv	FASTA	05	FASTA	/prod/www/nslab/NOD/Results/SC_CS_M2_16_results_0.409//query.fasta	source/1-DgB_TargetProteins.fasta
+	COMPLETED Homology Search
+
+TIME-Homology-Search:	48.09
+
+	FORMATTED: Homology Search output into Tables
+
+TIME-Sanitize-hmmer:	0.02
+
+	Homology table is being FILTERED based on e-value and query coverage
+
+	RETEIVED: Relevant hits from homology table
+
+TIME-Filter-Table:	0.02
+	Entered in MODE-2
+
+	MAPPING the ids onto DrugBank database to find potent compunds
+
+	Extracted DBids from jackHmmer:	DB07293; DB07620; DB07743; DB08656; DB08732; DB08748; DB14761; DB15686
+Find a match against DB07293 in DgBankDB: target
+Find a match against  DB07620 in DgBankDB: target
+Find a match against  DB07743 in DgBankDB: target
+Find a match against  DB08656 in DgBankDB: target
+Find a match against  DB08732 in DgBankDB: target
+Find a match against  DB08748 in DgBankDB: target
+Find a match against  DB14761 in DgBankDB: target
+Find a match against  DB15686 in DgBankDB: target
+
+	FETCHED: Potent Drugbank compounds details
+
+TIME-MODE2_DBmap-Run:	2.89
+
+SMILES for DbId:DB07293	CC(=O)CNC(=O)OCc1ccccc1
+
+No Hits were found in secondary run
+
+SMILES for DbId:DB07620	Clc1cc(Cl)c(cc1C)S(=O)(=O)c2c([N+]([O-])=O)cc(C(F)(F)F)cc2[N+]([O-])=O
+
+No Hits were found in secondary run
+
+SMILES for DbId:DB07743	FC(F)(F)c1nnc([nH]1)SC(=O)c2ccc(o2)C#Cc3ccccc3
+
+No Hits were found in secondary run
+
+SMILES for DbId:DB08656	c1cccc(c12)cccc2[C@@H](C)NC(=O)c3c(C)ccc(N)c3
+
+No Hits were found in secondary run
+
+SMILES for DbId:DB08732	c1ccccc1C[C@@H](C(=O)N[C@H](C)C(=O)CCO)NC(=O)OCc2ccccc2
+
+No Hits were found in secondary run
+
+SMILES for DbId:DB08748	CN(C)c1ccc(cc1)C(=O)O
+
+Cutoff Cleared for query DBid DB08748
+
+Tcoff above 0.7	0.83
+
+SMILES for DbId:DB14761	CCC(CC)COC(=O)[C@H](C)N[P@@](=O)(Oc1ccccc1)OC[C@@H](O2)[C@@H](O)[C@@H](O)[C@]2(C#N)c3ccc(n34)c(N)ncn4
+
+Cutoff Cleared for query DBid DB14761
+
+Tcoff above 0.7	0.73
+
+Cutoff Cleared for query DBid DB14761
+
+Tcoff above 0.7	0.8
+
+Cutoff Cleared for query DBid DB14761
+
+Tcoff above 0.7	0.73
+
+Cutoff Cleared for query DBid DB14761
+
+Tcoff above 0.7	0.78
+
+Cutoff Cleared for query DBid DB14761
+
+Tcoff above 0.7	0.78
+
+Cutoff Cleared for query DBid DB14761
+
+Tcoff above 0.7	0.7
+
+Cutoff Cleared for query DBid DB14761
+
+Tcoff above 0.7	0.78
+
+Cutoff Cleared for query DBid DB14761
+
+Tcoff above 0.7	0.78
+
+Cutoff Cleared for query DBid DB14761
+
+Tcoff above 0.7	0.74
+
+Cutoff Cleared for query DBid DB14761
+
+Tcoff above 0.7	0.7
+
+Cutoff Cleared for query DBid DB14761
+
+Tcoff above 0.7	0.71
+
+Cutoff Cleared for query DBid DB14761
+
+Tcoff above 0.7	0.71
+
+Cutoff Cleared for query DBid DB14761
+
+Tcoff above 0.7	0.8
+
+Cutoff Cleared for query DBid DB14761
+
+Tcoff above 0.7	0.73
+
+Cutoff Cleared for query DBid DB14761
+
+Tcoff above 0.7	0.74
+
+Cutoff Cleared for query DBid DB14761
+
+Tcoff above 0.7	0.73
+
+Cutoff Cleared for query DBid DB14761
+
+Tcoff above 0.7	0.8
+
+Cutoff Cleared for query DBid DB14761
+
+Tcoff above 0.7	0.78
+
+Cutoff Cleared for query DBid DB14761
+
+Tcoff above 0.7	0.73
+
+Cutoff Cleared for query DBid DB14761
+
+Tcoff above 0.7	0.77
+
+Cutoff Cleared for query DBid DB14761
+
+Tcoff above 0.7	0.71
+
+SMILES for DbId:DB15686	Nc1ncnn(c12)c(cc2)[C@]3(C#N)O[C@H](CO)[C@@H](O)[C@H]3O
+
+No Hits were found in secondary run
+
+TIME-MODE2_Tc-Run:	53.88
+
+TIME-MODE2-Complete:	56.77
+
+TIME-Complete-Run:	104.9

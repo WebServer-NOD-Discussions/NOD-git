@@ -1,0 +1,13 @@
+mode2,/prod/www/nslab/NOD/Results/SC_HCV_protease_results_0.835/qFile.fasta,/prod/www/nslab/NOD/Results/SC_HCV_protease_results_0.835/, SC_HCV_protease, SC_HCV_protease
+python bin/preSubmitCheck.py mode2 /prod/www/nslab/NOD/Results/SC_HCV_protease_results_0.835/qFile.fasta /prod/www/nslab/NOD/Results/SC_HCV_protease_results_0.835/ &> preSubmit.log
+
+
+python bin/master_handler_v2.py mode2 /prod/www/nslab/NOD/Results/SC_HCV_protease_results_0.835//query.fasta /prod/www/nslab/NOD/Results/SC_HCV_protease_results_0.835/ &> /prod/www/nslab/NOD/Results/SC_HCV_protease_results_0.835//handler.log
+
+
+python NOD/mailContent.py mode2 /prod/www/nslab/NOD/Results/SC_HCV_protease_results_0.835/ Results/SC_HCV_protease_results_0.835 SC_HCV_protease &> /prod/www/nslab/NOD/Results/SC_HCV_protease_results_0.835//mailContent.log
+
+
+python bin/postEmail.py mode2 Results/SC_HCV_protease_results_0.835 SC_HCV_protease SC_HCV_protease sohini@iisc.ac.in &> /prod/www/nslab/NOD/Results/SC_HCV_protease_results_0.835//pushMail.log
+
+

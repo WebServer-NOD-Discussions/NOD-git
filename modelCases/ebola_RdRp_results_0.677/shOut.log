@@ -1,0 +1,13 @@
+mode2,/prod/www/nslab/NOD/Results/SC_ebola_RdRp_results_0.677/qFile.fasta,/prod/www/nslab/NOD/Results/SC_ebola_RdRp_results_0.677/, SC_ebola_RdRp, SC_ebola_RdRp
+python bin/preSubmitCheck.py mode2 /prod/www/nslab/NOD/Results/SC_ebola_RdRp_results_0.677/qFile.fasta /prod/www/nslab/NOD/Results/SC_ebola_RdRp_results_0.677/ &> preSubmit.log
+
+
+python bin/master_handler_v2.py mode2 /prod/www/nslab/NOD/Results/SC_ebola_RdRp_results_0.677//query.fasta /prod/www/nslab/NOD/Results/SC_ebola_RdRp_results_0.677/ &> /prod/www/nslab/NOD/Results/SC_ebola_RdRp_results_0.677//handler.log
+
+
+python NOD/mailContent.py mode2 /prod/www/nslab/NOD/Results/SC_ebola_RdRp_results_0.677/ Results/SC_ebola_RdRp_results_0.677 SC_ebola_RdRp &> /prod/www/nslab/NOD/Results/SC_ebola_RdRp_results_0.677//mailContent.log
+
+
+python bin/postEmail.py mode2 Results/SC_ebola_RdRp_results_0.677 SC_ebola_RdRp SC_ebola_RdRp sohini@iisc.ac.in &> /prod/www/nslab/NOD/Results/SC_ebola_RdRp_results_0.677//pushMail.log
+
+

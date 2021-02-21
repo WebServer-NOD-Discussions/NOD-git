@@ -1,0 +1,13 @@
+mode2,/prod/www/nslab/NOD/Results/SC_HIV_protease_results_0.123/qFile.fasta,/prod/www/nslab/NOD/Results/SC_HIV_protease_results_0.123/, SC_HIV_protease, SC_HIV_protease
+python bin/preSubmitCheck.py mode2 /prod/www/nslab/NOD/Results/SC_HIV_protease_results_0.123/qFile.fasta /prod/www/nslab/NOD/Results/SC_HIV_protease_results_0.123/ &> preSubmit.log
+
+
+python bin/master_handler_v2.py mode2 /prod/www/nslab/NOD/Results/SC_HIV_protease_results_0.123//query.fasta /prod/www/nslab/NOD/Results/SC_HIV_protease_results_0.123/ &> /prod/www/nslab/NOD/Results/SC_HIV_protease_results_0.123//handler.log
+
+
+python NOD/mailContent.py mode2 /prod/www/nslab/NOD/Results/SC_HIV_protease_results_0.123/ Results/SC_HIV_protease_results_0.123 SC_HIV_protease &> /prod/www/nslab/NOD/Results/SC_HIV_protease_results_0.123//mailContent.log
+
+
+python bin/postEmail.py mode2 Results/SC_HIV_protease_results_0.123 SC_HIV_protease SC_HIV_protease sohini@iisc.ac.in &> /prod/www/nslab/NOD/Results/SC_HIV_protease_results_0.123//pushMail.log
+
+

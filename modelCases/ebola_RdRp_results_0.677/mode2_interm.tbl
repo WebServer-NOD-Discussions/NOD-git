@@ -1,0 +1,4 @@
+	Query	Target	Query-Cov	Align-From	Align-To	DrugBank ID	Reg.Status	Mol.Name	SMILES
+0	sp|Q05318|L_EBOZM	Q05318	99.95	1	2212	DB11676	investigational	Galidesivir	O[C@@H]1[C@H](O)[C@@H](CO)N[C@H]1c2c[nH]c(c23)c(N)ncn3
+1	sp|Q05318|L_EBOZM	Q05318	99.95	1	2212	DB14761	investigational	Remdesivir	CCC(CC)COC(=O)[C@H](C)N[P@@](=O)(Oc1ccccc1)OC[C@@H](O2)[C@@H](O)[C@@H](O)[C@]2(C#N)c3ccc(n34)c(N)ncn4
+2	sp|Q05318|L_EBOZM	Q05318	99.95	1	2212	DB15686	experimental	GS-441524	Nc1ncnn(c12)c(cc2)[C@]3(C#N)O[C@H](CO)[C@@H](O)[C@H]3O

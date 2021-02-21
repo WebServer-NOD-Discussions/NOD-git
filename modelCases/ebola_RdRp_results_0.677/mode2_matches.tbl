@@ -1,0 +1,24 @@
+	Query	Target	Query-Cov	Align-From	Align-To	1-Candidate	1-Mol.Name	1-Reg.Status	2-Candidate	2-Mol.Name	2-Reg.Status	Similarity by Tcoff
+0	sp|Q05318|L_EBOZM	Q05318	99.95	1	2212	DB11676	Galidesivir	investigational	-	Sorry! Cannot find	structurally similar	approved molecules
+1	sp|Q05318|L_EBOZM	Q05318	99.95	1	2212	DB14761	Remdesivir	investigational	DB00115	Cyanocobalamin	approved; nutraceutical	0.73
+2	sp|Q05318|L_EBOZM	Q05318	99.95	1	2212	DB14761	Remdesivir	investigational	DB00200	Hydroxocobalamin	approved	0.8
+3	sp|Q05318|L_EBOZM	Q05318	99.95	1	2212	DB14761	Remdesivir	investigational	DB00290	Bleomycin	approved; investigational	0.73
+4	sp|Q05318|L_EBOZM	Q05318	99.95	1	2212	DB14761	Remdesivir	investigational	DB00309	Vindesine	approved; investigational	0.78
+5	sp|Q05318|L_EBOZM	Q05318	99.95	1	2212	DB14761	Remdesivir	investigational	DB00361	Vinorelbine	approved; investigational	0.78
+6	sp|Q05318|L_EBOZM	Q05318	99.95	1	2212	DB14761	Remdesivir	investigational	DB00512	Vancomycin	approved	0.7
+7	sp|Q05318|L_EBOZM	Q05318	99.95	1	2212	DB14761	Remdesivir	investigational	DB00541	Vincristine	approved; investigational	0.78
+8	sp|Q05318|L_EBOZM	Q05318	99.95	1	2212	DB14761	Remdesivir	investigational	DB00570	Vinblastine	approved	0.78
+9	sp|Q05318|L_EBOZM	Q05318	99.95	1	2212	DB14761	Remdesivir	investigational	DB00615	Rifabutin	approved; investigational	0.74
+10	sp|Q05318|L_EBOZM	Q05318	99.95	1	2212	DB14761	Remdesivir	investigational	DB00970	Dactinomycin	approved; investigational	0.7
+11	sp|Q05318|L_EBOZM	Q05318	99.95	1	2212	DB14761	Remdesivir	investigational	DB01200	Bromocriptine	approved; investigational	0.71
+12	sp|Q05318|L_EBOZM	Q05318	99.95	1	2212	DB14761	Remdesivir	investigational	DB01220	Rifaximin	approved; investigational	0.71
+13	sp|Q05318|L_EBOZM	Q05318	99.95	1	2212	DB14761	Remdesivir	investigational	DB03614	Mecobalamin	approved; investigational	0.8
+14	sp|Q05318|L_EBOZM	Q05318	99.95	1	2212	DB14761	Remdesivir	investigational	DB04911	Oritavancin	approved; investigational	0.73
+15	sp|Q05318|L_EBOZM	Q05318	99.95	1	2212	DB14761	Remdesivir	investigational	DB05109	Trabectedin	approved; investigational	0.74
+16	sp|Q05318|L_EBOZM	Q05318	99.95	1	2212	DB14761	Remdesivir	investigational	DB06402	Telavancin	approved	0.73
+17	sp|Q05318|L_EBOZM	Q05318	99.95	1	2212	DB14761	Remdesivir	investigational	DB11191	Cobamamide	approved	0.8
+18	sp|Q05318|L_EBOZM	Q05318	99.95	1	2212	DB14761	Remdesivir	investigational	DB11641	Vinflunine	approved; investigational	0.78
+19	sp|Q05318|L_EBOZM	Q05318	99.95	1	2212	DB14761	Remdesivir	investigational	DB11691	Naldemedine	approved; investigational	0.73
+20	sp|Q05318|L_EBOZM	Q05318	99.95	1	2212	DB14761	Remdesivir	investigational	DB12674	Lurbinectedin	approved; investigational	0.77
+21	sp|Q05318|L_EBOZM	Q05318	99.95	1	2212	DB14761	Remdesivir	investigational	DB13997	Baloxavir marboxil	approved; investigational	0.71
+22	sp|Q05318|L_EBOZM	Q05318	99.95	1	2212	DB15686	GS-441524	experimental	-	Sorry! Cannot find	structurally similar	approved molecules

@@ -1,0 +1,762 @@
+[00:14:23] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:14:24] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:14:24] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:14:25] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:14:28] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:14:28] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:14:29] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:14:30] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:14:31] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:14:31] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:14:32] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:14:35] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:14:35] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:14:36] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:14:37] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:14:37] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:14:37] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:14:39] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:14:42] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:14:42] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:14:42] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:14:43] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:14:44] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:14:44] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:14:45] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:14:48] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:14:49] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:14:49] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:14:50] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:14:51] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:14:51] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:14:52] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:14:55] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:14:55] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:14:56] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:14:57] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:14:58] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:14:58] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:14:59] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:15:02] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:15:02] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:15:03] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:15:04] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:15:05] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:15:05] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:15:06] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:15:09] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:15:09] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:15:10] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:15:11] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:15:11] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:15:11] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:15:13] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:15:15] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:15:16] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:15:16] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:15:17] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:15:18] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:15:18] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:15:19] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:15:22] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:15:23] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:15:23] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:15:24] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:15:25] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:15:25] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:15:26] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:15:29] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:15:29] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:15:30] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:15:31] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:15:32] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:15:32] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:15:33] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:15:36] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:15:36] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:15:37] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:15:38] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:15:38] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:15:38] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:15:40] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:15:43] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:15:43] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:15:43] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:15:44] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:15:45] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:15:45] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:15:46] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:15:49] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:15:50] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:15:50] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:15:51] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:15:52] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:15:52] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:15:53] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:15:56] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:15:57] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:15:57] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:15:58] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:15:59] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:15:59] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:16:00] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:16:03] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:16:03] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:16:04] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:16:05] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:16:06] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:16:06] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:16:07] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:16:10] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:16:10] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:16:11] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:16:12] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:16:12] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:16:12] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:16:14] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:16:17] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:16:17] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:16:17] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:16:18] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:16:19] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:16:19] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:16:20] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:16:23] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:16:24] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:16:24] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:16:25] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:16:26] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:16:26] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:16:27] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:16:30] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:16:31] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:16:31] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:16:32] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:16:33] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:16:33] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:16:34] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:16:37] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:16:37] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:16:38] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:16:39] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:16:40] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:16:40] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:16:41] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:16:44] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:16:44] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:16:45] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:16:46] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:16:46] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:16:46] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:16:48] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:16:51] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:16:51] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:16:51] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:16:52] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:16:53] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:16:53] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:16:54] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:16:57] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:16:58] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:16:58] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:16:59] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:17:00] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:17:00] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:17:01] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:17:04] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:17:05] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:17:05] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:17:06] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:17:07] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:17:07] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:17:08] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:17:11] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:17:11] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:17:12] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:17:13] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:17:14] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:17:14] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:17:15] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:17:18] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:17:18] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:17:19] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:17:20] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:17:20] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:17:20] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:17:22] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:17:24] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:17:25] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:17:25] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:17:26] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:17:27] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:17:27] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:17:28] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:17:31] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:17:32] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:17:32] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:17:33] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:17:34] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:17:34] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:17:35] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:17:38] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:17:38] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:17:39] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:17:40] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:17:41] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:17:41] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:17:42] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:17:45] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:17:45] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:17:46] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:17:47] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:17:47] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:17:48] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:17:49] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:17:52] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:17:52] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:17:53] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:17:54] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:17:54] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:17:54] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:17:55] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:17:58] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:17:59] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:17:59] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:18:00] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:18:01] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:18:01] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:18:02] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:18:05] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:18:06] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:18:06] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:18:07] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:18:08] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:18:08] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:18:09] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:18:12] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:18:12] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:18:13] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:18:14] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:18:15] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:18:15] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:18:16] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:18:19] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:18:19] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:18:20] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:18:21] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:18:21] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:18:21] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:18:23] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:18:26] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:18:26] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:18:26] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:18:27] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:18:28] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:18:28] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:18:29] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:18:32] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:18:33] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:18:33] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:18:34] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:18:35] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:18:35] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:18:36] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:18:39] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:18:40] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:18:40] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:18:41] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:18:42] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:18:42] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:18:43] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:18:46] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:18:46] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:18:47] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:18:48] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:18:49] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:18:49] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:18:50] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:18:53] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:18:53] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:18:54] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:18:55] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:18:55] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:18:55] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:18:57] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:19:00] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:19:00] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:19:00] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:19:01] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:19:02] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:19:02] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:19:03] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:19:06] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:19:07] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:19:07] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:19:08] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:19:09] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:19:09] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:19:10] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:19:13] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:19:14] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:19:14] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:19:15] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:19:16] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:19:16] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:19:17] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:19:20] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:19:20] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:19:21] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:19:22] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:19:23] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:19:23] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:19:24] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:19:27] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:19:27] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:19:28] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:19:29] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:19:29] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:19:29] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:19:31] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:19:34] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:19:34] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:19:34] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:19:35] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:19:36] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:19:36] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:19:37] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:19:40] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:19:41] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:19:41] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:19:42] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:19:43] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:19:43] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:19:44] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:19:47] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:19:48] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:19:48] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:19:49] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:19:50] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:19:50] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:19:51] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:19:54] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:19:54] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:19:55] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:19:56] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:19:57] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:19:57] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:19:58] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:20:01] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:20:01] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:20:02] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:20:03] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:20:03] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:20:03] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:20:05] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:20:08] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:20:08] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:20:08] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:20:09] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:20:10] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:20:10] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:20:11] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:20:14] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:20:15] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:20:15] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:20:16] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:20:17] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:20:17] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:20:18] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:20:21] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:20:22] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:20:22] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:20:23] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:20:24] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:20:24] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:20:25] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:20:28] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:20:28] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:20:29] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:20:30] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:20:31] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:20:31] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:20:32] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:20:35] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:20:35] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:20:36] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:20:37] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:20:37] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:20:37] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:20:39] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:20:42] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:20:42] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:20:42] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:20:43] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:20:44] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:20:44] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:20:45] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:20:48] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:20:49] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:20:49] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:20:50] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:20:51] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:20:51] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:20:52] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:20:55] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:20:56] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:20:56] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:20:57] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:20:58] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:20:58] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:20:59] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:21:02] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:21:02] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:21:03] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:21:04] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:21:05] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:21:05] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:21:06] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:21:09] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:21:09] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:21:10] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:21:11] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:21:11] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:21:11] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:21:13] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:21:16] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:21:16] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:21:16] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:21:17] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:21:18] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:21:18] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:21:19] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:21:22] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:21:23] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:21:23] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:21:24] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:21:25] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:21:25] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:21:26] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:21:29] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:21:30] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:21:30] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:21:31] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:21:32] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:21:32] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:21:33] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:21:36] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:21:36] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:21:37] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:21:38] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:21:39] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:21:39] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:21:40] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:21:43] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:21:43] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:21:44] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:21:45] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:21:45] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:21:45] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:21:47] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:21:50] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:21:50] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:21:50] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:21:51] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:21:52] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:21:52] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:21:53] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:21:56] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:21:57] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:21:57] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:21:58] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:21:59] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:21:59] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:22:00] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:22:03] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:22:04] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:22:04] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:22:05] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:22:06] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:22:06] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:22:07] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:22:10] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:22:10] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:22:11] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:22:12] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:22:13] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:22:13] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:22:14] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:22:17] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:22:17] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:22:18] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:22:19] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:22:19] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:22:19] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:22:21] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:22:24] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:22:24] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:22:24] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:22:25] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:22:26] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:22:26] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:22:27] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:22:30] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:22:31] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:22:31] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:22:32] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:22:33] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:22:33] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:22:34] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:22:37] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:22:38] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:22:38] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:22:39] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:22:40] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:22:40] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:22:41] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:22:44] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:22:44] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:22:45] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:22:46] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:22:47] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:22:47] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:22:48] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:22:51] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:22:51] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:22:52] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:22:53] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:22:53] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:22:53] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:22:55] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:22:58] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:22:58] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:22:58] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:22:59] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:23:00] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:23:00] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:23:01] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:23:04] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:23:05] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:23:05] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:23:06] SMILES Parse Error: syntax error for input: ' '
+[00:23:06] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:23:07] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:23:07] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:23:08] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:23:11] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:23:12] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:23:12] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:23:13] SMILES Parse Error: syntax error for input: ' '
+[00:23:13] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:23:14] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:23:14] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:23:15] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:23:18] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:23:18] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:23:19] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:23:19] SMILES Parse Error: syntax error for input: ' '
+[00:23:20] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:23:21] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:23:21] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:23:22] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:23:25] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:23:25] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:23:26] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:23:27] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:23:27] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:23:27] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:23:29] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:23:32] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:23:32] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:23:32] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:23:33] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:23:34] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:23:34] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:23:35] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:23:38] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:23:39] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:23:39] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:23:40] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:23:41] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:23:41] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:23:42] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:23:45] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:23:45] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:23:46] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:23:47] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:23:48] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:23:48] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:23:49] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:23:52] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:23:52] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:23:53] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:23:54] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:23:54] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:23:54] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:23:56] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:23:59] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:23:59] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:23:59] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:24:00] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:24:01] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:24:01] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:24:02] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:24:05] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:24:06] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:24:06] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:24:07] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:24:08] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:24:08] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:24:09] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:24:12] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:24:13] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:24:13] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:24:14] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:24:15] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:24:15] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:24:16] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:24:19] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:24:19] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:24:20] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:24:21] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:24:22] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:24:22] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:24:23] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:24:26] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:24:26] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:24:27] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:24:28] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:24:28] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:24:28] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:24:29] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:24:32] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:24:33] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:24:33] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:24:34] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:24:35] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:24:35] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:24:36] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:24:39] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:24:40] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:24:40] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:24:41] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:24:42] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:24:42] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:24:43] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:24:46] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:24:46] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:24:47] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:24:48] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:24:49] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:24:49] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:24:50] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:24:53] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:24:53] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:24:54] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:24:55] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:24:55] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:24:55] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:24:57] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:25:00] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:25:00] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:25:00] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:25:01] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:25:02] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:25:02] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:25:03] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:25:06] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:25:07] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:25:07] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:25:08] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:25:09] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:25:09] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:25:10] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:25:13] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:25:14] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:25:14] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:25:15] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:25:16] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:25:16] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:25:17] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:25:20] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:25:20] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:25:21] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:25:22] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:25:23] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:25:23] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:25:24] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:25:27] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:25:27] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:25:28] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:25:28] SMILES Parse Error: syntax error for input: ' '
+[00:25:29] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:25:29] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:25:29] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:25:31] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:25:34] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:25:34] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:25:34] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:25:35] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:25:36] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:25:36] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:25:37] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:25:40] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:25:41] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:25:41] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:25:42] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:25:43] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:25:43] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:25:44] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:25:47] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:25:48] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:25:48] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:25:49] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:25:50] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:25:50] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:25:51] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:25:54] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:25:54] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:25:55] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:25:56] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:25:57] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:25:57] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:25:58] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:26:01] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:26:01] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:26:02] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:26:03] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:26:03] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:26:03] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:26:05] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:26:08] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:26:08] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:26:08] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:26:10] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:26:10] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:26:10] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:26:11] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:26:14] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:26:15] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:26:15] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:26:16] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:26:17] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:26:17] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:26:18] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:26:21] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:26:22] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:26:22] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:26:23] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:26:24] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:26:24] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:26:25] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:26:28] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:26:28] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:26:29] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:26:30] Explicit valence for atom # 2 O, 3, is greater than permitted
+[00:26:31] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:26:31] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:26:32] Explicit valence for atom # 0 N, 4, is greater than permitted
+[00:26:35] Explicit valence for atom # 84 N, 4, is greater than permitted
+[00:26:35] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[00:26:36] Explicit valence for atom # 0 N, 4, is greater than permitted
+
+[('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00215', 'Citalopram', 'approved', 'DB00215', 'Citalopram', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00215', 'Citalopram', 'approved', 'DB01175', 'Escitalopram', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00245', 'Benzatropine', 'approved', 'DB00245', 'Benzatropine', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00245', 'Benzatropine', 'approved', 'DB01146', 'Diphenylpyraline', 'approved; investigational', 0.78), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00246', 'Ziprasidone', 'approved', 'DB00246', 'Ziprasidone', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00283', 'Clemastine', 'approved; investigational', 'DB00283', 'Clemastine', 'approved; investigational', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00321', 'Amitriptyline', 'approved', 'DB00321', 'Amitriptyline', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00321', 'Amitriptyline', 'approved', 'DB00540', 'Nortriptyline', 'approved', 0.99), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00321', 'Amitriptyline', 'approved', 'DB13114', 'Amitriptylinoxide', 'approved; investigational', 0.96), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00334', 'Olanzapine', 'approved; investigational', 'DB00334', 'Olanzapine', 'approved; investigational', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00341', 'Cetirizine', 'approved', 'DB00341', 'Cetirizine', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00341', 'Cetirizine', 'approved', 'DB00354', 'Buclizine', 'approved', 0.75), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00341', 'Cetirizine', 'approved', 'DB00557', 'Hydroxyzine', 'approved', 0.95), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00341', 'Cetirizine', 'approved', 'DB00737', 'Meclizine', 'approved', 0.8), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00341', 'Cetirizine', 'approved', 'DB01176', 'Cyclizine', 'approved', 0.78), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00341', 'Cetirizine', 'approved', 'DB06282', 'Levocetirizine', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00341', 'Cetirizine', 'approved', 'DB08936', 'Chlorcyclizine', 'approved', 0.87), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00342', 'Terfenadine', 'approved; withdrawn', 'DB00342', 'Terfenadine', 'approved; withdrawn', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00342', 'Terfenadine', 'approved; withdrawn', 'DB00950', 'Fexofenadine', 'approved; investigational', 0.88), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00342', 'Terfenadine', 'approved; withdrawn', 'DB01231', 'Diphenidol', 'approved; investigational; withdrawn', 0.79), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00342', 'Terfenadine', 'approved; withdrawn', 'DB09076', 'Umeclidinium', 'approved', 0.82), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00354', 'Buclizine', 'approved', 'DB00341', 'Cetirizine', 'approved', 0.75), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00354', 'Buclizine', 'approved', 'DB00354', 'Buclizine', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00354', 'Buclizine', 'approved', 'DB00557', 'Hydroxyzine', 'approved', 0.76), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00354', 'Buclizine', 'approved', 'DB00737', 'Meclizine', 'approved', 0.79), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00354', 'Buclizine', 'approved', 'DB01176', 'Cyclizine', 'approved', 0.76), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00354', 'Buclizine', 'approved', 'DB06282', 'Levocetirizine', 'approved', 0.75), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00354', 'Buclizine', 'approved', 'DB08936', 'Chlorcyclizine', 'approved', 0.85), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00363', 'Clozapine', 'approved', 'DB00363', 'Clozapine', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00366', 'Doxylamine', 'approved; vet_approved', 'DB00366', 'Doxylamine', 'approved; vet_approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00370', 'Mirtazapine', 'approved', 'DB00370', 'Mirtazapine', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00370', 'Mirtazapine', 'approved', 'DB06148', 'Mianserin', 'approved; investigational', 0.72), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00405', 'Dexbrompheniramine', 'approved', 'DB00405', 'Dexbrompheniramine', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00405', 'Dexbrompheniramine', 'approved', 'DB00835', 'Brompheniramine', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00405', 'Dexbrompheniramine', 'approved', 'DB01114', 'Chlorpheniramine', 'approved', 0.87), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00405', 'Dexbrompheniramine', 'approved', 'DB01620', 'Pheniramine', 'approved', 0.93), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00405', 'Dexbrompheniramine', 'approved', 'DB09555', 'Dexchlorpheniramine maleate', 'approved', 0.83), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00408', 'Loxapine', 'approved', 'DB00408', 'Loxapine', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00408', 'Loxapine', 'approved', 'DB00543', 'Amoxapine', 'approved', 0.99), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00420', 'Promazine', 'approved; vet_approved', 'DB00372', 'Thiethylperazine', 'approved; withdrawn', 0.79), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00420', 'Promazine', 'approved; vet_approved', 'DB00392', 'Profenamine', 'approved', 0.84), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00420', 'Promazine', 'approved; vet_approved', 'DB00420', 'Promazine', 'approved; vet_approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00420', 'Promazine', 'approved; vet_approved', 'DB00433', 'Prochlorperazine', 'approved; vet_approved', 0.82), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00420', 'Promazine', 'approved; vet_approved', 'DB00477', 'Chlorpromazine', 'approved; investigational; vet_approved', 0.86), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00420', 'Promazine', 'approved; vet_approved', 'DB00508', 'Triflupromazine', 'approved; vet_approved', 0.78), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00420', 'Promazine', 'approved; vet_approved', 'DB00623', 'Fluphenazine', 'approved', 0.74), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00420', 'Promazine', 'approved; vet_approved', 'DB00679', 'Thioridazine', 'approved; withdrawn', 0.76), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00420', 'Promazine', 'approved; vet_approved', 'DB00680', 'Moricizine', 'approved; investigational; withdrawn', 0.71), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00420', 'Promazine', 'approved; vet_approved', 'DB00831', 'Trifluoperazine', 'approved; investigational', 0.75), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00420', 'Promazine', 'approved; vet_approved', 'DB00850', 'Perphenazine', 'approved', 0.81), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00420', 'Promazine', 'approved; vet_approved', 'DB00902', 'Methdilazine', 'approved', 0.87), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00420', 'Promazine', 'approved; vet_approved', 'DB00933', 'Mesoridazine', 'approved; investigational', 0.72), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00420', 'Promazine', 'approved; vet_approved', 'DB01063', 'Acetophenazine', 'approved', 0.72), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00420', 'Promazine', 'approved; vet_approved', 'DB01069', 'Promethazine', 'approved; investigational', 0.86), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00420', 'Promazine', 'approved; vet_approved', 'DB01246', 'Alimemazine', 'approved; vet_approved', 0.95), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00420', 'Promazine', 'approved; vet_approved', 'DB01403', 'Methotrimeprazine', 'approved; investigational', 0.79), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00420', 'Promazine', 'approved; vet_approved', 'DB01608', 'Periciazine', 'approved; investigational', 0.77), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00420', 'Promazine', 'approved; vet_approved', 'DB12710', 'Perazine', 'approved; investigational', 0.94), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00427', 'Triprolidine', 'approved', 'DB00427', 'Triprolidine', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00427', 'Triprolidine', 'approved', 'DB09488', 'Acrivastine', 'approved', 0.85), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00433', 'Prochlorperazine', 'approved; vet_approved', 'DB00372', 'Thiethylperazine', 'approved; withdrawn', 0.73), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00433', 'Prochlorperazine', 'approved; vet_approved', 'DB00392', 'Profenamine', 'approved', 0.76), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00433', 'Prochlorperazine', 'approved; vet_approved', 'DB00420', 'Promazine', 'approved; vet_approved', 0.82), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00433', 'Prochlorperazine', 'approved; vet_approved', 'DB00433', 'Prochlorperazine', 'approved; vet_approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00433', 'Prochlorperazine', 'approved; vet_approved', 'DB00477', 'Chlorpromazine', 'approved; investigational; vet_approved', 0.95), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00433', 'Prochlorperazine', 'approved; vet_approved', 'DB00850', 'Perphenazine', 'approved', 0.98), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00433', 'Prochlorperazine', 'approved; vet_approved', 'DB00902', 'Methdilazine', 'approved', 0.73), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00433', 'Prochlorperazine', 'approved; vet_approved', 'DB01069', 'Promethazine', 'approved; investigational', 0.75), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00433', 'Prochlorperazine', 'approved; vet_approved', 'DB01246', 'Alimemazine', 'approved; vet_approved', 0.81), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00433', 'Prochlorperazine', 'approved; vet_approved', 'DB12710', 'Perazine', 'approved; investigational', 0.87), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00434', 'Cyproheptadine', 'approved', 'DB00434', 'Cyproheptadine', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00434', 'Cyproheptadine', 'approved', 'DB00924', 'Cyclobenzaprine', 'approved', 0.85), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00434', 'Cyproheptadine', 'approved', 'DB13720', 'Diphemanil', 'approved; vet_approved; withdrawn', 0.72), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00455', 'Loratadine', 'approved; investigational', 'DB00455', 'Loratadine', 'approved; investigational', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00455', 'Loratadine', 'approved; investigational', 'DB00719', 'Azatadine', 'approved', 0.86), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00455', 'Loratadine', 'approved; investigational', 'DB00967', 'Desloratadine', 'approved; investigational', 0.91), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00455', 'Loratadine', 'approved; investigational', 'DB11614', 'Rupatadine', 'approved', 0.85), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00458', 'Imipramine', 'approved', 'DB00458', 'Imipramine', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00458', 'Imipramine', 'approved', 'DB00726', 'Trimipramine', 'approved', 0.97), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00458', 'Imipramine', 'approved', 'DB01151', 'Desipramine', 'approved; investigational', 0.99), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00458', 'Imipramine', 'approved', 'DB01242', 'Clomipramine', 'approved; investigational; vet_approved', 0.86), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00458', 'Imipramine', 'approved', 'DB13246', 'Quinupramine', 'approved', 0.71), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00477', 'Chlorpromazine', 'approved; investigational; vet_approved', 'DB00392', 'Profenamine', 'approved', 0.75), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00477', 'Chlorpromazine', 'approved; investigational; vet_approved', 'DB00420', 'Promazine', 'approved; vet_approved', 0.86), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00477', 'Chlorpromazine', 'approved; investigational; vet_approved', 'DB00433', 'Prochlorperazine', 'approved; vet_approved', 0.95), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00477', 'Chlorpromazine', 'approved; investigational; vet_approved', 'DB00477', 'Chlorpromazine', 'approved; investigational; vet_approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00477', 'Chlorpromazine', 'approved; investigational; vet_approved', 'DB00850', 'Perphenazine', 'approved', 0.93), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00477', 'Chlorpromazine', 'approved; investigational; vet_approved', 'DB00902', 'Methdilazine', 'approved', 0.73), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00477', 'Chlorpromazine', 'approved; investigational; vet_approved', 'DB01069', 'Promethazine', 'approved; investigational', 0.77), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00477', 'Chlorpromazine', 'approved; investigational; vet_approved', 'DB01246', 'Alimemazine', 'approved; vet_approved', 0.84), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00477', 'Chlorpromazine', 'approved; investigational; vet_approved', 'DB12710', 'Perazine', 'approved; investigational', 0.83), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00502', 'Haloperidol', 'approved', 'DB00502', 'Haloperidol', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00502', 'Haloperidol', 'approved', 'DB12401', 'Bromperidol', 'approved; investigational', 0.87), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00540', 'Nortriptyline', 'approved', 'DB00321', 'Amitriptyline', 'approved', 0.99), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00540', 'Nortriptyline', 'approved', 'DB00540', 'Nortriptyline', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00540', 'Nortriptyline', 'approved', 'DB13114', 'Amitriptylinoxide', 'approved; investigational', 0.95), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00543', 'Amoxapine', 'approved', 'DB00408', 'Loxapine', 'approved', 0.99), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00543', 'Amoxapine', 'approved', 'DB00543', 'Amoxapine', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00555', 'Lamotrigine', 'approved; investigational', 'DB00555', 'Lamotrigine', 'approved; investigational', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00557', 'Hydroxyzine', 'approved', 'DB00341', 'Cetirizine', 'approved', 0.95), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00557', 'Hydroxyzine', 'approved', 'DB00354', 'Buclizine', 'approved', 0.76), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00557', 'Hydroxyzine', 'approved', 'DB00557', 'Hydroxyzine', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00557', 'Hydroxyzine', 'approved', 'DB00737', 'Meclizine', 'approved', 0.82), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00557', 'Hydroxyzine', 'approved', 'DB01176', 'Cyclizine', 'approved', 0.81), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00557', 'Hydroxyzine', 'approved', 'DB06282', 'Levocetirizine', 'approved', 0.95), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00557', 'Hydroxyzine', 'approved', 'DB08936', 'Chlorcyclizine', 'approved', 0.9), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00568', 'Cinnarizine', 'approved; investigational', 'DB00568', 'Cinnarizine', 'approved; investigational', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00568', 'Cinnarizine', 'approved; investigational', 'DB01176', 'Cyclizine', 'approved', 0.81), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00568', 'Cinnarizine', 'approved; investigational', 'DB04841', 'Flunarizine', 'approved', 0.91), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00568', 'Cinnarizine', 'approved; investigational', 'DB08936', 'Chlorcyclizine', 'approved', 0.76), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00637', 'Astemizole', 'approved; withdrawn', 'DB00637', 'Astemizole', 'approved; withdrawn', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00637', 'Astemizole', 'approved; withdrawn', 'DB12523', 'Mizolastine', 'approved; investigational', 0.75), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00656', 'Trazodone', 'approved; investigational', 'DB00656', 'Trazodone', 'approved; investigational', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00715', 'Paroxetine', 'approved; investigational', 'DB00715', 'Paroxetine', 'approved; investigational', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00719', 'Azatadine', 'approved', 'DB00455', 'Loratadine', 'approved; investigational', 0.86), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00719', 'Azatadine', 'approved', 'DB00719', 'Azatadine', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00719', 'Azatadine', 'approved', 'DB00967', 'Desloratadine', 'approved; investigational', 0.93), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00719', 'Azatadine', 'approved', 'DB11614', 'Rupatadine', 'approved', 0.86), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00726', 'Trimipramine', 'approved', 'DB00458', 'Imipramine', 'approved', 0.97), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00726', 'Trimipramine', 'approved', 'DB00726', 'Trimipramine', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00726', 'Trimipramine', 'approved', 'DB01151', 'Desipramine', 'approved; investigational', 0.95), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00726', 'Trimipramine', 'approved', 'DB01242', 'Clomipramine', 'approved; investigational; vet_approved', 0.84), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00726', 'Trimipramine', 'approved', 'DB13246', 'Quinupramine', 'approved', 0.71), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00734', 'Risperidone', 'approved; investigational', 'DB00734', 'Risperidone', 'approved; investigational', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00734', 'Risperidone', 'approved; investigational', 'DB01267', 'Paliperidone', 'approved', 0.94), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00737', 'Meclizine', 'approved', 'DB00341', 'Cetirizine', 'approved', 0.8), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00737', 'Meclizine', 'approved', 'DB00354', 'Buclizine', 'approved', 0.79), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00737', 'Meclizine', 'approved', 'DB00557', 'Hydroxyzine', 'approved', 0.82), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00737', 'Meclizine', 'approved', 'DB00737', 'Meclizine', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00737', 'Meclizine', 'approved', 'DB01176', 'Cyclizine', 'approved', 0.84), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00737', 'Meclizine', 'approved', 'DB06282', 'Levocetirizine', 'approved', 0.8), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00737', 'Meclizine', 'approved', 'DB08936', 'Chlorcyclizine', 'approved', 0.94), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00748', 'Carbinoxamine', 'approved', 'DB00748', 'Carbinoxamine', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00748', 'Carbinoxamine', 'approved', 'DB04890', 'Bepotastine', 'approved', 0.79), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00751', 'Epinastine', 'approved; investigational', 'DB00751', 'Epinastine', 'approved; investigational', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00767', 'Benzquinamide', 'withdrawn', 'DB04844', 'Tetrabenazine', 'approved; investigational', 0.73), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00767', 'Benzquinamide', 'withdrawn', 'DB11915', 'Valbenazine', 'approved; investigational', 0.82), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00767', 'Benzquinamide', 'withdrawn', 'DB12161', 'Deutetrabenazine', 'approved; investigational', 0.73), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00768', 'Olopatadine', 'approved', 'DB00768', 'Olopatadine', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00768', 'Olopatadine', 'approved', 'DB01142', 'Doxepin', 'approved; investigational', 0.83), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00777', 'Propiomazine', 'approved', 'DB00392', 'Profenamine', 'approved', 0.75), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00777', 'Propiomazine', 'approved', 'DB00508', 'Triflupromazine', 'approved; vet_approved', 0.7), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00777', 'Propiomazine', 'approved', 'DB00777', 'Propiomazine', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00777', 'Propiomazine', 'approved', 'DB01063', 'Acetophenazine', 'approved', 0.84), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00777', 'Propiomazine', 'approved', 'DB01069', 'Promethazine', 'approved; investigational', 0.75), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00777', 'Propiomazine', 'approved', 'DB01608', 'Periciazine', 'approved; investigational', 0.7), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00777', 'Propiomazine', 'approved', 'DB13213', 'Butaperazine', 'approved', 0.87), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00792', 'Tripelennamine', 'approved; vet_approved', 'DB00792', 'Tripelennamine', 'approved; vet_approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00792', 'Tripelennamine', 'approved; vet_approved', 'DB06691', 'Mepyramine', 'approved; vet_approved', 0.88), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00797', 'Tolazoline', 'approved; vet_approved', 'DB00797', 'Tolazoline', 'approved; vet_approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00797', 'Tolazoline', 'approved; vet_approved', 'DB06711', 'Naphazoline', 'approved; investigational', 0.75), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00835', 'Brompheniramine', 'approved', 'DB00405', 'Dexbrompheniramine', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00835', 'Brompheniramine', 'approved', 'DB00835', 'Brompheniramine', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00835', 'Brompheniramine', 'approved', 'DB01114', 'Chlorpheniramine', 'approved', 0.87), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00835', 'Brompheniramine', 'approved', 'DB01620', 'Pheniramine', 'approved', 0.93), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00835', 'Brompheniramine', 'approved', 'DB09555', 'Dexchlorpheniramine maleate', 'approved', 0.83), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00902', 'Methdilazine', 'approved', 'DB00372', 'Thiethylperazine', 'approved; withdrawn', 0.72), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00902', 'Methdilazine', 'approved', 'DB00392', 'Profenamine', 'approved', 0.78), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00902', 'Methdilazine', 'approved', 'DB00420', 'Promazine', 'approved; vet_approved', 0.87), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00902', 'Methdilazine', 'approved', 'DB00433', 'Prochlorperazine', 'approved; vet_approved', 0.73), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00902', 'Methdilazine', 'approved', 'DB00477', 'Chlorpromazine', 'approved; investigational; vet_approved', 0.73), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00902', 'Methdilazine', 'approved', 'DB00679', 'Thioridazine', 'approved; withdrawn', 0.71), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00902', 'Methdilazine', 'approved', 'DB00850', 'Perphenazine', 'approved', 0.71), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00902', 'Methdilazine', 'approved', 'DB00902', 'Methdilazine', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00902', 'Methdilazine', 'approved', 'DB01069', 'Promethazine', 'approved; investigational', 0.79), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00902', 'Methdilazine', 'approved', 'DB01246', 'Alimemazine', 'approved; vet_approved', 0.92), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00902', 'Methdilazine', 'approved', 'DB01403', 'Methotrimeprazine', 'approved; investigational', 0.73), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00902', 'Methdilazine', 'approved', 'DB12710', 'Perazine', 'approved; investigational', 0.86), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00920', 'Ketotifen', 'approved', 'DB00920', 'Ketotifen', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00920', 'Ketotifen', 'approved', 'DB06153', 'Pizotifen', 'approved', 0.84), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00934', 'Maprotiline', 'approved; investigational', 'DB00934', 'Maprotiline', 'approved; investigational', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00950', 'Fexofenadine', 'approved; investigational', 'DB00342', 'Terfenadine', 'approved; withdrawn', 0.88), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00950', 'Fexofenadine', 'approved; investigational', 'DB00950', 'Fexofenadine', 'approved; investigational', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00950', 'Fexofenadine', 'approved; investigational', 'DB01231', 'Diphenidol', 'approved; investigational; withdrawn', 0.7), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00950', 'Fexofenadine', 'approved; investigational', 'DB09076', 'Umeclidinium', 'approved', 0.74), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00967', 'Desloratadine', 'approved; investigational', 'DB00455', 'Loratadine', 'approved; investigational', 0.91), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00967', 'Desloratadine', 'approved; investigational', 'DB00719', 'Azatadine', 'approved', 0.93), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00967', 'Desloratadine', 'approved; investigational', 'DB00967', 'Desloratadine', 'approved; investigational', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00967', 'Desloratadine', 'approved; investigational', 'DB11614', 'Rupatadine', 'approved', 0.9), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00972', 'Azelastine', 'approved', 'DB00972', 'Azelastine', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00985', 'Dimenhydrinate', 'approved', 'DB01075', 'Diphenhydramine', 'approved; investigational', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00985', 'Dimenhydrinate', 'approved', 'DB01173', 'Orphenadrine', 'approved', 0.74), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB00985', 'Dimenhydrinate', 'approved', 'DB01237', 'Bromodiphenhydramine', 'approved', 0.88), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01069', 'Promethazine', 'approved; investigational', 'DB00372', 'Thiethylperazine', 'approved; withdrawn', 0.75), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01069', 'Promethazine', 'approved; investigational', 'DB00392', 'Profenamine', 'approved', 0.97), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01069', 'Promethazine', 'approved; investigational', 'DB00420', 'Promazine', 'approved; vet_approved', 0.86), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01069', 'Promethazine', 'approved; investigational', 'DB00433', 'Prochlorperazine', 'approved; vet_approved', 0.75), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01069', 'Promethazine', 'approved; investigational', 'DB00477', 'Chlorpromazine', 'approved; investigational; vet_approved', 0.77), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01069', 'Promethazine', 'approved; investigational', 'DB00508', 'Triflupromazine', 'approved; vet_approved', 0.73), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01069', 'Promethazine', 'approved; investigational', 'DB00623', 'Fluphenazine', 'approved', 0.71), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01069', 'Promethazine', 'approved; investigational', 'DB00679', 'Thioridazine', 'approved; withdrawn', 0.73), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01069', 'Promethazine', 'approved; investigational', 'DB00777', 'Propiomazine', 'approved', 0.75), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01069', 'Promethazine', 'approved; investigational', 'DB00831', 'Trifluoperazine', 'approved; investigational', 0.72), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01069', 'Promethazine', 'approved; investigational', 'DB00850', 'Perphenazine', 'approved', 0.75), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01069', 'Promethazine', 'approved; investigational', 'DB00902', 'Methdilazine', 'approved', 0.79), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01069', 'Promethazine', 'approved; investigational', 'DB00933', 'Mesoridazine', 'approved; investigational', 0.7), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01069', 'Promethazine', 'approved; investigational', 'DB01069', 'Promethazine', 'approved; investigational', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01069', 'Promethazine', 'approved; investigational', 'DB01246', 'Alimemazine', 'approved; vet_approved', 0.83), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01069', 'Promethazine', 'approved; investigational', 'DB01403', 'Methotrimeprazine', 'approved; investigational', 0.73), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01069', 'Promethazine', 'approved; investigational', 'DB01608', 'Periciazine', 'approved; investigational', 0.71), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01069', 'Promethazine', 'approved; investigational', 'DB08967', 'Dimetotiazine', 'approved', 0.75), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01069', 'Promethazine', 'approved; investigational', 'DB12710', 'Perazine', 'approved; investigational', 0.84), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01071', 'Mequitazine', 'experimental', 'DB00392', 'Profenamine', 'approved', 0.74), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01071', 'Mequitazine', 'experimental', 'DB00420', 'Promazine', 'approved; vet_approved', 0.81), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01071', 'Mequitazine', 'experimental', 'DB00433', 'Prochlorperazine', 'approved; vet_approved', 0.7), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01071', 'Mequitazine', 'experimental', 'DB00477', 'Chlorpromazine', 'approved; investigational; vet_approved', 0.7), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01071', 'Mequitazine', 'experimental', 'DB00679', 'Thioridazine', 'approved; withdrawn', 0.72), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01071', 'Mequitazine', 'experimental', 'DB00902', 'Methdilazine', 'approved', 0.87), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01071', 'Mequitazine', 'experimental', 'DB01069', 'Promethazine', 'approved; investigational', 0.75), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01071', 'Mequitazine', 'experimental', 'DB01246', 'Alimemazine', 'approved; vet_approved', 0.86), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01071', 'Mequitazine', 'experimental', 'DB01403', 'Methotrimeprazine', 'approved; investigational', 0.71), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01071', 'Mequitazine', 'experimental', 'DB01608', 'Periciazine', 'approved; investigational', 0.7), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01071', 'Mequitazine', 'experimental', 'DB12710', 'Perazine', 'approved; investigational', 0.81), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01075', 'Diphenhydramine', 'approved; investigational', 'DB01075', 'Diphenhydramine', 'approved; investigational', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01075', 'Diphenhydramine', 'approved; investigational', 'DB01173', 'Orphenadrine', 'approved', 0.74), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01075', 'Diphenhydramine', 'approved; investigational', 'DB01237', 'Bromodiphenhydramine', 'approved', 0.88), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01084', 'Emedastine', 'approved', 'DB01084', 'Emedastine', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01106', 'Levocabastine', 'approved; investigational', 'DB01106', 'Levocabastine', 'approved; investigational', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01114', 'Chlorpheniramine', 'approved', 'DB00405', 'Dexbrompheniramine', 'approved', 0.87), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01114', 'Chlorpheniramine', 'approved', 'DB00835', 'Brompheniramine', 'approved', 0.87), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01114', 'Chlorpheniramine', 'approved', 'DB01114', 'Chlorpheniramine', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01114', 'Chlorpheniramine', 'approved', 'DB01620', 'Pheniramine', 'approved', 0.93), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01114', 'Chlorpheniramine', 'approved', 'DB09555', 'Dexchlorpheniramine maleate', 'approved', 0.95), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01142', 'Doxepin', 'approved; investigational', 'DB00768', 'Olopatadine', 'approved', 0.83), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01142', 'Doxepin', 'approved; investigational', 'DB01142', 'Doxepin', 'approved; investigational', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01146', 'Diphenylpyraline', 'approved; investigational', 'DB00245', 'Benzatropine', 'approved', 0.78), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01146', 'Diphenylpyraline', 'approved; investigational', 'DB01146', 'Diphenylpyraline', 'approved; investigational', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01146', 'Diphenylpyraline', 'approved; investigational', 'DB11742', 'Ebastine', 'approved; investigational', 0.75), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01151', 'Desipramine', 'approved; investigational', 'DB00458', 'Imipramine', 'approved', 0.99), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01151', 'Desipramine', 'approved; investigational', 'DB00726', 'Trimipramine', 'approved', 0.95), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01151', 'Desipramine', 'approved; investigational', 'DB01151', 'Desipramine', 'approved; investigational', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01151', 'Desipramine', 'approved; investigational', 'DB01242', 'Clomipramine', 'approved; investigational; vet_approved', 0.84), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01151', 'Desipramine', 'approved; investigational', 'DB13246', 'Quinupramine', 'approved', 0.7), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01173', 'Orphenadrine', 'approved', 'DB01075', 'Diphenhydramine', 'approved; investigational', 0.74), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01173', 'Orphenadrine', 'approved', 'DB01173', 'Orphenadrine', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01173', 'Orphenadrine', 'approved', 'DB01237', 'Bromodiphenhydramine', 'approved', 0.72), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01173', 'Orphenadrine', 'approved', 'DB12293', 'Nefopam', 'approved; investigational', 0.72), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01175', 'Escitalopram', 'approved', 'DB00215', 'Citalopram', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01175', 'Escitalopram', 'approved', 'DB01175', 'Escitalopram', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01176', 'Cyclizine', 'approved', 'DB00341', 'Cetirizine', 'approved', 0.78), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01176', 'Cyclizine', 'approved', 'DB00354', 'Buclizine', 'approved', 0.76), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01176', 'Cyclizine', 'approved', 'DB00557', 'Hydroxyzine', 'approved', 0.81), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01176', 'Cyclizine', 'approved', 'DB00568', 'Cinnarizine', 'approved; investigational', 0.81), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01176', 'Cyclizine', 'approved', 'DB00737', 'Meclizine', 'approved', 0.84), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01176', 'Cyclizine', 'approved', 'DB01176', 'Cyclizine', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01176', 'Cyclizine', 'approved', 'DB04841', 'Flunarizine', 'approved', 0.76), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01176', 'Cyclizine', 'approved', 'DB06282', 'Levocetirizine', 'approved', 0.78), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01176', 'Cyclizine', 'approved', 'DB08936', 'Chlorcyclizine', 'approved', 0.9), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01224', 'Quetiapine', 'approved', 'DB01224', 'Quetiapine', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01224', 'Quetiapine', 'approved', 'DB13256', 'Clothiapine', 'approved', 0.9), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01237', 'Bromodiphenhydramine', 'approved', 'DB01075', 'Diphenhydramine', 'approved; investigational', 0.88), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01237', 'Bromodiphenhydramine', 'approved', 'DB01173', 'Orphenadrine', 'approved', 0.72), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01237', 'Bromodiphenhydramine', 'approved', 'DB01237', 'Bromodiphenhydramine', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01238', 'Aripiprazole', 'approved; investigational', 'DB01238', 'Aripiprazole', 'approved; investigational', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01238', 'Aripiprazole', 'approved; investigational', 'DB14185', 'Aripiprazole lauroxil', 'approved; investigational', 0.75), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01239', 'Chlorprothixene', 'approved; experimental; investigational; withdrawn', 'DB01239', 'Chlorprothixene', 'approved; experimental; investigational; withdrawn', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01239', 'Chlorprothixene', 'approved; experimental; investigational; withdrawn', 'DB01624', 'Zuclopenthixol', 'approved; investigational', 0.92), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01239', 'Chlorprothixene', 'approved; experimental; investigational; withdrawn', 'DB13292', 'Pimethixene', 'approved', 0.77), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01246', 'Alimemazine', 'approved; vet_approved', 'DB00372', 'Thiethylperazine', 'approved; withdrawn', 0.78), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01246', 'Alimemazine', 'approved; vet_approved', 'DB00392', 'Profenamine', 'approved', 0.81), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01246', 'Alimemazine', 'approved; vet_approved', 'DB00420', 'Promazine', 'approved; vet_approved', 0.95), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01246', 'Alimemazine', 'approved; vet_approved', 'DB00433', 'Prochlorperazine', 'approved; vet_approved', 0.81), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01246', 'Alimemazine', 'approved; vet_approved', 'DB00477', 'Chlorpromazine', 'approved; investigational; vet_approved', 0.84), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01246', 'Alimemazine', 'approved; vet_approved', 'DB00508', 'Triflupromazine', 'approved; vet_approved', 0.77), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01246', 'Alimemazine', 'approved; vet_approved', 'DB00623', 'Fluphenazine', 'approved', 0.74), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01246', 'Alimemazine', 'approved; vet_approved', 'DB00679', 'Thioridazine', 'approved; withdrawn', 0.75), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01246', 'Alimemazine', 'approved; vet_approved', 'DB00831', 'Trifluoperazine', 'approved; investigational', 0.74), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01246', 'Alimemazine', 'approved; vet_approved', 'DB00850', 'Perphenazine', 'approved', 0.8), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01246', 'Alimemazine', 'approved; vet_approved', 'DB00902', 'Methdilazine', 'approved', 0.92), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01246', 'Alimemazine', 'approved; vet_approved', 'DB00933', 'Mesoridazine', 'approved; investigational', 0.72), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01246', 'Alimemazine', 'approved; vet_approved', 'DB01063', 'Acetophenazine', 'approved', 0.72), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01246', 'Alimemazine', 'approved; vet_approved', 'DB01069', 'Promethazine', 'approved; investigational', 0.83), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01246', 'Alimemazine', 'approved; vet_approved', 'DB01246', 'Alimemazine', 'approved; vet_approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01246', 'Alimemazine', 'approved; vet_approved', 'DB01403', 'Methotrimeprazine', 'approved; investigational', 0.83), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01246', 'Alimemazine', 'approved; vet_approved', 'DB01608', 'Periciazine', 'approved; investigational', 0.76), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01246', 'Alimemazine', 'approved; vet_approved', 'DB12710', 'Perazine', 'approved; investigational', 0.91), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01267', 'Paliperidone', 'approved', 'DB00734', 'Risperidone', 'approved; investigational', 0.94), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01267', 'Paliperidone', 'approved', 'DB01267', 'Paliperidone', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01403', 'Methotrimeprazine', 'approved; investigational', 'DB00392', 'Profenamine', 'approved', 0.71), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01403', 'Methotrimeprazine', 'approved; investigational', 'DB00420', 'Promazine', 'approved; vet_approved', 0.79), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01403', 'Methotrimeprazine', 'approved; investigational', 'DB00902', 'Methdilazine', 'approved', 0.73), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01403', 'Methotrimeprazine', 'approved; investigational', 'DB01069', 'Promethazine', 'approved; investigational', 0.73), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01403', 'Methotrimeprazine', 'approved; investigational', 'DB01246', 'Alimemazine', 'approved; vet_approved', 0.83), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01403', 'Methotrimeprazine', 'approved; investigational', 'DB01403', 'Methotrimeprazine', 'approved; investigational', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01403', 'Methotrimeprazine', 'approved; investigational', 'DB12710', 'Perazine', 'approved; investigational', 0.76), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01615', 'Aceprometazine', 'experimental', 'DB00392', 'Profenamine', 'approved', 0.77), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01615', 'Aceprometazine', 'experimental', 'DB00508', 'Triflupromazine', 'approved; vet_approved', 0.73), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01615', 'Aceprometazine', 'experimental', 'DB00623', 'Fluphenazine', 'approved', 0.71), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01615', 'Aceprometazine', 'experimental', 'DB00777', 'Propiomazine', 'approved', 0.96), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01615', 'Aceprometazine', 'experimental', 'DB00831', 'Trifluoperazine', 'approved; investigational', 0.72), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01615', 'Aceprometazine', 'experimental', 'DB01063', 'Acetophenazine', 'approved', 0.87), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01615', 'Aceprometazine', 'experimental', 'DB01069', 'Promethazine', 'approved; investigational', 0.78), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01615', 'Aceprometazine', 'experimental', 'DB01608', 'Periciazine', 'approved; investigational', 0.72), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01615', 'Aceprometazine', 'experimental', 'DB13213', 'Butaperazine', 'approved', 0.83), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01619', 'Phenindamine', 'approved', 'DB01619', 'Phenindamine', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01620', 'Pheniramine', 'approved', 'DB00405', 'Dexbrompheniramine', 'approved', 0.93), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01620', 'Pheniramine', 'approved', 'DB00835', 'Brompheniramine', 'approved', 0.93), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01620', 'Pheniramine', 'approved', 'DB01114', 'Chlorpheniramine', 'approved', 0.93), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01620', 'Pheniramine', 'approved', 'DB01620', 'Pheniramine', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01620', 'Pheniramine', 'approved', 'DB09555', 'Dexchlorpheniramine maleate', 'approved', 0.88), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01624', 'Zuclopenthixol', 'approved; investigational', 'DB00875', 'Flupentixol', 'approved; investigational; withdrawn', 0.72), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01624', 'Zuclopenthixol', 'approved; investigational', 'DB01239', 'Chlorprothixene', 'approved; experimental; investigational; withdrawn', 0.92), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01624', 'Zuclopenthixol', 'approved; investigational', 'DB01624', 'Zuclopenthixol', 'approved; investigational', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB01624', 'Zuclopenthixol', 'approved; investigational', 'DB13292', 'Pimethixene', 'approved', 0.75), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB04837', 'Clofedanol', 'approved; withdrawn', 'DB04837', 'Clofedanol', 'approved; withdrawn', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB04841', 'Flunarizine', 'approved', 'DB00568', 'Cinnarizine', 'approved; investigational', 0.91), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB04841', 'Flunarizine', 'approved', 'DB01176', 'Cyclizine', 'approved', 0.76), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB04841', 'Flunarizine', 'approved', 'DB04841', 'Flunarizine', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB04841', 'Flunarizine', 'approved', 'DB08936', 'Chlorcyclizine', 'approved', 0.71), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB04890', 'Bepotastine', 'approved', 'DB00748', 'Carbinoxamine', 'approved', 0.79), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB04890', 'Bepotastine', 'approved', 'DB04890', 'Bepotastine', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB04905', 'Tesmilifene', 'investigational', '-', 'Sorry! Cannot find', 'structurally similar', 'approved molecules'), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB04946', 'Iloperidone', 'approved', 'DB04946', 'Iloperidone', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB05079', 'HY10275', 'investigational', 'DB04946', 'Iloperidone', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB05080', 'OBE101', 'investigational', 'DB04946', 'Iloperidone', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB05345', 'SO-101', 'investigational', 'DB04946', 'Iloperidone', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB05381', 'Histamine', 'approved; investigational', 'DB05381', 'Histamine', 'approved; investigational', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB05492', 'Epicept NP-1', 'investigational', '-', 'Sorry! Cannot find', 'structurally similar', 'approved molecules'), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB06016', 'Cariprazine', 'approved; investigational', 'DB06016', 'Cariprazine', 'approved; investigational', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB06148', 'Mianserin', 'approved; investigational', 'DB00370', 'Mirtazapine', 'approved', 0.72), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB06148', 'Mianserin', 'approved; investigational', 'DB06148', 'Mianserin', 'approved; investigational', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB06153', 'Pizotifen', 'approved', 'DB00920', 'Ketotifen', 'approved', 0.84), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB06153', 'Pizotifen', 'approved', 'DB06153', 'Pizotifen', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB06216', 'Asenapine', 'approved', 'DB06216', 'Asenapine', 'approved', 0.96), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB06229', 'Ocaperidone', 'investigational', 'DB00734', 'Risperidone', 'approved; investigational', 0.7), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB06282', 'Levocetirizine', 'approved', 'DB00341', 'Cetirizine', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB06282', 'Levocetirizine', 'approved', 'DB00354', 'Buclizine', 'approved', 0.75), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB06282', 'Levocetirizine', 'approved', 'DB00557', 'Hydroxyzine', 'approved', 0.95), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB06282', 'Levocetirizine', 'approved', 'DB00737', 'Meclizine', 'approved', 0.8), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB06282', 'Levocetirizine', 'approved', 'DB01176', 'Cyclizine', 'approved', 0.78), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB06282', 'Levocetirizine', 'approved', 'DB06282', 'Levocetirizine', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB06282', 'Levocetirizine', 'approved', 'DB08936', 'Chlorcyclizine', 'approved', 0.87), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB06678', 'Esmirtazapine', 'investigational', 'DB00370', 'Mirtazapine', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB06678', 'Esmirtazapine', 'investigational', 'DB06148', 'Mianserin', 'approved; investigational', 0.72), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB06691', 'Mepyramine', 'approved; vet_approved', 'DB00792', 'Tripelennamine', 'approved; vet_approved', 0.88), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB06691', 'Mepyramine', 'approved; vet_approved', 'DB06691', 'Mepyramine', 'approved; vet_approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB06698', 'Betahistine', 'approved; investigational', 'DB06698', 'Betahistine', 'approved; investigational', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB06766', 'Alcaftadine', 'approved', 'DB06766', 'Alcaftadine', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB08799', 'Antazoline', 'approved', 'DB08799', 'Antazoline', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB08800', 'Chloropyramine', 'experimental', 'DB00792', 'Tripelennamine', 'approved; vet_approved', 0.93), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB08800', 'Chloropyramine', 'experimental', 'DB06691', 'Mepyramine', 'approved; vet_approved', 0.83), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB08801', 'Dimetindene', 'approved; investigational', 'DB08801', 'Dimetindene', 'approved; investigational', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB08802', 'Isothipendyl', 'experimental', '-', 'Sorry! Cannot find', 'structurally similar', 'approved molecules'), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB08922', 'Perospirone', 'experimental', 'DB08815', 'Lurasidone', 'approved; investigational', 0.96), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB08936', 'Chlorcyclizine', 'approved', 'DB00341', 'Cetirizine', 'approved', 0.87), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB08936', 'Chlorcyclizine', 'approved', 'DB00354', 'Buclizine', 'approved', 0.85), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB08936', 'Chlorcyclizine', 'approved', 'DB00557', 'Hydroxyzine', 'approved', 0.9), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB08936', 'Chlorcyclizine', 'approved', 'DB00568', 'Cinnarizine', 'approved; investigational', 0.76), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB08936', 'Chlorcyclizine', 'approved', 'DB00737', 'Meclizine', 'approved', 0.94), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB08936', 'Chlorcyclizine', 'approved', 'DB01176', 'Cyclizine', 'approved', 0.9), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB08936', 'Chlorcyclizine', 'approved', 'DB04841', 'Flunarizine', 'approved', 0.71), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB08936', 'Chlorcyclizine', 'approved', 'DB06282', 'Levocetirizine', 'approved', 0.87), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB08936', 'Chlorcyclizine', 'approved', 'DB08936', 'Chlorcyclizine', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB09016', 'Butriptyline', 'approved', 'DB00341', 'Cetirizine', 'approved', 0.87), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB09016', 'Butriptyline', 'approved', 'DB00354', 'Buclizine', 'approved', 0.85), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB09016', 'Butriptyline', 'approved', 'DB00557', 'Hydroxyzine', 'approved', 0.9), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB09016', 'Butriptyline', 'approved', 'DB00568', 'Cinnarizine', 'approved; investigational', 0.76), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB09016', 'Butriptyline', 'approved', 'DB00737', 'Meclizine', 'approved', 0.94), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB09016', 'Butriptyline', 'approved', 'DB01176', 'Cyclizine', 'approved', 0.9), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB09016', 'Butriptyline', 'approved', 'DB04841', 'Flunarizine', 'approved', 0.71), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB09016', 'Butriptyline', 'approved', 'DB06282', 'Levocetirizine', 'approved', 0.87), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB09016', 'Butriptyline', 'approved', 'DB08936', 'Chlorcyclizine', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB09167', 'Dosulepin', 'approved', 'DB09167', 'Dosulepin', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB09195', 'Lorpiprazole', 'approved', 'DB09195', 'Lorpiprazole', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB09488', 'Acrivastine', 'approved', 'DB00427', 'Triprolidine', 'approved', 0.85), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB09488', 'Acrivastine', 'approved', 'DB09488', 'Acrivastine', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB09555', 'Dexchlorpheniramine maleate', 'approved', 'DB00405', 'Dexbrompheniramine', 'approved', 0.87), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB09555', 'Dexchlorpheniramine maleate', 'approved', 'DB00835', 'Brompheniramine', 'approved', 0.87), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB09555', 'Dexchlorpheniramine maleate', 'approved', 'DB01114', 'Chlorpheniramine', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB09555', 'Dexchlorpheniramine maleate', 'approved', 'DB01620', 'Pheniramine', 'approved', 0.93), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB09555', 'Dexchlorpheniramine maleate', 'approved', 'DB09555', 'Dexchlorpheniramine maleate', 'approved', 0.95), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB11235', 'Thonzylamine', 'approved', 'DB09552', 'Thonzonium', 'approved', 0.88), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB11235', 'Thonzylamine', 'approved', 'DB11235', 'Thonzylamine', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB11591', 'Bilastine', 'approved; investigational', 'DB11591', 'Bilastine', 'approved; investigational', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB11614', 'Rupatadine', 'approved', 'DB00455', 'Loratadine', 'approved; investigational', 0.85), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB11614', 'Rupatadine', 'approved', 'DB00719', 'Azatadine', 'approved', 0.86), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB11614', 'Rupatadine', 'approved', 'DB00967', 'Desloratadine', 'approved; investigational', 0.9), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB11614', 'Rupatadine', 'approved', 'DB11614', 'Rupatadine', 'approved', 1.0), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB14185', 'Aripiprazole lauroxil', 'approved; investigational', 'DB01238', 'Aripiprazole', 'approved; investigational', 0.75), ('sp|P35367|HRH1_HUM', 'P35367', 99.79, 1, 487, 'DB14185', 'Aripiprazole lauroxil', 'approved; investigational', 'DB14185', 'Aripiprazole lauroxil', 'approved; investigational', 1.0), ('sp|P35367|HRH1_HUM', 'P70174', 100.0, 1, 488, 'DB11160', 'Phenyltoloxamine', 'approved', 'DB11160', 'Phenyltoloxamine', 'approved', 1.0)]

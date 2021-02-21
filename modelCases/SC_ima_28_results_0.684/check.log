@@ -1,0 +1,60 @@
+	Number of sequences input by user are: 1
+
+	INITIATIED Homology Search with	
+:/prod/www/nslab/NOD/Results/SC_ima_28_results_0.684//pyRunHmmer.smry	/prod/www/nslab/NOD/Results/SC_ima_28_results_0.684//pyRunHmmer.align	/prod/www/nslab/NOD/Results/SC_ima_28_results_0.684//pyRunHmmer.tsv	FASTA	05	FASTA	/prod/www/nslab/NOD/Results/SC_ima_28_results_0.684//query.fasta	source/1-DgB_TargetProteins.fasta
+	COMPLETED Homology Search
+
+TIME-Homology-Search:	3.69
+
+	FORMATTED: Homology Search output into Tables
+
+TIME-Sanitize-hmmer:	0.02
+
+	Homology table is being FILTERED based on e-value and query coverage
+
+	RETRIEVED: Relevant hits from homology table
+
+TIME-Filter-Table:	0.02
+	Entered in MODE-2
+
+	MAPPING the ids onto DrugBank database to find potent compunds
+
+	Extracted DBids from jackHmmer:	DB00619; DB01254; DB06616; DB08901
+Find a match against DB00619 in DgBankDB: target
+Find a match against  DB01254 in DgBankDB: target
+Find a match against  DB06616 in DgBankDB: target
+Find a match against  DB08901 in DgBankDB: target
+
+	FETCHED: Potent Drugbank compounds details
+
+TIME-MODE2_DBmap-Run:	1.53
+
+SMILES for DbId:DB00619	CN1CCN(CC1)Cc2ccc(cc2)C(=O)Nc3cc(c(C)cc3)Nc4nccc(n4)-c5cnccc5
+
+Cutoff Cleared for query DBid DB00619
+
+Tcoff above 0.7	1.0
+
+SMILES for DbId:DB01254	OCCN1CCN(CC1)c2nc(C)nc(c2)Nc3ncc(s3)C(=O)Nc4c(C)cccc4Cl
+
+Cutoff Cleared for query DBid DB01254
+
+Tcoff above 0.7	1.0
+
+SMILES for DbId:DB06616	COc1cc(c(Cl)cc1Cl)Nc2c(C#N)cnc(c23)cc(c(c3)OC)OCCCN4CCN(C)CC4
+
+Cutoff Cleared for query DBid DB06616
+
+Tcoff above 0.7	1.0
+
+SMILES for DbId:DB08901	CN1CCN(CC1)Cc2ccc(cc2C(F)(F)F)NC(=O)c3cc(c(C)cc3)C#Cc4cnc(n45)cccn5
+
+Cutoff Cleared for query DBid DB08901
+
+Tcoff above 0.7	1.0
+
+TIME-MODE2_Tc-Run:	26.97
+
+TIME-MODE2-Complete:	28.5
+
+TIME-Complete-Run:	32.24

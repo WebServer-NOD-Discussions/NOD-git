@@ -1,0 +1,13 @@
+mode1,/prod/www/nslab/NOD/Results/SC_Pfal_5seq_results_0.187/qFile.fasta,/prod/www/nslab/NOD/Results/SC_Pfal_5seq_results_0.187/, SC_Pfal_5seq, SC_Pfal_5seq
+python bin/preSubmitCheck.py mode1 /prod/www/nslab/NOD/Results/SC_Pfal_5seq_results_0.187/qFile.fasta /prod/www/nslab/NOD/Results/SC_Pfal_5seq_results_0.187/ &> preSubmit.log
+
+
+python bin/master_handler_v2.py mode1 /prod/www/nslab/NOD/Results/SC_Pfal_5seq_results_0.187//query.fasta /prod/www/nslab/NOD/Results/SC_Pfal_5seq_results_0.187/ &> /prod/www/nslab/NOD/Results/SC_Pfal_5seq_results_0.187//handler.log
+
+
+python NOD/mailContent.py mode1 /prod/www/nslab/NOD/Results/SC_Pfal_5seq_results_0.187/ Results/SC_Pfal_5seq_results_0.187 SC_Pfal_5seq &> /prod/www/nslab/NOD/Results/SC_Pfal_5seq_results_0.187//mailContent.log
+
+
+python bin/postEmail.py mode1 Results/SC_Pfal_5seq_results_0.187 SC_Pfal_5seq SC_Pfal_5seq sohini@iisc.ac.in &> /prod/www/nslab/NOD/Results/SC_Pfal_5seq_results_0.187//pushMail.log
+
+

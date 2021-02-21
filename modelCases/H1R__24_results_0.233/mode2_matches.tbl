@@ -1,0 +1,382 @@
+	Query	Target	Query-Cov	Align-From	Align-To	1-Candidate	1-Mol.Name	1-Reg.Status	2-Candidate	2-Mol.Name	2-Reg.Status	Similarity by Tcoff
+0	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00215	Citalopram	approved	DB00215	Citalopram	approved	1.0
+1	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00215	Citalopram	approved	DB01175	Escitalopram	approved	1.0
+2	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00245	Benzatropine	approved	DB00245	Benzatropine	approved	1.0
+3	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00245	Benzatropine	approved	DB01146	Diphenylpyraline	approved; investigational	0.78
+4	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00246	Ziprasidone	approved	DB00246	Ziprasidone	approved	1.0
+5	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00283	Clemastine	approved; investigational	DB00283	Clemastine	approved; investigational	1.0
+6	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00321	Amitriptyline	approved	DB00321	Amitriptyline	approved	1.0
+7	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00321	Amitriptyline	approved	DB00540	Nortriptyline	approved	0.99
+8	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00321	Amitriptyline	approved	DB13114	Amitriptylinoxide	approved; investigational	0.96
+9	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00334	Olanzapine	approved; investigational	DB00334	Olanzapine	approved; investigational	1.0
+10	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00341	Cetirizine	approved	DB00341	Cetirizine	approved	1.0
+11	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00341	Cetirizine	approved	DB00354	Buclizine	approved	0.75
+12	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00341	Cetirizine	approved	DB00557	Hydroxyzine	approved	0.95
+13	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00341	Cetirizine	approved	DB00737	Meclizine	approved	0.8
+14	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00341	Cetirizine	approved	DB01176	Cyclizine	approved	0.78
+15	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00341	Cetirizine	approved	DB06282	Levocetirizine	approved	1.0
+16	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00341	Cetirizine	approved	DB08936	Chlorcyclizine	approved	0.87
+17	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00342	Terfenadine	approved; withdrawn	DB00342	Terfenadine	approved; withdrawn	1.0
+18	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00342	Terfenadine	approved; withdrawn	DB00950	Fexofenadine	approved; investigational	0.88
+19	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00342	Terfenadine	approved; withdrawn	DB01231	Diphenidol	approved; investigational; withdrawn	0.79
+20	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00342	Terfenadine	approved; withdrawn	DB09076	Umeclidinium	approved	0.82
+21	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00354	Buclizine	approved	DB00341	Cetirizine	approved	0.75
+22	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00354	Buclizine	approved	DB00354	Buclizine	approved	1.0
+23	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00354	Buclizine	approved	DB00557	Hydroxyzine	approved	0.76
+24	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00354	Buclizine	approved	DB00737	Meclizine	approved	0.79
+25	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00354	Buclizine	approved	DB01176	Cyclizine	approved	0.76
+26	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00354	Buclizine	approved	DB06282	Levocetirizine	approved	0.75
+27	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00354	Buclizine	approved	DB08936	Chlorcyclizine	approved	0.85
+28	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00363	Clozapine	approved	DB00363	Clozapine	approved	1.0
+29	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00366	Doxylamine	approved; vet_approved	DB00366	Doxylamine	approved; vet_approved	1.0
+30	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00370	Mirtazapine	approved	DB00370	Mirtazapine	approved	1.0
+31	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00370	Mirtazapine	approved	DB06148	Mianserin	approved; investigational	0.72
+32	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00405	Dexbrompheniramine	approved	DB00405	Dexbrompheniramine	approved	1.0
+33	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00405	Dexbrompheniramine	approved	DB00835	Brompheniramine	approved	1.0
+34	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00405	Dexbrompheniramine	approved	DB01114	Chlorpheniramine	approved	0.87
+35	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00405	Dexbrompheniramine	approved	DB01620	Pheniramine	approved	0.93
+36	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00405	Dexbrompheniramine	approved	DB09555	Dexchlorpheniramine maleate	approved	0.83
+37	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00408	Loxapine	approved	DB00408	Loxapine	approved	1.0
+38	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00408	Loxapine	approved	DB00543	Amoxapine	approved	0.99
+39	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00420	Promazine	approved; vet_approved	DB00372	Thiethylperazine	approved; withdrawn	0.79
+40	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00420	Promazine	approved; vet_approved	DB00392	Profenamine	approved	0.84
+41	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00420	Promazine	approved; vet_approved	DB00420	Promazine	approved; vet_approved	1.0
+42	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00420	Promazine	approved; vet_approved	DB00433	Prochlorperazine	approved; vet_approved	0.82
+43	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00420	Promazine	approved; vet_approved	DB00477	Chlorpromazine	approved; investigational; vet_approved	0.86
+44	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00420	Promazine	approved; vet_approved	DB00508	Triflupromazine	approved; vet_approved	0.78
+45	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00420	Promazine	approved; vet_approved	DB00623	Fluphenazine	approved	0.74
+46	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00420	Promazine	approved; vet_approved	DB00679	Thioridazine	approved; withdrawn	0.76
+47	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00420	Promazine	approved; vet_approved	DB00680	Moricizine	approved; investigational; withdrawn	0.71
+48	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00420	Promazine	approved; vet_approved	DB00831	Trifluoperazine	approved; investigational	0.75
+49	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00420	Promazine	approved; vet_approved	DB00850	Perphenazine	approved	0.81
+50	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00420	Promazine	approved; vet_approved	DB00902	Methdilazine	approved	0.87
+51	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00420	Promazine	approved; vet_approved	DB00933	Mesoridazine	approved; investigational	0.72
+52	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00420	Promazine	approved; vet_approved	DB01063	Acetophenazine	approved	0.72
+53	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00420	Promazine	approved; vet_approved	DB01069	Promethazine	approved; investigational	0.86
+54	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00420	Promazine	approved; vet_approved	DB01246	Alimemazine	approved; vet_approved	0.95
+55	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00420	Promazine	approved; vet_approved	DB01403	Methotrimeprazine	approved; investigational	0.79
+56	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00420	Promazine	approved; vet_approved	DB01608	Periciazine	approved; investigational	0.77
+57	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00420	Promazine	approved; vet_approved	DB12710	Perazine	approved; investigational	0.94
+58	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00427	Triprolidine	approved	DB00427	Triprolidine	approved	1.0
+59	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00427	Triprolidine	approved	DB09488	Acrivastine	approved	0.85
+60	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00433	Prochlorperazine	approved; vet_approved	DB00372	Thiethylperazine	approved; withdrawn	0.73
+61	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00433	Prochlorperazine	approved; vet_approved	DB00392	Profenamine	approved	0.76
+62	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00433	Prochlorperazine	approved; vet_approved	DB00420	Promazine	approved; vet_approved	0.82
+63	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00433	Prochlorperazine	approved; vet_approved	DB00433	Prochlorperazine	approved; vet_approved	1.0
+64	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00433	Prochlorperazine	approved; vet_approved	DB00477	Chlorpromazine	approved; investigational; vet_approved	0.95
+65	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00433	Prochlorperazine	approved; vet_approved	DB00850	Perphenazine	approved	0.98
+66	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00433	Prochlorperazine	approved; vet_approved	DB00902	Methdilazine	approved	0.73
+67	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00433	Prochlorperazine	approved; vet_approved	DB01069	Promethazine	approved; investigational	0.75
+68	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00433	Prochlorperazine	approved; vet_approved	DB01246	Alimemazine	approved; vet_approved	0.81
+69	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00433	Prochlorperazine	approved; vet_approved	DB12710	Perazine	approved; investigational	0.87
+70	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00434	Cyproheptadine	approved	DB00434	Cyproheptadine	approved	1.0
+71	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00434	Cyproheptadine	approved	DB00924	Cyclobenzaprine	approved	0.85
+72	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00434	Cyproheptadine	approved	DB13720	Diphemanil	approved; vet_approved; withdrawn	0.72
+73	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00455	Loratadine	approved; investigational	DB00455	Loratadine	approved; investigational	1.0
+74	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00455	Loratadine	approved; investigational	DB00719	Azatadine	approved	0.86
+75	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00455	Loratadine	approved; investigational	DB00967	Desloratadine	approved; investigational	0.91
+76	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00455	Loratadine	approved; investigational	DB11614	Rupatadine	approved	0.85
+77	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00458	Imipramine	approved	DB00458	Imipramine	approved	1.0
+78	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00458	Imipramine	approved	DB00726	Trimipramine	approved	0.97
+79	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00458	Imipramine	approved	DB01151	Desipramine	approved; investigational	0.99
+80	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00458	Imipramine	approved	DB01242	Clomipramine	approved; investigational; vet_approved	0.86
+81	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00458	Imipramine	approved	DB13246	Quinupramine	approved	0.71
+82	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00477	Chlorpromazine	approved; investigational; vet_approved	DB00392	Profenamine	approved	0.75
+83	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00477	Chlorpromazine	approved; investigational; vet_approved	DB00420	Promazine	approved; vet_approved	0.86
+84	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00477	Chlorpromazine	approved; investigational; vet_approved	DB00433	Prochlorperazine	approved; vet_approved	0.95
+85	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00477	Chlorpromazine	approved; investigational; vet_approved	DB00477	Chlorpromazine	approved; investigational; vet_approved	1.0
+86	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00477	Chlorpromazine	approved; investigational; vet_approved	DB00850	Perphenazine	approved	0.93
+87	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00477	Chlorpromazine	approved; investigational; vet_approved	DB00902	Methdilazine	approved	0.73
+88	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00477	Chlorpromazine	approved; investigational; vet_approved	DB01069	Promethazine	approved; investigational	0.77
+89	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00477	Chlorpromazine	approved; investigational; vet_approved	DB01246	Alimemazine	approved; vet_approved	0.84
+90	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00477	Chlorpromazine	approved; investigational; vet_approved	DB12710	Perazine	approved; investigational	0.83
+91	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00502	Haloperidol	approved	DB00502	Haloperidol	approved	1.0
+92	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00502	Haloperidol	approved	DB12401	Bromperidol	approved; investigational	0.87
+93	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00540	Nortriptyline	approved	DB00321	Amitriptyline	approved	0.99
+94	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00540	Nortriptyline	approved	DB00540	Nortriptyline	approved	1.0
+95	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00540	Nortriptyline	approved	DB13114	Amitriptylinoxide	approved; investigational	0.95
+96	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00543	Amoxapine	approved	DB00408	Loxapine	approved	0.99
+97	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00543	Amoxapine	approved	DB00543	Amoxapine	approved	1.0
+98	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00555	Lamotrigine	approved; investigational	DB00555	Lamotrigine	approved; investigational	1.0
+99	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00557	Hydroxyzine	approved	DB00341	Cetirizine	approved	0.95
+100	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00557	Hydroxyzine	approved	DB00354	Buclizine	approved	0.76
+101	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00557	Hydroxyzine	approved	DB00557	Hydroxyzine	approved	1.0
+102	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00557	Hydroxyzine	approved	DB00737	Meclizine	approved	0.82
+103	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00557	Hydroxyzine	approved	DB01176	Cyclizine	approved	0.81
+104	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00557	Hydroxyzine	approved	DB06282	Levocetirizine	approved	0.95
+105	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00557	Hydroxyzine	approved	DB08936	Chlorcyclizine	approved	0.9
+106	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00568	Cinnarizine	approved; investigational	DB00568	Cinnarizine	approved; investigational	1.0
+107	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00568	Cinnarizine	approved; investigational	DB01176	Cyclizine	approved	0.81
+108	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00568	Cinnarizine	approved; investigational	DB04841	Flunarizine	approved	0.91
+109	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00568	Cinnarizine	approved; investigational	DB08936	Chlorcyclizine	approved	0.76
+110	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00637	Astemizole	approved; withdrawn	DB00637	Astemizole	approved; withdrawn	1.0
+111	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00637	Astemizole	approved; withdrawn	DB12523	Mizolastine	approved; investigational	0.75
+112	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00656	Trazodone	approved; investigational	DB00656	Trazodone	approved; investigational	1.0
+113	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00715	Paroxetine	approved; investigational	DB00715	Paroxetine	approved; investigational	1.0
+114	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00719	Azatadine	approved	DB00455	Loratadine	approved; investigational	0.86
+115	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00719	Azatadine	approved	DB00719	Azatadine	approved	1.0
+116	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00719	Azatadine	approved	DB00967	Desloratadine	approved; investigational	0.93
+117	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00719	Azatadine	approved	DB11614	Rupatadine	approved	0.86
+118	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00726	Trimipramine	approved	DB00458	Imipramine	approved	0.97
+119	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00726	Trimipramine	approved	DB00726	Trimipramine	approved	1.0
+120	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00726	Trimipramine	approved	DB01151	Desipramine	approved; investigational	0.95
+121	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00726	Trimipramine	approved	DB01242	Clomipramine	approved; investigational; vet_approved	0.84
+122	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00726	Trimipramine	approved	DB13246	Quinupramine	approved	0.71
+123	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00734	Risperidone	approved; investigational	DB00734	Risperidone	approved; investigational	1.0
+124	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00734	Risperidone	approved; investigational	DB01267	Paliperidone	approved	0.94
+125	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00737	Meclizine	approved	DB00341	Cetirizine	approved	0.8
+126	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00737	Meclizine	approved	DB00354	Buclizine	approved	0.79
+127	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00737	Meclizine	approved	DB00557	Hydroxyzine	approved	0.82
+128	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00737	Meclizine	approved	DB00737	Meclizine	approved	1.0
+129	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00737	Meclizine	approved	DB01176	Cyclizine	approved	0.84
+130	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00737	Meclizine	approved	DB06282	Levocetirizine	approved	0.8
+131	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00737	Meclizine	approved	DB08936	Chlorcyclizine	approved	0.94
+132	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00748	Carbinoxamine	approved	DB00748	Carbinoxamine	approved	1.0
+133	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00748	Carbinoxamine	approved	DB04890	Bepotastine	approved	0.79
+134	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00751	Epinastine	approved; investigational	DB00751	Epinastine	approved; investigational	1.0
+135	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00767	Benzquinamide	withdrawn	DB04844	Tetrabenazine	approved; investigational	0.73
+136	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00767	Benzquinamide	withdrawn	DB11915	Valbenazine	approved; investigational	0.82
+137	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00767	Benzquinamide	withdrawn	DB12161	Deutetrabenazine	approved; investigational	0.73
+138	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00768	Olopatadine	approved	DB00768	Olopatadine	approved	1.0
+139	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00768	Olopatadine	approved	DB01142	Doxepin	approved; investigational	0.83
+140	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00777	Propiomazine	approved	DB00392	Profenamine	approved	0.75
+141	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00777	Propiomazine	approved	DB00508	Triflupromazine	approved; vet_approved	0.7
+142	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00777	Propiomazine	approved	DB00777	Propiomazine	approved	1.0
+143	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00777	Propiomazine	approved	DB01063	Acetophenazine	approved	0.84
+144	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00777	Propiomazine	approved	DB01069	Promethazine	approved; investigational	0.75
+145	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00777	Propiomazine	approved	DB01608	Periciazine	approved; investigational	0.7
+146	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00777	Propiomazine	approved	DB13213	Butaperazine	approved	0.87
+147	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00792	Tripelennamine	approved; vet_approved	DB00792	Tripelennamine	approved; vet_approved	1.0
+148	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00792	Tripelennamine	approved; vet_approved	DB06691	Mepyramine	approved; vet_approved	0.88
+149	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00797	Tolazoline	approved; vet_approved	DB00797	Tolazoline	approved; vet_approved	1.0
+150	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00797	Tolazoline	approved; vet_approved	DB06711	Naphazoline	approved; investigational	0.75
+151	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00835	Brompheniramine	approved	DB00405	Dexbrompheniramine	approved	1.0
+152	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00835	Brompheniramine	approved	DB00835	Brompheniramine	approved	1.0
+153	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00835	Brompheniramine	approved	DB01114	Chlorpheniramine	approved	0.87
+154	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00835	Brompheniramine	approved	DB01620	Pheniramine	approved	0.93
+155	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00835	Brompheniramine	approved	DB09555	Dexchlorpheniramine maleate	approved	0.83
+156	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00902	Methdilazine	approved	DB00372	Thiethylperazine	approved; withdrawn	0.72
+157	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00902	Methdilazine	approved	DB00392	Profenamine	approved	0.78
+158	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00902	Methdilazine	approved	DB00420	Promazine	approved; vet_approved	0.87
+159	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00902	Methdilazine	approved	DB00433	Prochlorperazine	approved; vet_approved	0.73
+160	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00902	Methdilazine	approved	DB00477	Chlorpromazine	approved; investigational; vet_approved	0.73
+161	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00902	Methdilazine	approved	DB00679	Thioridazine	approved; withdrawn	0.71
+162	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00902	Methdilazine	approved	DB00850	Perphenazine	approved	0.71
+163	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00902	Methdilazine	approved	DB00902	Methdilazine	approved	1.0
+164	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00902	Methdilazine	approved	DB01069	Promethazine	approved; investigational	0.79
+165	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00902	Methdilazine	approved	DB01246	Alimemazine	approved; vet_approved	0.92
+166	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00902	Methdilazine	approved	DB01403	Methotrimeprazine	approved; investigational	0.73
+167	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00902	Methdilazine	approved	DB12710	Perazine	approved; investigational	0.86
+168	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00920	Ketotifen	approved	DB00920	Ketotifen	approved	1.0
+169	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00920	Ketotifen	approved	DB06153	Pizotifen	approved	0.84
+170	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00934	Maprotiline	approved; investigational	DB00934	Maprotiline	approved; investigational	1.0
+171	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00950	Fexofenadine	approved; investigational	DB00342	Terfenadine	approved; withdrawn	0.88
+172	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00950	Fexofenadine	approved; investigational	DB00950	Fexofenadine	approved; investigational	1.0
+173	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00950	Fexofenadine	approved; investigational	DB01231	Diphenidol	approved; investigational; withdrawn	0.7
+174	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00950	Fexofenadine	approved; investigational	DB09076	Umeclidinium	approved	0.74
+175	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00967	Desloratadine	approved; investigational	DB00455	Loratadine	approved; investigational	0.91
+176	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00967	Desloratadine	approved; investigational	DB00719	Azatadine	approved	0.93
+177	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00967	Desloratadine	approved; investigational	DB00967	Desloratadine	approved; investigational	1.0
+178	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00967	Desloratadine	approved; investigational	DB11614	Rupatadine	approved	0.9
+179	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00972	Azelastine	approved	DB00972	Azelastine	approved	1.0
+180	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00985	Dimenhydrinate	approved	DB01075	Diphenhydramine	approved; investigational	1.0
+181	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00985	Dimenhydrinate	approved	DB01173	Orphenadrine	approved	0.74
+182	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00985	Dimenhydrinate	approved	DB01237	Bromodiphenhydramine	approved	0.88
+183	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01069	Promethazine	approved; investigational	DB00372	Thiethylperazine	approved; withdrawn	0.75
+184	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01069	Promethazine	approved; investigational	DB00392	Profenamine	approved	0.97
+185	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01069	Promethazine	approved; investigational	DB00420	Promazine	approved; vet_approved	0.86
+186	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01069	Promethazine	approved; investigational	DB00433	Prochlorperazine	approved; vet_approved	0.75
+187	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01069	Promethazine	approved; investigational	DB00477	Chlorpromazine	approved; investigational; vet_approved	0.77
+188	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01069	Promethazine	approved; investigational	DB00508	Triflupromazine	approved; vet_approved	0.73
+189	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01069	Promethazine	approved; investigational	DB00623	Fluphenazine	approved	0.71
+190	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01069	Promethazine	approved; investigational	DB00679	Thioridazine	approved; withdrawn	0.73
+191	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01069	Promethazine	approved; investigational	DB00777	Propiomazine	approved	0.75
+192	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01069	Promethazine	approved; investigational	DB00831	Trifluoperazine	approved; investigational	0.72
+193	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01069	Promethazine	approved; investigational	DB00850	Perphenazine	approved	0.75
+194	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01069	Promethazine	approved; investigational	DB00902	Methdilazine	approved	0.79
+195	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01069	Promethazine	approved; investigational	DB00933	Mesoridazine	approved; investigational	0.7
+196	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01069	Promethazine	approved; investigational	DB01069	Promethazine	approved; investigational	1.0
+197	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01069	Promethazine	approved; investigational	DB01246	Alimemazine	approved; vet_approved	0.83
+198	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01069	Promethazine	approved; investigational	DB01403	Methotrimeprazine	approved; investigational	0.73
+199	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01069	Promethazine	approved; investigational	DB01608	Periciazine	approved; investigational	0.71
+200	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01069	Promethazine	approved; investigational	DB08967	Dimetotiazine	approved	0.75
+201	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01069	Promethazine	approved; investigational	DB12710	Perazine	approved; investigational	0.84
+202	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01071	Mequitazine	experimental	DB00392	Profenamine	approved	0.74
+203	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01071	Mequitazine	experimental	DB00420	Promazine	approved; vet_approved	0.81
+204	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01071	Mequitazine	experimental	DB00433	Prochlorperazine	approved; vet_approved	0.7
+205	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01071	Mequitazine	experimental	DB00477	Chlorpromazine	approved; investigational; vet_approved	0.7
+206	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01071	Mequitazine	experimental	DB00679	Thioridazine	approved; withdrawn	0.72
+207	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01071	Mequitazine	experimental	DB00902	Methdilazine	approved	0.87
+208	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01071	Mequitazine	experimental	DB01069	Promethazine	approved; investigational	0.75
+209	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01071	Mequitazine	experimental	DB01246	Alimemazine	approved; vet_approved	0.86
+210	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01071	Mequitazine	experimental	DB01403	Methotrimeprazine	approved; investigational	0.71
+211	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01071	Mequitazine	experimental	DB01608	Periciazine	approved; investigational	0.7
+212	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01071	Mequitazine	experimental	DB12710	Perazine	approved; investigational	0.81
+213	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01075	Diphenhydramine	approved; investigational	DB01075	Diphenhydramine	approved; investigational	1.0
+214	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01075	Diphenhydramine	approved; investigational	DB01173	Orphenadrine	approved	0.74
+215	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01075	Diphenhydramine	approved; investigational	DB01237	Bromodiphenhydramine	approved	0.88
+216	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01084	Emedastine	approved	DB01084	Emedastine	approved	1.0
+217	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01106	Levocabastine	approved; investigational	DB01106	Levocabastine	approved; investigational	1.0
+218	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01114	Chlorpheniramine	approved	DB00405	Dexbrompheniramine	approved	0.87
+219	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01114	Chlorpheniramine	approved	DB00835	Brompheniramine	approved	0.87
+220	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01114	Chlorpheniramine	approved	DB01114	Chlorpheniramine	approved	1.0
+221	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01114	Chlorpheniramine	approved	DB01620	Pheniramine	approved	0.93
+222	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01114	Chlorpheniramine	approved	DB09555	Dexchlorpheniramine maleate	approved	0.95
+223	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01142	Doxepin	approved; investigational	DB00768	Olopatadine	approved	0.83
+224	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01142	Doxepin	approved; investigational	DB01142	Doxepin	approved; investigational	1.0
+225	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01146	Diphenylpyraline	approved; investigational	DB00245	Benzatropine	approved	0.78
+226	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01146	Diphenylpyraline	approved; investigational	DB01146	Diphenylpyraline	approved; investigational	1.0
+227	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01146	Diphenylpyraline	approved; investigational	DB11742	Ebastine	approved; investigational	0.75
+228	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01151	Desipramine	approved; investigational	DB00458	Imipramine	approved	0.99
+229	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01151	Desipramine	approved; investigational	DB00726	Trimipramine	approved	0.95
+230	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01151	Desipramine	approved; investigational	DB01151	Desipramine	approved; investigational	1.0
+231	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01151	Desipramine	approved; investigational	DB01242	Clomipramine	approved; investigational; vet_approved	0.84
+232	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01151	Desipramine	approved; investigational	DB13246	Quinupramine	approved	0.7
+233	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01173	Orphenadrine	approved	DB01075	Diphenhydramine	approved; investigational	0.74
+234	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01173	Orphenadrine	approved	DB01173	Orphenadrine	approved	1.0
+235	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01173	Orphenadrine	approved	DB01237	Bromodiphenhydramine	approved	0.72
+236	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01173	Orphenadrine	approved	DB12293	Nefopam	approved; investigational	0.72
+237	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01175	Escitalopram	approved	DB00215	Citalopram	approved	1.0
+238	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01175	Escitalopram	approved	DB01175	Escitalopram	approved	1.0
+239	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01176	Cyclizine	approved	DB00341	Cetirizine	approved	0.78
+240	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01176	Cyclizine	approved	DB00354	Buclizine	approved	0.76
+241	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01176	Cyclizine	approved	DB00557	Hydroxyzine	approved	0.81
+242	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01176	Cyclizine	approved	DB00568	Cinnarizine	approved; investigational	0.81
+243	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01176	Cyclizine	approved	DB00737	Meclizine	approved	0.84
+244	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01176	Cyclizine	approved	DB01176	Cyclizine	approved	1.0
+245	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01176	Cyclizine	approved	DB04841	Flunarizine	approved	0.76
+246	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01176	Cyclizine	approved	DB06282	Levocetirizine	approved	0.78
+247	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01176	Cyclizine	approved	DB08936	Chlorcyclizine	approved	0.9
+248	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01224	Quetiapine	approved	DB01224	Quetiapine	approved	1.0
+249	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01224	Quetiapine	approved	DB13256	Clothiapine	approved	0.9
+250	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01237	Bromodiphenhydramine	approved	DB01075	Diphenhydramine	approved; investigational	0.88
+251	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01237	Bromodiphenhydramine	approved	DB01173	Orphenadrine	approved	0.72
+252	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01237	Bromodiphenhydramine	approved	DB01237	Bromodiphenhydramine	approved	1.0
+253	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01238	Aripiprazole	approved; investigational	DB01238	Aripiprazole	approved; investigational	1.0
+254	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01238	Aripiprazole	approved; investigational	DB14185	Aripiprazole lauroxil	approved; investigational	0.75
+255	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01239	Chlorprothixene	approved; experimental; investigational; withdrawn	DB01239	Chlorprothixene	approved; experimental; investigational; withdrawn	1.0
+256	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01239	Chlorprothixene	approved; experimental; investigational; withdrawn	DB01624	Zuclopenthixol	approved; investigational	0.92
+257	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01239	Chlorprothixene	approved; experimental; investigational; withdrawn	DB13292	Pimethixene	approved	0.77
+258	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01246	Alimemazine	approved; vet_approved	DB00372	Thiethylperazine	approved; withdrawn	0.78
+259	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01246	Alimemazine	approved; vet_approved	DB00392	Profenamine	approved	0.81
+260	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01246	Alimemazine	approved; vet_approved	DB00420	Promazine	approved; vet_approved	0.95
+261	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01246	Alimemazine	approved; vet_approved	DB00433	Prochlorperazine	approved; vet_approved	0.81
+262	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01246	Alimemazine	approved; vet_approved	DB00477	Chlorpromazine	approved; investigational; vet_approved	0.84
+263	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01246	Alimemazine	approved; vet_approved	DB00508	Triflupromazine	approved; vet_approved	0.77
+264	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01246	Alimemazine	approved; vet_approved	DB00623	Fluphenazine	approved	0.74
+265	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01246	Alimemazine	approved; vet_approved	DB00679	Thioridazine	approved; withdrawn	0.75
+266	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01246	Alimemazine	approved; vet_approved	DB00831	Trifluoperazine	approved; investigational	0.74
+267	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01246	Alimemazine	approved; vet_approved	DB00850	Perphenazine	approved	0.8
+268	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01246	Alimemazine	approved; vet_approved	DB00902	Methdilazine	approved	0.92
+269	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01246	Alimemazine	approved; vet_approved	DB00933	Mesoridazine	approved; investigational	0.72
+270	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01246	Alimemazine	approved; vet_approved	DB01063	Acetophenazine	approved	0.72
+271	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01246	Alimemazine	approved; vet_approved	DB01069	Promethazine	approved; investigational	0.83
+272	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01246	Alimemazine	approved; vet_approved	DB01246	Alimemazine	approved; vet_approved	1.0
+273	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01246	Alimemazine	approved; vet_approved	DB01403	Methotrimeprazine	approved; investigational	0.83
+274	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01246	Alimemazine	approved; vet_approved	DB01608	Periciazine	approved; investigational	0.76
+275	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01246	Alimemazine	approved; vet_approved	DB12710	Perazine	approved; investigational	0.91
+276	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01267	Paliperidone	approved	DB00734	Risperidone	approved; investigational	0.94
+277	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01267	Paliperidone	approved	DB01267	Paliperidone	approved	1.0
+278	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01403	Methotrimeprazine	approved; investigational	DB00392	Profenamine	approved	0.71
+279	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01403	Methotrimeprazine	approved; investigational	DB00420	Promazine	approved; vet_approved	0.79
+280	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01403	Methotrimeprazine	approved; investigational	DB00902	Methdilazine	approved	0.73
+281	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01403	Methotrimeprazine	approved; investigational	DB01069	Promethazine	approved; investigational	0.73
+282	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01403	Methotrimeprazine	approved; investigational	DB01246	Alimemazine	approved; vet_approved	0.83
+283	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01403	Methotrimeprazine	approved; investigational	DB01403	Methotrimeprazine	approved; investigational	1.0
+284	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01403	Methotrimeprazine	approved; investigational	DB12710	Perazine	approved; investigational	0.76
+285	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01615	Aceprometazine	experimental	DB00392	Profenamine	approved	0.77
+286	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01615	Aceprometazine	experimental	DB00508	Triflupromazine	approved; vet_approved	0.73
+287	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01615	Aceprometazine	experimental	DB00623	Fluphenazine	approved	0.71
+288	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01615	Aceprometazine	experimental	DB00777	Propiomazine	approved	0.96
+289	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01615	Aceprometazine	experimental	DB00831	Trifluoperazine	approved; investigational	0.72
+290	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01615	Aceprometazine	experimental	DB01063	Acetophenazine	approved	0.87
+291	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01615	Aceprometazine	experimental	DB01069	Promethazine	approved; investigational	0.78
+292	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01615	Aceprometazine	experimental	DB01608	Periciazine	approved; investigational	0.72
+293	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01615	Aceprometazine	experimental	DB13213	Butaperazine	approved	0.83
+294	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01619	Phenindamine	approved	DB01619	Phenindamine	approved	1.0
+295	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01620	Pheniramine	approved	DB00405	Dexbrompheniramine	approved	0.93
+296	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01620	Pheniramine	approved	DB00835	Brompheniramine	approved	0.93
+297	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01620	Pheniramine	approved	DB01114	Chlorpheniramine	approved	0.93
+298	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01620	Pheniramine	approved	DB01620	Pheniramine	approved	1.0
+299	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01620	Pheniramine	approved	DB09555	Dexchlorpheniramine maleate	approved	0.88
+300	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01624	Zuclopenthixol	approved; investigational	DB00875	Flupentixol	approved; investigational; withdrawn	0.72
+301	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01624	Zuclopenthixol	approved; investigational	DB01239	Chlorprothixene	approved; experimental; investigational; withdrawn	0.92
+302	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01624	Zuclopenthixol	approved; investigational	DB01624	Zuclopenthixol	approved; investigational	1.0
+303	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01624	Zuclopenthixol	approved; investigational	DB13292	Pimethixene	approved	0.75
+304	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB04837	Clofedanol	approved; withdrawn	DB04837	Clofedanol	approved; withdrawn	1.0
+305	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB04841	Flunarizine	approved	DB00568	Cinnarizine	approved; investigational	0.91
+306	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB04841	Flunarizine	approved	DB01176	Cyclizine	approved	0.76
+307	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB04841	Flunarizine	approved	DB04841	Flunarizine	approved	1.0
+308	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB04841	Flunarizine	approved	DB08936	Chlorcyclizine	approved	0.71
+309	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB04890	Bepotastine	approved	DB00748	Carbinoxamine	approved	0.79
+310	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB04890	Bepotastine	approved	DB04890	Bepotastine	approved	1.0
+311	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB04905	Tesmilifene	investigational	-	Sorry! Cannot find	structurally similar	approved molecules
+312	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB04946	Iloperidone	approved	DB04946	Iloperidone	approved	1.0
+313	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB05079	HY10275	investigational	DB04946	Iloperidone	approved	1.0
+314	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB05080	OBE101	investigational	DB04946	Iloperidone	approved	1.0
+315	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB05345	SO-101	investigational	DB04946	Iloperidone	approved	1.0
+316	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB05381	Histamine	approved; investigational	DB05381	Histamine	approved; investigational	1.0
+317	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB05492	Epicept NP-1	investigational	-	Sorry! Cannot find	structurally similar	approved molecules
+318	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB06016	Cariprazine	approved; investigational	DB06016	Cariprazine	approved; investigational	1.0
+319	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB06148	Mianserin	approved; investigational	DB00370	Mirtazapine	approved	0.72
+320	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB06148	Mianserin	approved; investigational	DB06148	Mianserin	approved; investigational	1.0
+321	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB06153	Pizotifen	approved	DB00920	Ketotifen	approved	0.84
+322	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB06153	Pizotifen	approved	DB06153	Pizotifen	approved	1.0
+323	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB06216	Asenapine	approved	DB06216	Asenapine	approved	0.96
+324	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB06229	Ocaperidone	investigational	DB00734	Risperidone	approved; investigational	0.7
+325	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB06282	Levocetirizine	approved	DB00341	Cetirizine	approved	1.0
+326	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB06282	Levocetirizine	approved	DB00354	Buclizine	approved	0.75
+327	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB06282	Levocetirizine	approved	DB00557	Hydroxyzine	approved	0.95
+328	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB06282	Levocetirizine	approved	DB00737	Meclizine	approved	0.8
+329	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB06282	Levocetirizine	approved	DB01176	Cyclizine	approved	0.78
+330	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB06282	Levocetirizine	approved	DB06282	Levocetirizine	approved	1.0
+331	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB06282	Levocetirizine	approved	DB08936	Chlorcyclizine	approved	0.87
+332	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB06678	Esmirtazapine	investigational	DB00370	Mirtazapine	approved	1.0
+333	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB06678	Esmirtazapine	investigational	DB06148	Mianserin	approved; investigational	0.72
+334	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB06691	Mepyramine	approved; vet_approved	DB00792	Tripelennamine	approved; vet_approved	0.88
+335	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB06691	Mepyramine	approved; vet_approved	DB06691	Mepyramine	approved; vet_approved	1.0
+336	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB06698	Betahistine	approved; investigational	DB06698	Betahistine	approved; investigational	1.0
+337	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB06766	Alcaftadine	approved	DB06766	Alcaftadine	approved	1.0
+338	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB08799	Antazoline	approved	DB08799	Antazoline	approved	1.0
+339	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB08800	Chloropyramine	experimental	DB00792	Tripelennamine	approved; vet_approved	0.93
+340	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB08800	Chloropyramine	experimental	DB06691	Mepyramine	approved; vet_approved	0.83
+341	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB08801	Dimetindene	approved; investigational	DB08801	Dimetindene	approved; investigational	1.0
+342	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB08802	Isothipendyl	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+343	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB08922	Perospirone	experimental	DB08815	Lurasidone	approved; investigational	0.96
+344	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB08936	Chlorcyclizine	approved	DB00341	Cetirizine	approved	0.87
+345	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB08936	Chlorcyclizine	approved	DB00354	Buclizine	approved	0.85
+346	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB08936	Chlorcyclizine	approved	DB00557	Hydroxyzine	approved	0.9
+347	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB08936	Chlorcyclizine	approved	DB00568	Cinnarizine	approved; investigational	0.76
+348	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB08936	Chlorcyclizine	approved	DB00737	Meclizine	approved	0.94
+349	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB08936	Chlorcyclizine	approved	DB01176	Cyclizine	approved	0.9
+350	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB08936	Chlorcyclizine	approved	DB04841	Flunarizine	approved	0.71
+351	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB08936	Chlorcyclizine	approved	DB06282	Levocetirizine	approved	0.87
+352	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB08936	Chlorcyclizine	approved	DB08936	Chlorcyclizine	approved	1.0
+353	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB09016	Butriptyline	approved	DB00341	Cetirizine	approved	0.87
+354	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB09016	Butriptyline	approved	DB00354	Buclizine	approved	0.85
+355	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB09016	Butriptyline	approved	DB00557	Hydroxyzine	approved	0.9
+356	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB09016	Butriptyline	approved	DB00568	Cinnarizine	approved; investigational	0.76
+357	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB09016	Butriptyline	approved	DB00737	Meclizine	approved	0.94
+358	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB09016	Butriptyline	approved	DB01176	Cyclizine	approved	0.9
+359	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB09016	Butriptyline	approved	DB04841	Flunarizine	approved	0.71
+360	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB09016	Butriptyline	approved	DB06282	Levocetirizine	approved	0.87
+361	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB09016	Butriptyline	approved	DB08936	Chlorcyclizine	approved	1.0
+362	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB09167	Dosulepin	approved	DB09167	Dosulepin	approved	1.0
+363	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB09195	Lorpiprazole	approved	DB09195	Lorpiprazole	approved	1.0
+364	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB09488	Acrivastine	approved	DB00427	Triprolidine	approved	0.85
+365	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB09488	Acrivastine	approved	DB09488	Acrivastine	approved	1.0
+366	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB09555	Dexchlorpheniramine maleate	approved	DB00405	Dexbrompheniramine	approved	0.87
+367	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB09555	Dexchlorpheniramine maleate	approved	DB00835	Brompheniramine	approved	0.87
+368	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB09555	Dexchlorpheniramine maleate	approved	DB01114	Chlorpheniramine	approved	1.0
+369	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB09555	Dexchlorpheniramine maleate	approved	DB01620	Pheniramine	approved	0.93
+370	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB09555	Dexchlorpheniramine maleate	approved	DB09555	Dexchlorpheniramine maleate	approved	0.95
+371	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB11235	Thonzylamine	approved	DB09552	Thonzonium	approved	0.88
+372	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB11235	Thonzylamine	approved	DB11235	Thonzylamine	approved	1.0
+373	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB11591	Bilastine	approved; investigational	DB11591	Bilastine	approved; investigational	1.0
+374	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB11614	Rupatadine	approved	DB00455	Loratadine	approved; investigational	0.85
+375	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB11614	Rupatadine	approved	DB00719	Azatadine	approved	0.86
+376	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB11614	Rupatadine	approved	DB00967	Desloratadine	approved; investigational	0.9
+377	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB11614	Rupatadine	approved	DB11614	Rupatadine	approved	1.0
+378	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB14185	Aripiprazole lauroxil	approved; investigational	DB01238	Aripiprazole	approved; investigational	0.75
+379	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB14185	Aripiprazole lauroxil	approved; investigational	DB14185	Aripiprazole lauroxil	approved; investigational	1.0
+380	sp|P35367|HRH1_HUM	P70174	100.0	1	488	DB11160	Phenyltoloxamine	approved	DB11160	Phenyltoloxamine	approved	1.0

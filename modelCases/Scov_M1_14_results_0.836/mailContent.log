@@ -1,0 +1,145 @@
+Arguments Enterd:
+mode:mode1,
+resDir:/prod/www/nslab/NOD/Results/SC_CS_M1_14_results_0.836/,
+tblDir:Results/SC_CS_M1_14_results_0.836,
+jobId:SC_CS_M1_14
+
+Content-type:text/html
+
+
+
+<!DOCTYPE html>
+	<html lang="en">
+		<head>
+	<meta charset="utf-8">
+	<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<!--TABLE STYLING-->
+<style>
+table {
+  border-spacing:5px;
+  width: 100%;
+  padding: 5px;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 10px;
+  text-align:center;
+  border-bottom: 1px solid #ddd;
+  border-collapse: collapse;
+}
+
+tr:hover {background-color:#f5f5f5;}
+</style>
+
+	<title>NOD-New use of Old Drugs</title>
+	<meta content="" name="description">
+	<meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="../../NOD/img/NOD_img2.png" rel="icon">
+
+
+  <!-- Google Fonts -->
+  <!--  Main CSS File -->
+  <link href="../../NOD/css/style.css" rel="stylesheet">
+
+  <!-- =======================================================
+  *Name: WS-NOD - v 1.2.0
+  *Author: Tarun Jairaj Narwani
+  *License: Creative Commons
+  ======================================================== -->
+</head>
+
+<body>
+<!-- ======= Header ======= -->
+<header>
+    <div id="header" class="container">
+        <div>
+        <h1 class="logo"><a href="../../NOD/index.html"><img src="../../NOD/img/icons/NOD_logo.png" height="60px" width="180px"></a></h1>
+        </div>
+        <div>
+        <nav>
+          <ul>
+            <li><a href="../../NOD/index.html">Home</a></li>
+            <li><a href="../../NOD/webpages/about.html">About-NOD</a></li>
+            <li><a href="../../NOD/webpages/instructions.html">Instructions</a></li>
+            <li class="active"><a href="../../NOD/webpages/run.html">Run-Options</a></li>
+            <!--<li><a href="../../NOD/webpages/organisms.html">Model Organisms</a></li>-->
+			<li><a href="../../NOD/webpages/faq.html">F.A.Q</a></li>
+            <li><a href="../../NOD/webpages/team.html">The Team</a></li>
+            <li><a href="../../NOD/webpages/contact.html">Contact</a></li>
+  
+          </ul>
+        </nav><!-- .nav-menu -->
+        </div>
+      </div>
+</header>
+<!-- ======= Tables Section ======= -->
+	<div id="noheader" class="noheader section-bg">
+        <div id="results" class="section-title">
+        <h2> Results for the Job Title: SC_CS_M1_14 </h2>
+        <div style="text-align: center"><p>The following table consists of potential drug candidates against your query protein(s).<br><br><i>Any drug that has been approved at least once in the past is included.<br>The essential information that might be helpful to make a decision are presented in the table.</i><br></p></div>
+		<h5> Instructions to understand the result table organization.</h5>
+        </div>
+
+    <div class="container">
+        <table id="resDisplay" style="border: 1px solid black">
+			<thead>
+			<tr>
+			<th>Number</th>
+			<th>Query</th>
+            <th>Target homolog</th>
+            <th>Query Coverage</th>
+            <th>Alignment From</th>
+            <th>Alignment Until</th>
+            <th>DrugBank ID</th>
+			<th>Molecule Name</th>
+			<th>Regulatory Status</th>
+			<th>SMILES</tr>
+            </tr>
+			</thead>
+			<tr>
+			<td><i> No. of approved drugs hit against the query protein(s)</td></i>
+			<td><i> Input query name based on which hits are retreived.</td></i>
+            <td><i> The UNIPROT id for target protein sequence that is homologous to the query protein is reported</td></i>
+            <td><i> The percentage of query sequence covered by the alignment with target homolog. Only >70% are selected.</i></td>
+            <td><i> Starting coordinates for the alignment, as per the query sequence index.</i></td>
+            <td><i> Ending coordinates for the alignment, as per the query sequence index.</i></td>
+            <td><i> The DrugBank id of the molecule targetting homolog protein sequence. A single protein can be a target of multiple compounds.</td></i>
+            <td><i> Name of the molecule as defined in DrugBank.</td></i>
+			<td><i> Regulatory status and category of the chemical compound. Drugs that passed the trials and got the approval but had to be discontinued later are also listed.</td></i>
+            <td><i> 2-D coordinates for generating the drug molecule. If unavailable, a Nan value is printed. These coordinates can be directly used in standard drug chemistry softwares.</td></i>
+			</tr>
+		</table>	
+	</div>
+    <div style="text-align: center"><p><b>NOTE:</b> <i>NOD users are encouraged to use the <a href="#">clickable links</a> provided in the table to access further details about the compound or the protein.</i></b></p></div>
+    <div class="container section-fg">
+			<table id="resDisplay">
+                <thead>
+                <tr><a href="mode1_matches.tbl" class="btn-special" style="margin-left:90%;">Download Table</a></tr>
+                <tr>
+                    <th>#</th>
+                    <th>Query</th>
+                    <th>Target Homolog</th>
+                    <th>Query Coverage</th>
+                    <th>Alignment From</th>
+                    <th>Alignment Until</th>
+                    <th>DrugBank ID</th>
+                    <th>Molecule Name</th>
+                    <th>Regulatory Status</th>
+                    <th>SMILES</th>
+                </thead>
+                </tr>
+<tr><td> 1 </td><td> sp|P0DTC1|R1A_SARS </td><td><a href="https://www.uniprot.org/uniprot/A7J8L3"> A7J8L3 </a></td><td> 99.46 </td><td> 1 </td><td> 4382 </td><td><a href="https://www.drugbank.ca/drugs/DB08748"> DB08748 </a></td><td> 4-(Dimethylamino)benzoic acid </td><td> experimental </td><td style="word-wrap:break-word;"> CN(C)c1ccc(cc1)C(=O)O </td></tr><tr><td> 2 </td><td> sp|P0DTC1|R1A_SARS </td><td><a href="https://www.uniprot.org/uniprot/P0C6U8"> P0C6U8 </a></td><td> 99.46 </td><td> 1 </td><td> 4382 </td><td><a href="https://www.drugbank.ca/drugs/DB07620"> DB07620 </a></td><td> 2-[(2,4-DICHLORO-5-METHYLPHENYL)SULFONYL]-1,3-DINITRO-5-(TRIFLUOROMETHYL)BENZENE </td><td> experimental </td><td style="word-wrap:break-word;"> Clc1cc(Cl)c(cc1C)S(=O)(=O)c2c([N+]([O-])=O)cc(C(F)(F)F)cc2[N+]([O-])=O </td></tr><tr><td> 3 </td><td> sp|P0DTC1|R1A_SARS </td><td><a href="https://www.uniprot.org/uniprot/P0C6U8"> P0C6U8 </a></td><td> 99.46 </td><td> 1 </td><td> 4382 </td><td><a href="https://www.drugbank.ca/drugs/DB07743"> DB07743 </a></td><td> S-[5-(TRIFLUOROMETHYL)-4H-1,2,4-TRIAZOL-3-YL] 5-(PHENYLETHYNYL)FURAN-2-CARBOTHIOATE </td><td> experimental </td><td style="word-wrap:break-word;"> FC(F)(F)c1nnc([nH]1)SC(=O)c2ccc(o2)C#Cc3ccccc3 </td></tr><tr><td> 4 </td><td> sp|P0DTC1|R1A_SARS </td><td><a href="https://www.uniprot.org/uniprot/P0C6U8"> P0C6U8 </a></td><td> 99.46 </td><td> 1 </td><td> 4382 </td><td><a href="https://www.drugbank.ca/drugs/DB08732"> DB08732 </a></td><td> NALPHA-[(BENZYLOXY)CARBONYL]-N-[(1R)-4-HYDROXY-1-METHYL-2-OXOBUTYL]-L-PHENYLALANINAMIDE </td><td> experimental </td><td style="word-wrap:break-word;"> c1ccccc1C[C@@H](C(=O)N[C@H](C)C(=O)CCO)NC(=O)OCc2ccccc2 </td></tr><tr><td> 5 </td><td> sp|P0DTC1|R1A_SARS </td><td><a href="https://www.uniprot.org/uniprot/P0C6X7"> P0C6X7 </a></td><td> 99.41 </td><td> 1 </td><td> 4380 </td><td><a href="https://www.drugbank.ca/drugs/DB07293"> DB07293 </a></td><td> benzyl (2-oxopropyl)carbamate </td><td> experimental </td><td style="word-wrap:break-word;"> CC(=O)CNC(=O)OCc1ccccc1 </td></tr><tr><td> 6 </td><td> sp|P0DTC1|R1A_SARS </td><td><a href="https://www.uniprot.org/uniprot/P0C6X7"> P0C6X7 </a></td><td> 99.41 </td><td> 1 </td><td> 4380 </td><td><a href="https://www.drugbank.ca/drugs/DB07620"> DB07620 </a></td><td> 2-[(2,4-DICHLORO-5-METHYLPHENYL)SULFONYL]-1,3-DINITRO-5-(TRIFLUOROMETHYL)BENZENE </td><td> experimental </td><td style="word-wrap:break-word;"> Clc1cc(Cl)c(cc1C)S(=O)(=O)c2c([N+]([O-])=O)cc(C(F)(F)F)cc2[N+]([O-])=O </td></tr><tr><td> 7 </td><td> sp|P0DTC1|R1A_SARS </td><td><a href="https://www.uniprot.org/uniprot/P0C6X7"> P0C6X7 </a></td><td> 99.41 </td><td> 1 </td><td> 4380 </td><td><a href="https://www.drugbank.ca/drugs/DB07743"> DB07743 </a></td><td> S-[5-(TRIFLUOROMETHYL)-4H-1,2,4-TRIAZOL-3-YL] 5-(PHENYLETHYNYL)FURAN-2-CARBOTHIOATE </td><td> experimental </td><td style="word-wrap:break-word;"> FC(F)(F)c1nnc([nH]1)SC(=O)c2ccc(o2)C#Cc3ccccc3 </td></tr><tr><td> 8 </td><td> sp|P0DTC1|R1A_SARS </td><td><a href="https://www.uniprot.org/uniprot/P0C6X7"> P0C6X7 </a></td><td> 99.41 </td><td> 1 </td><td> 4380 </td><td><a href="https://www.drugbank.ca/drugs/DB08656"> DB08656 </a></td><td> 5-amino-2-methyl-N-[(1R)-1-naphthalen-1-ylethyl]benzamide </td><td> experimental </td><td style="word-wrap:break-word;"> c1cccc(c12)cccc2[C@@H](C)NC(=O)c3c(C)ccc(N)c3 </td></tr><tr><td> 9 </td><td> sp|P0DTC1|R1A_SARS </td><td><a href="https://www.uniprot.org/uniprot/P0C6X7"> P0C6X7 </a></td><td> 99.41 </td><td> 1 </td><td> 4380 </td><td><a href="https://www.drugbank.ca/drugs/DB08732"> DB08732 </a></td><td> NALPHA-[(BENZYLOXY)CARBONYL]-N-[(1R)-4-HYDROXY-1-METHYL-2-OXOBUTYL]-L-PHENYLALANINAMIDE </td><td> experimental </td><td style="word-wrap:break-word;"> c1ccccc1C[C@@H](C(=O)N[C@H](C)C(=O)CCO)NC(=O)OCc2ccccc2 </td></tr><tr><td> 10 </td><td> sp|P0DTC1|R1A_SARS </td><td><a href="https://www.uniprot.org/uniprot/P0C6X7"> P0C6X7 </a></td><td> 99.41 </td><td> 1 </td><td> 4380 </td><td><a href="https://www.drugbank.ca/drugs/DB08748"> DB08748 </a></td><td> 4-(Dimethylamino)benzoic acid </td><td> experimental </td><td style="word-wrap:break-word;"> CN(C)c1ccc(cc1)C(=O)O </td></tr><tr><td> 11 </td><td> sp|P0DTC1|R1A_SARS </td><td><a href="https://www.uniprot.org/uniprot/P0C6X7"> P0C6X7 </a></td><td> 99.41 </td><td> 1 </td><td> 4380 </td><td><a href="https://www.drugbank.ca/drugs/DB14761"> DB14761 </a></td><td> Remdesivir </td><td> investigational </td><td style="word-wrap:break-word;"> CCC(CC)COC(=O)[C@H](C)N[P@@](=O)(Oc1ccccc1)OC[C@@H](O2)[C@@H](O)[C@@H](O)[C@]2(C#N)c3ccc(n34)c(N)ncn4 </td></tr><tr><td> 12 </td><td> sp|P0DTC1|R1A_SARS </td><td><a href="https://www.uniprot.org/uniprot/P0C6X7"> P0C6X7 </a></td><td> 99.41 </td><td> 1 </td><td> 4380 </td><td><a href="https://www.drugbank.ca/drugs/DB15686"> DB15686 </a></td><td> GS-441524 </td><td> experimental </td><td style="word-wrap:break-word;"> Nc1ncnn(c12)c(cc2)[C@]3(C#N)O[C@H](CO)[C@@H](O)[C@H]3O </td></tr><tr><td> 13 </td><td> sp|P0DTD1|R1AB_SAR </td><td><a href="https://www.uniprot.org/uniprot/P0C6X7"> P0C6X7 </a></td><td> 99.66 </td><td> 1 </td><td> 7073 </td><td><a href="https://www.drugbank.ca/drugs/DB07293"> DB07293 </a></td><td> benzyl (2-oxopropyl)carbamate </td><td> experimental </td><td style="word-wrap:break-word;"> CC(=O)CNC(=O)OCc1ccccc1 </td></tr><tr><td> 14 </td><td> sp|P0DTD1|R1AB_SAR </td><td><a href="https://www.uniprot.org/uniprot/P0C6X7"> P0C6X7 </a></td><td> 99.66 </td><td> 1 </td><td> 7073 </td><td><a href="https://www.drugbank.ca/drugs/DB07620"> DB07620 </a></td><td> 2-[(2,4-DICHLORO-5-METHYLPHENYL)SULFONYL]-1,3-DINITRO-5-(TRIFLUOROMETHYL)BENZENE </td><td> experimental </td><td style="word-wrap:break-word;"> Clc1cc(Cl)c(cc1C)S(=O)(=O)c2c([N+]([O-])=O)cc(C(F)(F)F)cc2[N+]([O-])=O </td></tr><tr><td> 15 </td><td> sp|P0DTD1|R1AB_SAR </td><td><a href="https://www.uniprot.org/uniprot/P0C6X7"> P0C6X7 </a></td><td> 99.66 </td><td> 1 </td><td> 7073 </td><td><a href="https://www.drugbank.ca/drugs/DB07743"> DB07743 </a></td><td> S-[5-(TRIFLUOROMETHYL)-4H-1,2,4-TRIAZOL-3-YL] 5-(PHENYLETHYNYL)FURAN-2-CARBOTHIOATE </td><td> experimental </td><td style="word-wrap:break-word;"> FC(F)(F)c1nnc([nH]1)SC(=O)c2ccc(o2)C#Cc3ccccc3 </td></tr><tr><td> 16 </td><td> sp|P0DTD1|R1AB_SAR </td><td><a href="https://www.uniprot.org/uniprot/P0C6X7"> P0C6X7 </a></td><td> 99.66 </td><td> 1 </td><td> 7073 </td><td><a href="https://www.drugbank.ca/drugs/DB08656"> DB08656 </a></td><td> 5-amino-2-methyl-N-[(1R)-1-naphthalen-1-ylethyl]benzamide </td><td> experimental </td><td style="word-wrap:break-word;"> c1cccc(c12)cccc2[C@@H](C)NC(=O)c3c(C)ccc(N)c3 </td></tr><tr><td> 17 </td><td> sp|P0DTD1|R1AB_SAR </td><td><a href="https://www.uniprot.org/uniprot/P0C6X7"> P0C6X7 </a></td><td> 99.66 </td><td> 1 </td><td> 7073 </td><td><a href="https://www.drugbank.ca/drugs/DB08732"> DB08732 </a></td><td> NALPHA-[(BENZYLOXY)CARBONYL]-N-[(1R)-4-HYDROXY-1-METHYL-2-OXOBUTYL]-L-PHENYLALANINAMIDE </td><td> experimental </td><td style="word-wrap:break-word;"> c1ccccc1C[C@@H](C(=O)N[C@H](C)C(=O)CCO)NC(=O)OCc2ccccc2 </td></tr><tr><td> 18 </td><td> sp|P0DTD1|R1AB_SAR </td><td><a href="https://www.uniprot.org/uniprot/P0C6X7"> P0C6X7 </a></td><td> 99.66 </td><td> 1 </td><td> 7073 </td><td><a href="https://www.drugbank.ca/drugs/DB08748"> DB08748 </a></td><td> 4-(Dimethylamino)benzoic acid </td><td> experimental </td><td style="word-wrap:break-word;"> CN(C)c1ccc(cc1)C(=O)O </td></tr><tr><td> 19 </td><td> sp|P0DTD1|R1AB_SAR </td><td><a href="https://www.uniprot.org/uniprot/P0C6X7"> P0C6X7 </a></td><td> 99.66 </td><td> 1 </td><td> 7073 </td><td><a href="https://www.drugbank.ca/drugs/DB14761"> DB14761 </a></td><td> Remdesivir </td><td> investigational </td><td style="word-wrap:break-word;"> CCC(CC)COC(=O)[C@H](C)N[P@@](=O)(Oc1ccccc1)OC[C@@H](O2)[C@@H](O)[C@@H](O)[C@]2(C#N)c3ccc(n34)c(N)ncn4 </td></tr><tr><td> 20 </td><td> sp|P0DTD1|R1AB_SAR </td><td><a href="https://www.uniprot.org/uniprot/P0C6X7"> P0C6X7 </a></td><td> 99.66 </td><td> 1 </td><td> 7073 </td><td><a href="https://www.drugbank.ca/drugs/DB15686"> DB15686 </a></td><td> GS-441524 </td><td> experimental </td><td style="word-wrap:break-word;"> Nc1ncnn(c12)c(cc2)[C@]3(C#N)O[C@H](CO)[C@@H](O)[C@H]3O </td></tr></table></div>
+<div style="text-align:left; padding:10px; color:#913A1E;"><p><b><u>DISCLAIMER</u></b>: The drugs displayed in this table are derived from homology based similarity searches against the DrugBank database.<br>
+These are predictive results and are meant to help researchers in the field of drug repurposing.<br>
+Therefore, Team NOD advice its users to <b>NOT</b> consume any drug without proper consulation with their general practitioner.</i></b></p></div>			
+            <!-- Table Section ENDED -->
+	</div>
+</div>
+			<!--  Main JS File --
+			<script src="webpages/assets/js/main.js"></script>
+	</body>
+</html>
+

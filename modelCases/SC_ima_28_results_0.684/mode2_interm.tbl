@@ -1,0 +1,5 @@
+	Query	Target	Query-Cov	Align-From	Align-To	DrugBank ID	Reg.Status	Mol.Name	SMILES
+0	sp|P11274|BCR_HUMA	P11274	99.92	1	1271	DB00619	approved	Imatinib	CN1CCN(CC1)Cc2ccc(cc2)C(=O)Nc3cc(c(C)cc3)Nc4nccc(n4)-c5cnccc5
+1	sp|P11274|BCR_HUMA	P11274	99.92	1	1271	DB01254	approved; investigational	Dasatinib	OCCN1CCN(CC1)c2nc(C)nc(c2)Nc3ncc(s3)C(=O)Nc4c(C)cccc4Cl
+2	sp|P11274|BCR_HUMA	P11274	99.92	1	1271	DB06616	approved	Bosutinib	COc1cc(c(Cl)cc1Cl)Nc2c(C#N)cnc(c23)cc(c(c3)OC)OCCCN4CCN(C)CC4
+3	sp|P11274|BCR_HUMA	P11274	99.92	1	1271	DB08901	approved; investigational	Ponatinib	CN1CCN(CC1)Cc2ccc(cc2C(F)(F)F)NC(=O)c3cc(c(C)cc3)C#Cc4cnc(n45)cccn5

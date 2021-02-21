@@ -1,0 +1,23 @@
+[16:40:02] Explicit valence for atom # 2 O, 3, is greater than permitted
+[16:40:03] Explicit valence for atom # 0 N, 4, is greater than permitted
+[16:40:03] Explicit valence for atom # 0 N, 4, is greater than permitted
+[16:40:04] Explicit valence for atom # 0 N, 4, is greater than permitted
+[16:40:07] Explicit valence for atom # 84 N, 4, is greater than permitted
+[16:40:07] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[16:40:08] Explicit valence for atom # 0 N, 4, is greater than permitted
+[16:40:09] Explicit valence for atom # 2 O, 3, is greater than permitted
+[16:40:09] Explicit valence for atom # 0 N, 4, is greater than permitted
+[16:40:09] Explicit valence for atom # 0 N, 4, is greater than permitted
+[16:40:11] Explicit valence for atom # 0 N, 4, is greater than permitted
+[16:40:14] Explicit valence for atom # 84 N, 4, is greater than permitted
+[16:40:14] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[16:40:15] Explicit valence for atom # 0 N, 4, is greater than permitted
+[16:40:16] Explicit valence for atom # 2 O, 3, is greater than permitted
+[16:40:16] Explicit valence for atom # 0 N, 4, is greater than permitted
+[16:40:16] Explicit valence for atom # 0 N, 4, is greater than permitted
+[16:40:18] Explicit valence for atom # 0 N, 4, is greater than permitted
+[16:40:21] Explicit valence for atom # 84 N, 4, is greater than permitted
+[16:40:21] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[16:40:21] Explicit valence for atom # 0 N, 4, is greater than permitted
+
+[('sp|Q32ZE1|POLG_ZIK', 'P12823', 98.98, 2, 3386, 'DB00811', 'Ribavirin', 'approved', 'DB00811', 'Ribavirin', 'approved', 1.0), ('sp|Q32ZE1|POLG_ZIK', 'P12823', 98.98, 2, 3386, 'DB01752', 'S-adenosyl-L-homocysteine', 'experimental', 'DB00118', 'Ademetionine', 'approved; investigational; nutraceutical', 0.98), ('sp|Q32ZE1|POLG_ZIK', 'P12823', 98.98, 2, 3386, 'DB01752', 'S-adenosyl-L-homocysteine', 'experimental', 'DB00131', 'Adenosine phosphate', 'approved; investigational; nutraceutical', 0.83), ('sp|Q32ZE1|POLG_ZIK', 'P12823', 98.98, 2, 3386, 'DB01752', 'S-adenosyl-L-homocysteine', 'experimental', 'DB00157', 'NADH', 'approved; nutraceutical', 0.72), ('sp|Q32ZE1|POLG_ZIK', 'P12823', 98.98, 2, 3386, 'DB01752', 'S-adenosyl-L-homocysteine', 'experimental', 'DB00194', 'Vidarabine', 'approved; investigational', 0.88), ('sp|Q32ZE1|POLG_ZIK', 'P12823', 98.98, 2, 3386, 'DB01752', 'S-adenosyl-L-homocysteine', 'experimental', 'DB00242', 'Cladribine', 'approved; investigational', 0.77), ('sp|Q32ZE1|POLG_ZIK', 'P12823', 98.98, 2, 3386, 'DB01752', 'S-adenosyl-L-homocysteine', 'experimental', 'DB00631', 'Clofarabine', 'approved; investigational', 0.74), ('sp|Q32ZE1|POLG_ZIK', 'P12823', 98.98, 2, 3386, 'DB01752', 'S-adenosyl-L-homocysteine', 'experimental', 'DB00640', 'Adenosine', 'approved; investigational', 0.88), ('sp|Q32ZE1|POLG_ZIK', 'P12823', 98.98, 2, 3386, 'DB01752', 'S-adenosyl-L-homocysteine', 'experimental', 'DB01073', 'Fludarabine', 'approved', 0.83), ('sp|Q32ZE1|POLG_ZIK', 'P12823', 98.98, 2, 3386, 'DB01752', 'S-adenosyl-L-homocysteine', 'experimental', 'DB01280', 'Nelarabine', 'approved; investigational', 0.73), ('sp|Q32ZE1|POLG_ZIK', 'P12823', 98.98, 2, 3386, 'DB01752', 'S-adenosyl-L-homocysteine', 'experimental', 'DB06213', 'Regadenoson', 'approved; investigational', 0.73), ('sp|Q32ZE1|POLG_ZIK', 'P12823', 98.98, 2, 3386, 'DB01752', 'S-adenosyl-L-homocysteine', 'experimental', 'DB13156', 'Inosine pranobex', 'approved', 0.72), ('sp|Q32ZE1|POLG_ZIK', 'P27915', 99.03, 2, 3388, 'DB04473', 'alpha-L-fucose', 'experimental', 'DB04173', 'Fructose', 'approved; experimental', 0.7), ('sp|Q32ZE1|POLG_ZIK', 'P27915', 99.03, 2, 3388, 'DB04473', 'alpha-L-fucose', 'experimental', 'DB04465', 'Lactose', 'approved; experimental; investigational', 0.8), ('sp|Q32ZE1|POLG_ZIK', 'P27915', 99.03, 2, 3388, 'DB04473', 'alpha-L-fucose', 'experimental', 'DB11602', 'Hydroxyethyl cellulose', 'approved', 0.76), ('sp|Q32ZE1|POLG_ZIK', 'P27915', 99.03, 2, 3388, 'DB04473', 'alpha-L-fucose', 'experimental', 'DB12767', 'Gaxilose', 'approved; investigational', 0.77), ('sp|Q32ZE1|POLG_ZIK', 'P27915', 99.03, 2, 3388, 'DB04473', 'alpha-L-fucose', 'experimental', 'DB12942', 'Lactitol', 'approved; investigational', 0.83), ('sp|Q32ZE1|POLG_ZIK', 'P27915', 99.03, 2, 3388, 'DB04473', 'alpha-L-fucose', 'experimental', 'DB15617', 'Ferric derisomaltose', 'approved', 0.82)]

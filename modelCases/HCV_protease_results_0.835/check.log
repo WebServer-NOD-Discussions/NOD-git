@@ -1,0 +1,1118 @@
+	Number of sequences input by user are: 1
+
+	INITIATIED Homology Search with	
+:/prod/www/nslab/NOD/Results/SC_HCV_protease_results_0.835//pyRunHmmer.smry	/prod/www/nslab/NOD/Results/SC_HCV_protease_results_0.835//pyRunHmmer.align	/prod/www/nslab/NOD/Results/SC_HCV_protease_results_0.835//pyRunHmmer.tsv	FASTA	05	FASTA	/prod/www/nslab/NOD/Results/SC_HCV_protease_results_0.835//query.fasta	source/1-DgB_TargetProteins.fasta
+	COMPLETED Homology Search
+
+TIME-Homology-Search:	0.62
+
+	FORMATTED: Homology Search output into Tables
+
+TIME-Sanitize-hmmer:	0.02
+
+	Homology table is being FILTERED based on e-value and query coverage
+
+	RETRIEVED: Relevant hits from homology table
+
+TIME-Filter-Table:	0.02
+	Entered in MODE-2
+
+	MAPPING the ids onto DrugBank database to find potent compunds
+
+	Extracted DBids from jackHmmer:	DB06290; DB07582; DB13879
+Find a match against DB06290 in DgBankDB: target
+Find a match against  DB07582 in DgBankDB: target
+Find a match against  DB13879 in DgBankDB: target
+
+	Extracted DBids from jackHmmer:	DB06913; DB07085; DB07185; DB07273; DB07275; DB07547; DB07770; DB08556
+Find a match against DB06913 in DgBankDB: target
+Find a match against  DB07085 in DgBankDB: target
+Find a match against  DB07185 in DgBankDB: target
+Find a match against  DB07273 in DgBankDB: target
+Find a match against  DB07275 in DgBankDB: target
+Find a match against  DB07547 in DgBankDB: target
+Find a match against  DB07770 in DgBankDB: target
+Find a match against  DB08556 in DgBankDB: target
+
+	Extracted DBids from jackHmmer:	DB01720; DB04005
+Find a match against DB01720 in DgBankDB: target
+Find a match against  DB04005 in DgBankDB: target
+
+	Extracted DBids from jackHmmer:	DB05868; DB06058; DB07582; DB11779
+Find a match against DB05868 in DgBankDB: target
+Find a match against  DB06058 in DgBankDB: target
+Find a match against  DB07582 in DgBankDB: target
+Find a match against  DB11779 in DgBankDB: target
+
+	Extracted DBids from jackHmmer:	DB07238
+Find a match against DB07238 in DgBankDB: target
+
+	Extracted DBids from jackHmmer:	DB02331; DB03605; DB04005; DB04137; DB04298; DB06974; DB07062; DB07169; DB07199; DB07200; DB07238; DB07414; DB07570; DB08031; DB08278; DB08279; DB08390; DB08481; DB08578; DB08579; DB08580; DB08581; DB08582; DB08701; DB08706; DB08710; DB11586
+Find a match against DB02331 in DgBankDB: target
+Find a match against  DB03605 in DgBankDB: target
+Find a match against  DB04005 in DgBankDB: target
+Find a match against  DB04137 in DgBankDB: target
+Find a match against  DB04298 in DgBankDB: target
+Find a match against  DB06974 in DgBankDB: target
+Find a match against  DB07062 in DgBankDB: target
+Find a match against  DB07169 in DgBankDB: target
+Find a match against  DB07199 in DgBankDB: target
+Find a match against  DB07200 in DgBankDB: target
+Find a match against  DB07238 in DgBankDB: target
+Find a match against  DB07414 in DgBankDB: target
+Find a match against  DB07570 in DgBankDB: target
+Find a match against  DB08031 in DgBankDB: target
+Find a match against  DB08278 in DgBankDB: target
+Find a match against  DB08279 in DgBankDB: target
+Find a match against  DB08390 in DgBankDB: target
+Find a match against  DB08481 in DgBankDB: target
+Find a match against  DB08578 in DgBankDB: target
+Find a match against  DB08579 in DgBankDB: target
+Find a match against  DB08580 in DgBankDB: target
+Find a match against  DB08581 in DgBankDB: target
+Find a match against  DB08582 in DgBankDB: target
+Find a match against  DB08701 in DgBankDB: target
+Find a match against  DB08706 in DgBankDB: target
+Find a match against  DB08710 in DgBankDB: target
+Find a match against  DB11586 in DgBankDB: target
+
+	Extracted DBids from jackHmmer:	DB08644
+Find a match against DB08644 in DgBankDB: target
+
+	Extracted DBids from jackHmmer:	DB08747
+Find a match against DB08747 in DgBankDB: target
+
+	Extracted DBids from jackHmmer:	DB05521; DB08873; DB09297; DB11575; DB12026
+Find a match against DB05521 in DgBankDB: target
+Find a match against  DB08873 in DgBankDB: target
+Find a match against  DB09297 in DgBankDB: target
+Find a match against  DB11575 in DgBankDB: target
+Find a match against  DB12026 in DgBankDB: target
+
+	Extracted DBids from jackHmmer:	DB03388; DB03647
+Find a match against DB03388 in DgBankDB: target
+Find a match against  DB03647 in DgBankDB: target
+
+	Extracted DBids from jackHmmer:	DB08701
+Find a match against DB08701 in DgBankDB: target
+
+	FETCHED: Potent Drugbank compounds details
+
+TIME-MODE2_DBmap-Run:	18.61
+
+SMILES for DbId:DB06290	C1CC1S(=O)(=O)NC(=O)[C@]23[C@H](C2)/C=C\CCCCN(C)C(=O)[C@H]4[C@H](C(=O)N3)C[C@H](C4)Oc5cc(-c6nc(cs6)C(C)C)nc(c57)c(C)c(cc7)OC
+
+Cutoff Cleared for query DBid DB06290
+
+Tcoff above 0.7	0.75
+
+Cutoff Cleared for query DBid DB06290
+
+Tcoff above 0.7	0.71
+
+Cutoff Cleared for query DBid DB06290
+
+Tcoff above 0.7	0.73
+
+Cutoff Cleared for query DBid DB06290
+
+Tcoff above 0.7	0.74
+
+Cutoff Cleared for query DBid DB06290
+
+Tcoff above 0.7	0.74
+
+Cutoff Cleared for query DBid DB06290
+
+Tcoff above 0.7	0.74
+
+Cutoff Cleared for query DBid DB06290
+
+Tcoff above 0.7	0.75
+
+Cutoff Cleared for query DBid DB06290
+
+Tcoff above 0.7	0.71
+
+Cutoff Cleared for query DBid DB06290
+
+Tcoff above 0.7	1.0
+
+Cutoff Cleared for query DBid DB06290
+
+Tcoff above 0.7	0.71
+
+Cutoff Cleared for query DBid DB06290
+
+Tcoff above 0.7	0.75
+
+Cutoff Cleared for query DBid DB06290
+
+Tcoff above 0.7	0.7
+
+Cutoff Cleared for query DBid DB06290
+
+Tcoff above 0.7	0.74
+
+Cutoff Cleared for query DBid DB06290
+
+Tcoff above 0.7	0.71
+
+Cutoff Cleared for query DBid DB06290
+
+Tcoff above 0.7	0.71
+
+Cutoff Cleared for query DBid DB06290
+
+Tcoff above 0.7	0.73
+
+SMILES for DbId:DB07582	C1CCCC1NC(=O)N[C@@H](C(C)C)C(=O)N2CC[C@H](NC(=O)C3CC3)[C@H]2C4(C=O)CCC4
+
+No Hits were found in secondary run
+
+SMILES for DbId:DB13879	C1CC1(C)S(=O)(=O)NC(=O)[C@]2(C[C@H]2C(F)F)NC(=O)[C@@H](N34)C[C@H](C3)Oc5c(nc6c(n5)cccc6)C(F)(F)\C=C\CO[C@H]7[C@@H](CCC7)OC(=O)N[C@H](C4=O)C(C)(C)C
+
+Cutoff Cleared for query DBid DB13879
+
+Tcoff above 0.7	0.72
+
+Cutoff Cleared for query DBid DB13879
+
+Tcoff above 0.7	0.78
+
+Cutoff Cleared for query DBid DB13879
+
+Tcoff above 0.7	0.73
+
+Cutoff Cleared for query DBid DB13879
+
+Tcoff above 0.7	0.75
+
+Cutoff Cleared for query DBid DB13879
+
+Tcoff above 0.7	0.7
+
+Cutoff Cleared for query DBid DB13879
+
+Tcoff above 0.7	0.76
+
+Cutoff Cleared for query DBid DB13879
+
+Tcoff above 0.7	0.71
+
+Cutoff Cleared for query DBid DB13879
+
+Tcoff above 0.7	0.76
+
+Cutoff Cleared for query DBid DB13879
+
+Tcoff above 0.7	0.76
+
+Cutoff Cleared for query DBid DB13879
+
+Tcoff above 0.7	0.72
+
+Cutoff Cleared for query DBid DB13879
+
+Tcoff above 0.7	0.72
+
+Cutoff Cleared for query DBid DB13879
+
+Tcoff above 0.7	0.72
+
+Cutoff Cleared for query DBid DB13879
+
+Tcoff above 0.7	0.72
+
+Cutoff Cleared for query DBid DB13879
+
+Tcoff above 0.7	0.78
+
+Cutoff Cleared for query DBid DB13879
+
+Tcoff above 0.7	0.73
+
+Cutoff Cleared for query DBid DB13879
+
+Tcoff above 0.7	0.74
+
+Cutoff Cleared for query DBid DB13879
+
+Tcoff above 0.7	0.73
+
+Cutoff Cleared for query DBid DB13879
+
+Tcoff above 0.7	0.73
+
+Cutoff Cleared for query DBid DB13879
+
+Tcoff above 0.7	0.78
+
+Cutoff Cleared for query DBid DB13879
+
+Tcoff above 0.7	0.7
+
+Cutoff Cleared for query DBid DB13879
+
+Tcoff above 0.7	0.84
+
+Cutoff Cleared for query DBid DB13879
+
+Tcoff above 0.7	0.74
+
+Cutoff Cleared for query DBid DB13879
+
+Tcoff above 0.7	0.76
+
+Cutoff Cleared for query DBid DB13879
+
+Tcoff above 0.7	0.72
+
+Cutoff Cleared for query DBid DB13879
+
+Tcoff above 0.7	0.9
+
+Cutoff Cleared for query DBid DB13879
+
+Tcoff above 0.7	0.76
+
+Cutoff Cleared for query DBid DB13879
+
+Tcoff above 0.7	0.71
+
+Cutoff Cleared for query DBid DB13879
+
+Tcoff above 0.7	1.0
+
+Cutoff Cleared for query DBid DB13879
+
+Tcoff above 0.7	0.71
+
+SMILES for DbId:DB06913	N#CC(C(=O)N)[C@@H](S)Nc1cc(C(F)(F)F)cc(c1)C(F)(F)F
+
+No Hits were found in secondary run
+
+SMILES for DbId:DB07085	CC(=O)c1cc(F)c(Cl)cc1NCC(=O)Nc2ccccc2C(=O)O
+
+No Hits were found in secondary run
+
+SMILES for DbId:DB07185	O=C(O)c1ccccc1NC(=O)COc2ccc(Cl)cc2
+
+No Hits were found in secondary run
+
+SMILES for DbId:DB07273	OC(=O)[C@@H]1CCCN1S(=O)(=O)c2c(N)cc(Cl)c(C)c2
+
+No Hits were found in secondary run
+
+SMILES for DbId:DB07275	c1cccc(c12)c(O)c(c(=O)n2CCC(C)C)C(N3)=NS(=O)(=O)c(c34)cccc4
+
+No Hits were found in secondary run
+
+SMILES for DbId:DB07547	Cc1ccccc1S(=O)(=O)Nc2c(C(=O)O)sc(c2)-c3ccc(C#N)cc3
+
+No Hits were found in secondary run
+
+SMILES for DbId:DB07770	Cc1ccc(cc1)S(=O)(=O)Nc2c(C(=O)O)sc(c2)-c3ccc(F)cc3
+
+No Hits were found in secondary run
+
+SMILES for DbId:DB08556	CC(=O)c1ccc(s1)-c2cc(c(s2)C(=O)O)NS(=O)(=O)c3ccc(C)cc3C
+
+No Hits were found in secondary run
+
+SMILES for DbId:DB01720	c1ccccc1C(=O)N/C(C(=O)O)=C\c2ccc(cc2)Oc3ccccc3Br
+
+No Hits were found in secondary run
+
+SMILES for DbId:DB04005	O=c1[nH]c(=O)ccn1[C@H]2[C@H](O)[C@H](O)[C@H](O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O
+
+Cutoff Cleared for query DBid DB04005
+
+Tcoff above 0.7	0.72
+
+Cutoff Cleared for query DBid DB04005
+
+Tcoff above 0.7	0.74
+
+Cutoff Cleared for query DBid DB04005
+
+Tcoff above 0.7	0.83
+
+SMILES for DbId:DB05868	CC(C)Nc1nc(cs1)-c(nc(c23)cc(cc3)OC)cc2O[C@@H](C4)C[C@@H](C(=O)N5)N4C(=O)[C@@H](NC(=O)OC6CCCC6)CCCCC/C=C\[C@H](C7)[C@]57C(=O)O
+
+Cutoff Cleared for query DBid DB05868
+
+Tcoff above 0.7	0.72
+
+Cutoff Cleared for query DBid DB05868
+
+Tcoff above 0.7	0.7
+
+Cutoff Cleared for query DBid DB05868
+
+Tcoff above 0.7	0.72
+
+Cutoff Cleared for query DBid DB05868
+
+Tcoff above 0.7	0.71
+
+Cutoff Cleared for query DBid DB05868
+
+Tcoff above 0.7	0.72
+
+Cutoff Cleared for query DBid DB05868
+
+Tcoff above 0.7	0.71
+
+Cutoff Cleared for query DBid DB05868
+
+Tcoff above 0.7	0.71
+
+SMILES for DbId:DB06058	 
+
+		Your QUERY SMILE is corrupted at DB06058:
+ 
+
+Cutoff Cleared for query DBid DB06058
+
+Tcoff above 0.7	0.72
+
+Cutoff Cleared for query DBid DB06058
+
+Tcoff above 0.7	0.7
+
+Cutoff Cleared for query DBid DB06058
+
+Tcoff above 0.7	0.72
+
+Cutoff Cleared for query DBid DB06058
+
+Tcoff above 0.7	0.71
+
+Cutoff Cleared for query DBid DB06058
+
+Tcoff above 0.7	0.72
+
+Cutoff Cleared for query DBid DB06058
+
+Tcoff above 0.7	0.71
+
+Cutoff Cleared for query DBid DB06058
+
+Tcoff above 0.7	0.71
+
+SMILES for DbId:DB07582	C1CCCC1NC(=O)N[C@@H](C(C)C)C(=O)N2CC[C@H](NC(=O)C3CC3)[C@H]2C4(C=O)CCC4
+
+No Hits were found in secondary run
+
+SMILES for DbId:DB11779	Fc1cccc(c12)CN(C2)C(=O)O[C@@H](C3)C[C@@H](C(=O)N4)N3C(=O)[C@@H](NC(=O)OC(C)(C)C)CCCCC/C=C\[C@H](C5)[C@]45C(=O)NS(=O)(=O)C6CC6
+
+Cutoff Cleared for query DBid DB11779
+
+Tcoff above 0.7	0.71
+
+Cutoff Cleared for query DBid DB11779
+
+Tcoff above 0.7	0.73
+
+Cutoff Cleared for query DBid DB11779
+
+Tcoff above 0.7	0.73
+
+Cutoff Cleared for query DBid DB11779
+
+Tcoff above 0.7	0.7
+
+SMILES for DbId:DB07238	Fc1ccc(cc1)-c(c2C(=O)NC)oc(c23)cc(c(c3)C4CC4)N(S(=O)(=O)C)CCO
+
+No Hits were found in secondary run
+
+SMILES for DbId:DB02331	c1ccccc1C[C@@H](C(=O)O)N(C(=O)c2c(Cl)cc(Cl)cc2)Cc3ccc(s3)-c(o4)cc(c45)cccc5
+
+No Hits were found in secondary run
+
+SMILES for DbId:DB03605	c1ccccc1C[C@@H](C(=O)O)N(Cc2cc(C(F)(F)F)ccc2)C(=O)c3c(Cl)cc(Cl)cc3
+
+No Hits were found in secondary run
+
+SMILES for DbId:DB04005	O=c1[nH]c(=O)ccn1[C@H]2[C@H](O)[C@H](O)[C@H](O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O
+
+Cutoff Cleared for query DBid DB04005
+
+Tcoff above 0.7	0.72
+
+Cutoff Cleared for query DBid DB04005
+
+Tcoff above 0.7	0.74
+
+Cutoff Cleared for query DBid DB04005
+
+Tcoff above 0.7	0.83
+
+SMILES for DbId:DB04137	O=c1[nH]c(N)nc(c12)n(cn2)[C@@H]3O[C@@H]([C@@H](O)[C@H]3O)COP(=O)(O)OP(=O)(O)OP(=O)(O)O
+
+Cutoff Cleared for query DBid DB04137
+
+Tcoff above 0.7	0.79
+
+Cutoff Cleared for query DBid DB04137
+
+Tcoff above 0.7	0.74
+
+Cutoff Cleared for query DBid DB04137
+
+Tcoff above 0.7	0.73
+
+Cutoff Cleared for query DBid DB04137
+
+Tcoff above 0.7	0.73
+
+Cutoff Cleared for query DBid DB04137
+
+Tcoff above 0.7	0.72
+
+Cutoff Cleared for query DBid DB04137
+
+Tcoff above 0.7	0.75
+
+Cutoff Cleared for query DBid DB04137
+
+Tcoff above 0.7	0.72
+
+Cutoff Cleared for query DBid DB04137
+
+Tcoff above 0.7	0.74
+
+Cutoff Cleared for query DBid DB04137
+
+Tcoff above 0.7	0.72
+
+Cutoff Cleared for query DBid DB04137
+
+Tcoff above 0.7	0.78
+
+SMILES for DbId:DB04298	Nc1cc(C(C)(C)C)c(cc1C)SC(=C(O)C2)C(=O)O[C@@]2(C3CCCC3)CCc4ccc(O)cc4
+
+No Hits were found in secondary run
+
+SMILES for DbId:DB06974	COc(c1)ccc(c12)N=C(NS2(=O)=O)c3c(O)c(nn(c3=O)CCC(C)C)-c4ccccc4
+
+Cutoff Cleared for query DBid DB06974
+
+Tcoff above 0.7	0.75
+
+Cutoff Cleared for query DBid DB06974
+
+Tcoff above 0.7	0.73
+
+Cutoff Cleared for query DBid DB06974
+
+Tcoff above 0.7	0.73
+
+Cutoff Cleared for query DBid DB06974
+
+Tcoff above 0.7	0.73
+
+Cutoff Cleared for query DBid DB06974
+
+Tcoff above 0.7	0.73
+
+Cutoff Cleared for query DBid DB06974
+
+Tcoff above 0.7	0.75
+
+Cutoff Cleared for query DBid DB06974
+
+Tcoff above 0.7	0.7
+
+Cutoff Cleared for query DBid DB06974
+
+Tcoff above 0.7	0.7
+
+Cutoff Cleared for query DBid DB06974
+
+Tcoff above 0.7	0.75
+
+Cutoff Cleared for query DBid DB06974
+
+Tcoff above 0.7	0.73
+
+Cutoff Cleared for query DBid DB06974
+
+Tcoff above 0.7	0.72
+
+SMILES for DbId:DB07062	CC(C)CCn(n(c12)ccc2)c(=O)c(c1O)C(NS3(=O)=O)=Nc(c34)ccc(c4)NS(=O)(=O)C
+
+Cutoff Cleared for query DBid DB07062
+
+Tcoff above 0.7	0.71
+
+Cutoff Cleared for query DBid DB07062
+
+Tcoff above 0.7	0.77
+
+Cutoff Cleared for query DBid DB07062
+
+Tcoff above 0.7	0.74
+
+Cutoff Cleared for query DBid DB07062
+
+Tcoff above 0.7	0.75
+
+Cutoff Cleared for query DBid DB07062
+
+Tcoff above 0.7	0.75
+
+Cutoff Cleared for query DBid DB07062
+
+Tcoff above 0.7	0.75
+
+Cutoff Cleared for query DBid DB07062
+
+Tcoff above 0.7	0.71
+
+Cutoff Cleared for query DBid DB07062
+
+Tcoff above 0.7	0.71
+
+Cutoff Cleared for query DBid DB07062
+
+Tcoff above 0.7	0.77
+
+Cutoff Cleared for query DBid DB07062
+
+Tcoff above 0.7	0.71
+
+Cutoff Cleared for query DBid DB07062
+
+Tcoff above 0.7	0.72
+
+Cutoff Cleared for query DBid DB07062
+
+Tcoff above 0.7	0.71
+
+Cutoff Cleared for query DBid DB07062
+
+Tcoff above 0.7	0.77
+
+Cutoff Cleared for query DBid DB07062
+
+Tcoff above 0.7	0.75
+
+Cutoff Cleared for query DBid DB07062
+
+Tcoff above 0.7	0.71
+
+Cutoff Cleared for query DBid DB07062
+
+Tcoff above 0.7	0.74
+
+SMILES for DbId:DB07169	Clc1ccc(cc1Cl)C[C@H]2SC(=S)N(C2=O)NS(=O)(=O)c3cccs3
+
+No Hits were found in secondary run
+
+SMILES for DbId:DB07199	CC(C)C[C@@]1(C(=O)O)C[C@H](C(=O)O)[C@H](c2nccs2)N1C(=O)c3ccc(cc3)C(C)(C)C
+
+No Hits were found in secondary run
+
+SMILES for DbId:DB07200	CC(C)C[C@@]1(C(=O)O)C[C@H](C(=O)O)[C@H](c2cccs2)N1C(=O)c3ccc(C(F)(F)F)cc3
+
+No Hits were found in secondary run
+
+SMILES for DbId:DB07238	Fc1ccc(cc1)-c(c2C(=O)NC)oc(c23)cc(c(c3)C4CC4)N(S(=O)(=O)C)CCO
+
+No Hits were found in secondary run
+
+SMILES for DbId:DB07414	c1ccccc1CN2[C@@H](C(C)C)C(O)=C(C2=O)C3=NS(=O)(=O)c(c34)cccc4
+
+Cutoff Cleared for query DBid DB07414
+
+Tcoff above 0.7	0.71
+
+Cutoff Cleared for query DBid DB07414
+
+Tcoff above 0.7	0.7
+
+Cutoff Cleared for query DBid DB07414
+
+Tcoff above 0.7	0.71
+
+Cutoff Cleared for query DBid DB07414
+
+Tcoff above 0.7	0.71
+
+Cutoff Cleared for query DBid DB07414
+
+Tcoff above 0.7	0.7
+
+SMILES for DbId:DB07570	C1CCCCC1c(c(c23)ccc(c3)C(=O)O)c(-c4ccccc4)n2CC(=O)N5CCOCC5
+
+No Hits were found in secondary run
+
+SMILES for DbId:DB08031	OC(=O)C(C)(C)NC(=O)c(c1)ccc(c12)c(C3CCCCC3)c4n2CCOc5c4cccc5
+
+Cutoff Cleared for query DBid DB08031
+
+Tcoff above 0.7	0.7
+
+SMILES for DbId:DB08278	c1cccc(c12)S(=O)(=O)N=C(N2)c(c3O)c(=O)n(c(c34)ccc(F)c4)CCC5CC5
+
+Cutoff Cleared for query DBid DB08278
+
+Tcoff above 0.7	0.71
+
+Cutoff Cleared for query DBid DB08278
+
+Tcoff above 0.7	0.7
+
+Cutoff Cleared for query DBid DB08278
+
+Tcoff above 0.7	0.71
+
+Cutoff Cleared for query DBid DB08278
+
+Tcoff above 0.7	0.72
+
+Cutoff Cleared for query DBid DB08278
+
+Tcoff above 0.7	0.7
+
+SMILES for DbId:DB08279	C[C@H]1CC[C@@H](CC1)C(=O)N(C(C)C)c2c(C(=O)O)sc(c2)-c3ccccc3
+
+No Hits were found in secondary run
+
+SMILES for DbId:DB08390	CC(C)Oc1ccc(cc1F)CC[C@]2(CC(O)=CC(=O)O2)C3CCCC3
+
+No Hits were found in secondary run
+
+SMILES for DbId:DB08481	Cc1ccc(cc1)S(=O)(=O)NC2=NC(=O)/C(S2)=C/c3ccc(o3)C
+
+No Hits were found in secondary run
+
+SMILES for DbId:DB08578	OC(=O)CCC(=O)Nc1ccc(Br)cn1
+
+No Hits were found in secondary run
+
+SMILES for DbId:DB08579	C[C@H]1CN(C[C@@H](C)C1)C(=O)c2cc(Br)ccc2N
+
+No Hits were found in secondary run
+
+SMILES for DbId:DB08580	Clc1ccccc1C[C@H]2CCCN2C(=O)c3cc(Br)ccc3N
+
+No Hits were found in secondary run
+
+SMILES for DbId:DB08581	C[C@H]1CN(C[C@@H](C)C1)C(=O)c2cc(Br)ccc2NC(=O)CCC(=O)O
+
+No Hits were found in secondary run
+
+SMILES for DbId:DB08582	C[C@H]1CN(C[C@@H](C)C1)C(=O)c2c(ccc(Br)c2)NC(=O)CCC(=O)N3CCOCC3
+
+No Hits were found in secondary run
+
+SMILES for DbId:DB08701	OCCNc1ccc2C(=O)N(C(=O)c(c2c13)ccc3)c4cc(Br)ccc4
+
+No Hits were found in secondary run
+
+SMILES for DbId:DB08706	CCc1ccc(o1)/C=C2\SC(=NC2=O)N[C@H](C(=O)O)c3ccc(F)cc3
+
+No Hits were found in secondary run
+
+SMILES for DbId:DB08710	CCc1ccc(o1)/C=C2\SC(=NC2=O)N[C@H](c3nnn[nH]3)c4ccc(F)cc4
+
+No Hits were found in secondary run
+
+SMILES for DbId:DB11586	c1cc(Cl)cc(c12)c(ncc2OC)O[C@@H]3C[C@H](N(C3)C(=O)[C@H](C(C)(C)C)NC(=O)OC(C)(C)C)C(=O)N[C@@]4(C[C@H]4C=C)C(=O)NS(=O)(=O)C5CC5
+
+Cutoff Cleared for query DBid DB11586
+
+Tcoff above 0.7	0.83
+
+Cutoff Cleared for query DBid DB11586
+
+Tcoff above 0.7	0.8
+
+Cutoff Cleared for query DBid DB11586
+
+Tcoff above 0.7	1.0
+
+Cutoff Cleared for query DBid DB11586
+
+Tcoff above 0.7	0.75
+
+Cutoff Cleared for query DBid DB11586
+
+Tcoff above 0.7	0.74
+
+SMILES for DbId:DB08644	CS(=O)(=O)N[C@H]1CCN([C@@H]1[C@@H](C=O)CC)C(=O)[C@H](C(C)C)NC(=O)OC(C)(C)C
+
+No Hits were found in secondary run
+
+SMILES for DbId:DB08747	Clc1ccc(c(Cl)c1)[C@@H]2N(C(=O)C)c(cccc3O)c3NC(=C24)CC(C)(C)CC4=O
+
+Cutoff Cleared for query DBid DB08747
+
+Tcoff above 0.7	0.7
+
+Cutoff Cleared for query DBid DB08747
+
+Tcoff above 0.7	0.75
+
+Cutoff Cleared for query DBid DB08747
+
+Tcoff above 0.7	0.73
+
+Cutoff Cleared for query DBid DB08747
+
+Tcoff above 0.7	0.74
+
+Cutoff Cleared for query DBid DB08747
+
+Tcoff above 0.7	0.74
+
+Cutoff Cleared for query DBid DB08747
+
+Tcoff above 0.7	0.74
+
+Cutoff Cleared for query DBid DB08747
+
+Tcoff above 0.7	0.71
+
+Cutoff Cleared for query DBid DB08747
+
+Tcoff above 0.7	0.75
+
+Cutoff Cleared for query DBid DB08747
+
+Tcoff above 0.7	0.71
+
+Cutoff Cleared for query DBid DB08747
+
+Tcoff above 0.7	0.75
+
+Cutoff Cleared for query DBid DB08747
+
+Tcoff above 0.7	0.74
+
+Cutoff Cleared for query DBid DB08747
+
+Tcoff above 0.7	0.71
+
+Cutoff Cleared for query DBid DB08747
+
+Tcoff above 0.7	0.73
+
+SMILES for DbId:DB05521	C1CC1NC(=O)C(=O)[C@H](CCC)NC(=O)[C@H]2N(C[C@@H]([C@@H]23)CCC3)C(=O)[C@H](C(C)(C)C)NC(=O)[C@H](C4CCCCC4)NC(=O)c5nccnc5
+
+Cutoff Cleared for query DBid DB05521
+
+Tcoff above 0.7	1.0
+
+SMILES for DbId:DB08873	CC(C)(C)NC(=O)N[C@@H](C(C)(C)C)C(=O)N(C[C@@H]([C@@H]12)C2(C)C)[C@@H]1C(=O)NC(C(=O)C(=O)N)CC3CCC3
+
+Cutoff Cleared for query DBid DB08873
+
+Tcoff above 0.7	1.0
+
+SMILES for DbId:DB09297	C1CC1S(=O)(=O)NC(=O)[C@]23[C@@H](C2)/C=C\CCCCC[C@H](NC(=O)c4cnc(C)cn4)C(=O)N5[C@H](C(=O)N3)C[C@H](C5)Oc6nc(cccc7)c7c(c68)cccc8
+
+Cutoff Cleared for query DBid DB09297
+
+Tcoff above 0.7	0.71
+
+Cutoff Cleared for query DBid DB09297
+
+Tcoff above 0.7	0.7
+
+Cutoff Cleared for query DBid DB09297
+
+Tcoff above 0.7	0.71
+
+Cutoff Cleared for query DBid DB09297
+
+Tcoff above 0.7	1.0
+
+Cutoff Cleared for query DBid DB09297
+
+Tcoff above 0.7	0.7
+
+Cutoff Cleared for query DBid DB09297
+
+Tcoff above 0.7	0.78
+
+Cutoff Cleared for query DBid DB09297
+
+Tcoff above 0.7	0.83
+
+Cutoff Cleared for query DBid DB09297
+
+Tcoff above 0.7	0.74
+
+Cutoff Cleared for query DBid DB09297
+
+Tcoff above 0.7	0.73
+
+SMILES for DbId:DB11575	COc(cc1)cc(c12)nc3c(n2)CCCCC[C@H]4[C@@H](C4)OC(=O)N[C@@H](C(C)(C)C)C(=O)N5C[C@H](O3)C[C@H]5C(=O)N[C@@]6(C[C@H]6C=C)C(=O)NS(=O)(=O)C7CC7
+
+Cutoff Cleared for query DBid DB11575
+
+Tcoff above 0.7	0.74
+
+Cutoff Cleared for query DBid DB11575
+
+Tcoff above 0.7	0.72
+
+Cutoff Cleared for query DBid DB11575
+
+Tcoff above 0.7	0.73
+
+Cutoff Cleared for query DBid DB11575
+
+Tcoff above 0.7	0.72
+
+Cutoff Cleared for query DBid DB11575
+
+Tcoff above 0.7	0.72
+
+Cutoff Cleared for query DBid DB11575
+
+Tcoff above 0.7	0.74
+
+Cutoff Cleared for query DBid DB11575
+
+Tcoff above 0.7	0.7
+
+Cutoff Cleared for query DBid DB11575
+
+Tcoff above 0.7	0.7
+
+Cutoff Cleared for query DBid DB11575
+
+Tcoff above 0.7	0.78
+
+Cutoff Cleared for query DBid DB11575
+
+Tcoff above 0.7	0.74
+
+Cutoff Cleared for query DBid DB11575
+
+Tcoff above 0.7	1.0
+
+Cutoff Cleared for query DBid DB11575
+
+Tcoff above 0.7	0.8
+
+Cutoff Cleared for query DBid DB11575
+
+Tcoff above 0.7	0.73
+
+Cutoff Cleared for query DBid DB11575
+
+Tcoff above 0.7	0.89
+
+Cutoff Cleared for query DBid DB11575
+
+Tcoff above 0.7	0.72
+
+Cutoff Cleared for query DBid DB11575
+
+Tcoff above 0.7	0.84
+
+SMILES for DbId:DB12026	C1CC1(C)S(=O)(=O)NC(=O)[C@]2(C[C@H]2C(F)F)NC(=O)[C@H]([C@@H]([C@H]34)CC)N(C3)C(=O)[C@H](C(C)(C)C)NC(=O)O[C@H]5[C@@H](C5)CCCCC(F)(F)c6c(O4)nc7c(n6)ccc(c7)OC
+
+Cutoff Cleared for query DBid DB12026
+
+Tcoff above 0.7	0.74
+
+Cutoff Cleared for query DBid DB12026
+
+Tcoff above 0.7	0.8
+
+Cutoff Cleared for query DBid DB12026
+
+Tcoff above 0.7	0.71
+
+Cutoff Cleared for query DBid DB12026
+
+Tcoff above 0.7	0.74
+
+Cutoff Cleared for query DBid DB12026
+
+Tcoff above 0.7	0.77
+
+Cutoff Cleared for query DBid DB12026
+
+Tcoff above 0.7	0.71
+
+Cutoff Cleared for query DBid DB12026
+
+Tcoff above 0.7	0.78
+
+Cutoff Cleared for query DBid DB12026
+
+Tcoff above 0.7	0.72
+
+Cutoff Cleared for query DBid DB12026
+
+Tcoff above 0.7	0.78
+
+Cutoff Cleared for query DBid DB12026
+
+Tcoff above 0.7	0.71
+
+Cutoff Cleared for query DBid DB12026
+
+Tcoff above 0.7	0.78
+
+Cutoff Cleared for query DBid DB12026
+
+Tcoff above 0.7	0.71
+
+Cutoff Cleared for query DBid DB12026
+
+Tcoff above 0.7	0.74
+
+Cutoff Cleared for query DBid DB12026
+
+Tcoff above 0.7	0.7
+
+Cutoff Cleared for query DBid DB12026
+
+Tcoff above 0.7	0.73
+
+Cutoff Cleared for query DBid DB12026
+
+Tcoff above 0.7	0.71
+
+Cutoff Cleared for query DBid DB12026
+
+Tcoff above 0.7	0.7
+
+Cutoff Cleared for query DBid DB12026
+
+Tcoff above 0.7	0.73
+
+Cutoff Cleared for query DBid DB12026
+
+Tcoff above 0.7	0.74
+
+Cutoff Cleared for query DBid DB12026
+
+Tcoff above 0.7	0.71
+
+Cutoff Cleared for query DBid DB12026
+
+Tcoff above 0.7	0.71
+
+Cutoff Cleared for query DBid DB12026
+
+Tcoff above 0.7	0.8
+
+Cutoff Cleared for query DBid DB12026
+
+Tcoff above 0.7	0.74
+
+Cutoff Cleared for query DBid DB12026
+
+Tcoff above 0.7	0.76
+
+Cutoff Cleared for query DBid DB12026
+
+Tcoff above 0.7	0.71
+
+Cutoff Cleared for query DBid DB12026
+
+Tcoff above 0.7	0.74
+
+Cutoff Cleared for query DBid DB12026
+
+Tcoff above 0.7	0.7
+
+Cutoff Cleared for query DBid DB12026
+
+Tcoff above 0.7	0.71
+
+Cutoff Cleared for query DBid DB12026
+
+Tcoff above 0.7	0.74
+
+Cutoff Cleared for query DBid DB12026
+
+Tcoff above 0.7	0.8
+
+Cutoff Cleared for query DBid DB12026
+
+Tcoff above 0.7	0.71
+
+Cutoff Cleared for query DBid DB12026
+
+Tcoff above 0.7	0.71
+
+Cutoff Cleared for query DBid DB12026
+
+Tcoff above 0.7	0.71
+
+Cutoff Cleared for query DBid DB12026
+
+Tcoff above 0.7	0.89
+
+Cutoff Cleared for query DBid DB12026
+
+Tcoff above 0.7	0.75
+
+Cutoff Cleared for query DBid DB12026
+
+Tcoff above 0.7	0.7
+
+Cutoff Cleared for query DBid DB12026
+
+Tcoff above 0.7	0.78
+
+Cutoff Cleared for query DBid DB12026
+
+Tcoff above 0.7	0.74
+
+Cutoff Cleared for query DBid DB12026
+
+Tcoff above 0.7	1.0
+
+Cutoff Cleared for query DBid DB12026
+
+Tcoff above 0.7	0.71
+
+Cutoff Cleared for query DBid DB12026
+
+Tcoff above 0.7	0.72
+
+Cutoff Cleared for query DBid DB12026
+
+Tcoff above 0.7	0.78
+
+Cutoff Cleared for query DBid DB12026
+
+Tcoff above 0.7	0.72
+
+Cutoff Cleared for query DBid DB12026
+
+Tcoff above 0.7	0.9
+
+Cutoff Cleared for query DBid DB12026
+
+Tcoff above 0.7	0.72
+
+SMILES for DbId:DB03388	Clc1ccc(c(Cl)c1)C(=O)N(C(C)C)c2c(C(=O)O)sc(c2)-c3ccccc3
+
+No Hits were found in secondary run
+
+SMILES for DbId:DB03647	Cc1ccc(cc1)C(=O)N(C(C)C)c2c(C(=O)O)sc(c2)-c3ccccc3
+
+No Hits were found in secondary run
+
+SMILES for DbId:DB08701	OCCNc1ccc2C(=O)N(C(=O)c(c2c13)ccc3)c4cc(Br)ccc4
+
+No Hits were found in secondary run
+
+TIME-MODE2_Tc-Run:	374.32
+
+TIME-MODE2-Complete:	392.93
+
+TIME-Complete-Run:	393.6

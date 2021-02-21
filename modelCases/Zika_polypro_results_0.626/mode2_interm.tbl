@@ -1,0 +1,4 @@
+	Query	Target	Query-Cov	Align-From	Align-To	DrugBank ID	Reg.Status	Mol.Name	SMILES
+0	sp|Q32ZE1|POLG_ZIK	P12823	98.98	2	3386	DB00811	approved	Ribavirin	NC(=O)c1nn(cn1)[C@@H]2O[C@H](CO)[C@@H](O)[C@H]2O
+1	sp|Q32ZE1|POLG_ZIK	P12823	98.98	2	3386	DB01752	experimental	S-adenosyl-L-homocysteine	OC(=O)[C@@H](N)CCSC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n2cnc(c23)c(N)ncn3
+2	sp|Q32ZE1|POLG_ZIK	P27915	99.03	2	3388	DB04473	experimental	alpha-L-fucose	C[C@@H]1O[C@@H](O)[C@@H](O)[C@H](O)[C@@H]1O

@@ -1,0 +1,129 @@
+	Number of sequences input by user are: 1
+
+	INITIATIED Homology Search with	
+:/prod/www/nslab/NOD/Results/SC_ebola_RdRp_results_0.677//pyRunHmmer.smry	/prod/www/nslab/NOD/Results/SC_ebola_RdRp_results_0.677//pyRunHmmer.align	/prod/www/nslab/NOD/Results/SC_ebola_RdRp_results_0.677//pyRunHmmer.tsv	FASTA	05	FASTA	/prod/www/nslab/NOD/Results/SC_ebola_RdRp_results_0.677//query.fasta	source/1-DgB_TargetProteins.fasta
+	COMPLETED Homology Search
+
+TIME-Homology-Search:	12.45
+
+	FORMATTED: Homology Search output into Tables
+
+TIME-Sanitize-hmmer:	0.02
+
+	Homology table is being FILTERED based on e-value and query coverage
+
+	RETRIEVED: Relevant hits from homology table
+
+TIME-Filter-Table:	0.02
+	Entered in MODE-2
+
+	MAPPING the ids onto DrugBank database to find potent compunds
+
+	Extracted DBids from jackHmmer:	DB11676; DB14761; DB15686
+Find a match against DB11676 in DgBankDB: target
+Find a match against  DB14761 in DgBankDB: target
+Find a match against  DB15686 in DgBankDB: target
+
+	FETCHED: Potent Drugbank compounds details
+
+TIME-MODE2_DBmap-Run:	1.21
+
+SMILES for DbId:DB11676	O[C@@H]1[C@H](O)[C@@H](CO)N[C@H]1c2c[nH]c(c23)c(N)ncn3
+
+No Hits were found in secondary run
+
+SMILES for DbId:DB14761	CCC(CC)COC(=O)[C@H](C)N[P@@](=O)(Oc1ccccc1)OC[C@@H](O2)[C@@H](O)[C@@H](O)[C@]2(C#N)c3ccc(n34)c(N)ncn4
+
+Cutoff Cleared for query DBid DB14761
+
+Tcoff above 0.7	0.73
+
+Cutoff Cleared for query DBid DB14761
+
+Tcoff above 0.7	0.8
+
+Cutoff Cleared for query DBid DB14761
+
+Tcoff above 0.7	0.73
+
+Cutoff Cleared for query DBid DB14761
+
+Tcoff above 0.7	0.78
+
+Cutoff Cleared for query DBid DB14761
+
+Tcoff above 0.7	0.78
+
+Cutoff Cleared for query DBid DB14761
+
+Tcoff above 0.7	0.7
+
+Cutoff Cleared for query DBid DB14761
+
+Tcoff above 0.7	0.78
+
+Cutoff Cleared for query DBid DB14761
+
+Tcoff above 0.7	0.78
+
+Cutoff Cleared for query DBid DB14761
+
+Tcoff above 0.7	0.74
+
+Cutoff Cleared for query DBid DB14761
+
+Tcoff above 0.7	0.7
+
+Cutoff Cleared for query DBid DB14761
+
+Tcoff above 0.7	0.71
+
+Cutoff Cleared for query DBid DB14761
+
+Tcoff above 0.7	0.71
+
+Cutoff Cleared for query DBid DB14761
+
+Tcoff above 0.7	0.8
+
+Cutoff Cleared for query DBid DB14761
+
+Tcoff above 0.7	0.73
+
+Cutoff Cleared for query DBid DB14761
+
+Tcoff above 0.7	0.74
+
+Cutoff Cleared for query DBid DB14761
+
+Tcoff above 0.7	0.73
+
+Cutoff Cleared for query DBid DB14761
+
+Tcoff above 0.7	0.8
+
+Cutoff Cleared for query DBid DB14761
+
+Tcoff above 0.7	0.78
+
+Cutoff Cleared for query DBid DB14761
+
+Tcoff above 0.7	0.73
+
+Cutoff Cleared for query DBid DB14761
+
+Tcoff above 0.7	0.77
+
+Cutoff Cleared for query DBid DB14761
+
+Tcoff above 0.7	0.71
+
+SMILES for DbId:DB15686	Nc1ncnn(c12)c(cc2)[C@]3(C#N)O[C@H](CO)[C@@H](O)[C@H]3O
+
+No Hits were found in secondary run
+
+TIME-MODE2_Tc-Run:	20.37
+
+TIME-MODE2-Complete:	21.58
+
+TIME-Complete-Run:	34.07

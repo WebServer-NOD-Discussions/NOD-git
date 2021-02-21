@@ -1,0 +1,7 @@
+	tName	tAcc	tLen	qName	qAcc	qLen	eVal	score	bias	domNo	totDom	domCval	domIval	domScor	domBias	hmmStrt	hmmEnd	aliStrt	aliEnd	envStrt	envEnd	envAccu	description	qCov
+0	drugbank_target|P0C6X7	-	7073	sp|P0DTD1|R1AB_SAR	-	7096	0.0	16884.8	138.1	1	1	0.0	0.0	16884.7	138.1	1	7096	1	7073	1	7073	1.0	Replicase polyprotein 1ab (DB07293; DB07620; DB07743; DB08656; DB08732; DB08748; DB14761; DB15686)	99.66
+1	drugbank_target|A7J8L3	-	4382	sp|P0DTD1|R1AB_SAR	-	7096	0.0	10843.7	85.7	1	1	0.0	0.0	10843.5	85.7	1	4402	1	4379	1	4382	1.0	Orf1a polyprotein (DB08748)	61.7
+2	drugbank_target|P0C6U8	-	4382	sp|P0DTD1|R1AB_SAR	-	7096	0.0	10843.7	85.7	1	1	0.0	0.0	10843.5	85.7	1	4402	1	4379	1	4382	1.0	Replicase polyprotein 1a (DB07620; DB07743; DB08732)	61.7
+3	drugbank_target|P0A8D6	-	177	sp|P0DTD1|R1AB_SAR	-	7096	3.2e-40	134.1	0.1	1	1	3.5e-43	3.7e-40	133.9	0.1	1047	1174	10	146	2	175	0.89	O-acetyl-ADP-ribose deacetylase (DB03814)	1.92
+4	drugbank_target|Q460N3	-	678	sp|P0DTD1|R1AB_SAR	-	7096	6.5e-31	103.2	0.1	1	2	9.800000000000001e-30	1e-26	89.2	0.0	1051	1156	100	214	89	230	0.91	Poly [ADP-ribose] polymerase 15 (DB08348)	1.61
+5	drugbank_target|Q460N3	-	678	sp|P0DTD1|R1AB_SAR	-	7096	6.5e-31	103.2	0.1	2	2	2e-06	0.0021	11.9	0.2	1047	1168	311	427	277	434	0.79	Poly [ADP-ribose] polymerase 15 (DB08348)	1.63

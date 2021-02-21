@@ -1,0 +1,24 @@
+#                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name          accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#  ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+drugbank_target|Q91RS4 -            181 tr|Q91RS4|Q91RS4_9   -            181  1.3e-119  394.8   2.9   1   1  2.9e-122  1.4e-119  394.6   2.9     1   181     1   181     1   181 1.00 NS3 protease (DB06290; DB07582; DB13879)
+drugbank_target|Q99AU2 -           3010 tr|Q91RS4|Q91RS4_9   -            181  1.2e-117  388.3   3.9   1   1  5.7e-120  2.7e-117  387.2   3.9     1   181  1027  1207  1027  1207 1.00 Genome polyprotein (DB06913; DB07085; DB07185; DB07273; DB07275; DB07547; DB07770; DB08556)
+drugbank_target|P26662 -           3010 tr|Q91RS4|Q91RS4_9   -            181  1.9e-117  387.7   3.4   1   1  1.1e-119  5.2e-117  386.3   3.4     1   181  1027  1207  1027  1207 1.00 Genome polyprotein (DB01720; DB04005)
+drugbank_target|P26664 -           3011 tr|Q91RS4|Q91RS4_9   -            181    2e-117  387.6   3.1   1   1  9.9e-120  4.7e-117  386.4   3.1     1   181  1027  1207  1027  1207 1.00 Genome polyprotein (DB05868; DB06058; DB07582; DB11779)
+drugbank_target|Q9WMX2 -           3010 tr|Q91RS4|Q91RS4_9   -            181  2.8e-117  387.1   4.0   1   1  1.3e-119  6.3e-117  386.0   4.0     1   181  1027  1207  1027  1207 1.00 Genome polyprotein (DB07238)
+drugbank_target|P26663 -           3010 tr|Q91RS4|Q91RS4_9   -            181  3.1e-117  387.0   2.9   1   1  1.6e-119  7.8e-117  385.7   2.9     1   181  1027  1207  1027  1207 1.00 Genome polyprotein (DB02331; DB03605; DB04005; DB04137; DB04298; DB06974; DB07062; DB07169; DB07199; DB07200; DB07238; DB07414; DB07570; DB08031; DB08278; DB08279; DB08390; DB08481; DB08578; DB08579; DB08580; DB08581; DB08582; DB08701; DB08706; DB08710; DB11586)
+drugbank_target|P27958 -           3011 tr|Q91RS4|Q91RS4_9   -            181  1.5e-116  384.8   3.4   1   1  6.9e-119  3.3e-116  383.6   3.4     1   181  1027  1207  1027  1207 1.00 Genome polyprotein (DB08644)
+drugbank_target|O92972 -           3010 tr|Q91RS4|Q91RS4_9   -            181  4.8e-116  383.1   4.0   1   1  2.3e-118  1.1e-115  381.9   4.0     1   181  1027  1207  1027  1207 1.00 Genome polyprotein (DB08747)
+drugbank_target|B0B3C9 -            685 tr|Q91RS4|Q91RS4_9   -            181  1.7e-106  352.0   4.0   1   1  6.8e-109  3.3e-106  351.1   4.0     1   181     1   181     1   181 1.00 Genome polyprotein (DB05521; DB08873; DB09297; DB11575; DB12026)
+drugbank_target|P26660 -           3033 tr|Q91RS4|Q91RS4_9   -            181  4.2e-106  350.7   2.7   1   1  2.2e-108    1e-105  349.4   2.7     1   181  1031  1211  1031  1211 1.00 Genome polyprotein (DB03388; DB03647)
+drugbank_target|P26661 -           3033 tr|Q91RS4|Q91RS4_9   -            181  4.6e-106  350.6   2.3   1   1  2.3e-108  1.1e-105  349.3   2.3     1   180  1031  1210  1031  1211 0.99 Genome polyprotein (DB08701)
+#
+# Program:         jackhmmer
+# Version:         3.3.1 (Jul 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /prod/www/nslab/NOD/Results/SC_HCV_protease_results_0.835//query.fasta
+# Target file:     source/1-DgB_TargetProteins.fasta
+# Option settings: /prod/www/nslab/NOD/dependencies/hmmer-3.3.1/bin/jackhmmer -N 3 -o /prod/www/nslab/NOD/Results/SC_HCV_protease_results_0.835//pyRunHmmer.smry -A /prod/www/nslab/NOD/Results/SC_HCV_protease_results_0.835//pyRunHmmer.align --domtblout /prod/www/nslab/NOD/Results/SC_HCV_protease_results_0.835//pyRunHmmer.tsv --noali --incE 5 --qformat FASTA --tformat FASTA /prod/www/nslab/NOD/Results/SC_HCV_protease_results_0.835//query.fasta source/1-DgB_TargetProteins.fasta 
+# Current dir:     /data/prod/www/NOD_v-2
+# Date:            Tue Sep 22 16:21:21 2020
+# [ok]

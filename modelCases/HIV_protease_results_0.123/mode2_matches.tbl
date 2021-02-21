@@ -1,0 +1,281 @@
+	Query	Target	Query-Cov	Align-From	Align-To	1-Candidate	1-Mol.Name	1-Reg.Status	2-Candidate	2-Mol.Name	2-Reg.Status	Similarity by Tcoff
+0	tr|Q72874|Q72874_9	Q8Q3H0	98.99	1	99	DB04623	2-ETHOXYETHYL (2S,3S)-4-((S)-2-BENZYL-3-OXO-4-((3AR,8R,8AS)-2-OXO-3,3A,8,8A-TETRAHYDRO-2H-INDENO[1,2-D]OXAZOL-8-YL)-2,3-DIHYDRO-1H-PYRROL-2-YL)-3-HYDROXY-1-PHENYLBUTAN-2-YLCARBAMATE	experimental	DB00115	Cyanocobalamin	approved; nutraceutical	0.72
+1	tr|Q72874|Q72874_9	Q8Q3H0	98.99	1	99	DB04623	2-ETHOXYETHYL (2S,3S)-4-((S)-2-BENZYL-3-OXO-4-((3AR,8R,8AS)-2-OXO-3,3A,8,8A-TETRAHYDRO-2H-INDENO[1,2-D]OXAZOL-8-YL)-2,3-DIHYDRO-1H-PYRROL-2-YL)-3-HYDROXY-1-PHENYLBUTAN-2-YLCARBAMATE	experimental	DB00200	Hydroxocobalamin	approved	0.77
+2	tr|Q72874|Q72874_9	Q8Q3H0	98.99	1	99	DB04623	2-ETHOXYETHYL (2S,3S)-4-((S)-2-BENZYL-3-OXO-4-((3AR,8R,8AS)-2-OXO-3,3A,8,8A-TETRAHYDRO-2H-INDENO[1,2-D]OXAZOL-8-YL)-2,3-DIHYDRO-1H-PYRROL-2-YL)-3-HYDROXY-1-PHENYLBUTAN-2-YLCARBAMATE	experimental	DB00254	Doxycycline	approved; investigational; vet_approved	0.7
+3	tr|Q72874|Q72874_9	Q8Q3H0	98.99	1	99	DB04623	2-ETHOXYETHYL (2S,3S)-4-((S)-2-BENZYL-3-OXO-4-((3AR,8R,8AS)-2-OXO-3,3A,8,8A-TETRAHYDRO-2H-INDENO[1,2-D]OXAZOL-8-YL)-2,3-DIHYDRO-1H-PYRROL-2-YL)-3-HYDROXY-1-PHENYLBUTAN-2-YLCARBAMATE	experimental	DB00256	Lymecycline	approved; investigational	0.71
+4	tr|Q72874|Q72874_9	Q8Q3H0	98.99	1	99	DB04623	2-ETHOXYETHYL (2S,3S)-4-((S)-2-BENZYL-3-OXO-4-((3AR,8R,8AS)-2-OXO-3,3A,8,8A-TETRAHYDRO-2H-INDENO[1,2-D]OXAZOL-8-YL)-2,3-DIHYDRO-1H-PYRROL-2-YL)-3-HYDROXY-1-PHENYLBUTAN-2-YLCARBAMATE	experimental	DB00290	Bleomycin	approved; investigational	0.71
+5	tr|Q72874|Q72874_9	Q8Q3H0	98.99	1	99	DB04623	2-ETHOXYETHYL (2S,3S)-4-((S)-2-BENZYL-3-OXO-4-((3AR,8R,8AS)-2-OXO-3,3A,8,8A-TETRAHYDRO-2H-INDENO[1,2-D]OXAZOL-8-YL)-2,3-DIHYDRO-1H-PYRROL-2-YL)-3-HYDROXY-1-PHENYLBUTAN-2-YLCARBAMATE	experimental	DB00309	Vindesine	approved; investigational	0.76
+6	tr|Q72874|Q72874_9	Q8Q3H0	98.99	1	99	DB04623	2-ETHOXYETHYL (2S,3S)-4-((S)-2-BENZYL-3-OXO-4-((3AR,8R,8AS)-2-OXO-3,3A,8,8A-TETRAHYDRO-2H-INDENO[1,2-D]OXAZOL-8-YL)-2,3-DIHYDRO-1H-PYRROL-2-YL)-3-HYDROXY-1-PHENYLBUTAN-2-YLCARBAMATE	experimental	DB00361	Vinorelbine	approved; investigational	0.76
+7	tr|Q72874|Q72874_9	Q8Q3H0	98.99	1	99	DB04623	2-ETHOXYETHYL (2S,3S)-4-((S)-2-BENZYL-3-OXO-4-((3AR,8R,8AS)-2-OXO-3,3A,8,8A-TETRAHYDRO-2H-INDENO[1,2-D]OXAZOL-8-YL)-2,3-DIHYDRO-1H-PYRROL-2-YL)-3-HYDROXY-1-PHENYLBUTAN-2-YLCARBAMATE	experimental	DB00541	Vincristine	approved; investigational	0.76
+8	tr|Q72874|Q72874_9	Q8Q3H0	98.99	1	99	DB04623	2-ETHOXYETHYL (2S,3S)-4-((S)-2-BENZYL-3-OXO-4-((3AR,8R,8AS)-2-OXO-3,3A,8,8A-TETRAHYDRO-2H-INDENO[1,2-D]OXAZOL-8-YL)-2,3-DIHYDRO-1H-PYRROL-2-YL)-3-HYDROXY-1-PHENYLBUTAN-2-YLCARBAMATE	experimental	DB00560	Tigecycline	approved	0.71
+9	tr|Q72874|Q72874_9	Q8Q3H0	98.99	1	99	DB04623	2-ETHOXYETHYL (2S,3S)-4-((S)-2-BENZYL-3-OXO-4-((3AR,8R,8AS)-2-OXO-3,3A,8,8A-TETRAHYDRO-2H-INDENO[1,2-D]OXAZOL-8-YL)-2,3-DIHYDRO-1H-PYRROL-2-YL)-3-HYDROXY-1-PHENYLBUTAN-2-YLCARBAMATE	experimental	DB00570	Vinblastine	approved	0.76
+10	tr|Q72874|Q72874_9	Q8Q3H0	98.99	1	99	DB04623	2-ETHOXYETHYL (2S,3S)-4-((S)-2-BENZYL-3-OXO-4-((3AR,8R,8AS)-2-OXO-3,3A,8,8A-TETRAHYDRO-2H-INDENO[1,2-D]OXAZOL-8-YL)-2,3-DIHYDRO-1H-PYRROL-2-YL)-3-HYDROXY-1-PHENYLBUTAN-2-YLCARBAMATE	experimental	DB00595	Oxytetracycline	approved; investigational; vet_approved	0.71
+11	tr|Q72874|Q72874_9	Q8Q3H0	98.99	1	99	DB04623	2-ETHOXYETHYL (2S,3S)-4-((S)-2-BENZYL-3-OXO-4-((3AR,8R,8AS)-2-OXO-3,3A,8,8A-TETRAHYDRO-2H-INDENO[1,2-D]OXAZOL-8-YL)-2,3-DIHYDRO-1H-PYRROL-2-YL)-3-HYDROXY-1-PHENYLBUTAN-2-YLCARBAMATE	experimental	DB00615	Rifabutin	approved; investigational	0.72
+12	tr|Q72874|Q72874_9	Q8Q3H0	98.99	1	99	DB04623	2-ETHOXYETHYL (2S,3S)-4-((S)-2-BENZYL-3-OXO-4-((3AR,8R,8AS)-2-OXO-3,3A,8,8A-TETRAHYDRO-2H-INDENO[1,2-D]OXAZOL-8-YL)-2,3-DIHYDRO-1H-PYRROL-2-YL)-3-HYDROXY-1-PHENYLBUTAN-2-YLCARBAMATE	experimental	DB00618	Demeclocycline	approved	0.7
+13	tr|Q72874|Q72874_9	Q8Q3H0	98.99	1	99	DB04623	2-ETHOXYETHYL (2S,3S)-4-((S)-2-BENZYL-3-OXO-4-((3AR,8R,8AS)-2-OXO-3,3A,8,8A-TETRAHYDRO-2H-INDENO[1,2-D]OXAZOL-8-YL)-2,3-DIHYDRO-1H-PYRROL-2-YL)-3-HYDROXY-1-PHENYLBUTAN-2-YLCARBAMATE	experimental	DB00931	Metacycline	approved; investigational	0.71
+14	tr|Q72874|Q72874_9	Q8Q3H0	98.99	1	99	DB04623	2-ETHOXYETHYL (2S,3S)-4-((S)-2-BENZYL-3-OXO-4-((3AR,8R,8AS)-2-OXO-3,3A,8,8A-TETRAHYDRO-2H-INDENO[1,2-D]OXAZOL-8-YL)-2,3-DIHYDRO-1H-PYRROL-2-YL)-3-HYDROXY-1-PHENYLBUTAN-2-YLCARBAMATE	experimental	DB01200	Bromocriptine	approved; investigational	0.71
+15	tr|Q72874|Q72874_9	Q8Q3H0	98.99	1	99	DB04623	2-ETHOXYETHYL (2S,3S)-4-((S)-2-BENZYL-3-OXO-4-((3AR,8R,8AS)-2-OXO-3,3A,8,8A-TETRAHYDRO-2H-INDENO[1,2-D]OXAZOL-8-YL)-2,3-DIHYDRO-1H-PYRROL-2-YL)-3-HYDROXY-1-PHENYLBUTAN-2-YLCARBAMATE	experimental	DB01301	Rolitetracycline	approved	0.71
+16	tr|Q72874|Q72874_9	Q8Q3H0	98.99	1	99	DB04623	2-ETHOXYETHYL (2S,3S)-4-((S)-2-BENZYL-3-OXO-4-((3AR,8R,8AS)-2-OXO-3,3A,8,8A-TETRAHYDRO-2H-INDENO[1,2-D]OXAZOL-8-YL)-2,3-DIHYDRO-1H-PYRROL-2-YL)-3-HYDROXY-1-PHENYLBUTAN-2-YLCARBAMATE	experimental	DB03614	Mecobalamin	approved; investigational	0.77
+17	tr|Q72874|Q72874_9	Q8Q3H0	98.99	1	99	DB04623	2-ETHOXYETHYL (2S,3S)-4-((S)-2-BENZYL-3-OXO-4-((3AR,8R,8AS)-2-OXO-3,3A,8,8A-TETRAHYDRO-2H-INDENO[1,2-D]OXAZOL-8-YL)-2,3-DIHYDRO-1H-PYRROL-2-YL)-3-HYDROXY-1-PHENYLBUTAN-2-YLCARBAMATE	experimental	DB04911	Oritavancin	approved; investigational	0.72
+18	tr|Q72874|Q72874_9	Q8Q3H0	98.99	1	99	DB04623	2-ETHOXYETHYL (2S,3S)-4-((S)-2-BENZYL-3-OXO-4-((3AR,8R,8AS)-2-OXO-3,3A,8,8A-TETRAHYDRO-2H-INDENO[1,2-D]OXAZOL-8-YL)-2,3-DIHYDRO-1H-PYRROL-2-YL)-3-HYDROXY-1-PHENYLBUTAN-2-YLCARBAMATE	experimental	DB05109	Trabectedin	approved; investigational	0.73
+19	tr|Q72874|Q72874_9	Q8Q3H0	98.99	1	99	DB04623	2-ETHOXYETHYL (2S,3S)-4-((S)-2-BENZYL-3-OXO-4-((3AR,8R,8AS)-2-OXO-3,3A,8,8A-TETRAHYDRO-2H-INDENO[1,2-D]OXAZOL-8-YL)-2,3-DIHYDRO-1H-PYRROL-2-YL)-3-HYDROXY-1-PHENYLBUTAN-2-YLCARBAMATE	experimental	DB06402	Telavancin	approved	0.71
+20	tr|Q72874|Q72874_9	Q8Q3H0	98.99	1	99	DB04623	2-ETHOXYETHYL (2S,3S)-4-((S)-2-BENZYL-3-OXO-4-((3AR,8R,8AS)-2-OXO-3,3A,8,8A-TETRAHYDRO-2H-INDENO[1,2-D]OXAZOL-8-YL)-2,3-DIHYDRO-1H-PYRROL-2-YL)-3-HYDROXY-1-PHENYLBUTAN-2-YLCARBAMATE	experimental	DB09093	Chlortetracycline	approved; investigational; vet_approved	0.71
+21	tr|Q72874|Q72874_9	Q8Q3H0	98.99	1	99	DB04623	2-ETHOXYETHYL (2S,3S)-4-((S)-2-BENZYL-3-OXO-4-((3AR,8R,8AS)-2-OXO-3,3A,8,8A-TETRAHYDRO-2H-INDENO[1,2-D]OXAZOL-8-YL)-2,3-DIHYDRO-1H-PYRROL-2-YL)-3-HYDROXY-1-PHENYLBUTAN-2-YLCARBAMATE	experimental	DB11191	Cobamamide	approved	0.77
+22	tr|Q72874|Q72874_9	Q8Q3H0	98.99	1	99	DB04623	2-ETHOXYETHYL (2S,3S)-4-((S)-2-BENZYL-3-OXO-4-((3AR,8R,8AS)-2-OXO-3,3A,8,8A-TETRAHYDRO-2H-INDENO[1,2-D]OXAZOL-8-YL)-2,3-DIHYDRO-1H-PYRROL-2-YL)-3-HYDROXY-1-PHENYLBUTAN-2-YLCARBAMATE	experimental	DB11641	Vinflunine	approved; investigational	0.76
+23	tr|Q72874|Q72874_9	Q8Q3H0	98.99	1	99	DB04623	2-ETHOXYETHYL (2S,3S)-4-((S)-2-BENZYL-3-OXO-4-((3AR,8R,8AS)-2-OXO-3,3A,8,8A-TETRAHYDRO-2H-INDENO[1,2-D]OXAZOL-8-YL)-2,3-DIHYDRO-1H-PYRROL-2-YL)-3-HYDROXY-1-PHENYLBUTAN-2-YLCARBAMATE	experimental	DB11691	Naldemedine	approved; investigational	0.75
+24	tr|Q72874|Q72874_9	Q8Q3H0	98.99	1	99	DB04623	2-ETHOXYETHYL (2S,3S)-4-((S)-2-BENZYL-3-OXO-4-((3AR,8R,8AS)-2-OXO-3,3A,8,8A-TETRAHYDRO-2H-INDENO[1,2-D]OXAZOL-8-YL)-2,3-DIHYDRO-1H-PYRROL-2-YL)-3-HYDROXY-1-PHENYLBUTAN-2-YLCARBAMATE	experimental	DB12329	Eravacycline	approved; investigational	0.71
+25	tr|Q72874|Q72874_9	Q8Q3H0	98.99	1	99	DB04623	2-ETHOXYETHYL (2S,3S)-4-((S)-2-BENZYL-3-OXO-4-((3AR,8R,8AS)-2-OXO-3,3A,8,8A-TETRAHYDRO-2H-INDENO[1,2-D]OXAZOL-8-YL)-2,3-DIHYDRO-1H-PYRROL-2-YL)-3-HYDROXY-1-PHENYLBUTAN-2-YLCARBAMATE	experimental	DB12455	Omadacycline	approved; investigational	0.7
+26	tr|Q72874|Q72874_9	Q8Q3H0	98.99	1	99	DB04623	2-ETHOXYETHYL (2S,3S)-4-((S)-2-BENZYL-3-OXO-4-((3AR,8R,8AS)-2-OXO-3,3A,8,8A-TETRAHYDRO-2H-INDENO[1,2-D]OXAZOL-8-YL)-2,3-DIHYDRO-1H-PYRROL-2-YL)-3-HYDROXY-1-PHENYLBUTAN-2-YLCARBAMATE	experimental	DB12674	Lurbinectedin	approved; investigational	0.76
+27	tr|Q72874|Q72874_9	Q9Q2G8	98.99	1	99	DB03141	3-{[(5R,6R)-5-Benzyl-6-hydroxy-2,4-bis(4-hydroxybenzyl)-3-oxo-1,2,4-triazepan-1-yl]sulfonyl}benzonitril	experimental	DB03614	Mecobalamin	approved; investigational	0.7
+28	tr|Q72874|Q72874_9	Q9Q2G8	98.99	1	99	DB03141	3-{[(5R,6R)-5-Benzyl-6-hydroxy-2,4-bis(4-hydroxybenzyl)-3-oxo-1,2,4-triazepan-1-yl]sulfonyl}benzonitril	experimental	DB11191	Cobamamide	approved	0.71
+29	tr|Q72874|Q72874_9	Q72874	98.99	1	99	DB00224	Indinavir	approved	DB00224	Indinavir	approved	1.0
+30	tr|Q72874|Q72874_9	Q72874	98.99	1	99	DB00224	Indinavir	approved	DB00225	Gadodiamide	approved; investigational	1.0
+31	tr|Q72874|Q72874_9	Q72874	98.99	1	99	DB00503	Ritonavir	approved; investigational	DB00503	Ritonavir	approved; investigational	1.0
+32	tr|Q72874|Q72874_9	Q72874	98.99	1	99	DB00503	Ritonavir	approved; investigational	DB09065	Cobicistat	approved	0.86
+33	tr|Q72874|Q72874_9	Q72874	98.99	1	99	DB00701	Amprenavir	approved; investigational	DB00701	Amprenavir	approved; investigational	1.0
+34	tr|Q72874|Q72874_9	Q72874	98.99	1	99	DB00701	Amprenavir	approved; investigational	DB01264	Darunavir	approved	0.86
+35	tr|Q72874|Q72874_9	Q72874	98.99	1	99	DB00701	Amprenavir	approved; investigational	DB01319	Fosamprenavir	approved	0.86
+36	tr|Q72874|Q72874_9	Q72874	98.99	1	99	DB00932	Tipranavir	approved; investigational	DB00932	Tipranavir	approved; investigational	1.0
+37	tr|Q72874|Q72874_9	Q72874	98.99	1	99	DB01072	Atazanavir	approved; investigational	DB01072	Atazanavir	approved; investigational	1.0
+38	tr|Q72874|Q72874_9	Q72874	98.99	1	99	DB01232	Saquinavir	approved; investigational	DB01232	Saquinavir	approved; investigational	1.0
+39	tr|Q72874|Q72874_9	Q72874	98.99	1	99	DB01264	Darunavir	approved	DB00701	Amprenavir	approved; investigational	0.86
+40	tr|Q72874|Q72874_9	Q72874	98.99	1	99	DB01264	Darunavir	approved	DB01264	Darunavir	approved	1.0
+41	tr|Q72874|Q72874_9	Q72874	98.99	1	99	DB01264	Darunavir	approved	DB01319	Fosamprenavir	approved	0.77
+42	tr|Q72874|Q72874_9	Q72874	98.99	1	99	DB01319	Fosamprenavir	approved	DB00701	Amprenavir	approved; investigational	0.86
+43	tr|Q72874|Q72874_9	Q72874	98.99	1	99	DB01319	Fosamprenavir	approved	DB01264	Darunavir	approved	0.77
+44	tr|Q72874|Q72874_9	Q72874	98.99	1	99	DB01319	Fosamprenavir	approved	DB01319	Fosamprenavir	approved	1.0
+45	tr|Q72874|Q72874_9	Q72874	98.99	1	99	DB01601	Lopinavir	approved	DB01601	Lopinavir	approved	1.0
+46	tr|Q72874|Q72874_9	Q72874	98.99	1	99	DB04887	Brecanavir	investigational	DB01264	Darunavir	approved	0.79
+47	tr|Q72874|Q72874_9	O90777	98.99	1	99	DB00220	Nelfinavir	approved	DB00220	Nelfinavir	approved	1.0
+48	tr|Q72874|Q72874_9	O90777	98.99	1	99	DB15623	TMC-310911	investigational	DB01264	Darunavir	approved	0.75
+49	tr|Q72874|Q72874_9	P03367	98.99	501	599	DB07327	R-95845	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+50	tr|Q72874|Q72874_9	P03367	98.99	501	599	DB07505	N-({(3R,4R)-4-[(benzyloxy)methyl]pyrrolidin-3-yl}methyl)-N-(2-methylpropyl)benzenesulfonamide	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+51	tr|Q72874|Q72874_9	P03367	98.99	501	599	DB08041	3-BENZYLOXYCARBONYLAMINO-2-HYDROXY-4-PHENYL-BUTYRIC ACID	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+52	tr|Q72874|Q72874_9	P03367	98.99	501	599	DB08428	3(S)-AMINO-4-PHENYL-BUTAN-2(S)-OL	experimental	DB00182	Amphetamine	approved; illicit; investigational	0.73
+53	tr|Q72874|Q72874_9	P03367	98.99	501	599	DB08428	3(S)-AMINO-4-PHENYL-BUTAN-2(S)-OL	experimental	DB00191	Phentermine	approved; illicit	0.74
+54	tr|Q72874|Q72874_9	P03367	98.99	501	599	DB08428	3(S)-AMINO-4-PHENYL-BUTAN-2(S)-OL	experimental	DB01576	Dextroamphetamine	approved; illicit	0.73
+55	tr|Q72874|Q72874_9	P03367	98.99	501	599	DB08662	3-[1-(4-BROMO-PHENYL)-2-METHYL-PROPYL]-4-HYDROXY-CHROMEN-2-ONE	experimental	DB00266	Dicoumarol	approved	0.71
+56	tr|Q72874|Q72874_9	P03367	98.99	501	599	DB08662	3-[1-(4-BROMO-PHENYL)-2-METHYL-PROPYL]-4-HYDROXY-CHROMEN-2-ONE	experimental	DB00682	Warfarin	approved	0.89
+57	tr|Q72874|Q72874_9	P03367	98.99	501	599	DB08662	3-[1-(4-BROMO-PHENYL)-2-METHYL-PROPYL]-4-HYDROXY-CHROMEN-2-ONE	experimental	DB00946	Phenprocoumon	approved; investigational	0.94
+58	tr|Q72874|Q72874_9	P03367	98.99	501	599	DB08662	3-[1-(4-BROMO-PHENYL)-2-METHYL-PROPYL]-4-HYDROXY-CHROMEN-2-ONE	experimental	DB01418	Acenocoumarol	approved; investigational	0.83
+59	tr|Q72874|Q72874_9	P12497	98.99	489	587	DB02086	(3,4-Dihydroxy-Phenyl)-Triphenyl-Arsonium	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+60	tr|Q72874|Q72874_9	P12497	98.99	489	587	DB02994	Cacodylic acid	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+61	tr|Q72874|Q72874_9	P12497	98.99	489	587	DB03118	(2Z)-1-(5-Chloro-1H-indol-3-yl)-3-hydroxy-3-(1H-tetrazol-5-yl)-2-propen-1-one	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+62	tr|Q72874|Q72874_9	P12497	98.99	489	587	DB03676	Cystein-S-Yl Cacodylate	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+63	tr|Q72874|Q72874_9	P12497	98.99	489	587	DB03963	S-(Dimethylarsenic)Cysteine	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+64	tr|Q72874|Q72874_9	P12497	98.99	489	587	DB07575	2,4-DIAMINO-1,5-DIPHENYL-3-HYDROXYPENTANE	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+65	tr|Q72874|Q72874_9	P12497	98.99	489	587	DB08027	CAP-1	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+66	tr|Q72874|Q72874_9	P12497	98.99	489	587	DB08231	Myristic acid	experimental	DB00513	Aminocaproic acid	approved; investigational	0.76
+67	tr|Q72874|Q72874_9	P12497	98.99	489	587	DB08231	Myristic acid	experimental	DB00548	Azelaic acid	approved	1.0
+68	tr|Q72874|Q72874_9	P12497	98.99	489	587	DB08231	Myristic acid	experimental	DB02530	gamma-Aminobutyric acid	approved; investigational	0.72
+69	tr|Q72874|Q72874_9	P12497	98.99	489	587	DB08231	Myristic acid	experimental	DB03017	Lauric acid	approved; experimental	1.0
+70	tr|Q72874|Q72874_9	P12497	98.99	489	587	DB08231	Myristic acid	experimental	DB03193	Stearic acid	approved; experimental	1.0
+71	tr|Q72874|Q72874_9	P12497	98.99	489	587	DB08231	Myristic acid	experimental	DB03796	Palmitic Acid	approved	1.0
+72	tr|Q72874|Q72874_9	P12497	98.99	489	587	DB08231	Myristic acid	experimental	DB04224	Oleic Acid	approved; investigational; vet_approved	0.75
+73	tr|Q72874|Q72874_9	P12497	98.99	489	587	DB08231	Myristic acid	experimental	DB06689	Ethanolamine oleate	approved	0.71
+74	tr|Q72874|Q72874_9	P12497	98.99	489	587	DB08231	Myristic acid	experimental	DB11117	Undecylenic acid	approved; investigational	0.85
+75	tr|Q72874|Q72874_9	P12497	98.99	489	587	DB08231	Myristic acid	experimental	DB15678	Calcium undecylenate	approved; experimental	0.85
+76	tr|Q72874|Q72874_9	P12499	98.99	490	588	DB01887	N,N-[2,5-O-Dibenzyl-glucaryl]-DI-[1-amino-indan-2-OL]	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+77	tr|Q72874|Q72874_9	P12499	98.99	490	588	DB02804	A-98881	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+78	tr|Q72874|Q72874_9	P12499	98.99	490	588	DB04353	Tert-butyl N-[(2S,5R)-6-[[(2S)-5-amino-1-[[(2S)-1-amino-1-oxo-3-phenylpropan-2-yl]amino]-1,5-dioxopentan-2-yl]amino]-5-benzyl-3,6-dioxo-1-phenylhexan-2-yl]carbamate	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+79	tr|Q72874|Q72874_9	P04587	98.99	501	599	DB07910	(2S)-2-amino-3-phenylpropane-1,1-diol	experimental	DB00120	Phenylalanine	approved; investigational; nutraceutical	0.79
+80	tr|Q72874|Q72874_9	P04587	98.99	501	599	DB07910	(2S)-2-amino-3-phenylpropane-1,1-diol	experimental	DB00135	Tyrosine	approved; investigational; nutraceutical	0.73
+81	tr|Q72874|Q72874_9	P04587	98.99	501	599	DB07910	(2S)-2-amino-3-phenylpropane-1,1-diol	experimental	DB00182	Amphetamine	approved; illicit; investigational	0.75
+82	tr|Q72874|Q72874_9	P04587	98.99	501	599	DB07910	(2S)-2-amino-3-phenylpropane-1,1-diol	experimental	DB00191	Phentermine	approved; illicit	0.76
+83	tr|Q72874|Q72874_9	P04587	98.99	501	599	DB07910	(2S)-2-amino-3-phenylpropane-1,1-diol	experimental	DB00397	Phenylpropanolamine	approved; vet_approved; withdrawn	0.72
+84	tr|Q72874|Q72874_9	P04587	98.99	501	599	DB07910	(2S)-2-amino-3-phenylpropane-1,1-diol	experimental	DB01365	Mephentermine	approved	0.7
+85	tr|Q72874|Q72874_9	P04587	98.99	501	599	DB07910	(2S)-2-amino-3-phenylpropane-1,1-diol	experimental	DB01576	Dextroamphetamine	approved; illicit	0.75
+86	tr|Q72874|Q72874_9	P04587	98.99	501	599	DB07910	(2S)-2-amino-3-phenylpropane-1,1-diol	experimental	DB01577	Metamfetamine	approved; illicit	0.71
+87	tr|Q72874|Q72874_9	P04587	98.99	501	599	DB07910	(2S)-2-amino-3-phenylpropane-1,1-diol	experimental	DB09571	Levmetamfetamine	approved	0.71
+88	tr|Q72874|Q72874_9	P04587	98.99	501	599	DB07910	(2S)-2-amino-3-phenylpropane-1,1-diol	experimental	DB14754	Solriamfetol	approved	0.74
+89	tr|Q72874|Q72874_9	P04587	98.99	501	599	DB08115	2-aminoethyl naphthalen-1-ylacetate	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+90	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB01732	(4R,5S,6S,7R)-1,3-dibenzyl-4,7-bis(phenoxymethyl)-5,6-dihydroxy-1,3 diazepan-2-one	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+91	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB01824	(3S)-Tetrahydro-3-furanyl {(2S,3S)-4-[(2S,4R)-4-{(1S,2R)-2-[(S)-amino(hydroxy)methoxy]-2,3-dihydro-1H-inden-1-yl}-2-benzyl-3-oxo-2-pyrrolidinyl]-3-hydroxy-1-phenyl-2-butanyl}carbamate	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+92	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB01887	N,N-[2,5-O-Dibenzyl-glucaryl]-DI-[1-amino-indan-2-OL]	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+93	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB01891	Tl-3-093	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+94	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB02009	L-756423	experimental	DB00224	Indinavir	approved	0.84
+95	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB02009	L-756423	experimental	DB00225	Gadodiamide	approved; investigational	0.84
+96	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB02033	N-(3-Cyclopropyl(5,6,7,8,9,10-Hexahydro-2-Oxo-2h-Cycloocta[B]Pyran-3-Yl)Methyl)Phenylbenzensulfonamide	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+97	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB02629	N,N-[2,5-O-di-2-fluoro-benzyl-glucaryl]-di-[1-amino-indan-2-ol]	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+98	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB02683	Inhibitor Bea428	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+99	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB02704	(2R,3R,4R,5R)-3,4-Dihydroxy-N,N'-bis[(1S,2R)-2-hydroxy-2,3-dihydro-1H-inden-1-yl]-2,5-bis(2-phenylethyl)hexanediamide	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+100	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB02768	Tert-Butyloxycarbonyl Group	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+101	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB02785	(2S)-1-[(2S,4R)-4-Benzyl-2-hydroxy-5-{[(1S,2R,5S)-2-hydroxy-5-methylcyclopentyl]amino}-5-oxopentyl]-4-{[6-chloro-5-(4-methyl-1-piperazinyl)-2-pyrazinyl]carbonyl}-N-(2-methyl-2-propanyl)-2-piperazineca rboxamide	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+102	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB02972	1-Benzyl-(R)-Propylamine	experimental	DB00182	Amphetamine	approved; illicit; investigational	0.88
+103	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB02972	1-Benzyl-(R)-Propylamine	experimental	DB00191	Phentermine	approved; illicit	0.82
+104	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB02972	1-Benzyl-(R)-Propylamine	experimental	DB00397	Phenylpropanolamine	approved; vet_approved; withdrawn	0.73
+105	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB02972	1-Benzyl-(R)-Propylamine	experimental	DB00752	Tranylcypromine	approved; investigational	0.71
+106	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB02972	1-Benzyl-(R)-Propylamine	experimental	DB01365	Mephentermine	approved	0.76
+107	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB02972	1-Benzyl-(R)-Propylamine	experimental	DB01576	Dextroamphetamine	approved; illicit	0.88
+108	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB02972	1-Benzyl-(R)-Propylamine	experimental	DB01577	Metamfetamine	approved; illicit	0.78
+109	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB02972	1-Benzyl-(R)-Propylamine	experimental	DB09352	Hydroxyamphetamine	approved	0.75
+110	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB02972	1-Benzyl-(R)-Propylamine	experimental	DB09571	Levmetamfetamine	approved	0.78
+111	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB03076	3-[[(3R,4S,5S,6R)-7-Benzyl-4,5-dihydroxy-1,1-dioxo-3,6-bis(phenoxymethyl)-1,2,7-thiadiazepan-2-yl]methyl]-N-methylbenzamide	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+112	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB03141	3-{[(5R,6R)-5-Benzyl-6-hydroxy-2,4-bis(4-hydroxybenzyl)-3-oxo-1,2,4-triazepan-1-yl]sulfonyl}benzonitril	experimental	DB03614	Mecobalamin	approved; investigational	0.7
+113	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB03141	3-{[(5R,6R)-5-Benzyl-6-hydroxy-2,4-bis(4-hydroxybenzyl)-3-oxo-1,2,4-triazepan-1-yl]sulfonyl}benzonitril	experimental	DB11191	Cobamamide	approved	0.71
+114	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB03803	N,N-[2,5-O-dibenzyl-glucaryl]-DI-[valinyl-aminomethanyl-pyridine]	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+115	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB03908	N,N-[2,5-O-[Dibenzyl]-glucaryl]-DI-[isoleucyl-amido-methane]	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+116	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB04042	2-[4-(Hydroxy-Methoxy-Methyl)-Benzyl]-7-(4-Hydroxymethyl-Benzyl)-1,1-Dioxo-3,6-Bis-Phenoxymethyl-1lambda6-[1,2,7]Thiadiazepane-4,5-Diol	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+117	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB04190	2,5-dibenzyloxy-3-hydroxy-hexanedioic acid bis-[(2-hydroxy-indan-1-yl)-amide]	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+118	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB04255	Inhibitor BEA388	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+119	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB04547	Inhibitor BEA409	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+120	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB05398	C31G	investigational	-	Sorry! Cannot find	structurally similar	approved molecules
+121	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB05871	UC-781	investigational	-	Sorry! Cannot find	structurally similar	approved molecules
+122	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB06414	Etravirine	approved	DB06414	Etravirine	approved	1.0
+123	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB06874	(6-[4-(AMINOMETHYL)-2,6-DIMETHYLPHENOXY]-2-{[4-(AMINOMETHYL)PHENYL]AMINO}-5-BROMOPYRIMIDIN-4-YL)METHANOL	experimental	DB06414	Etravirine	approved	0.72
+124	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB07018	5-ETHYL-3-[(2-METHOXYETHYL)METHYLAMINO]-6-METHYL-4-(3-METHYLBENZYL)PYRIDIN-2(1H)-ONE	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+125	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB07035	(2E)-3-{3-[(5-ETHYL-3-IODO-6-METHYL-2-OXO-1,2-DIHYDROPYRIDIN-4-YL)OXY]PHENYL}ACRYLONITRILE	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+126	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB07327	R-95845	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+127	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB07332	ALPHA-(2,6-DICHLOROPHENYL)-ALPHA-(2-ACETYL-5-METHYLANILINO)ACETAMIDE	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+128	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB07337	4-[4-AMINO-6-(5-CHLORO-1H-INDOL-4-YLMETHYL)-[1,3,5]TRIAZIN-2-YLAMINO]-BENZONITRILE	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+129	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB07343	4-[4-AMINO-6-(2,6-DICHLORO-PHENOXY)-[1,3,5]TRIAZIN-2-YLAMINO]-BENZONITRILE	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+130	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB07451	1-(5-BROMO-PYRIDIN-2-YL)-3-[2-(6-FLUORO-2-HYDROXY-3-PROPIONYL-PHENYL)-CYCLOPROPYL]-UREA	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+131	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB07578	CP-94707	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+132	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB07806	(2R,4S)-2-[(R)-BENZYLCARBAMOYL-PHENYLACETYL-METHYL]-5,5-DIMETHYL-THIAZOLIDINE-4-CARBOXYLIC ACID	experimental	DB01053	Benzylpenicillin	approved; vet_approved	0.71
+133	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB07885	Talviraline	investigational	-	Sorry! Cannot find	structurally similar	approved molecules
+134	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB07961	1-(4-Cyano-phenyl)-3-[2-(2,6-dichloro-phenyl)-1-imino-ethyl]-thiourea	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+135	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB08034	(E)-3,4-DIHYDROXY-N'-[(2-METHOXYNAPHTHALEN-1-YL)METHYLENE]BENZOHYDRAZIDE	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+136	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB08212	1-[2-(3-ACETYL-2-HYDROXY-6-METHOXY-PHENYL)-CYCLOPROPYL]-3-(5-CYANO-PYRIDIN-2-YL)-THIOUREA	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+137	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB08281	O-[2-(1,3-dioxo-1,3-dihydro-2H-isoindol-2-yl)ethyl] (4-bromophenyl)thiocarbamate	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+138	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB08282	O-[2-(1,3-dioxo-1,3-dihydro-2H-isoindol-2-yl)ethyl] (4-chlorophenyl)thiocarbamate	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+139	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB08284	O-[2-(1,3-dioxo-1,3-dihydro-2H-isoindol-2-yl)ethyl] (4-iodophenyl)thiocarbamate	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+140	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB08372	1-[2-(4-ETHOXY-3-FLUOROPYRIDIN-2-YL)ETHYL]-3-(5-METHYLPYRIDIN-2-YL)THIOUREA	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+141	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB08414	PNU-142721	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+142	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB08428	3(S)-AMINO-4-PHENYL-BUTAN-2(S)-OL	experimental	DB00182	Amphetamine	approved; illicit; investigational	0.73
+143	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB08428	3(S)-AMINO-4-PHENYL-BUTAN-2(S)-OL	experimental	DB00191	Phentermine	approved; illicit	0.74
+144	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB08428	3(S)-AMINO-4-PHENYL-BUTAN-2(S)-OL	experimental	DB01576	Dextroamphetamine	approved; illicit	0.73
+145	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB08457	4-(3,5-DIMETHYLPHENOXY)-5-(FURAN-2-YLMETHYLSULFANYLMETHYL)-3-IODO-6-METHYLPYRIDIN-2(1H)-ONE	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+146	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB08598	R-82913	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+147	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB08600	Tivirapine	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+148	tr|Q72874|Q72874_9	P03366	98.99	501	599	DB08639	Dapivirine	investigational	DB08864	Rilpivirine	approved	0.9
+149	tr|Q72874|Q72874_9	P35963	98.99	489	587	DB01721	N-[2-hydroxy-1-indanyl]-5-[(2-tertiarybutylaminocarbonyl)-4(benzo[1,3]dioxol-5-ylmethyl)-piperazino]-4-hydroxy-2-(1-phenylethyl)-pentanamide	experimental	DB00224	Indinavir	approved	0.82
+150	tr|Q72874|Q72874_9	P35963	98.99	489	587	DB01721	N-[2-hydroxy-1-indanyl]-5-[(2-tertiarybutylaminocarbonyl)-4(benzo[1,3]dioxol-5-ylmethyl)-piperazino]-4-hydroxy-2-(1-phenylethyl)-pentanamide	experimental	DB00225	Gadodiamide	approved; investigational	0.82
+151	tr|Q72874|Q72874_9	P04585	98.99	489	587	DB02102	Mozenavir	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+152	tr|Q72874|Q72874_9	P04585	98.99	489	587	DB02702	XV638	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+153	tr|Q72874|Q72874_9	P04585	98.99	489	587	DB02729	SD146	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+154	tr|Q72874|Q72874_9	P04585	98.99	489	587	DB04609	INHIBITOR Q8467 OF DUPONT MERCK	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+155	tr|Q72874|Q72874_9	P04585	98.99	489	587	DB05328	VGV-1	investigational	-	Sorry! Cannot find	structurally similar	approved molecules
+156	tr|Q72874|Q72874_9	P04585	98.99	489	587	DB06414	Etravirine	approved	DB06414	Etravirine	approved	1.0
+157	tr|Q72874|Q72874_9	P04585	98.99	489	587	DB06581	Bevirimat	investigational	DB08804	Nandrolone decanoate	approved; illicit	0.71
+158	tr|Q72874|Q72874_9	P04585	98.99	489	587	DB06910	[4-R-(4-ALPHA,6-BETA,7-BETA]-HEXAHYDRO-5,6-DI(HYDROXY)-1,3-DI(ALLYL)-4,7-BISPHENYLMETHYL)-2H-1,3-DIAZEPINONE	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+159	tr|Q72874|Q72874_9	P04585	98.99	489	587	DB07184	6-(cyclohexylsulfanyl)-1-(ethoxymethyl)-5-(1-methylethyl)pyrimidine-2,4(1H,3H)-dione	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+160	tr|Q72874|Q72874_9	P04585	98.99	489	587	DB07332	ALPHA-(2,6-DICHLOROPHENYL)-ALPHA-(2-ACETYL-5-METHYLANILINO)ACETAMIDE	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+161	tr|Q72874|Q72874_9	P04585	98.99	489	587	DB07472	(R)-(+)9B-(3-METHYL)PHENYL-2,3-DIHYDROTHIAZOLO[2,3-A]ISOINDOL-5(9BH)-ONE	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+162	tr|Q72874|Q72874_9	P04585	98.99	489	587	DB07473	(R)-(+) 5(9BH)-OXO-9B-PHENYL-2,3-DIHYDROTHIAZOLO[2,3-A]ISOINDOL-3-CARBOXYLIC ACID METHYL ESTER	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+163	tr|Q72874|Q72874_9	P04585	98.99	489	587	DB07781	N-[[3-FLUORO-4-ETHOXY-PYRID-2-YL]ETHYL]-N'-[5-NITRILOMETHYL-PYRIDYL]-THIOUREA	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+164	tr|Q72874|Q72874_9	P04585	98.99	489	587	DB07797	N-[[3-FLUORO-4-ETHOXY-PYRID-2-YL]ETHYL]-N'-[5-CHLORO-PYRIDYL]-THIOUREA	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+165	tr|Q72874|Q72874_9	P04585	98.99	489	587	DB07820	6-(3',5'-DIMETHYLBENZYL)-1-ETHOXYMETHYL-5-ISOPROPYLURACIL	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+166	tr|Q72874|Q72874_9	P04585	98.99	489	587	DB07826	2-[4-chloro-2-(phenylcarbonyl)phenoxy]-N-phenylacetamide	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+167	tr|Q72874|Q72874_9	P04585	98.99	489	587	DB07864	4-[(CYCLOPROPYLETHYNYL)OXY]-6-FLUORO-3-ISOPROPYLQUINOLIN-2(1H)-ONE	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+168	tr|Q72874|Q72874_9	P04585	98.99	489	587	DB07867	6-CHLORO-4-(CYCLOHEXYLOXY)-3-PROPYLQUINOLIN-2(1H)-ONE	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+169	tr|Q72874|Q72874_9	P04585	98.99	489	587	DB07868	6-CHLORO-4-(CYCLOHEXYLSULFANYL)-3-PROPYLQUINOLIN-2(1H)-ONE	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+170	tr|Q72874|Q72874_9	P04585	98.99	489	587	DB07869	6-Chloro-4-[(R)-cyclohexylsulfinyl]-3-propyl-2(1H)-quinolinone	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+171	tr|Q72874|Q72874_9	P04585	98.99	489	587	DB07871	6-CHLORO-4-(CYCLOHEXYLOXY)-3-ISOPROPYLQUINOLIN-2(1H)-ONE	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+172	tr|Q72874|Q72874_9	P04585	98.99	489	587	DB07884	Opaviraline	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+173	tr|Q72874|Q72874_9	P04585	98.99	489	587	DB07892	1-(2-HYDROXYETHYLOXYMETHYL)-6-PHENYL THIOTHYMINE	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+174	tr|Q72874|Q72874_9	P04585	98.99	489	587	DB07910	(2S)-2-amino-3-phenylpropane-1,1-diol	experimental	DB00120	Phenylalanine	approved; investigational; nutraceutical	0.79
+175	tr|Q72874|Q72874_9	P04585	98.99	489	587	DB07910	(2S)-2-amino-3-phenylpropane-1,1-diol	experimental	DB00135	Tyrosine	approved; investigational; nutraceutical	0.73
+176	tr|Q72874|Q72874_9	P04585	98.99	489	587	DB07910	(2S)-2-amino-3-phenylpropane-1,1-diol	experimental	DB00182	Amphetamine	approved; illicit; investigational	0.75
+177	tr|Q72874|Q72874_9	P04585	98.99	489	587	DB07910	(2S)-2-amino-3-phenylpropane-1,1-diol	experimental	DB00191	Phentermine	approved; illicit	0.76
+178	tr|Q72874|Q72874_9	P04585	98.99	489	587	DB07910	(2S)-2-amino-3-phenylpropane-1,1-diol	experimental	DB00397	Phenylpropanolamine	approved; vet_approved; withdrawn	0.72
+179	tr|Q72874|Q72874_9	P04585	98.99	489	587	DB07910	(2S)-2-amino-3-phenylpropane-1,1-diol	experimental	DB01365	Mephentermine	approved	0.7
+180	tr|Q72874|Q72874_9	P04585	98.99	489	587	DB07910	(2S)-2-amino-3-phenylpropane-1,1-diol	experimental	DB01576	Dextroamphetamine	approved; illicit	0.75
+181	tr|Q72874|Q72874_9	P04585	98.99	489	587	DB07910	(2S)-2-amino-3-phenylpropane-1,1-diol	experimental	DB01577	Metamfetamine	approved; illicit	0.71
+182	tr|Q72874|Q72874_9	P04585	98.99	489	587	DB07910	(2S)-2-amino-3-phenylpropane-1,1-diol	experimental	DB09571	Levmetamfetamine	approved	0.71
+183	tr|Q72874|Q72874_9	P04585	98.99	489	587	DB07910	(2S)-2-amino-3-phenylpropane-1,1-diol	experimental	DB14754	Solriamfetol	approved	0.74
+184	tr|Q72874|Q72874_9	P04585	98.99	489	587	DB08154	3-chloro-5-[2-chloro-5-(1H-indazol-3-ylmethoxy)phenoxy]benzonitrile	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+185	tr|Q72874|Q72874_9	P04585	98.99	489	587	DB08188	Emivirine	investigational	-	Sorry! Cannot find	structurally similar	approved molecules
+186	tr|Q72874|Q72874_9	P04585	98.99	489	587	DB08211	5-bromo-3-(pyrrolidin-1-ylsulfonyl)-1H-indole-2-carboxamide	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+187	tr|Q72874|Q72874_9	P04585	98.99	489	587	DB08286	1-Naphthoxyacetic acid	experimental	DB00571	Propranolol	approved; investigational	0.71
+188	tr|Q72874|Q72874_9	P04585	98.99	489	587	DB08372	1-[2-(4-ETHOXY-3-FLUOROPYRIDIN-2-YL)ETHYL]-3-(5-METHYLPYRIDIN-2-YL)THIOUREA	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+189	tr|Q72874|Q72874_9	P04585	98.99	489	587	DB08379	6-(4-chloro-2-fluoro-3-phenoxybenzyl)pyridazin-3(2H)-one	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+190	tr|Q72874|Q72874_9	P04585	98.99	489	587	DB08444	3-[2-bromo-4-(1H-pyrazolo[3,4-c]pyridazin-3-ylmethyl)phenoxy]-5-methylbenzonitrile	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+191	tr|Q72874|Q72874_9	P04585	98.99	489	587	DB08446	3-[6-bromo-2-fluoro-3-(1H-pyrazolo[3,4-c]pyridazin-3-ylmethyl)phenoxy]-5-chlorobenzonitrile	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+192	tr|Q72874|Q72874_9	P04585	98.99	489	587	DB08459	3-chloro-5-[2-chloro-5-(1H-pyrazolo[3,4-b]pyridin-3-ylmethoxy)phenoxy]benzonitrile	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+193	tr|Q72874|Q72874_9	P04585	98.99	489	587	DB08460	MK-4965	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+194	tr|Q72874|Q72874_9	P04585	98.99	489	587	DB08494	S-{2-[(2-chloro-4-sulfamoylphenyl)amino]-2-oxoethyl} 6-methyl-3,4-dihydroquinoline-1(2H)-carbothioate	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+195	tr|Q72874|Q72874_9	P04585	98.99	489	587	DB08502	Capravirine	investigational	-	Sorry! Cannot find	structurally similar	approved molecules
+196	tr|Q72874|Q72874_9	P04585	98.99	489	587	DB08528	2-AMINO-6-(3,5-DIMETHYLPHENYL)SULFONYLBENZONITRILE	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+197	tr|Q72874|Q72874_9	P04585	98.99	489	587	DB08598	R-82913	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+198	tr|Q72874|Q72874_9	P04585	98.99	489	587	DB08634	6-BENZYL-1-BENZYLOXYMETHYL-5-ISOPROPYL URACIL	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+199	tr|Q72874|Q72874_9	P04585	98.99	489	587	DB08665	6,11-DIHYDRO-11-ETHYL-6-METHYL-9-NITRO-5H-PYRIDO[2,3-B][1,5]BENZODIAZEPIN-5-ONE	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+200	tr|Q72874|Q72874_9	P04585	98.99	489	587	DB08680	N-{3-[(E)-(tert-butoxyimino)methyl]-4-chlorophenyl}-2-methylfuran-3-carbimidothioic acid	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+201	tr|Q72874|Q72874_9	P04585	98.99	489	587	DB08681	1-METHYL ETHYL 2-CHLORO-5-[[[(1-METHYLETHOXY)THIOOXO]METHYL]AMINO]-BENZOATE	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+202	tr|Q72874|Q72874_9	P04585	98.99	489	587	DB08682	1-METHYL ETHYL 1-CHLORO-5-[[(5,6DIHYDRO-2-METHYL-1,4-OXATHIIN-3-YL)CARBONYL]AMINO]BENZOATE	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+203	tr|Q72874|Q72874_9	P04585	98.99	489	587	DB13119	GSK-364735	investigational	-	Sorry! Cannot find	structurally similar	approved molecules
+204	tr|Q72874|Q72874_9	P03369	98.99	491	589	DB02411	2-(11-{2-[Benzenesulfonyl-(3-Methyl-Butyl)-Amino]-1-Hydroxy-Ethyl}-6,9-Dioxo-2-Oxa-7,10-Diaza-Bicyclo[11.2.2]Heptadeca-1(16),13(17),14-Trien-8-Yl)-Acetamide, Inhibitor 2	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+205	tr|Q72874|Q72874_9	P03369	98.99	491	589	DB02668	JE-2147	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+206	tr|Q72874|Q72874_9	P03369	98.99	491	589	DB03768	N-[2-Hydroxy-2-(8-Isopropyl-6,9-Dioxo-2-Oxa-7,10-Diaza-Bicyclo[11.2.2]Heptadeca-1(16),13(17),14-Trien-11-Yl)-Ethyl]-N-(3-Methyl-Butyl)-Benzenesulfonamide,Inhibitor 3	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+207	tr|Q72874|Q72874_9	P03369	98.99	491	589	DB04454	Alpha-Aminobutyric Acid	experimental	DB00123	L-Lysine	approved; nutraceutical	0.7
+208	tr|Q72874|Q72874_9	P03369	98.99	491	589	DB04454	Alpha-Aminobutyric Acid	experimental	DB00129	Ornithine	approved; nutraceutical	0.72
+209	tr|Q72874|Q72874_9	P03369	98.99	491	589	DB04454	Alpha-Aminobutyric Acid	experimental	DB00156	Threonine	approved; nutraceutical	0.75
+210	tr|Q72874|Q72874_9	P03369	98.99	491	589	DB04454	Alpha-Aminobutyric Acid	experimental	DB00161	Valine	approved; nutraceutical	0.77
+211	tr|Q72874|Q72874_9	P03369	98.99	491	589	DB04454	Alpha-Aminobutyric Acid	experimental	DB02530	gamma-Aminobutyric acid	approved; investigational	0.75
+212	tr|Q72874|Q72874_9	P03369	98.99	491	589	DB04886	Calanolide A	investigational	-	Sorry! Cannot find	structurally similar	approved molecules
+213	tr|Q72874|Q72874_9	P03369	98.99	491	589	DB05228	RDEA806	investigational	-	Sorry! Cannot find	structurally similar	approved molecules
+214	tr|Q72874|Q72874_9	P03369	98.99	491	589	DB05644	KP-1461	investigational	-	Sorry! Cannot find	structurally similar	approved molecules
+215	tr|Q72874|Q72874_9	P03369	98.99	491	589	DB07679	(9S,12S)-9-(1-methylethyl)-7,10-dioxo-2-oxa-8,11-diazabicyclo[12.2.2]octadeca-1(16),14,17-triene-12-carboxylic acid	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+216	tr|Q72874|Q72874_9	P03369	98.99	491	589	DB07910	(2S)-2-amino-3-phenylpropane-1,1-diol	experimental	DB00120	Phenylalanine	approved; investigational; nutraceutical	0.79
+217	tr|Q72874|Q72874_9	P03369	98.99	491	589	DB07910	(2S)-2-amino-3-phenylpropane-1,1-diol	experimental	DB00135	Tyrosine	approved; investigational; nutraceutical	0.73
+218	tr|Q72874|Q72874_9	P03369	98.99	491	589	DB07910	(2S)-2-amino-3-phenylpropane-1,1-diol	experimental	DB00182	Amphetamine	approved; illicit; investigational	0.75
+219	tr|Q72874|Q72874_9	P03369	98.99	491	589	DB07910	(2S)-2-amino-3-phenylpropane-1,1-diol	experimental	DB00191	Phentermine	approved; illicit	0.76
+220	tr|Q72874|Q72874_9	P03369	98.99	491	589	DB07910	(2S)-2-amino-3-phenylpropane-1,1-diol	experimental	DB00397	Phenylpropanolamine	approved; vet_approved; withdrawn	0.72
+221	tr|Q72874|Q72874_9	P03369	98.99	491	589	DB07910	(2S)-2-amino-3-phenylpropane-1,1-diol	experimental	DB01365	Mephentermine	approved	0.7
+222	tr|Q72874|Q72874_9	P03369	98.99	491	589	DB07910	(2S)-2-amino-3-phenylpropane-1,1-diol	experimental	DB01576	Dextroamphetamine	approved; illicit	0.75
+223	tr|Q72874|Q72874_9	P03369	98.99	491	589	DB07910	(2S)-2-amino-3-phenylpropane-1,1-diol	experimental	DB01577	Metamfetamine	approved; illicit	0.71
+224	tr|Q72874|Q72874_9	P03369	98.99	491	589	DB07910	(2S)-2-amino-3-phenylpropane-1,1-diol	experimental	DB09571	Levmetamfetamine	approved	0.71
+225	tr|Q72874|Q72874_9	P03369	98.99	491	589	DB07910	(2S)-2-amino-3-phenylpropane-1,1-diol	experimental	DB14754	Solriamfetol	approved	0.74
+226	tr|Q72874|Q72874_9	P03369	98.99	491	589	DB08622	4-(4-CHLORO-PHENYL)-1-{3-[2-(4-FLUORO-PHENYL)-[1,3]DITHIOLAN-2-YL]-PROPYL}-PIPERIDIN-4-OL	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+227	tr|Q72874|Q72874_9	Q88016	98.99	110	208	DB07722	3-(4-NITRO-PHENOXY)-PROPAN-1-OL	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+228	tr|Q72874|Q72874_9	P04584	97.98	514	611	DB02428	Quinaldic Acid	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+229	tr|Q72874|Q72874_9	P04584	97.98	514	611	DB04490	3-(Mercaptomethylene)Pyridine	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+230	tr|Q72874|Q72874_9	P04584	97.98	514	611	DB07581	5-AMINO-6-CYCLOHEXYL-4-HYDROXY-2-ISOPROPYL-HEXANOIC ACID	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+231	tr|Q72874|Q72874_9	P04584	97.98	514	611	DB07634	(2,6-Dimethylphenoxy)acetic acid	experimental	DB00379	Mexiletine	approved; investigational	0.71
+232	tr|Q72874|Q72874_9	P04584	97.98	514	611	DB08231	Myristic acid	experimental	DB00513	Aminocaproic acid	approved; investigational	0.76
+233	tr|Q72874|Q72874_9	P04584	97.98	514	611	DB08231	Myristic acid	experimental	DB00548	Azelaic acid	approved	1.0
+234	tr|Q72874|Q72874_9	P04584	97.98	514	611	DB08231	Myristic acid	experimental	DB02530	gamma-Aminobutyric acid	approved; investigational	0.72
+235	tr|Q72874|Q72874_9	P04584	97.98	514	611	DB08231	Myristic acid	experimental	DB03017	Lauric acid	approved; experimental	1.0
+236	tr|Q72874|Q72874_9	P04584	97.98	514	611	DB08231	Myristic acid	experimental	DB03193	Stearic acid	approved; experimental	1.0
+237	tr|Q72874|Q72874_9	P04584	97.98	514	611	DB08231	Myristic acid	experimental	DB03796	Palmitic Acid	approved	1.0
+238	tr|Q72874|Q72874_9	P04584	97.98	514	611	DB08231	Myristic acid	experimental	DB04224	Oleic Acid	approved; investigational; vet_approved	0.75
+239	tr|Q72874|Q72874_9	P04584	97.98	514	611	DB08231	Myristic acid	experimental	DB06689	Ethanolamine oleate	approved	0.71
+240	tr|Q72874|Q72874_9	P04584	97.98	514	611	DB08231	Myristic acid	experimental	DB11117	Undecylenic acid	approved; investigational	0.85
+241	tr|Q72874|Q72874_9	P04584	97.98	514	611	DB08231	Myristic acid	experimental	DB15678	Calcium undecylenate	approved; experimental	0.85
+242	tr|Q72874|Q72874_9	P04584	97.98	514	611	DB08274	6,7,8,9-TETRAHYDRO-4-HYDROXY-3-(1-PHENYLPROPYL)CYCLOHEPTA[B]PYRAN-2-ONE	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+243	tr|Q72874|Q72874_9	P04584	97.98	514	611	DB08286	1-Naphthoxyacetic acid	experimental	DB00571	Propranolol	approved; investigational	0.71
+244	tr|Q72874|Q72874_9	P04584	97.98	514	611	DB08421	PIPERIDINE-2-CARBOXYLIC ACID TERT-BUTYLAMIDE	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+245	tr|Q72874|Q72874_9	P04584	97.98	514	611	DB08474	3-(CARBOXYAMIDE(2-CARBOXYAMIDE-2-TERTBUTYLETHYL))PENTAN	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+246	tr|Q72874|Q72874_9	P04584	97.98	514	611	DB08663	4-HYDROXY-7-METHOXY-3-(1-PHENYL-PROPYL)-CHROMEN-2-ONE	experimental	DB00266	Dicoumarol	approved	0.72
+247	tr|Q72874|Q72874_9	P04584	97.98	514	611	DB08663	4-HYDROXY-7-METHOXY-3-(1-PHENYL-PROPYL)-CHROMEN-2-ONE	experimental	DB00682	Warfarin	approved	0.9
+248	tr|Q72874|Q72874_9	P04584	97.98	514	611	DB08663	4-HYDROXY-7-METHOXY-3-(1-PHENYL-PROPYL)-CHROMEN-2-ONE	experimental	DB00946	Phenprocoumon	approved; investigational	0.95
+249	tr|Q72874|Q72874_9	P04584	97.98	514	611	DB08663	4-HYDROXY-7-METHOXY-3-(1-PHENYL-PROPYL)-CHROMEN-2-ONE	experimental	DB01418	Acenocoumarol	approved; investigational	0.84
+250	tr|Q72874|Q72874_9	P04584	97.98	514	611	DB08664	({3-[1-(4-Hydroxy-2-oxo-2H-chromen-3-yl)-propyl]-phenylcarbamoyl}-methyl)-carbamic acid tert-butyl ester	experimental	DB00682	Warfarin	approved	0.76
+251	tr|Q72874|Q72874_9	P04584	97.98	514	611	DB08664	({3-[1-(4-Hydroxy-2-oxo-2H-chromen-3-yl)-propyl]-phenylcarbamoyl}-methyl)-carbamic acid tert-butyl ester	experimental	DB00946	Phenprocoumon	approved; investigational	0.79
+252	tr|Q72874|Q72874_9	P04584	97.98	514	611	DB08664	({3-[1-(4-Hydroxy-2-oxo-2H-chromen-3-yl)-propyl]-phenylcarbamoyl}-methyl)-carbamic acid tert-butyl ester	experimental	DB01418	Acenocoumarol	approved; investigational	0.75
+253	tr|Q72874|Q72874_9	P04584	97.98	514	611	DB08686	5,6,7,8,9,10-HEXAHYDRO-4-HYDROXY-3-(1-PHENYLPROPYL)CYCLOOCTA[B]PYRAN-2-ONE	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+254	tr|Q72874|Q72874_9	P05896	97.98	498	595	DB04191	Skf 107457	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+255	tr|Q72874|Q72874_9	P03355	92.93	549	641	DB07499	N-(4-{[amino(imino)methyl]amino}butyl)-2,4'-bi-1,3-thiazole-4-carboxamide	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+256	tr|Q72874|Q72874_9	P03355	92.93	549	641	DB08331	N-1H-imidazol-2-yl-N'-[4-(1H-imidazol-2-ylamino)phenyl]benzene-1,4-diamine	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+257	tr|Q72874|Q72874_9	P03371	98.99	84	182	DB03413	Deoxyuridine-5'-Diphosphate	experimental	DB00249	Idoxuridine	approved; investigational	0.74
+258	tr|Q72874|Q72874_9	P03371	98.99	84	182	DB03413	Deoxyuridine-5'-Diphosphate	experimental	DB00322	Floxuridine	approved	0.74
+259	tr|Q72874|Q72874_9	P03371	98.99	84	182	DB03413	Deoxyuridine-5'-Diphosphate	experimental	DB01265	Telbivudine	approved; investigational	0.74
+260	tr|Q72874|Q72874_9	P03371	98.99	84	182	DB03413	Deoxyuridine-5'-Diphosphate	experimental	DB03312	Brivudine	approved; investigational	0.7
+261	tr|Q72874|Q72874_9	P03371	98.99	84	182	DB03413	Deoxyuridine-5'-Diphosphate	experimental	DB12153	Citicoline	approved; experimental	0.75
+262	tr|Q72874|Q72874_9	P03371	98.99	84	182	DB03413	Deoxyuridine-5'-Diphosphate	experimental	DB13421	Edoxudine	approved; investigational; withdrawn	0.71
+263	tr|Q72874|Q72874_9	P16088	97.98	46	143	DB01891	Tl-3-093	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+264	tr|Q72874|Q72874_9	P16088	97.98	46	143	DB02333	Deoxyuridine-5'-Triphosphate	experimental	DB00249	Idoxuridine	approved; investigational	0.72
+265	tr|Q72874|Q72874_9	P16088	97.98	46	143	DB02333	Deoxyuridine-5'-Triphosphate	experimental	DB00322	Floxuridine	approved	0.72
+266	tr|Q72874|Q72874_9	P16088	97.98	46	143	DB02333	Deoxyuridine-5'-Triphosphate	experimental	DB01265	Telbivudine	approved; investigational	0.71
+267	tr|Q72874|Q72874_9	P16088	97.98	46	143	DB02333	Deoxyuridine-5'-Triphosphate	experimental	DB12153	Citicoline	approved; experimental	0.73
+268	tr|Q72874|Q72874_9	P16088	97.98	46	143	DB03435	Uridine-5'-Diphosphate	experimental	DB00987	Cytarabine	approved; investigational	0.74
+269	tr|Q72874|Q72874_9	P16088	97.98	46	143	DB03435	Uridine-5'-Diphosphate	experimental	DB09144	Uridine triacetate	approved; investigational	0.76
+270	tr|Q72874|Q72874_9	P16088	97.98	46	143	DB03435	Uridine-5'-Diphosphate	experimental	DB12153	Citicoline	approved; experimental	0.86
+271	tr|Q72874|Q72874_9	P16088	97.98	46	143	DB03800	Deoxyuridine monophosphate	experimental	DB00249	Idoxuridine	approved; investigational	0.78
+272	tr|Q72874|Q72874_9	P16088	97.98	46	143	DB03800	Deoxyuridine monophosphate	experimental	DB00322	Floxuridine	approved	0.79
+273	tr|Q72874|Q72874_9	P16088	97.98	46	143	DB03800	Deoxyuridine monophosphate	experimental	DB00432	Trifluridine	approved; investigational	0.73
+274	tr|Q72874|Q72874_9	P16088	97.98	46	143	DB03800	Deoxyuridine monophosphate	experimental	DB01265	Telbivudine	approved; investigational	0.78
+275	tr|Q72874|Q72874_9	P16088	97.98	46	143	DB03800	Deoxyuridine monophosphate	experimental	DB03312	Brivudine	approved; investigational	0.73
+276	tr|Q72874|Q72874_9	P16088	97.98	46	143	DB03800	Deoxyuridine monophosphate	experimental	DB13421	Edoxudine	approved; investigational; withdrawn	0.75
+277	tr|Q72874|Q72874_9	P16088	97.98	46	143	DB07365	1-Naphthyl-L-alanine	experimental	DB00120	Phenylalanine	approved; investigational; nutraceutical	0.72
+278	tr|Q72874|Q72874_9	P16088	97.98	46	143	DB08253	NAM NAPTHYLAMINOALANINE	experimental	-	Sorry! Cannot find	structurally similar	approved molecules
+279	tr|Q72874|Q72874_9	Q04095	91.92	607	698	DB02413	Hydroxyethylcysteine	experimental	DB04339	Carbocisteine	approved; investigational	0.86

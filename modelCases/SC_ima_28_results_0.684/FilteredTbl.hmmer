@@ -1,0 +1,2 @@
+	tName	tAcc	tLen	qName	qAcc	qLen	eVal	score	bias	domNo	totDom	domCval	domIval	domScor	domBias	hmmStrt	hmmEnd	aliStrt	aliEnd	envStrt	envEnd	envAccu	description	qCov
+0	drugbank_target|P11274	-	1271	sp|P11274|BCR_HUMA	-	1271	0.0	3047.3	2.2	1	1	0.0	0.0	3047.1	2.2	1	1271	1	1271	1	1271	1.0	Breakpoint cluster region protein (DB00619; DB01254; DB06616; DB08901)	99.92

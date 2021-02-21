@@ -1,0 +1,108 @@
+# STOCKHOLM 1.0
+#=GF ID sp|P11274|BCR_HUMA-i2
+#=GF AU jackhmmer (HMMER 3.3.1)
+
+#=GS drugbank_target|P11274/1-1271  DE [subseq from] Breakpoint cluster region protein (DB00619; DB01254; DB06616; DB08901)
+#=GS drugbank_target|P27986/129-290 DE [subseq from] Phosphatidylinositol 3-kinase regulatory subunit alpha (DB01064; DB05210; DB06486; DB08059)
+#=GS drugbank_target|P32019/828-975 DE [subseq from] Type II inositol 1,4,5-trisphosphate 5-phosphatase (DB03158)
+#=GS drugbank_target|O00459/124-266 DE [subseq from] Phosphatidylinositol 3-kinase regulatory subunit beta (DB01064; DB05210)
+#=GS drugbank_target|A1Z199/1-25    DE [subseq from] BCR/ABL p210 fusion protein (DB05164)
+
+sp|P11274|BCR_HUMA                     MVDPVGFAEAWKAQFPDSEPPRMELRSVGDIEQELERCKASIRRLEQEVNQERFRMIYLQTLLAKEKKSYDRQRWGFRRAAQAPDGASEPRASASRPQPAPADGADPPPAEEPEARPDGEGSPGKARPGTARRPGAAASGERDDRGPPASVAALRSNFERIRKGHGQPGADAEKPFYVNVEFHHERGLVKVNDKEVSDRI
+drugbank_target|P11274/1-1271          MVDPVGFAEAWKAQFPDSEPPRMELRSVGDIEQELERCKASIRRLEQEVNQERFRMIYLQTLLAKEKKSYDRQRWGFRRAAQAPDGASEPRASASRPQPAPADGADPPPAEEPEARPDGEGSPGKARPGTARRPGAAASGERDDRGPPASVAALRSNFERIRKGHGQPGADAEKPFYVNVEFHHERGLVKVNDKEVSDRI
+#=GR drugbank_target|P11274/1-1271  PP 9*******************************************************************************************************************************************************************************************************
+drugbank_target|P27986/129-290         --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#=GR drugbank_target|P27986/129-290 PP ........................................................................................................................................................................................................
+drugbank_target|P32019/828-975         --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#=GR drugbank_target|P32019/828-975 PP ........................................................................................................................................................................................................
+drugbank_target|O00459/124-266         --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#=GR drugbank_target|O00459/124-266 PP ........................................................................................................................................................................................................
+drugbank_target|A1Z199/1-25            --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#=GR drugbank_target|A1Z199/1-25    PP ........................................................................................................................................................................................................
+#=GC PP_cons                           9*******************************************************************************************************************************************************************************************************
+#=GC RF                                xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+sp|P11274|BCR_HUMA                     SSLGSQAMQMERKKSQHGAGSSVGDASRPPYRGRSSESSCGVDGDYEDAELNPRFLKDNLIDANGGSRPPWPPLEYQPYQSIYVGGMMEGEGKGPLLRSQSTSEQEKRLTWPRRSYSPRSFEDCGGGYTPDCSSNENLTSSEEDFSSGQSSRVSPSPTTYRMFRDKSRSPSQNSQQSFDSSSPPTPQCHKRHRHCPVVVS
+drugbank_target|P11274/1-1271          SSLGSQAMQMERKKSQHGAGSSVGDASRPPYRGRSSESSCGVDGDYEDAELNPRFLKDNLIDANGGSRPPWPPLEYQPYQSIYVGGMMEGEGKGPLLRSQSTSEQEKRLTWPRRSYSPRSFEDCGGGYTPDCSSNENLTSSEEDFSSGQSSRVSPSPTTYRMFRDKSRSPSQNSQQSFDSSSPPTPQCHKRHRHCPVVVS
+#=GR drugbank_target|P11274/1-1271  PP ********************************************************************************************************************************************************************************************************
+drugbank_target|P27986/129-290         --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#=GR drugbank_target|P27986/129-290 PP ........................................................................................................................................................................................................
+drugbank_target|P32019/828-975         --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#=GR drugbank_target|P32019/828-975 PP ........................................................................................................................................................................................................
+drugbank_target|O00459/124-266         --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#=GR drugbank_target|O00459/124-266 PP ........................................................................................................................................................................................................
+drugbank_target|A1Z199/1-25            --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#=GR drugbank_target|A1Z199/1-25    PP ........................................................................................................................................................................................................
+#=GC PP_cons                           ********************************************************************************************************************************************************************************************************
+#=GC RF                                xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+sp|P11274|BCR_HUMA                     EATIVGVRKTGQIWPNDGEGAFHGDADGSFGTPPGYGCAADRAEEQRRHQDGLPYIDDSPSSSPHLSSKGRGSRDALVSGALESTKASELDLEKGLEMRKWVLSGILASEETYLSHLEALLLPMKPLKAAATTSQPVLTSQQIETIFFKVPELYEIHKEFYDGLFPRVQQWSHQQRVGDLFQKLASQLGVYRAFVDNYGV
+drugbank_target|P11274/1-1271          EATIVGVRKTGQIWPNDGEGAFHGDADGSFGTPPGYGCAADRAEEQRRHQDGLPYIDDSPSSSPHLSSKGRGSRDALVSGALESTKASELDLEKGLEMRKWVLSGILASEETYLSHLEALLLPMKPLKAAATTSQPVLTSQQIETIFFKVPELYEIHKEFYDGLFPRVQQWSHQQRVGDLFQKLASQLGVYRAFVDNYGV
+#=GR drugbank_target|P11274/1-1271  PP ********************************************************************************************************************************************************************************************************
+drugbank_target|P27986/129-290         --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#=GR drugbank_target|P27986/129-290 PP ........................................................................................................................................................................................................
+drugbank_target|P32019/828-975         --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#=GR drugbank_target|P32019/828-975 PP ........................................................................................................................................................................................................
+drugbank_target|O00459/124-266         --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#=GR drugbank_target|O00459/124-266 PP ........................................................................................................................................................................................................
+drugbank_target|A1Z199/1-25            --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#=GR drugbank_target|A1Z199/1-25    PP ........................................................................................................................................................................................................
+#=GC PP_cons                           ********************************************************************************************************************************************************************************************************
+#=GC RF                                xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+sp|P11274|BCR_HUMA                     AMEMAEKCCQANAQFAEISENLRARSNKDAKDPTTKNSLETLLYKPVDRVTRSTLVLHDLLKHTPASHPDHPLLQDALRISQNFLSSINEEITPRRQSMTVKKGEHRQLLKDSFMVELVEGARKLRHVFLFTDLLLCTKLKKQSGGKTQQYDCKWYIPLTDLSFQMVDELEAVPNIPLVPDEELDALKIKISQIKNDIQR
+drugbank_target|P11274/1-1271          AMEMAEKCCQANAQFAEISENLRARSNKDAKDPTTKNSLETLLYKPVDRVTRSTLVLHDLLKHTPASHPDHPLLQDALRISQNFLSSINEEITPRRQSMTVKKGEHRQLLKDSFMVELVEGARKLRHVFLFTDLLLCTKLKKQSGGKTQQYDCKWYIPLTDLSFQMVDELEAVPNIPLVPDEELDALKIKISQIKNDIQR
+#=GR drugbank_target|P11274/1-1271  PP ********************************************************************************************************************************************************************************************************
+drugbank_target|P27986/129-290         --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#=GR drugbank_target|P27986/129-290 PP ........................................................................................................................................................................................................
+drugbank_target|P32019/828-975         --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#=GR drugbank_target|P32019/828-975 PP ........................................................................................................................................................................................................
+drugbank_target|O00459/124-266         --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#=GR drugbank_target|O00459/124-266 PP ........................................................................................................................................................................................................
+drugbank_target|A1Z199/1-25            --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#=GR drugbank_target|A1Z199/1-25    PP ........................................................................................................................................................................................................
+#=GC PP_cons                           ********************************************************************************************************************************************************************************************************
+#=GC RF                                xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+sp|P11274|BCR_HUMA                     EKRANKGSKATERLKKKLSEQESLLLLMSPSMAFRVHSRNGKSYTFLISSDYERAEWRENIREQQKKCFRSFSLTSVELQMLTNSCVKLQTVHSIPLTINKEDDESPGLYGFLNVIVHSATGFKQSSNLYCTLEVDSFGYFVNKAKTRVYRDTAEPNWNEEFEIELEGSQTLRILCYEKCYNKTKIPKEDGESTDRLMGK
+drugbank_target|P11274/1-1271          EKRANKGSKATERLKKKLSEQESLLLLMSPSMAFRVHSRNGKSYTFLISSDYERAEWRENIREQQKKCFRSFSLTSVELQMLTNSCVKLQTVHSIPLTINKEDDESPGLYGFLNVIVHSATGFKQSSNLYCTLEVDSFGYFVNKAKTRVYRDTAEPNWNEEFEIELEGSQTLRILCYEKCYNKTKIPKEDGESTDRLMGK
+#=GR drugbank_target|P11274/1-1271  PP ********************************************************************************************************************************************************************************************************
+drugbank_target|P27986/129-290         --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#=GR drugbank_target|P27986/129-290 PP ........................................................................................................................................................................................................
+drugbank_target|P32019/828-975         --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#=GR drugbank_target|P32019/828-975 PP ........................................................................................................................................................................................................
+drugbank_target|O00459/124-266         --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#=GR drugbank_target|O00459/124-266 PP ........................................................................................................................................................................................................
+drugbank_target|A1Z199/1-25            -------------------------------------------------------------------------------QMLTNSCVKLQTVHSIPLTINKEEA------------------------------------------------------------------------------------------------
+#=GR drugbank_target|A1Z199/1-25    PP ...............................................................................9**********************96................................................................................................
+#=GC PP_cons                           *******************************************************************************9**********************98************************************************************************************************
+#=GC RF                                xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+sp|P11274|BCR_HUMA                     GQVQLDPQALQDRDWQRTVIAMNGIEVKLSVKFNSREFSLKRMPSRKQTGVFGVKIAVVTKRERSKVPYIVRQCVEEIERRGMEEVGIYRVSGVATDIQALKAAFDVNNKDVSVMMSEMDVNAIAGTLKLYFRELPEPLFTDEFYPNFAEGIALSDPVAKESCMLNLL---L---SLPEANLLTFLFLLDHLKRVAEKEA
+drugbank_target|P11274/1-1271          GQVQLDPQALQDRDWQRTVIAMNGIEVKLSVKFNSREFSLKRMPSRKQTGVFGVKIAVVTKRERSKVPYIVRQCVEEIERRGMEEVGIYRVSGVATDIQALKAAFDVNNKDVSVMMSEMDVNAIAGTLKLYFRELPEPLFTDEFYPNFAEGIALSDPVAKESCMLNLL---L---SLPEANLLTFLFLLDHLKRVAEKEA
+#=GR drugbank_target|P11274/1-1271  PP ************************************************************************************************************************************************************************...*...*************************
+drugbank_target|P27986/129-290         -------------------------------------------------------------------PPLLIKLVEAIEKKGLECSTLYRTQS-SSNLAELRQLLDCDTPSVDLE--MIDVHVLADAFKRYLLDLPNPVIPAAVYS---EMISLAPEVQSSEEYIQLLKKLIRSPSIPHQYWLTLQYLLKHFFKLSQTSS
+#=GR drugbank_target|P27986/129-290 PP ...................................................................99**********************99.9*************9999766..78**************************9...99****************96551556*************************
+drugbank_target|P32019/828-975         -----------------------------------------------------------------EIPKELWMMVDYLYRNAVQQEDLFQQPGLRSEFEHIRDCLDTGMIDN---LS-ASNHSVAEALLLFLESLPEPVICYSTYHNCLECSG--NYTA----SKQVI---S---TLPIFHKNVFHYLMAFLRELLKNSA
+#=GR drugbank_target|P32019/828-975 PP .................................................................69*********************************************...66.89******************************999..7777....789**...*...*************************
+drugbank_target|O00459/124-266         ------------------------------------------------------------------APPLLVKLVEAIERTGLDSESHYRP-----ELPAPRTDWSLS--DV----DQWDTAALADGIKSFLLALPAPLVTPEASAEARR--ALREAAGPVGPALEP----P---TLPLHRALTLRFLLQHLGRVASRAP
+#=GR drugbank_target|O00459/124-266 PP ..................................................................599*********************9.....9*********99..77....78****************************9999..9**************....*...*************************
+drugbank_target|A1Z199/1-25            --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#=GR drugbank_target|A1Z199/1-25    PP ........................................................................................................................................................................................................
+#=GC PP_cons                           *****************************************************************8899*****************************************999888889******************************99*9**9999****99***...8...*************************
+#=GC RF                                xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...x...xxxxxxxxxxxxxxxxxxxxxxxxx
+
+sp|P11274|BCR_HUMA                     VNKMSLHNLATVFGPTLLRPSEKESKLPANPSQPITMTDSWSLEVMSQVQVLLYFLQLEAIPAPDSKRQSILFSTEV
+drugbank_target|P11274/1-1271          VNKMSLHNLATVFGPTLLRPSEKESKLPANPSQPITMTDSWSLEVMSQVQVLLYFLQLEAIPAPDSKRQSILFSTEV
+#=GR drugbank_target|P11274/1-1271  PP ****************************************************************************8
+drugbank_target|P27986/129-290         KNLLNARVLSEIFSPMLFRFSAASSDNTENLIKVI------------------------------------------
+#=GR drugbank_target|P27986/129-290 PP *************************9998876665..........................................
+drugbank_target|P32019/828-975         KNHLDENILASIFGSLLLRNPAGHQKLDM------------------------------------------------
+#=GR drugbank_target|P32019/828-975 PP *************************9965................................................
+drugbank_target|O00459/124-266         ALGPAVRALGATFGPLLLRAPPPPSSPPP------------------------------------------------
+#=GR drugbank_target|O00459/124-266 PP **********************9999884................................................
+drugbank_target|A1Z199/1-25            -----------------------------------------------------------------------------
+#=GR drugbank_target|A1Z199/1-25    PP .............................................................................
+#=GC PP_cons                           *************************9987998888*****************************************8
+#=GC RF                                xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

@@ -1,0 +1,115 @@
+	Number of sequences input by user are: 1
+
+	INITIATIED Homology Search with	
+:/prod/www/nslab/NOD/Results/SC_Zika_polypro_results_0.626//pyRunHmmer.smry	/prod/www/nslab/NOD/Results/SC_Zika_polypro_results_0.626//pyRunHmmer.align	/prod/www/nslab/NOD/Results/SC_Zika_polypro_results_0.626//pyRunHmmer.tsv	FASTA	05	FASTA	/prod/www/nslab/NOD/Results/SC_Zika_polypro_results_0.626//query.fasta	source/1-DgB_TargetProteins.fasta
+	COMPLETED Homology Search
+
+TIME-Homology-Search:	22.14
+
+	FORMATTED: Homology Search output into Tables
+
+TIME-Sanitize-hmmer:	0.02
+
+	Homology table is being FILTERED based on e-value and query coverage
+
+	RETRIEVED: Relevant hits from homology table
+
+TIME-Filter-Table:	0.02
+	Entered in MODE-2
+
+	MAPPING the ids onto DrugBank database to find potent compunds
+
+	Extracted DBids from jackHmmer:	DB00811; DB01752
+Find a match against DB00811 in DgBankDB: target
+Find a match against  DB01752 in DgBankDB: target
+
+	Extracted DBids from jackHmmer:	DB04473
+Find a match against DB04473 in DgBankDB: target
+
+	FETCHED: Potent Drugbank compounds details
+
+TIME-MODE2_DBmap-Run:	1.21
+
+SMILES for DbId:DB00811	NC(=O)c1nn(cn1)[C@@H]2O[C@H](CO)[C@@H](O)[C@H]2O
+
+Cutoff Cleared for query DBid DB00811
+
+Tcoff above 0.7	1.0
+
+SMILES for DbId:DB01752	OC(=O)[C@@H](N)CCSC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n2cnc(c23)c(N)ncn3
+
+Cutoff Cleared for query DBid DB01752
+
+Tcoff above 0.7	0.98
+
+Cutoff Cleared for query DBid DB01752
+
+Tcoff above 0.7	0.83
+
+Cutoff Cleared for query DBid DB01752
+
+Tcoff above 0.7	0.72
+
+Cutoff Cleared for query DBid DB01752
+
+Tcoff above 0.7	0.88
+
+Cutoff Cleared for query DBid DB01752
+
+Tcoff above 0.7	0.77
+
+Cutoff Cleared for query DBid DB01752
+
+Tcoff above 0.7	0.74
+
+Cutoff Cleared for query DBid DB01752
+
+Tcoff above 0.7	0.88
+
+Cutoff Cleared for query DBid DB01752
+
+Tcoff above 0.7	0.83
+
+Cutoff Cleared for query DBid DB01752
+
+Tcoff above 0.7	0.73
+
+Cutoff Cleared for query DBid DB01752
+
+Tcoff above 0.7	0.73
+
+Cutoff Cleared for query DBid DB01752
+
+Tcoff above 0.7	0.72
+
+SMILES for DbId:DB04473	C[C@@H]1O[C@@H](O)[C@@H](O)[C@H](O)[C@@H]1O
+
+Cutoff Cleared for query DBid DB04473
+
+Tcoff above 0.7	0.7
+
+Cutoff Cleared for query DBid DB04473
+
+Tcoff above 0.7	0.8
+
+Cutoff Cleared for query DBid DB04473
+
+Tcoff above 0.7	0.76
+
+Cutoff Cleared for query DBid DB04473
+
+Tcoff above 0.7	0.77
+
+Cutoff Cleared for query DBid DB04473
+
+Tcoff above 0.7	0.83
+
+Cutoff Cleared for query DBid DB04473
+
+Tcoff above 0.7	0.82
+
+TIME-MODE2_Tc-Run:	20.76
+
+TIME-MODE2-Complete:	21.97
+
+TIME-Complete-Run:	44.15

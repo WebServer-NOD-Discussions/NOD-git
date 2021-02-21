@@ -1,0 +1,5 @@
+drugbank_target|P11274	-	1271	sp|P11274|BCR_HUMA	-	1271	0	3047.3	2.2	1	1	0	0	3047.1	2.2	1	1271	1	1271	1	1271	1.00	Breakpoint cluster region protein (DB00619; DB01254; DB06616; DB08901)
+drugbank_target|P27986	-	724	sp|P11274|BCR_HUMA	-	1271	1.4e-42	143.6	0.5	1	1	1.9e-45	2e-42	143.0	0.5	1068	1229	129	290	125	300	0.92	Phosphatidylinositol 3-kinase regulatory subunit alpha (DB01064; DB05210; DB06486; DB08059)
+drugbank_target|P32019	-	993	sp|P11274|BCR_HUMA	-	1271	7.8e-40	134.4	0.1	1	1	1.1e-42	1.1e-39	133.9	0.1	1066	1223	828	975	824	982	0.95	Type II inositol 1,4,5-trisphosphate 5-phosphatase (DB03158)
+drugbank_target|O00459	-	728	sp|P11274|BCR_HUMA	-	1271	1.2e-30	104.0	0.0	1	1	1.9e-33	2e-30	103.3	0.0	1067	1223	124	266	121	275	0.96	Phosphatidylinositol 3-kinase regulatory subunit beta (DB01064; DB05210)
+drugbank_target|A1Z199	-	97	sp|P11274|BCR_HUMA	-	1271	8.7e-12	41.5	0.0	1	1	8.2e-15	8.7e-12	41.5	0.0	880	904	1	25	1	53	0.91	BCR/ABL p210 fusion protein (DB05164)

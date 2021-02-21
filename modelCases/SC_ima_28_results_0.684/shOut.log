@@ -1,0 +1,13 @@
+mode2,/prod/www/nslab/NOD/Results/SC_ima_28_results_0.684/qFile.fasta,/prod/www/nslab/NOD/Results/SC_ima_28_results_0.684/, SC_ima_28, SC_ima_28
+python bin/preSubmitCheck.py mode2 /prod/www/nslab/NOD/Results/SC_ima_28_results_0.684/qFile.fasta /prod/www/nslab/NOD/Results/SC_ima_28_results_0.684/ &> preSubmit.log
+
+
+python bin/master_handler_v2.py mode2 /prod/www/nslab/NOD/Results/SC_ima_28_results_0.684//query.fasta /prod/www/nslab/NOD/Results/SC_ima_28_results_0.684/ &> /prod/www/nslab/NOD/Results/SC_ima_28_results_0.684//handler.log
+
+
+python NOD/mailContent.py mode2 /prod/www/nslab/NOD/Results/SC_ima_28_results_0.684/ Results/SC_ima_28_results_0.684 SC_ima_28 &> /prod/www/nslab/NOD/Results/SC_ima_28_results_0.684//mailContent.log
+
+
+python bin/postEmail.py mode2 Results/SC_ima_28_results_0.684 SC_ima_28 SC_ima_28 sohini@iisc.ac.in &> /prod/www/nslab/NOD/Results/SC_ima_28_results_0.684//pushMail.log
+
+

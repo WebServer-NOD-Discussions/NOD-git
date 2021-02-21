@@ -1,0 +1,42 @@
+# STOCKHOLM 1.0
+#=GF ID tr|Q91RS4|Q91RS4_9-i2
+#=GF AU jackhmmer (HMMER 3.3.1)
+
+#=GS drugbank_target|Q91RS4/1-181     DE [subseq from] NS3 protease (DB06290; DB07582; DB13879)
+#=GS drugbank_target|Q99AU2/1027-1207 DE [subseq from] Genome polyprotein (DB06913; DB07085; DB07185; DB07273; DB07275; DB07547; DB07770; DB08556)
+#=GS drugbank_target|P26662/1027-1207 DE [subseq from] Genome polyprotein (DB01720; DB04005)
+#=GS drugbank_target|P26664/1027-1207 DE [subseq from] Genome polyprotein (DB05868; DB06058; DB07582; DB11779)
+#=GS drugbank_target|Q9WMX2/1027-1207 DE [subseq from] Genome polyprotein (DB07238)
+#=GS drugbank_target|P26663/1027-1207 DE [subseq from] Genome polyprotein (DB02331; DB03605; DB04005; DB04137; DB04298; DB06974; DB07062; DB07169; DB07199; DB07200; DB07238; DB07414; DB07570; DB08031; DB08278; DB08279; DB08390; DB08481; DB08578; DB08579; DB08580; DB08581; DB08582; DB08701; DB08706; DB08710; DB11586)
+#=GS drugbank_target|P27958/1027-1207 DE [subseq from] Genome polyprotein (DB08644)
+#=GS drugbank_target|O92972/1027-1207 DE [subseq from] Genome polyprotein (DB08747)
+#=GS drugbank_target|B0B3C9/1-181     DE [subseq from] Genome polyprotein (DB05521; DB08873; DB09297; DB11575; DB12026)
+#=GS drugbank_target|P26660/1031-1211 DE [subseq from] Genome polyprotein (DB03388; DB03647)
+#=GS drugbank_target|P26661/1031-1210 DE [subseq from] Genome polyprotein (DB08701)
+
+tr|Q91RS4|Q91RS4_9                       APITAYAQQTRGLLGCIITSLTGRDKNQVEGEVQIVSTAAQTFLATCINGVCWTVYHGAGTRTIASPKGPVIQMYTNVDQDLVGWPAPQGARSLTPCTCGSSDLYLVTRHADVIPVRRRGDSRGSLLSPRPISYLKGSSGGPLLCPAGHAVGLFRAAVCTRGVAKAVDFIPVENLETTMRS
+drugbank_target|Q91RS4/1-181             APITAYAQQTRGLLGCIITSLTGRDKNQVEGEVQIVSTAAQTFLATCINGVCWTVYHGAGTRTIASPKGPVIQMYTNVDQDLVGWPAPQGARSLTPCTCGSSDLYLVTRHADVIPVRRRGDSRGSLLSPRPISYLKGSSGGPLLCPAGHAVGLFRAAVCTRGVAKAVDFIPVENLETTMRS
+#=GR drugbank_target|Q91RS4/1-181     PP 8***********************************************************************************************************************************************************************************8
+drugbank_target|Q99AU2/1027-1207         APITAYSQQTRGLLGCIITSLTGRDKNQVEGEVQVVSTATQSFLATCVNGVCWTVYHGAGSKTLAGPKGPITQMYTNVDQDLVGWQAPPGARSLTPCTCGSSDLYLVTRHADVIPVRRRGDSRGSLLSPRPVSYLKGSSGGPLLCPSGHAVGIFRAAVCTRGVAKAVDFVPVESMETTMRS
+#=GR drugbank_target|Q99AU2/1027-1207 PP 8***********************************************************************************************************************************************************************************8
+drugbank_target|P26662/1027-1207         APITAYSQQTRGLLGCIITSLTGRDKNQVDGEVQVLSTATQSFLATCVNGVCWTVYHGAGSKTLAGPKGPITQMYTNVDQDLVGWPAPPGARSMTPCTCGSSDLYLVTRHADVVPVRRRGDSRGSLLSPRPISYLKGSSGGPLLCPSGHVVGIFRAAVCTRGVAKAVDFIPVESMETTMRS
+#=GR drugbank_target|P26662/1027-1207 PP 8***********************************************************************************************************************************************************************************8
+drugbank_target|P26664/1027-1207         APITAYAQQTRGLLGCIITSLTGRDKNQVEGEVQIVSTAAQTFLATCINGVCWTVYHGAGTRTIASPKGPVIQMYTNVDQDLVGWPAPQGSRSLTPCTCGSSDLYLVTRHADVIPVRRRGDSRGSLLSPRPISYLKGSSGGPLLCPAGHAVGIFRAAVCTRGVAKAVDFIPVENLETTMRS
+#=GR drugbank_target|P26664/1027-1207 PP 8***********************************************************************************************************************************************************************************8
+drugbank_target|Q9WMX2/1027-1207         APITAYSQQTRGLLGCIITSLTGRDRNQVEGEVQVVSTATQSFLATCVNGVCWTVYHGAGSKTLAGPKGPITQMYTNVDQDLVGWQAPPGARSLTPCTCGSSDLYLVTRHADVIPVRRRGDSRGSLLSPRPVSYLKGSSGGPLLCPSGHAVGIFRAAVCTRGVAKAVDFVPVESMETTMRS
+#=GR drugbank_target|Q9WMX2/1027-1207 PP 8***********************************************************************************************************************************************************************************8
+drugbank_target|P26663/1027-1207         APITAYSQQTRGLLGCIITSLTGRDKNQVEGEVQVVSTATQSFLATCVNGVCWTVYHGAGSKTLAAPKGPITQMYTNVDQDLVGWPKPPGARSLTPCTCGSSDLYLVTRHADVIPVRRRGDSRGSLLSPRPVSYLKGSSGGPLLCPFGHAVGIFRAAVCTRGVAKAVDFVPVESMETTMRS
+#=GR drugbank_target|P26663/1027-1207 PP 8***********************************************************************************************************************************************************************************8
+drugbank_target|P27958/1027-1207         APITAYAQQTRGLLGCIITSLTGRDKNQVEGEVQIVSTATQTFLATCINGVCWTVYHGAGTRTIASPKGPVIQTYTNVDQDLVGWPAPQGSRSLTPCTCGSSDLYLVTRHADVIPVRRRGDSRGSLLSPRPISYLKGSSGGPLLCPTGHAVGLFRAAVCTRGVAKAVDFIPVENLETTMRS
+#=GR drugbank_target|P27958/1027-1207 PP 8***********************************************************************************************************************************************************************************8
+drugbank_target|O92972/1027-1207         APITAYSQQTRGVLGCIITSLTGRDKNQVEGEVQVVSTATQSFLATCINGVCWTVYHGAGSKTLAGPKGPITQMYTNVDLDLVGWQAPPGARSMTPCSCGSSDLYLVTRHADVIPVRRRGDSRGSLLSPRPVSYLKGSSGGPLLCPSGHVVGVFRAAVCTRGVAKAVDFIPVESMETTMRS
+#=GR drugbank_target|O92972/1027-1207 PP 8***********************************************************************************************************************************************************************************8
+drugbank_target|B0B3C9/1-181             APITAYAQQTRGLLGTIVTGLTGRDKNVVTGEVQVLSTATQTFLGTTVGGVMWTVYHGAGSRTLAGAKHPALQMYTNVDQDLVGWPAPSGAKSLEPCACGSADLYLITRDADVIPARRRGDSTASLLSPRPLACLKGSSGGPVMCPSGHVAGIFRAAVCTRGVAKALQFIPVETLSTQARS
+#=GR drugbank_target|B0B3C9/1-181     PP 8*********************************************************************************************************************************************************************************997
+drugbank_target|P26660/1031-1211         APITAYAQQTRGLLGTIVVSMTGRDKTEQAGEIQVLSTVTQSFLGTTISGVLWTVYHGAGNKTLAGSRGPVTQMYSSAEGDLVGWPSPPGTKSLEPCTCGAVDLYLVTRNADVIPARRRGDKRGALLSPRPLSTLKGSSGGPVLCPRGHAVGVFRAAVCSRGVAKSIDFIPVETLDIVTRS
+#=GR drugbank_target|P26660/1031-1211 PP 8*********************************************************************************************************************************************************************************997
+drugbank_target|P26661/1031-1210         APITAYTQQTRGLLGAIVVSLTGRDKNEQAGQVQVLSSVTQTFLGTSISGVLWTVYHGAGNKTLAGPKGPVTQMYTSAEGDLVGWPSPPGTKSLDPCTCGAVDLYLVTRNADVIPVRRKDDRRGALLSPRPLSTLKGSSGGPVLCSRGHAVGLFRAAVCARGVAKSIDFIPVESLDVATR-
+#=GR drugbank_target|P26661/1031-1210 PP 8********************************************************************************************************************************************************************************998.
+#=GC PP_cons                             8***********************************************************************************************************************************************************************************8
+#=GC RF                                  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

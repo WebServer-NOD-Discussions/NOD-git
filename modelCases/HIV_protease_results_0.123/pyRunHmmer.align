@@ -1,0 +1,66 @@
+# STOCKHOLM 1.0
+#=GF ID tr|Q72874|Q72874_9-i3
+#=GF AU jackhmmer (HMMER 3.3.1)
+
+#=GS drugbank_target|Q8Q3H0/1-99    DE [subseq from] Pol protein (DB04623)
+#=GS drugbank_target|Q9Q2G8/1-99    DE [subseq from] V-1 protease (DB03141)
+#=GS drugbank_target|Q72874/1-99    DE [subseq from] Pol polyprotein (DB00224; DB00503; DB00701; DB00932; DB01072; DB01232; DB01264; DB01319; DB01601; DB04887)
+#=GS drugbank_target|O90777/1-99    DE [subseq from] HIV-1 protease (DB00220; DB15623)
+#=GS drugbank_target|P03367/501-599 DE [subseq from] Gag-Pol polyprotein (DB07327; DB07505; DB08041; DB08428; DB08662)
+#=GS drugbank_target|P12497/489-587 DE [subseq from] Gag-Pol polyprotein (DB02086; DB02994; DB03118; DB03676; DB03963; DB07575; DB08027; DB08231)
+#=GS drugbank_target|P12499/490-588 DE [subseq from] Gag-Pol polyprotein (DB01887; DB02804; DB04353)
+#=GS drugbank_target|P04587/501-599 DE [subseq from] Gag-Pol polyprotein (DB07910; DB08115)
+#=GS drugbank_target|P03366/501-599 DE [subseq from] Gag-Pol polyprotein (DB01732; DB01824; DB01887; DB01891; DB02009; DB02033; DB02629; DB02683; DB02704; DB02768; DB02785; DB02972; DB03076; DB03141; DB03803; DB03908; DB04042; DB04190; DB04255; DB04547; DB05398; DB05871; DB06414; DB06874; DB07018; DB07035; DB07327; DB07332; DB07337; DB07343; DB07451; DB07578; DB07806; DB07885; DB07961; DB08034; DB08212; DB08281; DB08282; DB08284; DB08372; DB08414; DB08428; DB08457; DB08598; DB08600; DB08639)
+#=GS drugbank_target|P35963/489-587 DE [subseq from] Gag-Pol polyprotein (DB01721)
+#=GS drugbank_target|P04585/489-587 DE [subseq from] Gag-Pol polyprotein (DB02102; DB02702; DB02729; DB04609; DB05328; DB06414; DB06581; DB06910; DB07184; DB07332; DB07472; DB07473; DB07781; DB07797; DB07820; DB07826; DB07864; DB07867; DB07868; DB07869; DB07871; DB07884; DB07892; DB07910; DB08154; DB08188; DB08211; DB08286; DB08372; DB08379; DB08444; DB08446; DB08459; DB08460; DB08494; DB08502; DB08528; DB08598; DB08634; DB08665; DB08680; DB08681; DB08682; DB13119)
+#=GS drugbank_target|P03369/491-589 DE [subseq from] Gag-Pol polyprotein (DB02411; DB02668; DB03768; DB04454; DB04886; DB05228; DB05644; DB07679; DB07910; DB08622)
+#=GS drugbank_target|Q88016/110-208 DE [subseq from] Pol polyprotein (DB07722)
+#=GS drugbank_target|P04584/514-611 DE [subseq from] Gag-Pol polyprotein (DB02428; DB04490; DB07581; DB07634; DB08231; DB08274; DB08286; DB08421; DB08474; DB08663; DB08664; DB08686)
+#=GS drugbank_target|P05896/498-595 DE [subseq from] Gag-Pol polyprotein (DB04191)
+#=GS drugbank_target|P03355/549-641 DE [subseq from] Gag-Pol polyprotein (DB07499; DB08331)
+#=GS drugbank_target|P03371/84-182  DE [subseq from] Pol polyprotein (DB03413)
+#=GS drugbank_target|P16088/46-143  DE [subseq from] Pol polyprotein (DB01891; DB02333; DB03435; DB03800; DB07365; DB08253)
+#=GS drugbank_target|Q04095/607-698 DE [subseq from] Gag-Pro-Pol polyprotein (DB02413)
+
+tr|Q72874|Q72874_9                     PQVTLWQRPLVTIKIGGQLKEALLDTGADDTVLEE-----MSLPGR-WK-----PKMIGGIGGFIKVRQY-DQILIEICGHK--AIGTVL----VGPTPV--------NIIGRNLLTQIGCTLNF
+drugbank_target|Q8Q3H0/1-99            PQITLWQRPLVTIKIGGQLKEALLDTGADDTVLEE-----MSLPGR-WK-----PKMIGGIGGFIKVRQY-DQILIEICGHK--AIGTVL----VGPTPV--------NIIGRNLLTQIGCTLNF
+#=GR drugbank_target|Q8Q3H0/1-99    PP 9**********************************.....******.**.....****************.***********..******....******........****************9
+drugbank_target|Q9Q2G8/1-99            PQITLWQRPLVTIKIGGQLKEALLDTGADDTVLEE-----MSLPGR-WK-----PKMIGGIGGFIKVRQY-DQILIEICGHK--AIGTVL----VGPTPV--------NIIGRNLLTQIGCTLNF
+#=GR drugbank_target|Q9Q2G8/1-99    PP 9**********************************.....******.**.....****************.***********..******....******........****************9
+drugbank_target|Q72874/1-99            PQVTLWQRPLVTIKIGGQLKEALLDTGADDTVLEE-----MSLPGR-WK-----PKMIGGIGGFIKVRQY-DQILIEICGHK--AIGTVL----VGPTPV--------NIIGRNLLTQIGCTLNF
+#=GR drugbank_target|Q72874/1-99    PP 9**********************************.....******.**.....****************.***********..******....******........****************9
+drugbank_target|O90777/1-99            PQVTLWQRPIVTIKIGGQLKEALLDTGADDTVLEE-----MSLPGK-WK-----PKMIGGIGGFIKVRQY-DQVSIEICGHK--AIGTVL----IGPTPV--------NIIGRNLLTQLGCTLNF
+#=GR drugbank_target|O90777/1-99    PP 9**********************************.....******.**.....****************.***********..******....******........****************9
+drugbank_target|P03367/501-599         PQITLWQRPLVTIKIGGQLKEALLDTGADDTVLEE-----MSLPGR-WK-----PKMIGGIGGFIKVRQY-DQILIEICGHK--AIGTVL----VGPTPV--------NIIGRNLLTQIGCTLNF
+#=GR drugbank_target|P03367/501-599 PP 9**********************************.....******.**.....****************.***********..******....******........****************9
+drugbank_target|P12497/489-587         PQITLWQRPLVTIKIGGQLKEALLDTGADDTVLEE-----MNLPGR-WK-----PKMIGGIGGFIKVRQY-DQILIEICGHK--AIGTVL----VGPTPV--------NIIGRNLLTQIGCTLNF
+#=GR drugbank_target|P12497/489-587 PP 9**********************************.....******.**.....****************.***********..******....******........****************9
+drugbank_target|P12499/490-588         PQITLWQRPLVTIKIGGQLKEALLDTGADDTVLEE-----MNLPGK-WK-----PKMIGGIGGFIKVRQY-DQILIEICGHK--AIGTVL----VGPTPV--------NIIGRNLLTQIGCTLNF
+#=GR drugbank_target|P12499/490-588 PP 9**********************************.....******.**.....****************.***********..******....******........****************9
+drugbank_target|P04587/501-599         PQITLWQRPLVTIKIGGQLKEALLDTGADDTVLEE-----MSLPGR-WK-----PKMIGGIGGFIKVRQY-DQILIEICGHK--AIGTVL----VGPTPV--------NIIGRNLLTQIGCTLNF
+#=GR drugbank_target|P04587/501-599 PP 9**********************************.....******.**.....****************.***********..******....******........****************9
+drugbank_target|P03366/501-599         PQITLWQRPLVTIKIGGQLKEALLDTGADDTVLEE-----MSLPGR-WK-----PKMIGGIGGFIKVRQY-DQILIEICGHK--AIGTVL----VGPTPV--------NIIGRNLLTQIGCTLNF
+#=GR drugbank_target|P03366/501-599 PP 9**********************************.....******.**.....****************.***********..******....******........****************9
+drugbank_target|P35963/489-587         PQITLWQRPLVTIKIGGQLKEALLDTGADDTVLEE-----MNLPGR-WK-----PKMIGGIGGFIKVRQY-DQIPIEICGHK--AIGTVL----VGPTPV--------NIIGRNLLTQIGCTLNF
+#=GR drugbank_target|P35963/489-587 PP 9**********************************.....******.**.....****************.***********..******....******........****************9
+drugbank_target|P04585/489-587         PQVTLWQRPLVTIKIGGQLKEALLDTGADDTVLEE-----MSLPGR-WK-----PKMIGGIGGFIKVRQY-DQILIEICGHK--AIGTVL----VGPTPV--------NIIGRNLLTQIGCTLNF
+#=GR drugbank_target|P04585/489-587 PP 9**********************************.....******.**.....****************.***********..******....******........****************9
+drugbank_target|P03369/491-589         PQITLWQRPLVTIRIGGQLKEALLDTGADDTVLEE-----MNLPGK-WK-----PKMIGGIGGFIKVRQY-DQIPVEICGHK--AIGTVL----VGPTPV--------NIIGRNLLTQIGCTLNF
+#=GR drugbank_target|P03369/491-589 PP 9**********************************.....******.**.....****************.***********..******....******........****************9
+drugbank_target|Q88016/110-208         PQFSLWRRPVVTAHIEGQPVEVLLDTGADDSIVTG-----IELGPH-YT-----PKIVGGIGGFINTKEY-KNVEIEVLGKR--IKGTIM----TGDTPI--------NIFGRNLLTALGMSLNF
+#=GR drugbank_target|Q88016/110-208 PP 8**********************************.....******.**.....****************.***********..******....******........****************8
+drugbank_target|P04584/514-611         PQFSLWKRPVVTAYIEGQPVEVLLDTGADDSIVAG-----IELGNN-YS-----PKIVGGIGGFINTKEY-KNVEIEVLNKK--VRATIM----TGDTPI--------NIFGRNILTALGMSLN-
+#=GR drugbank_target|P04584/514-611 PP 8**********************************.....******.**.....****************.***********..******....******........***************8.
+drugbank_target|P05896/498-595         PQFSLWRRPVVTAHIEGQPVEVLLDTGADDSIVTG-----IELGPH-YT-----PKIVGGIGGFINTKEY-KNVEIEVLGKR--IKGTIM----TGDTPI--------NIFGRNLLTALGMSLN-
+#=GR drugbank_target|P05896/498-595 PP 8**********************************.....******.**.....****************.***********..******....******........***************8.
+drugbank_target|P03355/549-641         -------EPRITLKVGGQPVTFLVDTGAQHSVLTQ-----NPGPLS-DK-----SAWVQGATGGKRYRWT-TDRKVHLATGK--VTHSFL---HVPDCPY--------PLLGRDLLTKLKAQIHF
+#=GR drugbank_target|P03355/549-641 PP .......7***************************.....******.**.....****************.***********..******...*******........***************98
+drugbank_target|P03371/84-182          ---NLEKRPTTIVLINDTPLNVLLDTGADTSVLTTAHYNRLKYRGRKYQ-----GTGIIGVGGNVETFS--TPVTIKKKGRH--IKTRML----VADIPV--------TILGRDILQDLGAKL--
+#=GR drugbank_target|P03371/84-182  PP ...89*****************************966655556665588.....**************9..9**********..******....******........*************98..
+drugbank_target|P16088/46-143          --TTLEKRPEILIFVNGYPIKFLLDTGADITILNR-----RDFQVK-NSIE-NGRQNMIGVGGGKRGTNY-INVHLEIRDEN--YKTQCI----FGNVCVLEDNSLIQPLLGRD-----------
+#=GR drugbank_target|P16088/46-143  PP ..79*******************************.....******.9999.999***************.***********..******....****9833333333455555...........
+drugbank_target|Q04095/607-698         -----------------VYITALLDSGADITIISE-----EDWPTD-WPVMEAANPQIHGIGGGIPMRKSRDMIEVGVINRDGSLERPLLLFPAVAMVRG--------SILGRDCLQGLGLRL--
+#=GR drugbank_target|Q04095/607-698 PP .................689***************.....******.*99999999************99899******9987789999999********........************998..
+#=GC PP_cons                           9**********************************.....******.**.....****************.***********..******....******........****************9
+#=GC RF                                xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.....xxxxxx.xx.....xxxxxxxxxxxxxxxx.xxxxxxxxxxx..xxxxxx....xxxxxx........xxxxxxxxxxxxxxxxx
+//

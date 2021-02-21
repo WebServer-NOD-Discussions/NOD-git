@@ -1,0 +1,731 @@
+	Query	Target	Query-Cov	Align-From	Align-To	DrugBank ID	Reg.Status	Mol.Name	SMILES
+0	sp|O14965|AURKA_HU	O14965	99.75	1.0	403.0	DB02482	experimental	Phosphonothreonine	OC(=O)[C@H](N)[C@H](C)OP(=O)(O)O
+1	sp|O14965|AURKA_HU	O14965	99.75	1.0	403.0	DB05169	investigational	AT9283	 
+2	sp|O14965|AURKA_HU	O14965	99.75	1.0	403.0	DB05198	investigational	CYC116	 
+3	sp|O14965|AURKA_HU	O14965	99.75	1.0	403.0	DB05220	investigational	Alisertib	OC(=O)c1ccc(cc1OC)Nc(n2)ncc(c23)CN=C(c4c3ccc(Cl)c4)c5c(OC)cccc5F
+4	sp|O14965|AURKA_HU	O14965	99.75	1.0	403.0	DB06134	investigational	SNS-314	Clc1cccc(c1)NC(=O)Nc2ncc(s2)CCNc(ncn3)c(c34)scc4
+5	sp|O14965|AURKA_HU	O14965	99.75	1.0	403.0	DB06347	investigational	Cenisertib	[C@@H]12C[C@@H](C=C1)[C@H](C(=O)N)[C@@H]2Nc3c(F)cnc(n3)Nc4ccc(c(C)c4)N5CCN(C)CC5
+6	sp|O14965|AURKA_HU	O14965	99.75	1.0	403.0	DB06486	investigational	Enzastaurin	c1cccc(c12)c(cn2C)C3=C(C(=O)NC3=O)c4cn(c(c45)cccc5)C6CCN(CC6)Cc7ccccn7
+7	sp|O14965|AURKA_HU	O14965	99.75	1.0	403.0	DB07186	experimental	4-(4-METHYLPIPERAZIN-1-YL)-N-[5-(2-THIENYLACETYL)-1,5-DIHYDROPYRROLO[3,4-C]PYRAZOL-3-YL]BENZAMIDE	CN1CCN(CC1)c2ccc(cc2)C(=O)Nc3n[nH]c(c34)cn(c4)C(=O)Cc5cccs5
+8	sp|O14965|AURKA_HU	O14965	99.75	1.0	403.0	DB07266	experimental	AKI-001	CCN1C(=O)C(C)(C)c(c12)cc3c(c2)c4c([nH]3)c5c(c([nH]n5)C)CCC4
+9	sp|O14965|AURKA_HU	O14965	99.75	1.0	403.0	DB07360	experimental	1-{5-[2-(thieno[3,2-d]pyrimidin-4-ylamino)ethyl]-1,3-thiazol-2-yl}-3-[3-(trifluoromethyl)phenyl]urea	FC(F)(F)c1cccc(c1)NC(=O)Nc2ncc(s2)CCNc3ncnc(c34)ccs4
+10	sp|O14965|AURKA_HU	O14965	99.75	1.0	403.0	DB07362	experimental	1-(5-{2-[(1-methyl-1H-pyrazolo[4,3-d]pyrimidin-7-yl)amino]ethyl}-1,3-thiazol-2-yl)-3-[3-(trifluoromethyl)phenyl]urea	Cn1ncc(c12)ncnc2NCCc3cnc(s3)NC(=O)Nc4cccc(c4)C(F)(F)F
+11	sp|O14965|AURKA_HU	O14965	99.75	1.0	403.0	DB07545	experimental	N-{3-[(4-{[3-(TRIFLUOROMETHYL)PHENYL]AMINO}PYRIMIDIN-2-YL)AMINO]PHENYL}CYCLOPROPANECARBOXAMIDE	FC(F)(F)c1cccc(c1)Nc2nc(ncc2)Nc3cc(ccc3)NC(=O)C4CC4
+12	sp|O14965|AURKA_HU	O14965	99.75	1.0	403.0	DB07801	experimental	N-butyl-3-{[6-(9H-purin-6-ylamino)hexanoyl]amino}benzamide	CCCCNC(=O)c1cccc(c1)NC(=O)CCCCCNc(ncn2)c(c23)nc[nH]3
+13	sp|O14965|AURKA_HU	O14965	99.75	1.0	403.0	DB08065	experimental	2-(1H-pyrazol-3-yl)-1H-benzimidazole	c1c[nH]nc1-c([nH]2)nc(c23)cccc3
+14	sp|O14965|AURKA_HU	O14965	99.75	1.0	403.0	DB08066	experimental	N-[3-(1H-BENZIMIDAZOL-2-YL)-1H-PYRAZOL-4-YL]BENZAMIDE	c1ccccc1C(=O)Nc2c[nH]nc2-c([nH]3)nc(c34)cccc4
+15	sp|O14965|AURKA_HU	O14965	99.75	1.0	403.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+16	sp|O14965|AURKA_HU	O14965	99.75	1.0	403.0	DB13061	investigational	MLN8054	OC(=O)c1ccc(cc1)Nc(n2)ncc(c23)CN=C(c4c3ccc(Cl)c4)c5c(F)cccc5F
+17	sp|O14965|AURKA_HU	P51812	79.16	11.0	330.0	DB00945	approved; vet_approved	Acetylsalicylic acid	CC(=O)Oc1ccccc1C(=O)O
+18	sp|O14965|AURKA_HU	P51812	79.16	11.0	330.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+19	sp|O14965|AURKA_HU	P51812	70.22	412.0	695.0	DB00945	approved; vet_approved	Acetylsalicylic acid	CC(=O)Oc1ccccc1C(=O)O
+20	sp|O14965|AURKA_HU	P51812	70.22	412.0	695.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+21	sp|O14965|AURKA_HU	O75676	71.96	13.0	303.0	DB03247	approved; investigational	Flavin mononucleotide	O=c1[nH]c(=O)nc(c12)n(c3c(n2)cc(C)c(c3)C)C[C@H](O)[C@H](O)[C@H](O)COP(=O)(O)O
+22	sp|O14965|AURKA_HU	P23458	73.7	850.0	1147.0	DB02375	experimental	Myricetin	Oc(c1)cc(O)c(c12)c(=O)c(O)c(o2)-c3cc(O)c(O)c(O)c3
+23	sp|O14965|AURKA_HU	P23458	73.7	850.0	1147.0	DB04716	experimental	2-tert-butyl-9-fluoro-1,6-dihydrobenzo[h]imidazo[4,5-f]isoquinolin-7-one	CC(C)(C)c([nH]1)nc2c(cc[nH]c3=O)c3c(c4c12)cc(F)cc4
+24	sp|O14965|AURKA_HU	P23458	73.7	850.0	1147.0	DB08877	approved	Ruxolitinib	C1CCCC1[C@@H](CC#N)n2cc(cn2)-c(ncn3)c(c34)cc[nH]4
+25	sp|O14965|AURKA_HU	P23458	73.7	850.0	1147.0	DB08895	approved; investigational	Tofacitinib	C[C@@H]1CCN(C(=O)CC#N)C[C@@H]1N(C)c2ncnc(c23)[nH]cc3
+26	sp|O14965|AURKA_HU	P23458	73.7	850.0	1147.0	DB11817	approved; investigational	Baricitinib	CCS(=O)(=O)N(C1)CC1(CC#N)n2cc(cn2)-c(ncn3)c(c34)cc[nH]4
+27	sp|O14965|AURKA_HU	P23458	73.7	850.0	1147.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+28	sp|O14965|AURKA_HU	P23458	73.7	850.0	1147.0	DB12500	approved; investigational	Fedratinib	CC(C)(C)NS(=O)(=O)c1cc(ccc1)Nc2nc(ncc2C)Nc3ccc(cc3)OCCN4CCCC4
+29	sp|O14965|AURKA_HU	P23458	73.7	850.0	1147.0	DB15091	approved; investigational	Upadacitinib	FC(F)(F)CNC(=O)N1C[C@@H](CC)[C@H](C1)c2cnc(n23)cnc4c3cc[nH]4
+30	sp|O14965|AURKA_HU	P29597	70.22	582.0	865.0	DB04716	experimental	2-tert-butyl-9-fluoro-1,6-dihydrobenzo[h]imidazo[4,5-f]isoquinolin-7-one	CC(C)(C)c([nH]1)nc2c(cc[nH]c3=O)c3c(c4c12)cc(F)cc4
+31	sp|O14965|AURKA_HU	P29597	70.22	582.0	865.0	DB08895	approved; investigational	Tofacitinib	C[C@@H]1CCN(C(=O)CC#N)C[C@@H]1N(C)c2ncnc(c23)[nH]cc3
+32	sp|O14965|AURKA_HU	P29597	70.22	582.0	865.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+33	sp|O14965|AURKA_HU	Q9BYT3	92.06	17.0	388.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+34	sp|O14965|AURKA_HU	Q7KZI7	73.95	10.0	308.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+35	sp|O14965|AURKA_HU	P27448	74.94	12.0	314.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+36	sp|O14965|AURKA_HU	P31751	75.68	108.0	413.0	DB07812	experimental	N-[(1S)-2-amino-1-phenylethyl]-5-(1H-pyrrolo[2,3-b]pyridin-4-yl)thiophene-2-carboxamide	c1ccccc1[C@@H](CN)NC(=O)c2ccc(s2)-c(ccn3)c(c34)cc[nH]4
+37	sp|O14965|AURKA_HU	P31751	75.68	108.0	413.0	DB07859	experimental	4-(4-CHLOROPHENYL)-4-[4-(1H-PYRAZOL-4-YL)PHENYL]PIPERIDINE	Clc1ccc(cc1)C2(CCNCC2)c3ccc(cc3)-c4c[nH]nc4
+38	sp|O14965|AURKA_HU	P31751	75.68	108.0	413.0	DB07947	experimental	ISOQUINOLINE-5-SULFONIC ACID (2-(2-(4-CHLOROBENZYLOXY)ETHYLAMINO)ETHYL)AMIDE	Clc1ccc(cc1)COCCNCCNS(=O)(=O)c2cccc(c23)cncc3
+39	sp|O14965|AURKA_HU	P31751	75.68	108.0	413.0	DB08073	experimental	(2S)-1-(1H-INDOL-3-YL)-3-{[5-(3-METHYL-1H-INDAZOL-5-YL)PYRIDIN-3-YL]OXY}PROPAN-2-AMINE	c1cccc(c12)[nH]cc2C[C@H](N)COc3cncc(c3)-c(c4)ccc(c45)[nH]nc5C
+40	sp|O14965|AURKA_HU	Q9P0L2	72.7	25.0	318.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+41	sp|O14965|AURKA_HU	P31749	75.19	106.0	409.0	DB00171	investigational; nutraceutical	ATP	Nc1ncnc(c12)n(cn2)[C@@H]3O[C@@H]([C@@H](O)[C@H]3O)COP(=O)(O)OP(=O)(O)OP(=O)(O)O
+42	sp|O14965|AURKA_HU	P31749	75.19	106.0	409.0	DB01169	approved; investigational	Arsenic trioxide	O=[As]O[As]=O
+43	sp|O14965|AURKA_HU	P31749	75.19	106.0	409.0	DB01645	investigational	Genistein	Oc1ccc(cc1)-c(c2=O)coc(c23)cc(O)cc3O
+44	sp|O14965|AURKA_HU	P31749	75.19	106.0	409.0	DB01863	experimental	Inositol 1,3,4,5-Tetrakisphosphate	OP(=O)(O)O[C@@H]1[C@H](O)[C@H](OP(=O)(O)O)[C@@H](OP(=O)(O)O)[C@@H]([C@H]1O)OP(=O)(O)O
+45	sp|O14965|AURKA_HU	P31749	75.19	106.0	409.0	DB02709	investigational	Resveratrol	Oc1ccc(cc1)/C=C/c2cc(O)cc(O)c2
+46	sp|O14965|AURKA_HU	P31749	75.19	106.0	409.0	DB05971	investigational	Archexin	 
+47	sp|O14965|AURKA_HU	P31749	75.19	106.0	409.0	DB06486	investigational	Enzastaurin	c1cccc(c12)c(cn2C)C3=C(C(=O)NC3=O)c4cn(c(c45)cccc5)C6CCN(CC6)Cc7ccccn7
+48	sp|O14965|AURKA_HU	P31749	75.19	106.0	409.0	DB06641	investigational	Perifosine	CCCCCCCCCCCCCCCCCCOP([O-])(=O)OC(CC1)CC[N+]1(C)C
+49	sp|O14965|AURKA_HU	P31749	75.19	106.0	409.0	DB07584	experimental	N-[2-(5-methyl-4H-1,2,4-triazol-3-yl)phenyl]-7H-pyrrolo[2,3-d]pyrimidin-4-amine	Cc1nnc([nH]1)-c2ccccc2Nc3ncnc(c34)[nH]cc4
+50	sp|O14965|AURKA_HU	P31749	75.19	106.0	409.0	DB07585	experimental	5-(5-chloro-7H-pyrrolo[2,3-d]pyrimidin-4-yl)-4,5,6,7-tetrahydro-1H-imidazo[4,5-c]pyridine	Clc1c[nH]c(c12)ncnc2N(C3)CCc(c34)[nH]cn4
+51	sp|O14965|AURKA_HU	O00141	76.43	47.0	355.0	DB03247	approved; investigational	Flavin mononucleotide	O=c1[nH]c(=O)nc(c12)n(c3c(n2)cc(C)c(c3)C)C[C@H](O)[C@H](O)[C@H](O)COP(=O)(O)O
+52	sp|O14965|AURKA_HU	O00141	76.43	47.0	355.0	DB07837	experimental	[4-(5-naphthalen-2-yl-1H-pyrrolo[2,3-b]pyridin-3-yl)phenyl]acetic acid	OC(=O)Cc1ccc(cc1)-c2c[nH]c(c23)ncc(c3)-c(c4)ccc(c45)cccc5
+53	sp|O14965|AURKA_HU	O00141	76.43	47.0	355.0	DB08191	experimental	4-(5-phenyl-1H-pyrrolo[2,3-b]pyridin-3-yl)benzoic acid	OC(=O)c1ccc(cc1)-c2c[nH]c(c23)ncc(c3)-c4ccccc4
+54	sp|O14965|AURKA_HU	Q8IU85	71.22	8.0	295.0	DB08454	experimental	N-(5-METHYL-1H-PYRAZOL-3-YL)-2-PHENYLQUINAZOLIN-4-AMINE	Cc1cc(n[nH]1)Nc(c(c23)cccc3)nc(n2)-c4ccccc4
+55	sp|O14965|AURKA_HU	Q8IU85	71.22	8.0	295.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+56	sp|O14965|AURKA_HU	Q02156	83.62	333.0	670.0	DB06064	investigational	KAI-1455	 
+57	sp|O14965|AURKA_HU	Q02156	83.62	333.0	670.0	DB11752	investigational	Bryostatin 1	 
+58	sp|O14965|AURKA_HU	Q02156	83.62	333.0	670.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+59	sp|O14965|AURKA_HU	Q02156	83.62	333.0	670.0	DB00675	approved	Tamoxifen	c1ccccc1/C(CC)=C(/c2ccccc2)c3ccc(cc3)OCCN(C)C
+60	sp|O14965|AURKA_HU	Q9P286	85.61	356.0	701.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+61	sp|O14965|AURKA_HU	P17252	72.21	310.0	601.0	DB00144	approved; investigational; nutraceutical	Phosphatidyl serine	CCCC(=O)O[C@H](COC(=O)CC)COP(=O)(O)OC[C@H](N)C(=O)O
+62	sp|O14965|AURKA_HU	P17252	72.21	310.0	601.0	DB00163	approved; nutraceutical; vet_approved	Vitamin E	CC(C)CCC[C@@H](C)CCC[C@@H](C)CCC[C@](O1)(C)CCc(c12)c(C)c(O)c(C)c2C
+63	sp|O14965|AURKA_HU	P17252	72.21	310.0	601.0	DB05013	approved	Ingenol mebutate	C[C@@H]1C[C@@H](C2(C)C)[C@@H]2[C@H](C3=O)C=C(CO)[C@@H](O)[C@]([C@@]134)(O)[C@H](C(=C4)C)OC(=O)/C(C)=C\C
+64	sp|O14965|AURKA_HU	P17252	72.21	310.0	601.0	DB06451	investigational	Aprinocarsen	n1cnc(N)c(c12)ncn2C3CC(O)C(O3)COP(=S)(O)OC4CC(n5ccc(=N)nc5O)OC4COP(=S)(O)OC6CC(n7cc(C)c(O)nc7=O)OC6COP(=S)(O)OC8CC(n9cc(C)c(O)nc9=O)OC8COP(=S)(O)OC1CC(n2cc(C)c(O)nc2=O)OC1COP(=S)(O)OC1CC(n2cnc(c23)c(O)nc([nH]3)=N)OC1COP(=S)(O)OC1CC(n2cnc(c23)c(N)ncn3)OC1COP(=S)(O)OC1CC(n2cnc(c23)c(O)nc([nH]3)=N)OC1COP(=S)(O)OC1CC(n2cc(C)c(O)nc2=O)OC1COP(=S)(O)OC1CC(n2cnc(c23)c(O)nc([nH]3)=N)OC1COP(=S)(O)OC1CC(n2cnc(c23)c(O)nc([nH]3)=N)OC1COP(=S)(O)OC1CC(n2cc(C)c(O)nc2=O)OC1COP(=S)(O)OC1CC(n2ccc(=N)nc2O)OC1COP(=S)(O)OC1CC(n2cnc(c23)c(O)nc([nH]3)=N)OC1COP(=S)(O)OC1CC(n2ccc(=N)nc2O)OC1COP(=S)(O)OC1CC(n2cc(C)c(O)nc2=O)OC1COP(=S)(O)OC1CC(n2ccc(=N)nc2O)OC1COP(=S)(O)OC1CC(n2cc(C)c(O)nc2=O)OC1COP(=S)(O)OC1CC(n2cc(C)c(O)nc2=O)OC1COP(=S)(O)OC1CC(OC1CO)n1cnc(c12)c(O)nc([nH]2)=N
+65	sp|O14965|AURKA_HU	P17252	72.21	310.0	601.0	DB06595	approved; investigational	Midostaurin	c1ccccc1C(=O)N(C)[C@@H]([C@H]2OC)C[C@@H](O3)n(c4c5n6[C@]23C)c7c(cccc7)c4c8c(CNC8=O)c5c9c6cccc9
+66	sp|O14965|AURKA_HU	P17252	72.21	310.0	601.0	DB06641	investigational	Perifosine	CCCCCCCCCCCCCCCCCCOP([O-])(=O)OC(CC1)CC[N+]1(C)C
+67	sp|O14965|AURKA_HU	P17252	72.21	310.0	601.0	DB08846	investigational	Ellagic acid	Oc(c1)c(O)c(c2c13)oc(=O)c4c2c(oc3=O)c(O)c(c4)O
+68	sp|O14965|AURKA_HU	P17252	72.21	310.0	601.0	DB11752	investigational	Bryostatin 1	 
+69	sp|O14965|AURKA_HU	P17252	72.21	310.0	601.0	DB14001	approved; nutraceutical; vet_approved	alpha-Tocopherol succinate	CC(C)CCC[C@@H](C)CCC[C@@H](C)CCC[C@](O1)(C)CCc(c12)c(C)c(c(C)c2C)OC(=O)CCC(=O)O
+70	sp|O14965|AURKA_HU	P17252	72.21	310.0	601.0	DB14002	approved; nutraceutical; vet_approved	D-alpha-Tocopherol acetate	CC(C)CCC[C@@H](C)CCC[C@@H](C)CCC[C@](O1)(C)CCc(c12)c(C)c(c(C)c2C)OC(=O)C
+71	sp|O14965|AURKA_HU	P17252	72.21	310.0	601.0	DB00675	approved	Tamoxifen	c1ccccc1/C(CC)=C(/c2ccccc2)c3ccc(cc3)OCCN(C)C
+72	sp|O14965|AURKA_HU	P62344	78.16	23.0	338.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+73	sp|O14965|AURKA_HU	Q8IBS5	80.15	13.0	336.0	DB11638	experimental; investigational	Artenimol	[C@]123[C@H]4CC[C@@H](C)[C@@H]1CC[C@@](C)(OO2)O[C@H]3OC(O)[C@@H]4C
+74	sp|O14965|AURKA_HU	Q15746	85.36	1387.0	1731.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+75	sp|O14965|AURKA_HU	Q96BR1	75.68	118.0	423.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+76	sp|O14965|AURKA_HU	Q9C098	76.43	319.0	627.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+77	sp|O14965|AURKA_HU	Q9NYY3	75.93	30.0	336.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+78	sp|O14965|AURKA_HU	P17612	70.72	17.0	302.0	DB01919	experimental	Pentanal	CCCCC=O
+79	sp|O14965|AURKA_HU	P17612	70.72	17.0	302.0	DB01940	experimental	Balanol Analog 2	Oc1ccc(cc1)C(=O)N[C@@H]2CNCCC[C@H]2OC(=O)c3ccc(cc3)C(=O)c4ccccc4O
+80	sp|O14965|AURKA_HU	P17612	70.72	17.0	302.0	DB02155	experimental	3-[(3-sec-butyl-4-hydroxybenzoyl)amino]azepan-4-yl 4-(2-hydroxy-5-methoxybenzoyl)benzoate	CC[C@H](C)c1c(O)ccc(c1)C(=O)N[C@@H]2CNCCC[C@H]2OC(=O)c3ccc(cc3)C(=O)c4c(O)ccc(c4)OC
+81	sp|O14965|AURKA_HU	P17612	70.72	17.0	302.0	DB02482	experimental	Phosphonothreonine	OC(=O)[C@H](N)[C@H](C)OP(=O)(O)O
+82	sp|O14965|AURKA_HU	P17612	70.72	17.0	302.0	DB02611	experimental	Balanol Analog 1	Oc1ccc(cc1)C(=O)N[C@@H]2CNCCC[C@H]2OC(=O)c3ccc(O)cc3
+83	sp|O14965|AURKA_HU	P17612	70.72	17.0	302.0	DB03374	experimental	3,5-Diiodotyrosine	OC(=O)[C@@H](N)Cc1cc(I)c(O)c(I)c1
+84	sp|O14965|AURKA_HU	P17612	70.72	17.0	302.0	DB04098	experimental	Balanol	OC(=O)c1cccc(O)c1C(=O)c2c(O)cc(cc2O)C(=O)O[C@@H]3CCCNC[C@@H]3NC(=O)c4ccc(O)cc4
+85	sp|O14965|AURKA_HU	P17612	70.72	17.0	302.0	DB04522	experimental	Dexfosfoserine	OC(=O)[C@@H](N)COP(=O)(O)O
+86	sp|O14965|AURKA_HU	P17612	70.72	17.0	302.0	DB04530	experimental	S,S-(2-Hydroxyethyl)Thiocysteine	OC(=O)[C@@H](N)CSSCCO
+87	sp|O14965|AURKA_HU	P17612	70.72	17.0	302.0	DB04707	experimental	Hydroxyfasudil	O=c1[nH]ccc(c12)c(ccc2)S(=O)(=O)N3CCCNCC3
+88	sp|O14965|AURKA_HU	P17612	70.72	17.0	302.0	DB06959	experimental	(2S)-1-(3H-Indol-3-yl)-3-{[5-(6-isoquinolinyl)-3-pyridinyl]oxy}-2-propanamine	c1cccc(c12)N=CC2C[C@H](N)COc3cncc(c3)-c(cc4)cc(c45)ccnc5
+89	sp|O14965|AURKA_HU	P17612	70.72	17.0	302.0	DB06977	experimental	(2S)-1-{[5-(1H-Indazol-5-yl)-3-pyridinyl]oxy}-3-(7aH-indol-3-yl)-2-propanamine	C1=CC=CC(C12)=C(C=N2)C[C@H](N)COc3cncc(c3)-c(cc4)cc(c45)c[nH]n5
+90	sp|O14965|AURKA_HU	P17612	70.72	17.0	302.0	DB07107	experimental	(1S)-2-(1H-INDOL-3-YL)-1-[({5-[(E)-2-PYRIDIN-4-YLVINYL]PYRIDIN-3-YL}OXY)METHYL]ETHYLAMINE	c1cccc(c12)[nH]cc2C[C@H](N)COc3cncc(c3)/C=C/c4ccncc4
+91	sp|O14965|AURKA_HU	P17612	70.72	17.0	302.0	DB07124	experimental	(2S)-1-(6H-INDOL-3-YL)-3-{[5-(7H-PYRAZOLO[3,4-C]PYRIDIN-5-YL)PYRIDIN-3-YL]OXY}PROPAN-2-AMINE	C=1CC=CC(C12)=C(C=N2)C[C@H](N)COc3cncc(c3)C(C=4)=NCC(C45)=NN=C5
+92	sp|O14965|AURKA_HU	P17612	70.72	17.0	302.0	DB07204	experimental	(1S)-1-(1H-INDOL-3-YLMETHYL)-2-(2-PYRIDIN-4-YL-[1,7]NAPHTYRIDIN-5-YLOXY)-EHYLAMINE	c1cccc(c12)[nH]cc2C[C@H](N)COc(cnc3)c(c34)ccc(n4)-c5ccncc5
+93	sp|O14965|AURKA_HU	P17612	70.72	17.0	302.0	DB07235	experimental	N-[(1S)-2-AMINO-1-(2,4-DICHLOROBENZYL)ETHYL]-5-[2-(METHYLAMINO)PYRIMIDIN-4-YL]THIOPHENE-2-CARBOXAMIDE	Clc1ccc(c(Cl)c1)C[C@@H](CN)NC(=O)c2ccc(s2)-c3ccnc(n3)NC
+94	sp|O14965|AURKA_HU	P17612	70.72	17.0	302.0	DB07458	experimental	3-(1H-indol-3-yl)-4-{1-[2-(1-methylpyrrolidin-2-yl)ethyl]-1H-indol-3-yl}-1H-pyrrole-2,5-dione	c1cccc(c12)c(c[nH]2)C3=C(C(=O)NC3=O)c4cn(c(c45)cccc5)CC[C@@H]6CCCN6C
+95	sp|O14965|AURKA_HU	P17612	70.72	17.0	302.0	DB07583	experimental	(4R,2S)-5'-(4-(4-CHLOROBENZYLOXY)PYRROLIDIN-2-YLMETHANESULFONYL)ISOQUINOLINE	c1cncc(c12)cccc2S(=O)(=O)NC[C@@H]3C[C@H](CN3)OCc4ccc(Cl)cc4
+96	sp|O14965|AURKA_HU	P17612	70.72	17.0	302.0	DB07854	experimental	N-METHYL-1-[4-(9H-PURIN-6-YL)PHENYL]METHANAMINE	CNCc1ccc(cc1)-c2ncnc(c23)[nH]cn3
+97	sp|O14965|AURKA_HU	P17612	70.72	17.0	302.0	DB07855	experimental	(S)-1-PHENYL-1-[4-(9H-PURIN-6-YL)PHENYL]METHANAMINE	c1ccccc1[C@H](N)c2ccc(cc2)-c(ncn3)c(c34)nc[nH]4
+98	sp|O14965|AURKA_HU	P17612	70.72	17.0	302.0	DB07856	experimental	6-{4-[4-(4-CHLOROPHENYL)PIPERIDIN-4-YL]PHENYL}-9H-PURINE	Clc1ccc(cc1)C2(CCNCC2)c3ccc(cc3)-c(ncn4)c(c45)nc[nH]5
+99	sp|O14965|AURKA_HU	P17612	70.72	17.0	302.0	DB07857	experimental	(2R)-2-(4-chlorophenyl)-2-[4-(1H-pyrazol-4-yl)phenyl]ethanamine	Clc1ccc(cc1)[C@H](CN)c2ccc(cc2)-c3c[nH]nc3
+100	sp|O14965|AURKA_HU	P17612	70.72	17.0	302.0	DB07858	experimental	(2S)-2-(4-chlorophenyl)-2-[4-(1H-pyrazol-4-yl)phenyl]ethanamine	Clc1ccc(cc1)[C@@H](CN)c2ccc(cc2)-c3c[nH]nc3
+101	sp|O14965|AURKA_HU	P17612	70.72	17.0	302.0	DB07859	experimental	4-(4-CHLOROPHENYL)-4-[4-(1H-PYRAZOL-4-YL)PHENYL]PIPERIDINE	Clc1ccc(cc1)C2(CCNCC2)c3ccc(cc3)-c4c[nH]nc4
+102	sp|O14965|AURKA_HU	P17612	70.72	17.0	302.0	DB07860	experimental	(2R)-2-(4-CHLOROPHENYL)-2-PHENYLETHANAMINE	Clc1ccc(cc1)[C@H](CN)c2ccccc2
+103	sp|O14965|AURKA_HU	P17612	70.72	17.0	302.0	DB07876	experimental	(S)-2-METHYL-1-[(4-METHYL-5-ISOQUINOLINE)SULFONYL]-HOMOPIPERAZINE	C[C@H]1CNCCCN1S(=O)(=O)c(ccc2)c(c23)c(C)cnc3
+104	sp|O14965|AURKA_HU	P17612	70.72	17.0	302.0	DB07947	experimental	ISOQUINOLINE-5-SULFONIC ACID (2-(2-(4-CHLOROBENZYLOXY)ETHYLAMINO)ETHYL)AMIDE	Clc1ccc(cc1)COCCNCCNS(=O)(=O)c2cccc(c23)cncc3
+105	sp|O14965|AURKA_HU	P17612	70.72	17.0	302.0	DB07995	experimental	H-89	Brc1ccc(cc1)/C=C/CNCCNS(=O)(=O)c2cccc(c23)cncc3
+106	sp|O14965|AURKA_HU	P17612	70.72	17.0	302.0	DB07996	experimental	5-(2-methylpiperazine-1-sulfonyl)isoquinoline	CC1CNCCN1S(=O)(=O)c(ccc2)c(c23)ccnc3
+107	sp|O14965|AURKA_HU	P17612	70.72	17.0	302.0	DB07997	experimental	N-[2-(METHYLAMINO)ETHYL]-5-ISOQUINOLINESULFONAMIDE	CNCCNS(=O)(=O)c1cccc(c12)cncc2
+108	sp|O14965|AURKA_HU	P17612	70.72	17.0	302.0	DB08070	experimental	2-[4-(3-METHYL-1H-PYRAZOL-4-YL)PHENYL]ETHANAMINE	Cc1n[nH]cc1-c2ccc(cc2)CCN
+109	sp|O14965|AURKA_HU	P17612	70.72	17.0	302.0	DB08073	experimental	(2S)-1-(1H-INDOL-3-YL)-3-{[5-(3-METHYL-1H-INDAZOL-5-YL)PYRIDIN-3-YL]OXY}PROPAN-2-AMINE	c1cccc(c12)[nH]cc2C[C@H](N)COc3cncc(c3)-c(c4)ccc(c45)[nH]nc5C
+110	sp|O14965|AURKA_HU	P17612	70.72	17.0	302.0	DB08113	experimental	3-pyridin-4-yl-1H-indazole	c1cccc(c12)c(n[nH]2)-c3ccncc3
+111	sp|O14965|AURKA_HU	P17612	70.72	17.0	302.0	DB08114	experimental	5-benzyl-1,3-thiazol-2-amine	Nc1ncc(s1)Cc2ccccc2
+112	sp|O14965|AURKA_HU	P17612	70.72	17.0	302.0	DB08148	experimental	1-[4-(4-chlorophenyl)-1-(7H-pyrrolo[2,3-d]pyrimidin-4-yl)piperidin-4-yl]methanamine	Clc1ccc(cc1)C2(CN)CCN(CC2)c(ncn3)c(c34)cc[nH]4
+113	sp|O14965|AURKA_HU	P17612	70.72	17.0	302.0	DB08149	experimental	1-[4-(4-chlorobenzyl)-1-(7H-pyrrolo[2,3-d]pyrimidin-4-yl)piperidin-4-yl]methanamine	Clc1ccc(cc1)CC2(CN)CCN(CC2)c(ncn3)c(c34)cc[nH]4
+114	sp|O14965|AURKA_HU	P17612	70.72	17.0	302.0	DB08150	experimental	4-(4-chlorobenzyl)-1-(7H-pyrrolo[2,3-d]pyrimidin-4-yl)piperidin-4-aminium	Clc1ccc(cc1)CC2([NH3+])CCN(CC2)c(ncn3)c(c34)cc[nH]4
+115	sp|O14965|AURKA_HU	P17612	70.72	17.0	302.0	DB08162	investigational	Fasudil	c1cncc(c12)cccc2S(=O)(=O)N3CCCNCC3
+116	sp|O14965|AURKA_HU	P17612	70.72	17.0	302.0	DB08231	experimental	Myristic acid	CCCCCCCCCCCCCC(=O)O
+117	sp|O14965|AURKA_HU	P17612	70.72	17.0	302.0	DB08568	experimental	A-674563	Cc1n[nH]c(c12)ccc(c2)-c3cc(cnc3)OC[C@@H](N)Cc4ccccc4
+118	sp|O14965|AURKA_HU	P17612	70.72	17.0	302.0	DB08569	experimental	3-PYRIDIN-4-YL-2,4-DIHYDRO-INDENO[1,2-.C.] PYRAZOLE	Brc1ccc(cc1)C[C@H](N)COc2cncc(c2)-c(cc3)cc(c34)c(C)n[nH]4
+119	sp|O14965|AURKA_HU	P17612	70.72	17.0	302.0	DB08756	experimental	Y-27632	C[C@@H](N)[C@H]1CC[C@@H](CC1)C(=O)Nc2ccncc2
+120	sp|O14965|AURKA_HU	P17612	70.72	17.0	302.0	DB08846	investigational	Ellagic acid	Oc(c1)c(O)c(c2c13)oc(=O)c4c2c(oc3=O)c(O)c(c4)O
+121	sp|O14965|AURKA_HU	P17612	70.72	17.0	302.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+122	sp|O14965|AURKA_HU	O75914	78.16	223.0	538.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+123	sp|O14965|AURKA_HU	P05771	75.43	297.0	601.0	DB00163	approved; nutraceutical; vet_approved	Vitamin E	CC(C)CCC[C@@H](C)CCC[C@@H](C)CCC[C@](O1)(C)CCc(c12)c(C)c(O)c(C)c2C
+124	sp|O14965|AURKA_HU	P05771	75.43	297.0	601.0	DB01738	experimental	Phosphorylcolamine	NCCOP(=O)(O)O
+125	sp|O14965|AURKA_HU	P05771	75.43	297.0	601.0	DB06486	investigational	Enzastaurin	c1cccc(c12)c(cn2C)C3=C(C(=O)NC3=O)c4cn(c(c45)cccc5)C6CCN(CC6)Cc7ccccn7
+126	sp|O14965|AURKA_HU	P05771	75.43	297.0	601.0	DB08846	investigational	Ellagic acid	Oc(c1)c(O)c(c2c13)oc(=O)c4c2c(oc3=O)c(O)c(c4)O
+127	sp|O14965|AURKA_HU	P05771	75.43	297.0	601.0	DB08862	approved; investigational	Cholecystokinin	 
+128	sp|O14965|AURKA_HU	P05771	75.43	297.0	601.0	DB14001	approved; nutraceutical; vet_approved	alpha-Tocopherol succinate	CC(C)CCC[C@@H](C)CCC[C@@H](C)CCC[C@](O1)(C)CCc(c12)c(C)c(c(C)c2C)OC(=O)CCC(=O)O
+129	sp|O14965|AURKA_HU	P05771	75.43	297.0	601.0	DB14002	approved; nutraceutical; vet_approved	D-alpha-Tocopherol acetate	CC(C)CCC[C@@H](C)CCC[C@@H](C)CCC[C@](O1)(C)CCc(c12)c(C)c(c(C)c2C)OC(=O)C
+130	sp|O14965|AURKA_HU	P05771	75.43	297.0	601.0	DB00675	approved	Tamoxifen	c1ccccc1/C(CC)=C(/c2ccccc2)c3ccc(cc3)OCCN(C)C
+131	sp|O14965|AURKA_HU	Q13153	76.43	217.0	525.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+132	sp|O14965|AURKA_HU	Q16513	73.7	620.0	917.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+133	sp|O14965|AURKA_HU	Q13177	77.92	190.0	504.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+134	sp|O14965|AURKA_HU	Q05655	75.68	300.0	605.0	DB04376	experimental	13-Acetylphorbol	OCC(=C1)C[C@](O)(C(=O)C(=C2)C)[C@@H]2[C@@](O)([C@H](C)[C@H]3O)[C@@H]1[C@H](C4(C)C)[C@@]34OC(=O)C
+135	sp|O14965|AURKA_HU	Q05655	75.68	300.0	605.0	DB05013	approved	Ingenol mebutate	C[C@@H]1C[C@@H](C2(C)C)[C@@H]2[C@H](C3=O)C=C(CO)[C@@H](O)[C@]([C@@]134)(O)[C@H](C(=C4)C)OC(=O)/C(C)=C\C
+136	sp|O14965|AURKA_HU	Q05655	75.68	300.0	605.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+137	sp|O14965|AURKA_HU	Q05655	75.68	300.0	605.0	DB00675	approved	Tamoxifen	c1ccccc1/C(CC)=C(/c2ccccc2)c3ccc(cc3)OCCN(C)C
+138	sp|O14965|AURKA_HU	Q9UIK4	71.46	9.0	297.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+139	sp|O14965|AURKA_HU	O15075	87.59	301.0	654.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+140	sp|O14965|AURKA_HU	P41743	85.11	184.0	527.0	DB03777	experimental	Bisindolylmaleimide I	CN(C)CCCn1cc(c(c12)cccc2)C3=C(C(=O)NC3=O)c4c[nH]c(c45)cccc5
+141	sp|O14965|AURKA_HU	P41743	85.11	184.0	527.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+142	sp|O14965|AURKA_HU	P41743	85.11	184.0	527.0	DB00675	approved	Tamoxifen	c1ccccc1/C(CC)=C(/c2ccccc2)c3ccc(cc3)OCCN(C)C
+143	sp|O14965|AURKA_HU	Q8N568	70.22	381.0	664.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+144	sp|O14965|AURKA_HU	Q16512	75.93	569.0	875.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+145	sp|O14965|AURKA_HU	P43403	83.87	252.0	590.0	DB02010	experimental	Staurosporine	CO[C@@H]1[C@H](NC)C[C@@H](O2)n(c3c4n5[C@]12C)c6c(cccc6)c3c7c(CNC7=O)c4c8c5cccc8
+146	sp|O14965|AURKA_HU	P43403	83.87	252.0	590.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+147	sp|O14965|AURKA_HU	Q8IY84	73.7	29.0	326.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+148	sp|O14965|AURKA_HU	Q9Y2H1	85.11	42.0	385.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+149	sp|O14965|AURKA_HU	Q9H2G2	70.97	15.0	301.0	DB07664	experimental	K-00546	O=S(=O)(N)c1ccc(cc1)Nc2nc(N)n(n2)C(=S)Nc3c(F)cccc3F
+150	sp|O14965|AURKA_HU	Q9H2G2	70.97	15.0	301.0	DB07853	experimental	2-[4-[4-[(5-cyclopropyl-1H-pyrazol-3-yl)amino]quinazolin-2-yl]iminocyclohexa-2,5-dien-1-yl]acetonitrile	N#CCC1C=CC(C=C1)=Nc(nc(c23)cccc3)nc2Nc4n[nH]c(c4)C5CC5
+151	sp|O14965|AURKA_HU	Q9H2G2	70.97	15.0	301.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+152	sp|O14965|AURKA_HU	Q15208	91.07	16.0	383.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+153	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB01888	experimental	4-[5-(Trans-4-Aminocyclohexylamino)-3-Isopropylpyrazolo[1,5-a]Pyrimidin-7-Ylamino]-N,N-Dimethylbenzenesulfonamide	CN(C)S(=O)(=O)c1ccc(cc1)Nc2cc(nc(n23)c(cn3)C(C)C)N[C@H]4CC[C@H](N)CC4
+154	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB02010	experimental	Staurosporine	CO[C@@H]1[C@H](NC)C[C@@H](O2)n(c3c4n5[C@]12C)c6c(cccc6)c3c7c(CNC7=O)c4c8c5cccc8
+155	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB02052	experimental	Indirubin-3'-monoxime	c1cccc(c12)NC(\C\2=N\O)=C3/C(=O)Nc(c34)cccc4
+156	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB02091	experimental	4-(2,4-Dimethyl-Thiazol-5-Yl)-Pyrimidin-2-Ylamine	Cc1nc(C)c(s1)-c2nc(N)ncc2
+157	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB02116	experimental	Olomoucine	OCCNc(n1)nc(c(c12)ncn2C)NCc3ccccc3
+158	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB02197	experimental	4-[(4-Imidazo[1,2-a]Pyridin-3-Ylpyrimidin-2-Yl)Amino]Benzenesulfonamide	NS(=O)(=O)c1ccc(cc1)Nc2nc(ccn2)-c3cnc(n34)cccc4
+159	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB02297	experimental	2-Amino-6-Chloropyrazine	Nc1cncc(Cl)n1
+160	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB02407	experimental	6-O-Cyclohexylmethyl Guanine	[nH]1cnc(c12)c(nc(n2)N)OCC3CCCCC3
+161	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB02538	experimental	N-[4-(2-Methylimidazo[1,2-a]Pyridin-3-Yl)-2-Pyrimidinyl]Acetamide	CC(=O)Nc1nc(ccn1)-c2c(C)nc(n23)cccc3
+162	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB02603	experimental	1-Amino-6-Cyclohex-3-Enylmethyloxypurine	[nH]1cnc(c12)c(nc(c2)N)OCC3CCCCC3
+163	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB02647	experimental	N-(5-Cyclopropyl-1h-Pyrazol-3-Yl)Benzamide	c1ccccc1C(=O)Nc2cc(n[nH]2)C3CC3
+164	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB02733	experimental	Purvalanol	n1cn(C(C)C)c(c12)nc(N[C@@H](CO)C(C)C)nc2Nc3ccc(C(=O)O)c(Cl)c3
+165	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB02833	experimental	[4-(2-Amino-4-Methyl-Thiazol-5-Yl)-Pyrimidin-2-Yl]-(3-Nitro-Phenyl)-Amine	Nc1nc(C)c(s1)-c2nc(ncc2)Nc3cccc(c3)[N+]([O-])=O
+166	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB02898	experimental	(5R)-5-{[(2-Amino-3H-purin-6-yl)oxy]methyl}-2-pyrrolidinone	n1c[nH]c(c12)nc(N)nc2OC[C@H]3CCC(=O)N3
+167	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB02915	experimental	4-(2,4-Dimethyl-1,3-thiazol-5-yl)-N-[4-(trifluoromethyl)phenyl]-2-pyrimidinamine	Cc1nc(C)c(s1)-c2ccnc(n2)Nc3ccc(C(F)(F)F)cc3
+168	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB02950	experimental	Hymenialdisine	O=C1NCC[C@@H]([C@@H](C12)C=C(Br)N=2)C3=NC(N)=NC3=O
+169	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB02963	experimental	(5-Chloropyrazolo[1,5-a]Pyrimidin-7-Yl)-(4-Methanesulfonylphenyl)Amine	CS(=O)(=O)c1ccc(cc1)Nc2cc(Cl)nc(n23)ccn3
+170	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB02973	experimental	4-(5-Bromo-2-Oxo-2h-Indol-3-Ylazo)-Benzenesulfonamide	NS(=O)(=O)c1ccc(cc1)/N=N/C(C(=O)N=2)=c(c23)cc(Br)cc3
+171	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB03019	experimental	4-(2,5-Dichloro-Thiophen-3-Yl)-Pyrimidin-2-Ylamine	Nc1nccc(n1)-c2c(Cl)sc(Cl)c2
+172	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB03307	experimental	4-[(6-Amino-4-Pyrimidinyl)Amino]Benzenesulfonamide	Nc1ncnc(c1)Nc2ccc(cc2)S(=O)(=O)N
+173	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB03365	experimental	4-[3-Hydroxyanilino]-6,7-Dimethoxyquinazoline	COc(c1)c(OC)cc(c12)ncnc2Nc3cc(O)ccc3
+174	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB03428	experimental	SU9516	COc(c1)ccc(c12)NC(=O)C\2=C/c3cnc[nH]3
+175	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB03490	experimental	3-Pyridin-4-Yl-2,4-Dihydro-Indeno[1,2-.C.]Pyrazole	c1cccc(c12)Cc3c2n[nH]c3-c4ccncc4
+176	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB03496	experimental; investigational	Alvocidib	CN1CC[C@@H]([C@H](O)C1)c2c(O)cc(O)c(c23)c(=O)cc(o3)-c4ccccc4Cl
+177	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB03583	experimental	(2E,3S)-3-hydroxy-5'-[(4-hydroxypiperidin-1-yl)sulfonyl]-3-methyl-1,3-dihydro-2,3'-biindol-2'(1'H)-one	c1cccc(c12)NC(\[C@@]2(C)O)=C(/C(=O)N3)c(c34)cc(cc4)S(=O)(=O)N5CCC(O)CC5
+178	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB03663	experimental	1-[(2-Amino-6,9-Dihydro-1h-Purin-6-Yl)Oxy]-3-Methyl-2-Butanol	CC(C)C(=O)COc1nc(N)nc(c12)nc[nH]2
+179	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB03737	experimental	4-((3r,4s,5r)-4-Amino-3,5-Dihydroxy-Hex-1-Ynyl)-5-Fluoro-3-[1-(3-Methoxy-1h-Pyrrol-2-Yl)-Meth-(Z)-Ylidene]-1,3-Dihydro-Indol-2-One	C[C@@H](O)[C@H](N)[C@H](O)C#Cc1c(F)ccc(c12)NC(=O)C\2=C/c3c(OC)cc[nH]3
+180	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB03801	experimental	Lysine Nz-Carboxylic Acid	OC(=O)[C@@H](N)CCCCNC(=O)O
+181	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB04006	experimental	[2-Amino-6-(2,6-Difluoro-Benzoyl)-Imidazo[1,2-a]Pyridin-3-Yl]-Phenyl-Methanone	c1ccccc1C(=O)c(c(n2)N)n(c23)cc(cc3)C(=O)c4c(F)cccc4F
+182	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB04101	experimental	N'-[4-(2,4-Dimethyl-1,3-thiazol-5-yl)-2-pyrimidinyl]-N-hydroxyimidoformamide	Cc1nc(C)c(s1)-c2nc(ncc2)/N=C/NO
+183	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB04186	experimental	N'-(Pyrrolidino[2,1-B]Isoindolin-4-On-8-Yl)-N-(Pyridin-2-Yl)Urea	C1CC[C@@H](N12)c3c(C2=O)cccc3NC(=O)Nc4ccccn4
+184	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB04288	experimental	2-[Trans-(4-Aminocyclohexyl)Amino]-6-(Benzyl-Amino)-9-Cyclopentylpurine	C1CCCC1n2cnc(c23)c(NCc4ccccc4)nc(n3)N[C@@H]5CC[C@@H](N)CC5
+185	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB04407	experimental	4-[4-(4-Methyl-2-Methylamino-Thiazol-5-Yl)-Pyrimidin-2-Ylamino]-Phenol	CNc1nc(C)c(s1)-c2ccnc(n2)Nc3ccc(O)cc3
+186	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB04518	experimental	3-[4-(2,4-Dimethyl-Thiazol-5-Yl)-Pyrimidin-2-Ylamino]-Phenol	Cc1nc(C)c(s1)-c2nc(ncc2)Nc3cccc(O)c3
+187	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB04607	experimental	PHENYLAMINOIMIDAZO(1,2-ALPHA)PYRIDINE	NS(=O)(=O)c1ccc(cc1)Nc(n2)cn(c23)cc(cc3)C(=O)c4c(Cl)cccc4Cl
+188	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB04662	experimental	OLOMOUCINE II	n1cn(C(C)C)c(c12)nc(N[C@H](CC)CO)nc2NCc3ccccc3O
+189	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB04669	experimental	TRIAZOLOPYRIMIDINE	Brc1cccc(c1)-c(nc([n+]23)nc[nH]3)cc2NCc4ccncc4
+190	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB06195	investigational	Seliciclib	CC(C)n1cnc(c12)c(nc(n2)N[C@H](CC)CO)NCc3ccccc3
+191	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB06616	approved	Bosutinib	COc1cc(c(Cl)cc1Cl)Nc2c(C#N)cnc(c23)cc(c(c3)OC)OCCCN4CCN(C)CC4
+192	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB06844	experimental	4-[(7-OXO-7H-THIAZOLO[5,4-E]INDOL-8-YLMETHYL)-AMINO]-N-PYRIDIN-2-YL-BENZENESULFONAMIDE	n1csc(c12)c=3c(cc2)=NC(=O)C3CNc4ccc(cc4)S(=O)(=O)Nc5ccccn5
+193	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB06888	experimental	(13R,15S)-13-METHYL-16-OXA-8,9,12,22,24-PENTAAZAHEXACYCLO[15.6.2.16,9.1,12,15.0,2,7.0,21,25]HEPTACOSA-1(24),2,4,6,17(25),18,20-HEPTAENE-23,26-DIONE	[C@@H]12CN([C@H](C)C1)CCn3[nH]c4c(cccc4c3=O)c5nc6c([nH]c5=O)cccc6O2
+194	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB06944	experimental	N-(3-cyclopropyl-1H-pyrazol-5-yl)-2-(2-naphthyl)acetamide	C1CC1c2n[nH]c(c2)NC(=O)Cc(cc3)cc(c34)cccc4
+195	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB06948	experimental	2-ANILINO-6-CYCLOHEXYLMETHOXYPURINE	C1CCCCC1COc(c(c23)[nH]cn3)nc(n2)Nc4ccccc4
+196	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB06976	experimental	1-(5-OXO-2,3,5,9B-TETRAHYDRO-1H-PYRROLO[2,1-A]ISOINDOL-9-YL)-3-(5-PYRROLIDIN-2-YL-1H-PYRAZOL-3-YL)-UREA	C1CCN[C@@H]1c2cc(n[nH]2)NC(=O)Nc3cccc(c34)C(=O)N5[C@H]4CCC5
+197	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB06983	experimental	(5-phenyl-7-(pyridin-3-ylmethylamino)pyrazolo[1,5-a]pyrimidin-3-yl)methanol	c1ccccc1-c(nc(n23)c(cn3)CO)cc2NCc4cnccc4
+198	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB07024	experimental	2-(3,4-DIHYDROXYPHENYL)-8-(1,1-DIOXIDOISOTHIAZOLIDIN-2-YL)-3-HYDROXY-6-METHYL-4H-CHROMEN-4-ONE	O=S1(=O)CCCN1c(cc(C)c2)c(c23)oc(c(c3=O)O)-c4ccc(O)c(O)c4
+199	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB07054	experimental	(2R)-1-(DIMETHYLAMINO)-3-{4-[(6-{[2-FLUORO-5-(TRIFLUOROMETHYL)PHENYL]AMINO}PYRIMIDIN-4-YL)AMINO]PHENOXY}PROPAN-2-OL	CN(C)C[C@@H](O)COc1ccc(cc1)Nc2ncnc(c2)Nc3c(F)ccc(c3)C(F)(F)F
+200	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB07065	experimental	5-(2,3-dichlorophenyl)-N-(pyridin-4-ylmethyl)-3-thiocyanatopyrazolo[1,5-a]pyrimidin-7-amine	N#CSc(cn1)c(n12)nc(-c3c(Cl)c(Cl)ccc3)cc2NCc4ccncc4
+201	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB07126	experimental	O6-CYCLOHEXYLMETHOXY-2-(4'-SULPHAMOYLANILINO) PURINE	NS(=O)(=O)c1ccc(cc1)Nc(n2)nc(c(c23)nc[nH]3)OCC4CCCCC4
+202	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB07137	experimental	(2S)-N-[(3E)-5-Cyclopropyl-3H-pyrazol-3-ylidene]-2-[4-(2-oxo-1-imidazolidinyl)phenyl]propanamide	C1CC1C2=CC(\N=N2)=N/C(=O)[C@@H](C)c3ccc(cc3)N4CCNC4=O
+203	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB07163	experimental	5-[(2-AMINOETHYL)AMINO]-6-FLUORO-3-(1H-PYRROL-2-YL)BENZO[CD]INDOL-2(1H)-ONE	NCCNc1cc(-c2[nH]ccc2)c3C(=O)Nc(c3c14)ccc4F
+204	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB07164	experimental	N-cyclopropyl-4-pyrazolo[1,5-b]pyridazin-3-ylpyrimidin-2-amine	C1CC1Nc2nc(ccn2)-c(cn3)c(n34)cccn4
+205	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB07179	experimental	3-((3-bromo-5-o-tolylpyrazolo[1,5-a]pyrimidin-7-ylamino)methyl)pyridine 1-oxide	Cc1ccccc1-c(nc(n23)c(Br)cn3)cc2NCc4c[n+]([O-])ccc4
+206	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB07203	experimental	6-CYCLOHEXYLMETHOXY-2-(3'-CHLOROANILINO) PURINE	Clc1cccc(c1)Nc(n2)nc(c(c23)[nH]cn3)OCC4CCCCC4
+207	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB07210	experimental	3-bromo-5-phenyl-N-(pyridin-4-ylmethyl)pyrazolo[1,5-a]pyrimidin-7-amine	c1ccccc1-c(nc(n23)c(Br)cn3)cc2NCc4ccncc4
+208	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB07220	experimental	N-[5-(1,1-DIOXIDOISOTHIAZOLIDIN-2-YL)-1H-INDAZOL-3-YL]-2-(4-PIPERIDIN-1-YLPHENYL)ACETAMIDE	O=S1(=O)CCCN1c(c2)ccc(c23)[nH]nc3NC(=O)Cc4ccc(cc4)N5CCCCC5
+209	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB07431	experimental	(3R)-3-(aminomethyl)-9-methoxy-1,2,3,4-tetrahydro-5H-[1]benzothieno[3,2-e][1,4]diazepin-5-one	O=C1N[C@H](CN)CNc(c12)c3c(s2)ccc(c3)OC
+210	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB07471	experimental	5-[5,6-BIS(METHYLOXY)-1H-BENZIMIDAZOL-1-YL]-3-{[1-(2-CHLOROPHENYL)ETHYL]OXY}-2-THIOPHENECARBOXAMIDE	Clc1ccccc1[C@@H](C)Oc2c(C(=O)N)sc(c2)-n3cnc(c34)cc(OC)c(c4)OC
+211	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB07493	experimental	5-Bromoindirubin	c1cc(Br)cc(c12)/C(C(=O)N2)=C(C3=O)/Nc(c34)cccc4
+212	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB07501	experimental	(2S)-1-{4-[(4-Anilino-5-bromo-2-pyrimidinyl)amino]phenoxy}-3-(dimethylamino)-2-propanol	CN(C)C[C@H](O)COc1ccc(cc1)Nc2ncc(Br)c(n2)Nc3ccccc3
+213	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB07504	experimental	(2R)-1-{4-[(4-Anilino-5-bromo-2-pyrimidinyl)amino]phenoxy}-3-(dimethylamino)-2-propanol	CN(C)C[C@@H](O)COc1ccc(cc1)Nc2ncc(Br)c(n2)Nc3ccccc3
+214	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB07529	experimental	(5E)-2-Amino-5-(2-pyridinylmethylene)-1,3-thiazol-4(5H)-one	N=C1NC(=O)/C(S1)=C\c2ccccn2
+215	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB07531	experimental	4-{5-[(Z)-(2,4-DIOXO-1,3-THIAZOLIDIN-5-YLIDENE)METHYL]FURAN-2-YL}BENZENESULFONAMIDE	NS(=O)(=O)c1ccc(cc1)-c2ccc(o2)/C=C3\SC(=O)NC3=O
+216	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB07533	experimental	4-{5-[(Z)-(2-IMINO-4-OXO-1,3-THIAZOLIDIN-5-YLIDENE)METHYL]-2-FURYL}-N-METHYLBENZENESULFONAMIDE	CNS(=O)(=O)c1ccc(cc1)-c2ccc(o2)/C=C3\SC(=N)NC3=O
+217	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB07534	experimental	4-{5-[(Z)-(2-IMINO-4-OXO-1,3-THIAZOLIDIN-5-YLIDENE)METHYL]FURAN-2-YL}BENZENESULFONAMIDE	NS(=O)(=O)c1ccc(cc1)-c2ccc(o2)/C=C3\SC(=N)NC3=O
+218	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB07538	experimental	4-{5-[(Z)-(2-IMINO-4-OXO-1,3-THIAZOLIDIN-5-YLIDENE)METHYL]FURAN-2-YL}-2-(TRIFLUOROMETHYL)BENZENESULFONAMIDE	NS(=O)(=O)c1ccc(cc1C(F)(F)F)-c2ccc(o2)/C=C3\SC(=N)NC3=O
+219	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB07539	experimental	4-{5-[(Z)-(2-IMINO-4-OXO-1,3-THIAZOLIDIN-5-YLIDENE)METHYL]FURAN-2-YL}BENZOIC ACID	OC(=O)c1ccc(cc1)-c2ccc(o2)/C=C3\SC(=N)NC3=O
+220	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB07540	experimental	4-{5-[(1Z)-1-(2-IMINO-4-OXO-1,3-THIAZOLIDIN-5-YLIDENE)ETHYL]-2-FURYL}BENZENESULFONAMIDE	O=C1NC(=N)SC\1=C(\C)c2ccc(o2)-c3ccc(cc3)S(=O)(=O)N
+221	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB07562	experimental	N-[4-(2,4-DIMETHYL-THIAZOL-5-YL)-PYRIMIDIN-2-YL]-N',N'-DIMETHYL-BENZENE-1,4-DIAMINE	CN(C)c1ccc(cc1)Nc2nc(ccn2)-c3c(C)nc(s3)C
+222	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB07595	experimental	(5Z)-5-(3-BROMOCYCLOHEXA-2,5-DIEN-1-YLIDENE)-N-(PYRIDIN-4-YLMETHYL)-1,5-DIHYDROPYRAZOLO[1,5-A]PYRIMIDIN-7-AMINE	Brc1cccc(c1)-c(nc([n+]23)cc[nH]3)cc2NCc4ccncc4
+223	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB07606	experimental	6-(3,4-DIHYDROXYBENZYL)-3-ETHYL-1-(2,4,6-TRICHLOROPHENYL)-1H-PYRAZOLO[3,4-D]PYRIMIDIN-4(5H)-ONE	Clc1cc(Cl)cc(Cl)c1-n(nc2CC)c(c23)nc([nH]c3=O)Cc4cc(O)c(O)cc4
+224	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB07612	experimental	6-(3-AMINOPHENYL)-N-(TERT-BUTYL)-2-(TRIFLUOROMETHYL)QUINAZOLIN-4-AMINE	CC(C)(C)Nc1nc(C(F)(F)F)nc(c12)ccc(c2)-c3cccc(N)c3
+225	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB07618	experimental	2-(4-(AMINOMETHYL)PIPERIDIN-1-YL)-N-(3_CYCLOHEXYL-4-OXO-2,4-DIHYDROINDENO[1,2-C]PYRAZOL-5-YL)ACETAMIDE	NCC1CCN(CC1)CC(=O)Nc2cccc(c23)c4c(C3=O)c([nH]n4)C5CCCCC5
+226	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB07622	experimental	1-(3-(2,4-DIMETHYLTHIAZOL-5-YL)-4-OXO-2,4-DIHYDROINDENO[1,2-C]PYRAZOL-5-YL)-3-(4-METHYLPIPERAZIN-1-YL)UREA	CN1CCN(CC1)NC(=O)Nc2cccc(c23)c4c(C3=O)c([nH]n4)-c5c(C)nc(s5)C
+227	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB07685	experimental	4-{[5-(CYCLOHEXYLMETHOXY)[1,2,4]TRIAZOLO[1,5-A]PYRIMIDIN-7-YL]AMINO}BENZENESULFONAMIDE	NS(=O)(=O)c1ccc(cc1)Nc2cc(nc(n23)ncn3)OCC4CCCCC4
+228	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB07686	experimental	4-{[5-(CYCLOHEXYLAMINO)[1,2,4]TRIAZOLO[1,5-A]PYRIMIDIN-7-YL]AMINO}BENZENESULFONAMIDE	NS(=O)(=O)c1ccc(cc1)Nc2cc(nc(n23)ncn3)NC4CCCCC4
+229	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB07687	experimental	4-({5-[(4-AMINOCYCLOHEXYL)AMINO][1,2,4]TRIAZOLO[1,5-A]PYRIMIDIN-7-YL}AMINO)BENZENESULFONAMIDE	N[C@H]1CC[C@@H](CC1)Nc(nc(n23)ncn3)cc2Nc4ccc(cc4)S(=O)(=O)N
+230	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB07688	experimental	4-{[5-(CYCLOHEXYLOXY)[1,2,4]TRIAZOLO[1,5-A]PYRIMIDIN-7-YL]AMINO}BENZENESULFONAMIDE	NS(=O)(=O)c1ccc(cc1)Nc2cc(nc(n23)ncn3)OC4CCCCC4
+231	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB07731	experimental	CAN-508	Nc1n[nH]c(N)c1/N=N/c2ccc(O)cc2
+232	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB07750	experimental	(2R)-1-[4-({4-[(2,5-Dichlorophenyl)amino]-2-pyrimidinyl}amino)phenoxy]-3-(dimethylamino)-2-propanol	CN(C)C[C@@H](O)COc1ccc(cc1)Nc2nccc(n2)Nc3c(Cl)ccc(Cl)c3
+233	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB07751	experimental	(2S)-1-[4-({6-[(2,6-Difluorophenyl)amino]-4-pyrimidinyl}amino)phenoxy]-3-(dimethylamino)-2-propanol	CN(C)C[C@H](O)COc1ccc(cc1)Nc2cc(ncn2)Nc3c(F)cccc3F
+234	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB07755	experimental	(2S)-1-[4-({4-[(2,5-Dichlorophenyl)amino]-2-pyrimidinyl}amino)phenoxy]-3-(dimethylamino)-2-propanol	CN(C)C[C@H](O)COc1ccc(cc1)Nc2nccc(n2)Nc3c(Cl)ccc(Cl)c3
+235	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB07761	experimental	(2R)-1-[4-({6-[(2,6-Difluorophenyl)amino]-4-pyrimidinyl}amino)phenoxy]-3-(dimethylamino)-2-propanol	CN(C)C[C@@H](O)COc1ccc(cc1)Nc2cc(ncn2)Nc3c(F)cccc3F
+236	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB07790	experimental	N-(2-METHOXYETHYL)-4-({4-[2-METHYL-1-(1-METHYLETHYL)-1H-IMIDAZOL-5-YL]PYRIMIDIN-2-YL}AMINO)BENZENESULFONAMIDE	COCCNS(=O)(=O)c1ccc(cc1)Nc2nc(ccn2)-c3cnc(C)n3C(C)C
+237	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB07791	experimental	4-{[4-(1-CYCLOPROPYL-2-METHYL-1H-IMIDAZOL-5-YL)PYRIMIDIN-2-YL]AMINO}-N-METHYLBENZENESULFONAMIDE	CNS(=O)(=O)c1ccc(cc1)Nc2nc(ccn2)-c3cnc(C)n3C4CC4
+238	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB07852	experimental	1-(3,5-DICHLOROPHENYL)-5-METHYL-1H-1,2,4-TRIAZOLE-3-CARBOXYLIC ACID	Cc1nc(C(=O)O)nn1-c2cc(Cl)cc(Cl)c2
+239	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB07889	experimental	(2S)-1-(Dimethylamino)-3-(4-{[4-(2-methylimidazo[1,2-a]pyridin-3-yl)-2-pyrimidinyl]amino}phenoxy)-2-propanol	CN(C)C[C@H](O)COc1ccc(cc1)Nc2nccc(n2)-c3c(C)nc(n34)cccc4
+240	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB07936	experimental	N-(4-{[(3S)-3-(dimethylamino)pyrrolidin-1-yl]carbonyl}phenyl)-5-fluoro-4-[2-methyl-1-(1-methylethyl)-1H-imidazol-5-yl]pyrimidin-2-amine	CN(C)[C@H]1CCN(C1)C(=O)c2ccc(cc2)Nc3nc(c(F)cn3)-c4cnc(C)n4C(C)C
+241	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB07982	experimental	2-{4-[4-({4-[2-methyl-1-(1-methylethyl)-1H-imidazol-5-yl]pyrimidin-2-yl}amino)phenyl]piperazin-1-yl}-2-oxoethanol	CC(C)n1c(C)ncc1-c2nc(ncc2)Nc3ccc(cc3)N4CCN(CC4)C(=O)CO
+242	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB08066	experimental	N-[3-(1H-BENZIMIDAZOL-2-YL)-1H-PYRAZOL-4-YL]BENZAMIDE	c1ccccc1C(=O)Nc2c[nH]nc2-c([nH]3)nc(c34)cccc4
+243	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB08094	investigational	RO-4584820	COc1ccc(F)c(F)c1C(=O)c2cnc(nc2N)NC3CCN(CC3)S(=O)(=O)C
+244	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB08122	experimental	N-Methyl-4-{[(2-oxo-1,2-dihydro-3H-indol-3-ylidene)methyl]amino}benzenesulfonamide	c1cccc(c12)NC(=O)C\2=C/Nc3ccc(cc3)S(=O)(=O)NC
+245	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB08123	experimental	N-methyl-{4-[2-(7-oxo-6,7-dihydro-8H-[1,3]thiazolo[5,4-e]indol-8-ylidene)hydrazino]phenyl}methanesulfonamide	CNS(=O)(=O)Cc1ccc(cc1)N/N=C2\C(=O)Nc(c23)ccc4c3scn4
+246	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB08124	experimental	3-{[(2,2-dioxido-1,3-dihydro-2-benzothien-5-yl)amino]methylene}-5-(1,3-oxazol-5-yl)-1,3-dihydro-2H-indol-2-one	c1ncoc1-c(c2)ccc(c23)NC(=O)C\3=C/Nc(cc4)cc(c45)CS(=O)(=O)C5
+247	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB08125	experimental	4-{[(2-Oxo-1,2-dihydro-3H-indol-3-ylidene)methyl]amino}-N-(1,3-thiazol-2-yl)benzenesulfonamide	c1cccc(c12)NC(=O)C\2=C/Nc3ccc(cc3)S(=O)(=O)Nc4nccs4
+248	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB08126	experimental	3-{[4-([amino(imino)methyl]aminosulfonyl)anilino]methylene}-2-oxo-2,3-dihydro-1H-indole	NC(=N)NS(=O)(=O)c1ccc(cc1)N/C=C2\C(=O)Nc(c23)cccc3
+249	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB08132	experimental	5-hydroxynaphthalene-1-sulfonamide	c1ccc(S(=O)(=O)N)c(c12)cccc2O
+250	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB08133	experimental	N-(4-sulfamoylphenyl)-1H-indazole-3-carboxamide	NS(=O)(=O)c1ccc(cc1)NC(=O)c2n[nH]c(c23)cccc3
+251	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB08134	experimental	4-[(6-chloropyrazin-2-yl)amino]benzenesulfonamide	NS(=O)(=O)c1ccc(cc1)Nc2nc(Cl)cnc2
+252	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB08135	experimental	N-phenyl-1H-pyrazole-3-carboxamide	n1[nH]ccc1C(=O)Nc2ccccc2
+253	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB08136	experimental	4-(acetylamino)-N-(4-fluorophenyl)-1H-pyrazole-3-carboxamide	CC(=O)Nc1c[nH]nc1C(=O)Nc2ccc(F)cc2
+254	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB08137	experimental	(4E)-N-(4-fluorophenyl)-4-[(phenylcarbonyl)imino]-4H-pyrazole-3-carboxamide	Fc1ccc(cc1)NC(=O)c2n[nH]cc2NC(=O)c3ccccc3
+255	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB08138	experimental	{[(2,6-difluorophenyl)carbonyl]amino}-N-(4-fluorophenyl)-1H-pyrazole-3-carboxamide	Fc1ccc(cc1)NC(=O)c2n[nH]cc2NC(=O)c3c(F)cccc3F
+256	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB08139	experimental	5-chloro-7-[(1-methylethyl)amino]pyrazolo[1,5-a]pyrimidine-3-carbonitrile	CC(C)Nc1cc(Cl)nc(n12)c(cn2)C#N
+257	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB08140	experimental	5-[(4-AMINOCYCLOHEXYL)AMINO]-7-(PROPAN-2-YLAMINO)PYRAZOLO[1,5-A]PYRIMIDINE-3-CARBONITRILE	N[C@H]1CC[C@@H](CC1)Nc(nc(n23)c(cn3)C#N)cc2NC(C)C
+258	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB08141	experimental	4-{[(2,6-difluorophenyl)carbonyl]amino}-N-[(3S)-piperidin-3-yl]-1H-pyrazole-3-carboxamide	C1CCNC[C@H]1NC(=O)c2n[nH]cc2NC(=O)c3c(F)cccc3F
+259	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB08142	investigational	AT-7519	Clc1cccc(Cl)c1C(=O)Nc2c[nH]nc2C(=O)NC3CCNCC3
+260	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB08178	experimental	4-(4-methoxy-1H-pyrrolo[2,3-b]pyridin-3-yl)pyrimidin-2-amine	n1ccc(OC)c(c12)c(c[nH]2)-c3nc(N)ncc3
+261	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB08182	experimental	4-(4-propoxy-1H-pyrrolo[2,3-b]pyridin-3-yl)pyrimidin-2-amine	CCCOc(ccn1)c(c12)c(c[nH]2)-c3nc(N)ncc3
+262	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB08218	experimental	HYDROXY(OXO)(3-{[(2Z)-4-[3-(1H-1,2,4-TRIAZOL-1-YLMETHYL)PHENYL]PYRIMIDIN-2(5H)-YLIDENE]AMINO}PHENYL)AMMONIUM	O=N(=O)c1cccc(c1)/N=C2/N=CCC(=N2)c3cccc(c3)Cn4cncn4
+263	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB08219	experimental	4-Methyl-5-[(2Z)-2-{[4-(4-morpholinyl)phenyl]imino}-2,5-dihydro-4-pyrimidinyl]-1,3-thiazol-2-amine	Nc1nc(C)c(s1)C2=N/C(N=CC2)=N\c3ccc(cc3)N4CCOCC4
+264	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB08233	experimental	6-CYCLOHEXYLMETHYLOXY-2-(4'-HYDROXYANILINO)PURINE	Oc1ccc(cc1)Nc(n2)nc(c(c23)nc[nH]3)OCC4CCCCC4
+265	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB08241	experimental	4-(6-CYCLOHEXYLMETHOXY-9H-PURIN-2-YLAMINO)--BENZAMIDE	NC(=O)c1ccc(cc1)Nc(n2)nc(c(c23)nc[nH]3)OCC4CCCCC4
+266	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB08247	experimental	6-(CYCLOHEXYLMETHOXY)-8-ISOPROPYL-9H-PURIN-2-AMINE	CC(C)c([nH]1)nc(c12)c(nc(n2)N)OCC3CCCCC3
+267	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB08248	experimental	3-(6-CYCLOHEXYLMETHOXY-9H-PURIN-2-YLAMINO)-BENZENESULFONAMIDE	NS(=O)(=O)c1cccc(c1)Nc(n2)nc(c(c23)nc[nH]3)OCC4CCCCC4
+268	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB08285	experimental	(2R)-2-{[4-(benzylamino)-8-(1-methylethyl)pyrazolo[1,5-a][1,3,5]triazin-2-yl]amino}butan-1-ol	n1cc(C(C)C)c(n12)nc(N[C@H](CC)CO)nc2NCc3ccccc3
+269	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB08309	experimental	3-({2-[(4-{[6-(CYCLOHEXYLMETHOXY)-9H-PURIN-2-YL]AMINO}PHENYL)SULFONYL]ETHYL}AMINO)PROPAN-1-OL	OCCCNCCS(=O)(=O)c1ccc(cc1)Nc(n2)nc(c(c23)nc[nH]3)OCC4CCCCC4
+270	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB08312	experimental	6-CYCLOHEXYLMETHYLOXY-5-NITROSO-PYRIMIDINE-2,4-DIAMINE	Nc1nc(N)c(N=O)c(n1)OCC2CCCCC2
+271	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB08355	experimental	1-methyl-8-(phenylamino)-4,5-dihydro-1H-pyrazolo[4,3-h]quinazoline-3-carboxylic acid	Cn1nc(C(=O)O)c(c12)CCc3c2nc(nc3)Nc4ccccc4
+272	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB08441	experimental	6-BROMO-13-THIA-2,4,8,12,19-PENTAAZATRICYCLO[12.3.1.1~3,7~]NONADECA-1(18),3(19),4,6,14,16-HEXAENE 13,13-DIOXIDE	Brc(c12)cnc(n1)Nc3cccc(c3)S(=O)(=O)NCCCN2
+273	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB08463	experimental	(2R)-2-({9-(1-methylethyl)-6-[(4-pyridin-2-ylbenzyl)amino]-9H-purin-2-yl}amino)butan-1-ol	n1cn(C(C)C)c(c12)nc(N[C@H](CC)CO)nc2NCc3ccc(cc3)-c4ccccn4
+274	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB08527	experimental	1-[4-(AMINOSULFONYL)PHENYL]-1,6-DIHYDROPYRAZOLO[3,4-E]INDAZOLE-3-CARBOXAMIDE	O=S(=O)(N)c1ccc(cc1)-n(nc2C(=O)N)c(c23)c4c(cc3)[nH]nc4
+275	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB08531	experimental	5-(2,3-dichlorophenyl)-N-(pyridin-4-ylmethyl)pyrazolo[1,5-a]pyrimidin-7-amine	Clc1cccc(c1Cl)-c(nc(n23)ccn3)cc2NCc4ccncc4
+276	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB08532	experimental	6-(2-fluorophenyl)-N-(pyridin-3-ylmethyl)imidazo[1,2-a]pyrazin-8-amine	Fc1ccccc1-c(cn(c23)ccn3)nc2NCc4cccnc4
+277	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB08533	experimental	3-methyl-N-(pyridin-4-ylmethyl)imidazo[1,2-a]pyrazin-8-amine	Cc1cnc(n12)c(ncc2)NCc3ccncc3
+278	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB08534	experimental	5-(2-fluorophenyl)-N-(pyridin-4-ylmethyl)pyrazolo[1,5-a]pyrimidin-7-amine	Fc1ccccc1-c(nc(n23)ccn3)cc2NCc4ccncc4
+279	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB08535	experimental	3-bromo-5-phenyl-N-(pyridin-3-ylmethyl)pyrazolo[1,5-a]pyrimidin-7-amine	c1ccccc1-c(nc(n23)c(Br)cn3)cc2NCc4cccnc4
+280	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB08536	experimental	3-bromo-5-phenyl-N-(pyrimidin-5-ylmethyl)pyrazolo[1,5-a]pyridin-7-amine	c1ccccc1-c(cc(n23)c(Br)cn3)cc2NCc4cncnc4
+281	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB08537	experimental	3-bromo-6-phenyl-N-(pyrimidin-5-ylmethyl)imidazo[1,2-a]pyridin-8-amine	c1ccccc1-c(c2)cc(c(n23)ncc3Br)NCc4cncnc4
+282	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB08538	experimental	N-((2-aminopyrimidin-5-yl)methyl)-5-(2,6-difluorophenyl)-3-ethylpyrazolo[1,5-a]pyrimidin-7-amine	Nc1ncc(cn1)CNc2cc(nc(n23)c(cn3)CC)-c4c(F)cccc4F
+283	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB08539	experimental	3-cyclopropyl-5-phenyl-N-(pyridin-3-ylmethyl)pyrazolo[1,5-a]pyrimidin-7-amine	c1ncccc1CNc2cc(nc(n23)c(cn3)C4CC4)-c5ccccc5
+284	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB08572	experimental	4-{[4-AMINO-6-(CYCLOHEXYLMETHOXY)-5-NITROSOPYRIMIDIN-2-YL]AMINO}BENZAMIDE	NC(=O)c1ccc(cc1)Nc2nc(c(N=O)c(n2)N)OCC3CCCCC3
+285	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB08673	experimental	4-[(5-ISOPROPYL-1,3-THIAZOL-2-YL)AMINO]BENZENESULFONAMIDE	CC(C)c1cnc(s1)Nc2ccc(cc2)S(=O)(=O)N
+286	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB08677	experimental	N-(5-Isopropyl-thiazol-2-YL)-2-pyridin-3-YL-acetamide	CC(C)c1sc(nc1)NC(=O)Cc2cnccc2
+287	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB08694	experimental	Variolin B	Nc1nccc(n1)-c2c(ccnc3N)n3c(c24)nccc4O
+288	sp|O14965|AURKA_HU	P24941	71.46	2.0	290.0	DB08768	experimental	N(6)-dimethylallyladenine	CC(C)=CCNc1ncnc(c12)[nH]cn2
+289									
+290	sp|O14965|AURKA_HU	Q05397	74.69	390.0	691.0	DB07248	experimental	7-PYRIDIN-2-YL-N-(3,4,5-TRIMETHOXYPHENYL)-7H-PYRROLO[2,3-D]PYRIMIDIN-2-AMINE	COc1c(OC)cc(cc1OC)Nc(n2)ncc(c23)ccn3-c4ccccn4
+291	sp|O14965|AURKA_HU	Q05397	74.69	390.0	691.0	DB07460	experimental	2-({5-CHLORO-2-[(2-METHOXY-4-MORPHOLIN-4-YLPHENYL)AMINO]PYRIMIDIN-4-YL}AMINO)-N-METHYLBENZAMIDE	CNC(=O)c1c(cccc1)Nc2nc(ncc2Cl)Nc3ccc(cc3OC)N4CCOCC4
+292	sp|O14965|AURKA_HU	Q05397	74.69	390.0	691.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+293	sp|O14965|AURKA_HU	O95747	71.96	9.0	299.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+294	sp|O14965|AURKA_HU	Q05513	83.62	182.0	519.0	DB00675	approved	Tamoxifen	c1ccccc1/C(CC)=C(/c2ccccc2)c3ccc(cc3)OCCN(C)C
+295	sp|O14965|AURKA_HU	Q99759	70.47	339.0	623.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+296	sp|O14965|AURKA_HU	Q13464	70.72	59.0	344.0	DB04707	experimental	Hydroxyfasudil	O=c1[nH]ccc(c12)c(ccc2)S(=O)(=O)N3CCCNCC3
+297	sp|O14965|AURKA_HU	Q13464	70.72	59.0	344.0	DB07876	experimental	(S)-2-METHYL-1-[(4-METHYL-5-ISOQUINOLINE)SULFONYL]-HOMOPIPERAZINE	C[C@H]1CNCCCN1S(=O)(=O)c(ccc2)c(c23)c(C)cnc3
+298	sp|O14965|AURKA_HU	Q13464	70.72	59.0	344.0	DB08162	investigational	Fasudil	c1cncc(c12)cccc2S(=O)(=O)N3CCCNCC3
+299	sp|O14965|AURKA_HU	Q13464	70.72	59.0	344.0	DB08756	experimental	Y-27632	C[C@@H](N)[C@H]1CC[C@@H](CC1)C(=O)Nc2ccncc2
+300	sp|O14965|AURKA_HU	Q13464	70.72	59.0	344.0	DB13165	experimental	Ripasudil	C[C@H]1CNCCCN1S(=O)(=O)c(ccc2)c(c23)c(F)cnc3
+301	sp|O14965|AURKA_HU	Q13464	70.72	59.0	344.0	DB13931	approved	Netarsudil	Cc1cc(C)c(cc1)C(=O)OCc2ccc(cc2)[C@@H](CN)C(=O)Nc(c3)ccc(c34)cncc4
+302	sp|O14965|AURKA_HU	Q9BXA7	70.47	7.0	291.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+304	sp|O14965|AURKA_HU	P11362	74.94	450.0	752.0	DB00398	approved; investigational	Sorafenib	CNC(=O)c1nccc(c1)Oc2ccc(cc2)NC(=O)Nc3cc(C(F)(F)F)c(Cl)cc3
+305	sp|O14965|AURKA_HU	P11362	74.94	450.0	752.0	DB01109	approved; investigational	Heparin	 
+306	sp|O14965|AURKA_HU	P11362	74.94	450.0	752.0	DB02058	experimental	3-[4-(1-formylpiperazin-4-yl)-benzylidenyl]-2-indolinone	c1cccc(c12)C(C(=O)N2)Cc3ccc(cc3)N4CCN(C=O)CC4
+307	sp|O14965|AURKA_HU	P11362	74.94	450.0	752.0	DB05014	investigational	XL999	 
+308	sp|O14965|AURKA_HU	P11362	74.94	450.0	752.0	DB07525	experimental	3-(3-methoxybenzyl)-1H-pyrrolo[2,3-b]pyridine	COc1cccc(c1)Cc2c[nH]c(c23)nccc3
+309	sp|O14965|AURKA_HU	P11362	74.94	450.0	752.0	DB07840	experimental	(E)-[4-(3,5-Difluorophenyl)-3H-pyrrolo[2,3-b]pyridin-3-ylidene](3-methoxyphenyl)methanol	COc1cccc(c1)C(=O)c2c[nH]c(c23)nccc3-c4cc(F)cc(F)c4
+310	sp|O14965|AURKA_HU	P11362	74.94	450.0	752.0	DB08577	experimental	3-[(3-(2-CARBOXYETHYL)-4-METHYLPYRROL-2-YL)METHYLENE]-2-INDOLINONE	OC(=O)CCc1c([nH]cc1C)/C=C2\C(=O)Nc(c23)cccc3
+311	sp|O14965|AURKA_HU	P11362	74.94	450.0	752.0	DB08896	approved	Regorafenib	CNC(=O)c1cc(ccn1)Oc2cc(F)c(cc2)NC(=O)Nc3ccc(Cl)c(c3)C(F)(F)F
+312	sp|O14965|AURKA_HU	P11362	74.94	450.0	752.0	DB08901	approved; investigational	Ponatinib	CN1CCN(CC1)Cc2ccc(cc2C(F)(F)F)NC(=O)c3cc(c(C)cc3)C#Cc4cnc(n45)cccn5
+313	sp|O14965|AURKA_HU	P11362	74.94	450.0	752.0	DB09078	approved; investigational	Lenvatinib	COc(c1)c(C(=O)N)cc(c12)c(ccn2)Oc3ccc(c(Cl)c3)NC(=O)NC4CC4
+314	sp|O14965|AURKA_HU	P11362	74.94	450.0	752.0	DB09079	approved	Nintedanib	COC(=O)c(c1)ccc(c12)/C(C(=O)N2)=C(\c3ccccc3)Nc4ccc(cc4)N(C)C(=O)CN5CCN(C)CC5
+315	sp|O14965|AURKA_HU	P11362	74.94	450.0	752.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+316	sp|O14965|AURKA_HU	P11362	74.94	450.0	752.0	DB12147	approved; investigational	Erdafitinib	COc1cc(cc(c1)OC)N(CCNC(C)C)c(c2)ccc(c23)ncc(n3)-c4cn(C)nc4
+317	sp|O14965|AURKA_HU	P11362	74.94	450.0	752.0	DB15102	approved; investigational	Pemigatinib	COc1c(F)c(c(F)c(c1)OC)N(C(=O)N2CC)Cc(c23)cnc4c3cc([nH]4)CN5CCOCC5
+318	sp|O14965|AURKA_HU	P11362	74.94	450.0	752.0	DB15685	approved; investigational	Selpercatinib	COc1ncc(cc1)CN(C23)C(C2)CN(C3)c4ccc(cn4)-c5cc(OCC(C)(C)O)cn(c56)ncc6C#N
+320	sp|O14965|AURKA_HU	P21802	80.89	429.0	755.0	DB01041	approved; investigational; withdrawn	Thalidomide	c1cccc(c12)C(=O)N(C2=O)C3CCC(=O)NC3=O
+321	sp|O14965|AURKA_HU	P21802	80.89	429.0	755.0	DB01109	approved; investigational	Heparin	 
+322	sp|O14965|AURKA_HU	P21802	80.89	429.0	755.0	DB01901	experimental	Sucrosofate	O=S(=O)(O)OC[C@@H](O1)[C@@H](OS(=O)(=O)O)[C@H](OS(=O)(=O)O)[C@]1(COS(=O)(=O)O)O[C@H]2O[C@H](COS(=O)(=O)O)[C@@H](OS(=O)(=O)O)[C@H](OS(=O)(=O)O)[C@H]2OS(=O)(=O)O
+323	sp|O14965|AURKA_HU	P21802	80.89	429.0	755.0	DB02058	experimental	3-[4-(1-formylpiperazin-4-yl)-benzylidenyl]-2-indolinone	c1cccc(c12)C(C(=O)N2)Cc3ccc(cc3)N4CCN(C=O)CC4
+324	sp|O14965|AURKA_HU	P21802	80.89	429.0	755.0	DB02491	experimental	4-[4-(1-Amino-1-Methylethyl)Phenyl]-5-Chloro-N-[4-(2-Morpholin-4-Ylethyl)Phenyl]Pyrimidin-2-Amine	CC(C)(N)c1ccc(cc1)-c2nc(ncc2Cl)Nc3ccc(cc3)CCN4CCOCC4
+325	sp|O14965|AURKA_HU	P21802	80.89	429.0	755.0	DB08896	approved	Regorafenib	CNC(=O)c1cc(ccn1)Oc2cc(F)c(cc2)NC(=O)Nc3ccc(Cl)c(c3)C(F)(F)F
+326	sp|O14965|AURKA_HU	P21802	80.89	429.0	755.0	DB08901	approved; investigational	Ponatinib	CN1CCN(CC1)Cc2ccc(cc2C(F)(F)F)NC(=O)c3cc(c(C)cc3)C#Cc4cnc(n45)cccn5
+327	sp|O14965|AURKA_HU	P21802	80.89	429.0	755.0	DB09078	approved; investigational	Lenvatinib	COc(c1)c(C(=O)N)cc(c12)c(ccn2)Oc3ccc(c(Cl)c3)NC(=O)NC4CC4
+328	sp|O14965|AURKA_HU	P21802	80.89	429.0	755.0	DB09079	approved	Nintedanib	COC(=O)c(c1)ccc(c12)/C(C(=O)N2)=C(\c3ccccc3)Nc4ccc(cc4)N(C)C(=O)CN5CCN(C)CC5
+331	sp|O14965|AURKA_HU	P21802	80.89	429.0	755.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+332	sp|O14965|AURKA_HU	P21802	80.89	429.0	755.0	DB12147	approved; investigational	Erdafitinib	COc1cc(cc(c1)OC)N(CCNC(C)C)c(c2)ccc(c23)ncc(n3)-c4cn(C)nc4
+333	sp|O14965|AURKA_HU	P21802	80.89	429.0	755.0	DB15102	approved; investigational	Pemigatinib	COc1c(F)c(c(F)c(c1)OC)N(C(=O)N2CC)Cc(c23)cnc4c3cc([nH]4)CN5CCOCC5
+334	sp|O14965|AURKA_HU	P21802	80.89	429.0	755.0	DB15685	approved; investigational	Selpercatinib	COc1ncc(cc1)CN(C23)C(C2)CN(C3)c4ccc(cn4)-c5cc(OCC(C)(C)O)cn(c56)ncc6C#N
+335	sp|O14965|AURKA_HU	O75116	70.22	83.0	366.0	DB08162	investigational	Fasudil	c1cncc(c12)cccc2S(=O)(=O)N3CCCNCC3
+336	sp|O14965|AURKA_HU	O75116	70.22	83.0	366.0	DB08756	experimental	Y-27632	C[C@@H](N)[C@H]1CC[C@@H](CC1)C(=O)Nc2ccncc2
+337	sp|O14965|AURKA_HU	O75116	70.22	83.0	366.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+338	sp|O14965|AURKA_HU	O75116	70.22	83.0	366.0	DB13165	experimental	Ripasudil	C[C@H]1CNCCCN1S(=O)(=O)c(ccc2)c(c23)c(F)cnc3
+339	sp|O14965|AURKA_HU	O75116	70.22	83.0	366.0	DB13931	approved	Netarsudil	Cc1cc(C)c(cc1)C(=O)OCc2ccc(cc2)[C@@H](CN)C(=O)Nc(c3)ccc(c34)cncc4
+340	sp|O14965|AURKA_HU	Q96RR4	78.16	140.0	455.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+341	sp|O14965|AURKA_HU	Q00532	73.7	3.0	300.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+342	sp|O14965|AURKA_HU	Q92772	72.46	2.0	294.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+343	sp|O14965|AURKA_HU	Q56UN5	72.46	1034.0	1326.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+344	sp|O14965|AURKA_HU	Q13233	88.09	1154.0	1509.0	DB06061	investigational	AZD-8330	OCCONC(=O)c1cc(C)c(=O)n(C)c1Nc2ccc(I)cc2F
+345	sp|O14965|AURKA_HU	Q13233	88.09	1154.0	1509.0	DB11967	approved; investigational	Binimetinib	OCCONC(=O)c(c1)c(c(F)c(c12)ncn2C)Nc3ccc(Br)cc3F
+346	sp|O14965|AURKA_HU	Q13233	88.09	1154.0	1509.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+347	sp|O14965|AURKA_HU	Q07785	70.72	2.0	287.0	DB02519	experimental	Indirubin-5-sulphonate	OS(=O)(=O)c(cc1)cc(c12)/C(C(=O)N2)=C(C3=O)/Nc(c34)cccc4
+348	sp|O14965|AURKA_HU	Q07785	70.72	2.0	287.0	DB02733	experimental	Purvalanol	n1cn(C(C)C)c(c12)nc(N[C@@H](CO)C(C)C)nc2Nc3ccc(C(=O)O)c(Cl)c3
+349	sp|O14965|AURKA_HU	Q9Y2H9	75.68	345.0	650.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+350	sp|O14965|AURKA_HU	Q9UPZ9	74.19	2.0	301.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+351	sp|O14965|AURKA_HU	P06493	72.46	2.0	294.0	DB02052	experimental	Indirubin-3'-monoxime	c1cccc(c12)NC(\C\2=N\O)=C3/C(=O)Nc(c34)cccc4
+352	sp|O14965|AURKA_HU	P06493	72.46	2.0	294.0	DB02116	experimental	Olomoucine	OCCNc(n1)nc(c(c12)ncn2C)NCc3ccccc3
+353	sp|O14965|AURKA_HU	P06493	72.46	2.0	294.0	DB02950	experimental	Hymenialdisine	O=C1NCC[C@@H]([C@@H](C12)C=C(Br)N=2)C3=NC(N)=NC3=O
+354	sp|O14965|AURKA_HU	P06493	72.46	2.0	294.0	DB03428	experimental	SU9516	COc(c1)ccc(c12)NC(=O)C\2=C/c3cnc[nH]3
+355	sp|O14965|AURKA_HU	P06493	72.46	2.0	294.0	DB03496	experimental; investigational	Alvocidib	CN1CC[C@@H]([C@H](O)C1)c2c(O)cc(O)c(c23)c(=O)cc(o3)-c4ccccc4Cl
+356	sp|O14965|AURKA_HU	P06493	72.46	2.0	294.0	DB04014	experimental	Alsterpaullone	[O-][N+](=O)c(cc1)cc(c12)c3c([nH]2)c4c(NC(=O)C3)cccc4
+357	sp|O14965|AURKA_HU	P06493	72.46	2.0	294.0	DB06195	investigational	Seliciclib	CC(C)n1cnc(c12)c(nc(n2)N[C@H](CC)CO)NCc3ccccc3
+358	sp|O14965|AURKA_HU	P06493	72.46	2.0	294.0	DB08142	investigational	AT-7519	Clc1cccc(Cl)c1C(=O)Nc2c[nH]nc2C(=O)NC3CCNCC3
+359	sp|O14965|AURKA_HU	P06493	72.46	2.0	294.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+360	sp|O14965|AURKA_HU	P53779	76.43	52.0	360.0	DB01017	approved; investigational	Minocycline	O=C1C(C(=O)N)=C(O)[C@@H](N(C)C)[C@@H]([C@@]12O)C[C@H]3C(=C2O)C(=O)c4c(C3)c(N(C)C)ccc4O
+361	sp|O14965|AURKA_HU	P53779	76.43	52.0	360.0	DB15624	experimental	Halicin	Nc1nnc(s1)Sc2ncc(s2)[N+]([O-])=O
+362	sp|O14965|AURKA_HU	P53779	76.43	52.0	360.0	DB01782	experimental	Pyrazolanthrone	c1cccc(c12)c3c4c([nH]n3)cccc4C2=O
+363	sp|O14965|AURKA_HU	P53779	76.43	52.0	360.0	DB02388	experimental	Cyclohexyl-{4-[5-(3,4-Dichlorophenyl)-2-Piperidin-4-Yl-3-Propyl-3h-Imidazol-4-Yl]-Pyrimidin-2-Yl}Amine	C1CNCCC1c2n(CCC)c(c(n2)-c3ccc(Cl)c(Cl)c3)-c4ccnc(n4)NC5CCCCC5
+364	sp|O14965|AURKA_HU	P53779	76.43	52.0	360.0	DB03084	experimental	Cyclopropyl-{4-[5-(3,4-Dichlorophenyl)-2-[(1-Methyl)-Piperidin]-4-Yl-3-Propyl-3h-Imidazol-4-Yl]-Pyrimidin-2-Yl}Amine	CN1CCC(CC1)c2n(CCC)c(c(n2)-c3ccc(Cl)c(Cl)c3)-c4ccnc(n4)NC5CC5
+365	sp|O14965|AURKA_HU	P53779	76.43	52.0	360.0	DB03623	experimental	9-(4-Hydroxyphenyl)-2,7-Phenanthroline	Oc1ccc(cc1)-c(cn2)cc(c23)c4c(cc3)ccnc4
+366	sp|O14965|AURKA_HU	P53779	76.43	52.0	360.0	DB04395	experimental	Phosphoaminophosphonic Acid-Adenylate Ester	Nc1ncnc(c12)n(cn2)[C@@H]3O[C@H]([C@H](O)[C@H]3O)CO[P@@](=O)(O)O[P@](=O)(O)NP(=O)(O)O
+367	sp|O14965|AURKA_HU	P53779	76.43	52.0	360.0	DB06933	experimental	N-(tert-butyl)-4-[5-(pyridin-2-ylamino)quinolin-3-yl]benzenesulfonamide	CC(C)(C)NS(=O)(=O)c1ccc(cc1)-c(c2)cnc(c23)cccc3Nc4ccccn4
+368	sp|O14965|AURKA_HU	P53779	76.43	52.0	360.0	DB07010	experimental	N-BENZYL-4-[4-(3-CHLOROPHENYL)-1H-PYRAZOL-3-YL]-1H-PYRROLE-2-CARBOXAMIDE	Clc1cc(ccc1)-c2c[nH]nc2-c3c[nH]c(c3)C(=O)NCc4ccccc4
+369	sp|O14965|AURKA_HU	P53779	76.43	52.0	360.0	DB07217	experimental	N-(3-cyano-4,5,6,7-tetrahydro-1-benzothien-2-yl)-2-fluorobenzamide	Fc1ccccc1C(=O)Nc(s2)c(C#N)c(c23)CCCC3
+370	sp|O14965|AURKA_HU	P53779	76.43	52.0	360.0	DB08005	experimental	4-{[5-chloro-4-(1H-indol-3-yl)pyrimidin-2-yl]amino}-N-ethylpiperidine-1-carboxamide	CCNC(=O)N1CCC(CC1)Nc2nc(c(Cl)cn2)-c3c[nH]c(c34)cccc4
+371	sp|O14965|AURKA_HU	P53779	76.43	52.0	360.0	DB08010	experimental	(3Z)-1-[(6-fluoro-4H-1,3-benzodioxin-8-yl)methyl]-4-[(E)-2-phenylethenyl]-1H-indole-2,3-dione 3-oxime	c1ccccc1/C=C/c2cccc(c23)N(C(=O)C\3=N/O)Cc(cc(F)c4)c(c45)OCOC5
+372	sp|O14965|AURKA_HU	P53779	76.43	52.0	360.0	DB08011	experimental	(3E)-5-fluoro-1-[(6-fluoro-4H-1,3-benzodioxin-8-yl)methyl]-1H-indole-2,3-dione 3-oxime	Fc(c1)ccc(c12)N(C(=O)C\2=N\O)Cc3cc(F)cc(c34)COCO4
+373	sp|O14965|AURKA_HU	P53779	76.43	52.0	360.0	DB08015	experimental	(3Z)-1-[(6-fluoro-4H-1,3-benzodioxin-8-yl)methyl]-4-phenyl-1H-indole-2,3-dione 3-oxime	c1ccccc1-c2cccc(c23)N(C(=O)C\3=N/O)Cc4cc(F)cc(c45)COCO5
+374	sp|O14965|AURKA_HU	P53779	76.43	52.0	360.0	DB08021	experimental	5-bromo-N-(3-chloro-2-(4-(prop-2-ynyl)piperazin-1-yl)phenyl)furan-2-carboxamide	C#CCN1CCN(CC1)c2c(Cl)cccc2NC(=O)c3ccc(Br)o3
+375	sp|O14965|AURKA_HU	P53779	76.43	52.0	360.0	DB08023	experimental	N-cyclohexyl-4-imidazo[1,2-a]pyridin-3-yl-N-methylpyrimidin-2-amine	C1CCCCC1N(C)c2nc(ccn2)-c3cnc(n34)cccc4
+376	sp|O14965|AURKA_HU	P53779	76.43	52.0	360.0	DB08025	experimental	N-{2'-[(4-FLUOROPHENYL)AMINO]-4,4'-BIPYRIDIN-2-YL}-4-METHOXYCYCLOHEXANECARBOXAMIDE	CO[C@H]1CC[C@@H](CC1)C(=O)Nc2cc(ccn2)-c3cc(ncc3)Nc4ccc(F)cc4
+377	sp|O14965|AURKA_HU	P53779	76.43	52.0	360.0	DB08026	experimental	2-{4-[(4-imidazo[1,2-a]pyridin-3-ylpyrimidin-2-yl)amino]piperidin-1-yl}-N-methylacetamide	CNC(=O)CN1CCC(CC1)Nc2nc(ccn2)-c3cnc(n34)cccc4
+378	sp|O14965|AURKA_HU	P53779	76.43	52.0	360.0	DB08555	experimental	1-(3-bromophenyl)-7-chloro-6-methoxy-3,4-dihydroisoquinoline	COc(c(Cl)c1)cc(c12)CCN=C2c3cccc(Br)c3
+379	sp|O14965|AURKA_HU	P53779	76.43	52.0	360.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+380	sp|O14965|AURKA_HU	Q9UEW8	71.46	56.0	344.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+381	sp|O14965|AURKA_HU	P45983	75.19	20.0	323.0	DB00675	approved	Tamoxifen	c1ccccc1/C(CC)=C(/c2ccccc2)c3ccc(cc3)OCCN(C)C
+382	sp|O14965|AURKA_HU	P45983	75.19	20.0	323.0	DB01782	experimental	Pyrazolanthrone	c1cccc(c12)c3c4c([nH]n3)cccc4C2=O
+383	sp|O14965|AURKA_HU	P45983	75.19	20.0	323.0	DB07218	experimental	6-CHLORO-9-HYDROXY-1,3-DIMETHYL-1,9-DIHYDRO-4H-PYRAZOLO[3,4-B]QUINOLIN-4-ONE	Cn1nc(C)c(c12)c(=O)c3c(n2O)ccc(Cl)c3
+384	sp|O14965|AURKA_HU	P45983	75.19	20.0	323.0	DB07268	experimental	2-({2-[(3-HYDROXYPHENYL)AMINO]PYRIMIDIN-4-YL}AMINO)BENZAMIDE	NC(=O)c1ccccc1Nc2nc(ncc2)Nc3cc(O)ccc3
+385	sp|O14965|AURKA_HU	P45983	75.19	20.0	323.0	DB07272	experimental	N-(4-AMINO-5-CYANO-6-ETHOXYPYRIDIN-2-YL)-2-(4-BROMO-2,5-DIMETHOXYPHENYL)ACETAMIDE	CCOc1nc(cc(N)c1C#N)NC(=O)Cc2cc(OC)c(Br)cc2OC
+386	sp|O14965|AURKA_HU	P45983	75.19	20.0	323.0	DB07276	experimental	5-CYANO-N-(2,5-DIMETHOXYBENZYL)-6-ETHOXYPYRIDINE-2-CARBOXAMIDE	CCOc1nc(ccc1C#N)C(=O)NCc2cc(OC)ccc2OC
+387	sp|O14965|AURKA_HU	P45983	75.19	20.0	323.0	DB07845	experimental	2-fluoro-6-{[2-({2-methoxy-4-[(methylsulfonyl)methyl]phenyl}amino)-7H-pyrrolo[2,3-d]pyrimidin-4-yl]amino}benzamide	CS(=O)(=O)Cc1cc(OC)c(cc1)Nc(nc(c23)[nH]cc3)nc2Nc4cccc(F)c4C(=O)N
+388	sp|O14965|AURKA_HU	P45983	75.19	20.0	323.0	DB01017	approved; investigational	Minocycline	O=C1C(C(=O)N)=C(O)[C@@H](N(C)C)[C@@H]([C@@]12O)C[C@H]3C(=C2O)C(=O)c4c(C3)c(N(C)C)ccc4O
+389	sp|O14965|AURKA_HU	P45983	75.19	20.0	323.0	DB15624	experimental	Halicin	Nc1nnc(s1)Sc2ncc(s2)[N+]([O-])=O
+390	sp|O14965|AURKA_HU	P53778	76.18	15.0	322.0	DB01017	approved; investigational	Minocycline	O=C1C(C(=O)N)=C(O)[C@@H](N(C)C)[C@@H]([C@@]12O)C[C@H]3C(=C2O)C(=O)c4c(C3)c(N(C)C)ccc4O
+391	sp|O14965|AURKA_HU	P53778	76.18	15.0	322.0	DB02482	experimental	Phosphonothreonine	OC(=O)[C@H](N)[C@H](C)OP(=O)(O)O
+392	sp|O14965|AURKA_HU	P53778	76.18	15.0	322.0	DB04395	experimental	Phosphoaminophosphonic Acid-Adenylate Ester	Nc1ncnc(c12)n(cn2)[C@@H]3O[C@H]([C@H](O)[C@H]3O)CO[P@@](=O)(O)O[P@](=O)(O)NP(=O)(O)O
+393	sp|O14965|AURKA_HU	P53778	76.18	15.0	322.0	DB05157	investigational	KC706	 
+394	sp|O14965|AURKA_HU	P53778	76.18	15.0	322.0	DB05403	investigational	CEP-1347	COOC(=O)[C@H]1C[C@H](O2)n(c3c4n5[C@]12C)c6c(cc(cc6)CSCC)c3c7c(CNC7=O)c4c8c5ccc(c8)CSCC
+395	sp|O14965|AURKA_HU	Q9UF33	75.93	621.0	927.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+396	sp|O14965|AURKA_HU	Q8N5S9	77.42	108.0	420.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+397	sp|O14965|AURKA_HU	P45984	75.43	19.0	323.0	DB07020	experimental	N-{3-[5-(1H-1,2,4-triazol-3-yl)-1H-indazol-3-yl]phenyl}furan-2-carboxamide	c1ccoc1C(=O)Nc2cc(ccc2)-c3n[nH]c(c34)ccc(c4)-c5n[nH]cn5
+398	sp|O14965|AURKA_HU	P45984	75.43	19.0	323.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+399	sp|O14965|AURKA_HU	P45984	75.43	19.0	323.0	DB01017	approved; investigational	Minocycline	O=C1C(C(=O)N)=C(O)[C@@H](N(C)C)[C@@H]([C@@]12O)C[C@H]3C(=C2O)C(=O)c4c(C3)c(N(C)C)ccc4O
+400	sp|O14965|AURKA_HU	P45984	75.43	19.0	323.0	DB15624	experimental	Halicin	Nc1nnc(s1)Sc2ncc(s2)[N+]([O-])=O
+401	sp|O14965|AURKA_HU	P49137	74.69	33.0	334.0	DB02010	experimental	Staurosporine	CO[C@@H]1[C@H](NC)C[C@@H](O2)n(c3c4n5[C@]12C)c6c(cccc6)c3c7c(CNC7=O)c4c8c5cccc8
+402	sp|O14965|AURKA_HU	P49137	74.69	33.0	334.0	DB07234	experimental	3-{[(1R)-1-phenylethyl]amino}-4-(pyridin-4-ylamino)cyclobut-3-ene-1,2-dione	c1ccccc1[C@@H](C)Nc2c(c(=O)c2=O)Nc3ccncc3
+403	sp|O14965|AURKA_HU	P49137	74.69	33.0	334.0	DB07406	experimental	(4R)-N-[4-({[2-(DIMETHYLAMINO)ETHYL]AMINO}CARBONYL)-1,3-THIAZOL-2-YL]-4-METHYL-1-OXO-2,3,4,9-TETRAHYDRO-1H-BETA-CARBOLINE-6-CARBOXAMIDE	C[C@H]1CNC(=O)c(c12)[nH]c3c2cc(cc3)C(=O)Nc4nc(cs4)C(=O)NCCN(C)C
+404	sp|O14965|AURKA_HU	P49137	74.69	33.0	334.0	DB07430	experimental	(10R)-10-methyl-3-(6-methylpyridin-3-yl)-9,10,11,12-tetrahydro-8H-[1,4]diazepino[5',6':4,5]thieno[3,2-f]quinolin-8-one	O=C1N[C@H](C)CNc(c12)c3c(s2)ccc4c3ccc(n4)-c5cnc(C)cc5
+405	sp|O14965|AURKA_HU	P49137	74.69	33.0	334.0	DB07431	experimental	(3R)-3-(aminomethyl)-9-methoxy-1,2,3,4-tetrahydro-5H-[1]benzothieno[3,2-e][1,4]diazepin-5-one	O=C1N[C@H](CN)CNc(c12)c3c(s2)ccc(c3)OC
+406	sp|O14965|AURKA_HU	P49137	74.69	33.0	334.0	DB07728	experimental	2-[2-(2-FLUOROPHENYL)PYRIDIN-4-YL]-1,5,6,7-TETRAHYDRO-4H-PYRROLO[3,2-C]PYRIDIN-4-ONE	Fc1ccccc1-c2cc(ccn2)-c([nH]3)cc(c34)C(=O)NCC4
+407	sp|O14965|AURKA_HU	P49137	74.69	33.0	334.0	DB08358	experimental	2-(2-QUINOLIN-3-YLPYRIDIN-4-YL)-1,5,6,7-TETRAHYDRO-4H-PYRROLO[3,2-C]PYRIDIN-4-ONE	O=C1NCCc(c12)[nH]c(c2)-c3cc(ncc3)-c(cn4)cc(c45)cccc5
+408	sp|O14965|AURKA_HU	Q00535	70.72	2.0	287.0	DB02052	experimental	Indirubin-3'-monoxime	c1cccc(c12)NC(\C\2=N\O)=C3/C(=O)Nc(c34)cccc4
+409	sp|O14965|AURKA_HU	Q00535	70.72	2.0	287.0	DB02116	experimental	Olomoucine	OCCNc(n1)nc(c(c12)ncn2C)NCc3ccccc3
+410	sp|O14965|AURKA_HU	Q00535	70.72	2.0	287.0	DB02950	experimental	Hymenialdisine	O=C1NCC[C@@H]([C@@H](C12)C=C(Br)N=2)C3=NC(N)=NC3=O
+411	sp|O14965|AURKA_HU	Q00535	70.72	2.0	287.0	DB03428	experimental	SU9516	COc(c1)ccc(c12)NC(=O)C\2=C/c3cnc[nH]3
+412	sp|O14965|AURKA_HU	Q00535	70.72	2.0	287.0	DB03496	experimental; investigational	Alvocidib	CN1CC[C@@H]([C@H](O)C1)c2c(O)cc(O)c(c23)c(=O)cc(o3)-c4ccccc4Cl
+413	sp|O14965|AURKA_HU	Q00535	70.72	2.0	287.0	DB04014	experimental	Alsterpaullone	[O-][N+](=O)c(cc1)cc(c12)c3c([nH]2)c4c(NC(=O)C3)cccc4
+414	sp|O14965|AURKA_HU	Q00535	70.72	2.0	287.0	DB07364	experimental	6-PHENYL[5H]PYRROLO[2,3-B]PYRAZINE	n1ccnc(c12)[nH]c(c2CCCC)-c3ccc(O)cc3
+415	sp|O14965|AURKA_HU	Q16288	73.2	527.0	822.0	DB11986	approved; investigational	Entrectinib	CN1CCN(CC1)c2ccc(c(c2)NC3CCOCC3)C(=O)Nc4n[nH]c(c45)ccc(c5)Cc6cc(F)cc(F)c6
+416	sp|O14965|AURKA_HU	Q16288	73.2	527.0	822.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+417	sp|O14965|AURKA_HU	Q16288	73.2	527.0	822.0	DB14723	approved; investigational	Larotrectinib	O[C@H]1CCN(C1)C(=O)Nc(cn2)c(n23)nc(cc3)N4CCC[C@@H]4c5c(F)ccc(F)c5
+419	sp|O14965|AURKA_HU	P22607	71.46	458.0	746.0	DB05014	investigational	XL999	 
+420	sp|O14965|AURKA_HU	P22607	71.46	458.0	746.0	DB06589	approved	Pazopanib	Cc1n(C)nc(c12)cc(cc2)N(C)c3ccnc(n3)Nc4ccc(C)c(c4)S(=O)(=O)N
+421	sp|O14965|AURKA_HU	P22607	71.46	458.0	746.0	DB08901	approved; investigational	Ponatinib	CN1CCN(CC1)Cc2ccc(cc2C(F)(F)F)NC(=O)c3cc(c(C)cc3)C#Cc4cnc(n45)cccn5
+422	sp|O14965|AURKA_HU	P22607	71.46	458.0	746.0	DB09078	approved; investigational	Lenvatinib	COc(c1)c(C(=O)N)cc(c12)c(ccn2)Oc3ccc(c(Cl)c3)NC(=O)NC4CC4
+423	sp|O14965|AURKA_HU	P22607	71.46	458.0	746.0	DB09079	approved	Nintedanib	COC(=O)c(c1)ccc(c12)/C(C(=O)N2)=C(\c3ccccc3)Nc4ccc(cc4)N(C)C(=O)CN5CCN(C)CC5
+424	sp|O14965|AURKA_HU	P22607	71.46	458.0	746.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+425	sp|O14965|AURKA_HU	P22607	71.46	458.0	746.0	DB12147	approved; investigational	Erdafitinib	COc1cc(cc(c1)OC)N(CCNC(C)C)c(c2)ccc(c23)ncc(n3)-c4cn(C)nc4
+426	sp|O14965|AURKA_HU	P22607	71.46	458.0	746.0	DB15102	approved; investigational	Pemigatinib	COc1c(F)c(c(F)c(c1)OC)N(C(=O)N2CC)Cc(c23)cnc4c3cc([nH]4)CN5CCOCC5
+427	sp|O14965|AURKA_HU	P22607	71.46	458.0	746.0	DB15685	approved; investigational	Selpercatinib	COc1ncc(cc1)CN(C23)C(C2)CN(C3)c4ccc(cn4)-c5cc(OCC(C)(C)O)cn(c56)ncc6C#N
+428	sp|O14965|AURKA_HU	O15264	75.68	12.0	317.0	DB01017	approved; investigational	Minocycline	O=C1C(C(=O)N)=C(O)[C@@H](N(C)C)[C@@H]([C@@]12O)C[C@H]3C(=C2O)C(=O)c4c(C3)c(N(C)C)ccc4O
+429	sp|O14965|AURKA_HU	O15264	75.68	12.0	317.0	DB05157	investigational	KC706	 
+430	sp|O14965|AURKA_HU	O15264	75.68	12.0	317.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+431	sp|O14965|AURKA_HU	Q02763	74.19	791.0	1090.0	DB00415	approved; vet_approved	Ampicillin	O=C(O)[C@H]1C(C)(C)S[C@@H](N12)[C@@H](C2=O)NC(=O)[C@H](N)c3ccccc3
+432	sp|O14965|AURKA_HU	Q02763	74.19	791.0	1090.0	DB05294	approved	Vandetanib	CN1CCC(CC1)COc(c(c2)OC)cc(c23)ncnc3Nc4c(F)cc(Br)cc4
+433	sp|O14965|AURKA_HU	Q02763	74.19	791.0	1090.0	DB08221	experimental	N-{4-METHYL-3-[(3-PYRIMIDIN-4-YLPYRIDIN-2-YL)AMINO]PHENYL}-3-(TRIFLUOROMETHYL)BENZAMIDE	FC(F)(F)c1cc(ccc1)C(=O)Nc2ccc(C)c(c2)Nc3ncccc3-c4ccncn4
+434	sp|O14965|AURKA_HU	Q02763	74.19	791.0	1090.0	DB08896	approved	Regorafenib	CNC(=O)c1cc(ccn1)Oc2cc(F)c(cc2)NC(=O)Nc3ccc(Cl)c(c3)C(F)(F)F
+435	sp|O14965|AURKA_HU	Q02763	74.19	791.0	1090.0	DB08901	approved; investigational	Ponatinib	CN1CCN(CC1)Cc2ccc(cc2C(F)(F)F)NC(=O)c3cc(c(C)cc3)C#Cc4cnc(n45)cccn5
+436	sp|O14965|AURKA_HU	Q02763	74.19	791.0	1090.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+437	sp|O14965|AURKA_HU	Q02763	74.19	791.0	1090.0	DB14840	approved	Ripretinib	CNc(c1)ncc(c12)cc(c(=O)n2CC)-c3c(Br)cc(F)c(c3)NC(=O)Nc4ccccc4
+438	sp|O14965|AURKA_HU	P35626	85.11	117.0	460.0	DB00171	investigational; nutraceutical	ATP	Nc1ncnc(c12)n(cn2)[C@@H]3O[C@@H]([C@@H](O)[C@H]3O)COP(=O)(O)OP(=O)(O)OP(=O)(O)O
+439	sp|O14965|AURKA_HU	Q8TD08	73.2	11.0	306.0	DB01017	approved; investigational	Minocycline	O=C1C(C(=O)N)=C(O)[C@@H](N(C)C)[C@@H]([C@@]12O)C[C@H]3C(=C2O)C(=O)c4c(C3)c(N(C)C)ccc4O
+440	sp|O14965|AURKA_HU	Q8TD08	73.2	11.0	306.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+441	sp|O14965|AURKA_HU	Q8TD08	73.2	11.0	306.0	DB00945	approved; vet_approved	Acetylsalicylic acid	CC(=O)Oc1ccccc1C(=O)O
+442	sp|O14965|AURKA_HU	P19525	90.32	183.0	547.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+443	sp|O14965|AURKA_HU	Q9HBH9	79.16	52.0	371.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+444	sp|O14965|AURKA_HU	P07949	75.43	699.0	1003.0	DB00398	approved; investigational	Sorafenib	CNC(=O)c1nccc(c1)Oc2ccc(cc2)NC(=O)Nc3cc(C(F)(F)F)c(Cl)cc3
+445	sp|O14965|AURKA_HU	P07949	75.43	699.0	1003.0	DB01809	experimental	1-Ter-Butyl-3-P-Tolyl-1h-Pyrazolo[3,4-D]Pyrimidin-4-Ylamine	Cc1ccc(cc1)-c2nn(C(C)(C)C)c(c23)ncnc3N
+446	sp|O14965|AURKA_HU	P07949	75.43	699.0	1003.0	DB05294	approved	Vandetanib	CN1CCC(CC1)COc(c(c2)OC)cc(c23)ncnc3Nc4c(F)cc(Br)cc4
+447	sp|O14965|AURKA_HU	P07949	75.43	699.0	1003.0	DB08875	approved; investigational	Cabozantinib	COc(c1)c(OC)cc(c12)nccc2Oc3ccc(cc3)NC(=O)C4(CC4)C(=O)Nc5ccc(F)cc5
+448	sp|O14965|AURKA_HU	P07949	75.43	699.0	1003.0	DB08896	approved	Regorafenib	CNC(=O)c1cc(ccn1)Oc2cc(F)c(cc2)NC(=O)Nc3ccc(Cl)c(c3)C(F)(F)F
+449	sp|O14965|AURKA_HU	P07949	75.43	699.0	1003.0	DB08901	approved; investigational	Ponatinib	CN1CCN(CC1)Cc2ccc(cc2C(F)(F)F)NC(=O)c3cc(c(C)cc3)C#Cc4cnc(n45)cccn5
+450	sp|O14965|AURKA_HU	P07949	75.43	699.0	1003.0	DB09078	approved; investigational	Lenvatinib	COc(c1)c(C(=O)N)cc(c12)c(ccn2)Oc3ccc(c(Cl)c3)NC(=O)NC4CC4
+451	sp|O14965|AURKA_HU	P07949	75.43	699.0	1003.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+452	sp|O14965|AURKA_HU	P07949	75.43	699.0	1003.0	DB12742	investigational	Amuvatinib	O1COc(c12)ccc(c2)CNC(=S)N3CCN(CC3)c4ncnc(c45)c6c(o5)cccc6
+453	sp|O14965|AURKA_HU	P07949	75.43	699.0	1003.0	DB15685	approved; investigational	Selpercatinib	COc1ncc(cc1)CN(C23)C(C2)CN(C3)c4ccc(cn4)-c5cc(OCC(C)(C)O)cn(c56)ncc6C#N
+454	sp|O14965|AURKA_HU	Q86UE8	85.86	406.0	752.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+455	sp|O14965|AURKA_HU	Q02750	86.35	20.0	368.0	DB02152	experimental	K-252a	COC(=O)[C@@]1(O)C[C@@H](O2)n(c3c4n5[C@]12C)c6c(cccc6)c3c7c(CNC7=O)c4c8c5cccc8
+456	sp|O14965|AURKA_HU	Q02750	86.35	20.0	368.0	DB03115	experimental	5-Bromo-N-[(2S)-2,3-dihydroxypropoxy]-3,4-difluoro-2-[(2-fluoro-4-iodophenyl)amino]benzamide	OC[C@H](O)CONC(=O)c1cc(Br)c(F)c(F)c1Nc2c(F)cc(I)cc2
+457	sp|O14965|AURKA_HU	Q02750	86.35	20.0	368.0	DB05239	approved; investigational	Cobimetinib	C1CCCN[C@@H]1C2(O)CN(C2)C(=O)c3c(c(F)c(F)cc3)Nc4c(F)cc(I)cc4
+458	sp|O14965|AURKA_HU	Q02750	86.35	20.0	368.0	DB06616	approved	Bosutinib	COc1cc(c(Cl)cc1Cl)Nc2c(C#N)cnc(c23)cc(c(c3)OC)OCCCN4CCN(C)CC4
+459	sp|O14965|AURKA_HU	Q02750	86.35	20.0	368.0	DB06892	experimental	(5S)-4,5-difluoro-6-[(2-fluoro-4-iodophenyl)imino]-N-(2-hydroxyethoxy)cyclohexa-1,3-diene-1-carboxamide	OCCONC(=O)C1=CC=C(F)[C@@H](F)C\1=N/c2c(F)cc(I)cc2
+460	sp|O14965|AURKA_HU	Q02750	86.35	20.0	368.0	DB07046	experimental	2-[(2-chloro-4-iodophenyl)amino]-N-{[(2R)-2,3-dihydroxypropyl]oxy}-3,4-difluorobenzamide	OC[C@@H](O)CONC(=O)c1ccc(F)c(F)c1Nc2ccc(I)cc2Cl
+461	sp|O14965|AURKA_HU	Q02750	86.35	20.0	368.0	DB07101	investigational	PD-0325901	OC[C@@H](O)CONC(=O)c1c(c(F)c(F)cc1)Nc2ccc(I)cc2F
+462	sp|O14965|AURKA_HU	Q02750	86.35	20.0	368.0	DB08130	experimental	N-(5-{3,4-difluoro-2-[(2-fluoro-4-iodophenyl)amino]phenyl}-1,3,4-oxadiazol-2-yl)ethane-1,2-diamine	NCCNc1nnc(o1)-c2c(c(F)c(F)cc2)Nc3ccc(I)cc3F
+463	sp|O14965|AURKA_HU	Q02750	86.35	20.0	368.0	DB08208	experimental	2-[(4-ETHYNYL-2-FLUOROPHENYL)AMINO]-3,4-DIFLUORO-N-(2-HYDROXYETHOXY)BENZAMIDE	OCCONC(=O)c1ccc(F)c(F)c1Nc2ccc(cc2F)C#C
+464	sp|O14965|AURKA_HU	Q02750	86.35	20.0	368.0	DB08911	approved	Trametinib	Fc1cc(I)ccc1Nc2n(C)c(=O)c(C)c(c23)n(c(=O)n(c3=O)C4CC4)-c5cc(NC(=O)C)ccc5
+465	sp|O14965|AURKA_HU	Q02750	86.35	20.0	368.0	DB11689	approved; investigational	Selumetinib	OCCONC(=O)c(c1)c(c(F)c(c12)ncn2C)Nc3c(Cl)cc(Br)cc3
+466	sp|O14965|AURKA_HU	Q13164	73.95	52.0	350.0	DB01017	approved; investigational	Minocycline	O=C1C(C(=O)N)=C(O)[C@@H](N(C)C)[C@@H]([C@@]12O)C[C@H]3C(=C2O)C(=O)c4c(C3)c(N(C)C)ccc4O
+467	sp|O14965|AURKA_HU	Q13164	73.95	52.0	350.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+468	sp|O14965|AURKA_HU	Q13164	73.95	52.0	350.0	DB00945	approved; vet_approved	Acetylsalicylic acid	CC(=O)Oc1ccccc1C(=O)O
+469	sp|O14965|AURKA_HU	P15056	74.94	415.0	717.0	DB00398	approved; investigational	Sorafenib	CNC(=O)c1nccc(c1)Oc2ccc(cc2)NC(=O)Nc3cc(C(F)(F)F)c(Cl)cc3
+470	sp|O14965|AURKA_HU	P15056	74.94	415.0	717.0	DB05190	investigational	XL281	 
+471	sp|O14965|AURKA_HU	P15056	74.94	415.0	717.0	DB05984	investigational	RAF-265	FC(F)(F)c1ccc(cc1)Nc(n2C)nc(c23)cc(cc3)Oc4ccnc(c4)-c5ncc([nH]5)C(F)(F)F
+472	sp|O14965|AURKA_HU	P15056	74.94	415.0	717.0	DB06999	experimental	PLX-4720	CCCS(=O)(=O)Nc1ccc(F)c(c1F)C(=O)c2c[nH]c(c23)ncc(Cl)c3
+473	sp|O14965|AURKA_HU	P15056	74.94	415.0	717.0	DB07000	experimental	N-{2,4-difluoro-3-[(5-pyridin-3-yl-1H-pyrrolo[2,3-b]pyridin-3-yl)carbonyl]phenyl}ethanesulfonamide	CCS(=O)(=O)Nc1ccc(F)c(c1F)C(=O)c2c[nH]c(c23)ncc(c3)-c4cnccc4
+474	sp|O14965|AURKA_HU	P15056	74.94	415.0	717.0	DB08553	experimental	(1E)-5-(1-piperidin-4-yl-3-pyridin-4-yl-1H-pyrazol-4-yl)-2,3-dihydro-1H-inden-1-one oxime	O/N=C1\CCc(c12)cc(cc2)-c3cn(C4CCNCC4)nc3-c5ccncc5
+475	sp|O14965|AURKA_HU	P15056	74.94	415.0	717.0	DB08881	approved	Vemurafenib	CCCS(=O)(=O)Nc1c(F)c(c(F)cc1)C(=O)c2c[nH]c(c23)ncc(c3)-c4ccc(Cl)cc4
+476	sp|O14965|AURKA_HU	P15056	74.94	415.0	717.0	DB08896	approved	Regorafenib	CNC(=O)c1cc(ccn1)Oc2cc(F)c(cc2)NC(=O)Nc3ccc(Cl)c(c3)C(F)(F)F
+477	sp|O14965|AURKA_HU	P15056	74.94	415.0	717.0	DB08912	approved; investigational	Dabrafenib	Nc1nccc(n1)-c2sc(C(C)(C)C)nc2-c3c(F)c(ccc3)NS(=O)(=O)c4c(F)cccc4F
+478	sp|O14965|AURKA_HU	P15056	74.94	415.0	717.0	DB11718	approved; investigational	Encorafenib	COC(=O)N[C@@H](C)CNc1nccc(n1)-c2cn(C(C)C)nc2-c3cc(Cl)cc(c3F)NS(=O)(=O)C
+479	sp|O14965|AURKA_HU	P15056	74.94	415.0	717.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+480	sp|O14965|AURKA_HU	P15056	74.94	415.0	717.0	DB14840	approved	Ripretinib	CNc(c1)ncc(c12)cc(c(=O)n2CC)-c3c(Br)cc(F)c(c3)NC(=O)Nc4ccccc4
+481	sp|O14965|AURKA_HU	Q16539	74.69	11.0	312.0	DB01254	approved; investigational	Dasatinib	OCCN1CCN(CC1)c2nc(C)nc(c2)Nc3ncc(s3)C(=O)Nc4c(C)cccc4Cl
+482	sp|O14965|AURKA_HU	Q16539	74.69	11.0	312.0	DB01761	experimental	4-[5-[2-(1-phenyl-ethylamino)-pyrimidin-4-yl]-1-methyl-4-(3-trifluoromethylphenyl)-1H-imidazol-2-yl]-piperidine	c1ccccc1[C@H](C)Nc2nc(ccn2)-c3c(-c4cccc(c4)C(F)(F)F)nc(n3C)C5CCNCC5
+483	sp|O14965|AURKA_HU	Q16539	74.69	11.0	312.0	DB01807	experimental	N-[(3Z)-5-Tert-butyl-2-phenyl-1,2-dihydro-3H-pyrazol-3-ylidene]-N'-(4-chlorophenyl)urea	c1ccccc1-n2nc(C(C)(C)C)cc2NC(=O)Nc3ccc(Cl)cc3
+484	sp|O14965|AURKA_HU	Q16539	74.69	11.0	312.0	DB01948	experimental	1-(2,6-Dichlorophenyl)-5-(2,4-Difluorophenyl)-7-Piperidin-4-Yl-3,4-Dihydroquinolin-2(1h)-One	c1cc(F)cc(F)c1-c2cc(C3CCNCC3)cc(c24)N(C(=O)CC4)c5c(Cl)cccc5Cl
+485	sp|O14965|AURKA_HU	Q16539	74.69	11.0	312.0	DB01953	experimental	Inhibitor of P38 Kinase	c1cccc(c12)[nH]cc2CCc3ccncc3
+486	sp|O14965|AURKA_HU	Q16539	74.69	11.0	312.0	DB01988	experimental	6((S)-3-Benzylpiperazin-1-Yl)-3-(Naphthalen-2-Yl)-4-(Pyridin-4-Yl)Pyrazine	c1ccccc1C[C@H]2CN(CCN2)c3nnc(c(c3)-c4ccncc4)-c(cc5)cc(c56)cccc6
+487	sp|O14965|AURKA_HU	Q16539	74.69	11.0	312.0	DB02195	experimental	3-(4-Fluorophenyl)-1-Hydroxy-2-(Pyridin-4-Yl)-1h-Pyrrolo[3,2-B]Pyridine	c1cnccc1-c(n(O)c(c23)cccn3)c2-c4ccc(F)cc4
+488	sp|O14965|AURKA_HU	Q16539	74.69	11.0	312.0	DB02277	experimental	1-(5-Tert-Butyl-2-Methyl-2h-Pyrazol-3-Yl)-3-(4-Chloro-Phenyl)-Urea	Cn1nc(C(C)(C)C)cc1NC(=O)Nc2ccc(Cl)cc2
+489	sp|O14965|AURKA_HU	Q16539	74.69	11.0	312.0	DB02352	experimental	3-(Benzyloxy)Pyridin-2-Amine	Nc1ncccc1OCc2ccccc2
+490	sp|O14965|AURKA_HU	Q16539	74.69	11.0	312.0	DB02873	experimental	1-(2,6-Dichlorophenyl)-5-(2,4-Difluorophenyl)-7-Piperazin-1-Yl-3,4-Dihydroquinazolin-2(1h)-One	C1CNCCN1c(c2)cc(-c(c(F)c3)ccc3F)c(c24)CNC(=O)N4c5c(Cl)cccc5Cl
+491	sp|O14965|AURKA_HU	Q16539	74.69	11.0	312.0	DB02984	experimental	4-[3-Methylsulfanylanilino]-6,7-Dimethoxyquinazoline	COc(c1)c(OC)cc(c12)ncnc2Nc3cc(SC)ccc3
+492	sp|O14965|AURKA_HU	Q16539	74.69	11.0	312.0	DB03044	investigational	Doramapimod	Cc1ccc(cc1)-n2nc(C(C)(C)C)cc2NC(=O)Nc3ccc(c(c34)cccc4)OCCN5CCOCC5
+493	sp|O14965|AURKA_HU	Q16539	74.69	11.0	312.0	DB03110	experimental	2-Chlorophenol	Oc1ccccc1Cl
+494	sp|O14965|AURKA_HU	Q16539	74.69	11.0	312.0	DB03980	experimental	4-(Fluorophenyl)-1-Cyclopropylmethyl-5-(2-Amino-4-Pyrimidinyl)Imidazole	Fc1ccc(cc1)-c2c(n(cn2)CC3CC3)-c4ccnc(n4)N
+495	sp|O14965|AURKA_HU	Q16539	74.69	11.0	312.0	DB04338	experimental	SB220025	Nc1nccc(n1)-c2c(-c3ccc(F)cc3)ncn2C4CCNCC4
+496	sp|O14965|AURKA_HU	Q16539	74.69	11.0	312.0	DB04632	experimental	4-(2-HYDROXYBENZYLAMINO)-N-(3-(4-FLUOROPHENOXY)PHENYL)PIPERIDINE-1-SULFONAMIDE	Oc1ccccc1CNC2CCN(CC2)S(=O)(=O)Nc3cc(ccc3)Oc4ccc(F)cc4
+497	sp|O14965|AURKA_HU	Q16539	74.69	11.0	312.0	DB04797	experimental	Triazolopyridine	CC(C)c1nnc(n12)ccc(c2)-c3c(nco3)-c4ccc(F)cc4
+498	sp|O14965|AURKA_HU	Q16539	74.69	11.0	312.0	DB05157	investigational	KC706	 
+499	sp|O14965|AURKA_HU	Q16539	74.69	11.0	312.0	DB05412	investigational	Talmapimod	CN(C)C(=O)C(=O)c1cn(C)c(c12)cc(Cl)c(c2)C(=O)N3C[C@H](C)N(C[C@H]3C)Cc4ccc(F)cc4
+500	sp|O14965|AURKA_HU	Q16539	74.69	11.0	312.0	DB05470	investigational	VX-702	Fc1cccc(F)c1N(C(=O)N)c2ccc(C(=O)N)c(n2)-c3ccc(F)cc3F
+501	sp|O14965|AURKA_HU	Q16539	74.69	11.0	312.0	DB06518	investigational	R-1487	C1COCCC1Nc(n2)ncc(c23)cc(c(=O)n3C)Oc4ccc(F)cc4F
+502	sp|O14965|AURKA_HU	Q16539	74.69	11.0	312.0	DB06882	experimental	1-[1-(3-aminophenyl)-3-tert-butyl-1H-pyrazol-5-yl]-3-naphthalen-1-ylurea	Nc1cc(ccc1)-n2nc(C(C)(C)C)cc2NC(=O)Nc(ccc3)c(c34)cccc4
+503	sp|O14965|AURKA_HU	Q16539	74.69	11.0	312.0	DB06940	experimental	N-ethyl-4-{[5-(methoxycarbamoyl)-2-methylphenyl]amino}-5-methylpyrrolo[2,1-f][1,2,4]triazine-6-carboxamide	CCNC(=O)c(c1C)cn(c12)ncnc2Nc3cc(ccc3C)C(=O)NOC
+504	sp|O14965|AURKA_HU	Q16539	74.69	11.0	312.0	DB06991	experimental	N-[2-methyl-5-(methylcarbamoyl)phenyl]-2-{[(1R)-1-methylpropyl]amino}-1,3-thiazole-5-carboxamide	CC[C@@H](C)Nc1ncc(s1)C(=O)Nc2c(C)ccc(c2)C(=O)NC
+505	sp|O14965|AURKA_HU	Q16539	74.69	11.0	312.0	DB07138	investigational	Neflamapimod	Fc1cc(F)c(cc1)Sc(cc2)nn(c23)cnc(=O)c3-c4c(Cl)cccc4Cl
+506	sp|O14965|AURKA_HU	Q16539	74.69	11.0	312.0	DB07307	experimental	N-cyclopropyl-4-methyl-3-[1-(2-methylphenyl)phthalazin-6-yl]benzamide	Cc1ccccc1-c2nncc(c23)cc(cc3)-c4c(C)ccc(c4)C(=O)NC5CC5
+507	sp|O14965|AURKA_HU	Q16539	74.69	11.0	312.0	DB07459	experimental	4-PHENOXY-N-(PYRIDIN-2-YLMETHYL)BENZAMIDE	n1ccccc1CNC(=O)c2ccc(cc2)Oc3ccccc3
+508	sp|O14965|AURKA_HU	Q16539	74.69	11.0	312.0	DB07607	experimental	4-[5-(3-IODO-PHENYL)-2-(4-METHANESULFINYL-PHENYL)-1H-IMIDAZOL-4-YL]-PYRIDINE	C[S@@](=O)c1ccc(cc1)-c2nc(-c3ccncc3)c([nH]2)-c4cc(I)ccc4
+509	sp|O14965|AURKA_HU	Q16539	74.69	11.0	312.0	DB07811	experimental	N-cyclopropyl-2',6-dimethyl-4'-(5-methyl-1,3,4-oxadiazol-2-yl)biphenyl-3-carboxamide	Cc1nnc(o1)-c2ccc(c(C)c2)-c3cc(ccc3C)C(=O)NC4CC4
+510	sp|O14965|AURKA_HU	Q16539	74.69	11.0	312.0	DB07829	experimental	4-[3-(4-FLUOROPHENYL)-1H-PYRAZOL-4-YL]PYRIDINE	Fc1ccc(cc1)-c2n[nH]cc2-c3ccncc3
+511	sp|O14965|AURKA_HU	Q16539	74.69	11.0	312.0	DB07832	experimental	4-{4-[(5-hydroxy-2-methylphenyl)amino]quinolin-7-yl}-1,3-thiazole-2-carbaldehyde	Oc1ccc(C)c(c1)Nc2ccnc(c23)cc(cc3)-c4csc(n4)C=O
+512	sp|O14965|AURKA_HU	Q16539	74.69	11.0	312.0	DB07833	experimental	N-(3-cyanophenyl)-2'-methyl-5'-(5-methyl-1,3,4-oxadiazol-2-yl)-4-biphenylcarboxamide	Cc1nnc(o1)-c2ccc(C)c(c2)-c3ccc(cc3)C(=O)Nc4cc(C#N)ccc4
+513	sp|O14965|AURKA_HU	Q16539	74.69	11.0	312.0	DB07834	experimental	N-(cyclopropylmethyl)-2'-methyl-5'-(5-methyl-1,3,4-oxadiazol-2-yl)biphenyl-4-carboxamide	Cc1nnc(o1)-c2ccc(C)c(c2)-c3ccc(cc3)C(=O)NCC4CC4
+514	sp|O14965|AURKA_HU	Q16539	74.69	11.0	312.0	DB07835	experimental	N~3~-cyclopropyl-N~4~'-(cyclopropylmethyl)-6-methylbiphenyl-3,4'-dicarboxamide	C1CC1NC(=O)c2ccc(C)c(c2)-c3ccc(cc3)C(=O)NCC4CC4
+515	sp|O14965|AURKA_HU	Q16539	74.69	11.0	312.0	DB07941	investigational	PH-797804	CNC(=O)c1ccc(C)c(c1)-n2c(C)cc(c(Br)c2=O)OCc3c(F)cc(F)cc3
+516	sp|O14965|AURKA_HU	Q16539	74.69	11.0	312.0	DB07942	experimental	2-fluoro-4-[4-(4-fluorophenyl)-1H-pyrazol-3-yl]pyridine	Fc1ccc(cc1)-c2c[nH]nc2-c3cc(F)ncc3
+517	sp|O14965|AURKA_HU	Q16539	74.69	11.0	312.0	DB07943	investigational	SD-0006	OCC(=O)N1CCC(CC1)c2n[nH]c(c2-c3ccncn3)-c4ccc(Cl)cc4
+518	sp|O14965|AURKA_HU	Q16539	74.69	11.0	312.0	DB08064	experimental	N-(3-TERT-BUTYL-1H-PYRAZOL-5-YL)-N'-{4-CHLORO-3-[(PYRIDIN-3-YLOXY)METHYL]PHENYL}UREA	CC(C)(C)c1n[nH]c(c1)NC(=O)Nc2ccc(Cl)c(c2)COc3cccnc3
+519	sp|O14965|AURKA_HU	Q16539	74.69	11.0	312.0	DB08068	experimental	N-[4-CHLORO-3-(PYRIDIN-3-YLOXYMETHYL)-PHENYL]-3-FLUORO-	C1COCCN1[C@@H]2C[C@@H](F)C=C(C2)C(=O)Nc3ccc(Cl)c(c3)COc4cnccc4
+520	sp|O14965|AURKA_HU	Q16539	74.69	11.0	312.0	DB08091	experimental	3-FLUORO-5-MORPHOLIN-4-YL-N-[3-(2-PYRIDIN-4-YLETHYL)-1H-INDOL-5-YL]BENZAMIDE	C1COCCN1c2cc(F)cc(c2)C(=O)Nc(c3)ccc(c34)[nH]cc4CCc5ccncc5
+521	sp|O14965|AURKA_HU	Q16539	74.69	11.0	312.0	DB08092	experimental	3-fluoro-N-1H-indol-5-yl-5-morpholin-4-ylbenzamide	C1COCCN1c2cc(F)cc(c2)C(=O)Nc(c3)ccc(c34)[nH]cc4
+522	sp|O14965|AURKA_HU	Q16539	74.69	11.0	312.0	DB08093	experimental	3-(1-NAPHTHYLMETHOXY)PYRIDIN-2-AMINE	Nc1ncccc1OCc2cccc(c23)cccc3
+523	sp|O14965|AURKA_HU	Q16539	74.69	11.0	312.0	DB08095	experimental	3-(2-CHLOROPHENYL)-1-(2-{[(1S)-2-HYDROXY-1,2-DIMETHYLPROPYL]AMINO}PYRIMIDIN-4-YL)-1-(4-METHOXYPHENYL)UREA	CC(C)(O)[C@H](C)Nc1nccc(n1)N(c2ccc(OC)cc2)C(=O)Nc3ccccc3Cl
+524	sp|O14965|AURKA_HU	Q16539	74.69	11.0	312.0	DB08096	experimental	8-(2-CHLOROPHENYLAMINO)-2-(2,6-DIFLUOROPHENYLAMINO)-9-ETHYL-9H-PURINE-1,7-DIIUM	Clc1ccccc1Nc(n2CC)nc(c23)cnc(n3)Nc4c(F)cccc4F
+525	sp|O14965|AURKA_HU	Q16539	74.69	11.0	312.0	DB08097	experimental	2-(2,6-DIFLUOROPHENOXY)-N-(2-FLUOROPHENYL)-9-ISOPROPYL-9H-PURIN-8-AMINE	Fc1ccccc1Nc(n2C(C)C)nc(c23)cnc(n3)Oc4c(F)cccc4F
+526	sp|O14965|AURKA_HU	Q16539	74.69	11.0	312.0	DB08242	experimental	N,4-dimethyl-3-[(1-phenyl-1H-pyrazolo[3,4-d]pyrimidin-4-yl)amino]benzamide	CNC(=O)c1cc(c(C)cc1)Nc(ncn2)c(c23)cnn3-c4ccccc4
+527	sp|O14965|AURKA_HU	Q16539	74.69	11.0	312.0	DB08349	experimental	N-cyclopropyl-3-{[1-(2,4-difluorophenyl)-7-methyl-6-oxo-6,7-dihydro-1H-pyrazolo[3,4-b]pyridin-4-yl]amino}-4-methylbenzamide	Fc1ccc(c(F)c1)-n(nc2)c(c23)n(C)c(=O)cc3Nc4c(C)ccc(c4)C(=O)NC5CC5
+528	sp|O14965|AURKA_HU	Q16539	74.69	11.0	312.0	DB08351	experimental	N-cyclopropyl-4-methyl-3-{2-[(2-morpholin-4-ylethyl)amino]quinazolin-6-yl}benzamide	C1CC1NC(=O)c2ccc(C)c(c2)-c(cc3)cc(c34)cnc(n4)NCCN5CCOCC5
+529	sp|O14965|AURKA_HU	Q16539	74.69	11.0	312.0	DB08352	experimental	6-[4-(2-fluorophenyl)-1,3-oxazol-5-yl]-N-(1-methylethyl)-1,3-benzothiazol-2-amine	CC(C)Nc(s1)nc(c12)ccc(c2)-c3c(nco3)-c4ccccc4F
+530	sp|O14965|AURKA_HU	Q16539	74.69	11.0	312.0	DB08395	experimental	2-(ETHOXYMETHYL)-4-(4-FLUOROPHENYL)-3-[2-(2-HYDROXYPHENOXY)PYRIMIDIN-4-YL]ISOXAZOL-5(2H)-ONE	CCOCn1oc(=O)c(-c2ccc(F)cc2)c1-c3ccnc(n3)Oc4ccccc4O
+531	sp|O14965|AURKA_HU	Q16539	74.69	11.0	312.0	DB08423	experimental	[5-AMINO-1-(4-FLUOROPHENYL)-1H-PYRAZOL-4-YL][3-(PIPERIDIN-4-YLOXY)PHENYL]METHANONE	Fc1ccc(cc1)-n2ncc(c2N)C(=O)c3cc(ccc3)OC4CCNCC4
+532	sp|O14965|AURKA_HU	Q16539	74.69	11.0	312.0	DB08424	experimental	[5-AMINO-1-(4-FLUOROPHENYL)-1H-PYRAZOL-4-YL](3-{[(2R)-2,3-DIHYDROXYPROPYL]OXY}PHENYL)METHANONE	OC[C@H](O)COc1cc(ccc1)C(=O)c2c(N)n(nc2)-c3ccc(F)cc3
+533	sp|O14965|AURKA_HU	Q16539	74.69	11.0	312.0	DB08521	experimental	4-[4-(4-Fluorophenyl)-2-[4-[(R)-methylsulfinyl]phenyl]-1H-imidazol-5-yl]pyridine	C[S@@](=O)c1ccc(cc1)-c2nc(-c3ccc(F)cc3)c([nH]2)-c4ccncc4
+534	sp|O14965|AURKA_HU	Q16539	74.69	11.0	312.0	DB08522	experimental	4-(4-FLUOROPHENYL)-1-CYCLOROPROPYLMETHYL-5-(4-PYRIDYL)-IMIDAZOLE	Fc1ccc(cc1)-c2c(n(cn2)CC3CC3)-c4ccncc4
+535	sp|O14965|AURKA_HU	Q16539	74.69	11.0	312.0	DB08730	experimental	3-FLUORO-5-MORPHOLIN-4-YL-N-[1-(2-PYRIDIN-4-YLETHYL)-1H-INDOL-6-YL]BENZAMIDE	C1COCCN1c2cc(F)cc(c2)C(=O)Nc(c3)ccc(c34)ccn4CCc5ccncc5
+536	sp|O14965|AURKA_HU	Q16539	74.69	11.0	312.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+537	sp|O14965|AURKA_HU	Q16539	74.69	11.0	312.0	DB01017	approved; investigational	Minocycline	O=C1C(C(=O)N)=C(O)[C@@H](N(C)C)[C@@H]([C@@]12O)C[C@H]3C(=C2O)C(=O)c4c(C3)c(N(C)C)ccc4O
+538	sp|O14965|AURKA_HU	P28482	72.21	24.0	315.0	DB01064	approved; investigational	Isoprenaline	CC(C)NCC(O)c1cc(O)c(O)cc1
+539	sp|O14965|AURKA_HU	P28482	72.21	24.0	315.0	DB01169	approved; investigational	Arsenic trioxide	O=[As]O[As]=O
+540	sp|O14965|AURKA_HU	P28482	72.21	24.0	315.0	DB02116	experimental	Olomoucine	OCCNc(n1)nc(c(c12)ncn2C)NCc3ccccc3
+541	sp|O14965|AURKA_HU	P28482	72.21	24.0	315.0	DB02482	experimental	Phosphonothreonine	OC(=O)[C@H](N)[C@H](C)OP(=O)(O)O
+542	sp|O14965|AURKA_HU	P28482	72.21	24.0	315.0	DB02733	experimental	Purvalanol	n1cn(C(C)C)c(c12)nc(N[C@@H](CO)C(C)C)nc2Nc3ccc(C(=O)O)c(Cl)c3
+543	sp|O14965|AURKA_HU	P28482	72.21	24.0	315.0	DB04338	experimental	SB220025	Nc1nccc(n1)-c2c(-c3ccc(F)cc3)ncn2C4CCNCC4
+544	sp|O14965|AURKA_HU	P28482	72.21	24.0	315.0	DB06195	investigational	Seliciclib	CC(C)n1cnc(c12)c(nc(n2)N[C@H](CC)CO)NCc3ccccc3
+545	sp|O14965|AURKA_HU	P28482	72.21	24.0	315.0	DB06641	investigational	Perifosine	CCCCCCCCCCCCCCCCCCOP([O-])(=O)OC(CC1)CC[N+]1(C)C
+546	sp|O14965|AURKA_HU	P28482	72.21	24.0	315.0	DB06877	experimental	N,N-DIMETHYL-4-(4-PHENYL-1H-PYRAZOL-3-YL)-1H-PYRROLE-2-CARBOXAMIDE	CN(C)C(=O)c1cc(c[nH]1)-c2n[nH]cc2-c3ccccc3
+547	sp|O14965|AURKA_HU	P28482	72.21	24.0	315.0	DB07010	experimental	N-BENZYL-4-[4-(3-CHLOROPHENYL)-1H-PYRAZOL-3-YL]-1H-PYRROLE-2-CARBOXAMIDE	Clc1cc(ccc1)-c2c[nH]nc2-c3c[nH]c(c3)C(=O)NCc4ccccc4
+548	sp|O14965|AURKA_HU	P28482	72.21	24.0	315.0	DB07264	experimental	(S)-N-(1-(3-CHLORO-4-FLUOROPHENYL)-2-HYDROXYETHYL)-4-(4-(3-CHLOROPHENYL)-1H-PYRAZOL-3-YL)-1H-PYRROLE-2-CARBOXAMIDE	Fc1ccc(cc1Cl)[C@@H](CO)NC(=O)c2cc(c[nH]2)-c3n[nH]cc3-c4cccc(Cl)c4
+549	sp|O14965|AURKA_HU	P28482	72.21	24.0	315.0	DB07788	experimental	(3R,5Z,8S,9S,11E)-8,9,16-TRIHYDROXY-14-METHOXY-3-METHYL-3,4,9,10-TETRAHYDRO-1H-2-BENZOXACYCLOTETRADECINE-1,7(8H)-DIONE	Oc1cc(OC)cc(c12)/C=C/C[C@H](O)[C@H](O)C(=O)/C=C\C[C@@H](C)OC2=O
+550	sp|O14965|AURKA_HU	P28482	72.21	24.0	315.0	DB07794	experimental	5-(2-PHENYLPYRAZOLO[1,5-A]PYRIDIN-3-YL)-1H-PYRAZOLO[3,4-C]PYRIDAZIN-3-AMINE	Nc1n[nH]c(c12)nnc(c2)-c(c(n34)cccc4)c(n3)-c5ccccc5
+551	sp|O14965|AURKA_HU	P28482	72.21	24.0	315.0	DB07905	experimental	(1aR,8S,13S,14S,15aR)-5,13,14-trihydroxy-3-methoxy-8-methyl-8,9,13,14,15,15a-hexahydro-6H-oxireno[k][2]benzoxacyclotetradecine-6,12(1aH)-dione	Oc1cc(OC)cc(c12)[C@@H]3[C@H](O3)C[C@H](O)[C@H](O)C(=O)\C=C\C[C@H](C)OC2=O
+552	sp|O14965|AURKA_HU	P28482	72.21	24.0	315.0	DB08513	experimental	[4-({5-(AMINOCARBONYL)-4-[(3-METHYLPHENYL)AMINO]PYRIMIDIN-2-YL}AMINO)PHENYL]ACETIC ACID	Cc1cc(ccc1)Nc2nc(ncc2C(=O)N)Nc3ccc(cc3)CC(=O)O
+553	sp|O14965|AURKA_HU	P28482	72.21	24.0	315.0	DB08521	experimental	4-[4-(4-Fluorophenyl)-2-[4-[(R)-methylsulfinyl]phenyl]-1H-imidazol-5-yl]pyridine	C[S@@](=O)c1ccc(cc1)-c2nc(-c3ccc(F)cc3)c([nH]2)-c4ccncc4
+554	sp|O14965|AURKA_HU	P28482	72.21	24.0	315.0	DB11120	approved; experimental	Turpentine	 
+555	sp|O14965|AURKA_HU	P28482	72.21	24.0	315.0	DB13930	investigational	Ulixertinib	Clc1cccc(c1)[C@@H](CO)NC(=O)c2cc(c[nH]2)-c3cc(ncc3Cl)NC(C)C
+556	sp|O14965|AURKA_HU	P28482	72.21	24.0	315.0	DB01017	approved; investigational	Minocycline	O=C1C(C(=O)N)=C(O)[C@@H](N(C)C)[C@@H]([C@@]12O)C[C@H]3C(=C2O)C(=O)c4c(C3)c(N(C)C)ccc4O
+557	sp|O14965|AURKA_HU	P28482	72.21	24.0	315.0	DB00945	approved; vet_approved	Acetylsalicylic acid	CC(=O)Oc1ccccc1C(=O)O
+558	sp|O14965|AURKA_HU	Q00534	74.94	10.0	312.0	DB03496	experimental; investigational	Alvocidib	CN1CC[C@@H]([C@H](O)C1)c2c(O)cc(O)c(c23)c(=O)cc(o3)-c4ccccc4Cl
+559	sp|O14965|AURKA_HU	Q00534	74.94	10.0	312.0	DB07379	experimental	(2S)-2-({6-[(3-Amino-5-chlorophenyl)amino]-9-isopropyl-9H-purin-2-yl}amino)-3-methyl-1-butanol	n1cn(C(C)C)c(c12)nc(N[C@H](CO)C(C)C)nc2Nc3cc(Cl)cc(N)c3
+560	sp|O14965|AURKA_HU	Q00534	74.94	10.0	312.0	DB07795	experimental	Fisetin	c1cc(O)cc(c12)oc(c(c2=O)O)-c3ccc(O)c(O)c3
+561	sp|O14965|AURKA_HU	Q00534	74.94	10.0	312.0	DB09073	approved; investigational	Palbociclib	C1CCCC1n2c(=O)c(C(=O)C)c(C)c(c23)cnc(n3)Nc4ncc(cc4)N5CCNCC5
+562	sp|O14965|AURKA_HU	Q00534	74.94	10.0	312.0	DB11730	approved; investigational	Ribociclib	C1CCCC1n2c(C(=O)N(C)C)cc(c23)cnc(n3)Nc4ccc(cn4)N5CCNCC5
+563	sp|O14965|AURKA_HU	Q00534	74.94	10.0	312.0	DB12001	approved; investigational	Abemaciclib	CCN1CCN(CC1)Cc2ccc(nc2)Nc3ncc(F)c(n3)-c(c4)cc(F)c(c45)nc(C)n5C(C)C
+564	sp|O14965|AURKA_HU	Q00537	71.22	188.0	475.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+565	sp|O14965|AURKA_HU	Q00536	71.46	161.0	449.0	DB07766	experimental	(2Z,3E)-2,3'-biindole-2',3(1H,1'H)-dione 3-{O-[(3R)-3,4-dihydroxybutyl]oxime}	c1cccc(c12)/C(C(=O)N2)=C(/Nc(c34)cccc4)\C3=N\OCC[C@@H](O)CO
+566	sp|O14965|AURKA_HU	Q00536	71.46	161.0	449.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+567	sp|O14965|AURKA_HU	P04049	82.13	283.0	614.0	DB00398	approved; investigational	Sorafenib	CNC(=O)c1nccc(c1)Oc2ccc(cc2)NC(=O)Nc3cc(C(F)(F)F)c(Cl)cc3
+569	sp|O14965|AURKA_HU	P04049	82.13	283.0	614.0	DB05190	investigational	XL281	 
+570	sp|O14965|AURKA_HU	P04049	82.13	283.0	614.0	DB05268	investigational	iCo-007	 
+571	sp|O14965|AURKA_HU	P04049	82.13	283.0	614.0	DB08862	approved; investigational	Cholecystokinin	 
+572	sp|O14965|AURKA_HU	P04049	82.13	283.0	614.0	DB08896	approved	Regorafenib	CNC(=O)c1cc(ccn1)Oc2cc(F)c(cc2)NC(=O)Nc3ccc(Cl)c(c3)C(F)(F)F
+573	sp|O14965|AURKA_HU	P04049	82.13	283.0	614.0	DB08912	approved; investigational	Dabrafenib	Nc1nccc(n1)-c2sc(C(C)(C)C)nc2-c3c(F)c(ccc3)NS(=O)(=O)c4c(F)cccc4F
+574	sp|O14965|AURKA_HU	P04049	82.13	283.0	614.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+575	sp|O14965|AURKA_HU	P27361	72.21	41.0	332.0	DB00605	approved; investigational	Sulindac	c1cc(F)cc(c12)C(CC(=O)O)=C(C)/C2=C/c3ccc(cc3)S(=O)C
+576	sp|O14965|AURKA_HU	P27361	72.21	41.0	332.0	DB01169	approved; investigational	Arsenic trioxide	O=[As]O[As]=O
+577	sp|O14965|AURKA_HU	P27361	72.21	41.0	332.0	DB02733	experimental	Purvalanol	n1cn(C(C)C)c(c12)nc(N[C@@H](CO)C(C)C)nc2Nc3ccc(C(=O)O)c(Cl)c3
+578	sp|O14965|AURKA_HU	P27361	72.21	41.0	332.0	DB04604	experimental	5-iodotubercidin	OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n2cc(I)c(c23)c(N)ncn3
+579	sp|O14965|AURKA_HU	P27361	72.21	41.0	332.0	DB06195	investigational	Seliciclib	CC(C)n1cnc(c12)c(nc(n2)N[C@H](CC)CO)NCc3ccccc3
+580	sp|O14965|AURKA_HU	P27361	72.21	41.0	332.0	DB08862	approved; investigational	Cholecystokinin	 
+581	sp|O14965|AURKA_HU	P27361	72.21	41.0	332.0	DB13930	investigational	Ulixertinib	Clc1cccc(c1)[C@@H](CO)NC(=O)c2cc(c[nH]2)-c3cc(ncc3Cl)NC(C)C
+582	sp|O14965|AURKA_HU	P27361	72.21	41.0	332.0	DB01017	approved; investigational	Minocycline	O=C1C(C(=O)N)=C(O)[C@@H](N(C)C)[C@@H]([C@@]12O)C[C@H]3C(=C2O)C(=O)c4c(C3)c(N(C)C)ccc4O
+583	sp|O14965|AURKA_HU	P27361	72.21	41.0	332.0	DB00945	approved; vet_approved	Acetylsalicylic acid	CC(=O)Oc1ccccc1C(=O)O
+584	sp|O14965|AURKA_HU	Q9UKI8	94.29	363.0	743.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+585	sp|O14965|AURKA_HU	Q9NWZ3	86.1	105.0	452.0	DB08590	experimental	1-(3-HYDROXYPROPYL)-2-[(3-NITROBENZOYL)AMINO]-1H-BENZIMIDAZOL-5-YL PIVALATE	CC(C)(C)C(=O)Oc(c1)ccc(c12)n(CCCO)c(n2)NC(=O)c3cc([N+]([O-])=O)ccc3
+586	sp|O14965|AURKA_HU	Q9NWZ3	86.1	105.0	452.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+587	sp|O14965|AURKA_HU	Q15759	74.44	13.0	313.0	DB01017	approved; investigational	Minocycline	O=C1C(C(=O)N)=C(O)[C@@H](N(C)C)[C@@H]([C@@]12O)C[C@H]3C(=C2O)C(=O)c4c(C3)c(N(C)C)ccc4O
+588	sp|O14965|AURKA_HU	Q15759	74.44	13.0	313.0	DB05157	investigational	KC706	 
+589	sp|O14965|AURKA_HU	Q15759	74.44	13.0	313.0	DB08896	approved	Regorafenib	CNC(=O)c1cc(ccn1)Oc2cc(F)c(cc2)NC(=O)Nc3ccc(Cl)c(c3)C(F)(F)F
+590	sp|O14965|AURKA_HU	P36507	83.62	38.0	375.0	DB06616	approved	Bosutinib	COc1cc(c(Cl)cc1Cl)Nc2c(C#N)cnc(c23)cc(c(c3)OC)OCCCN4CCN(C)CC4
+591	sp|O14965|AURKA_HU	P36507	83.62	38.0	375.0	DB08911	approved	Trametinib	Fc1cc(I)ccc1Nc2n(C)c(=O)c(C)c(c23)n(c(=O)n(c3=O)C4CC4)-c5cc(NC(=O)C)ccc5
+592	sp|O14965|AURKA_HU	P36507	83.62	38.0	375.0	DB11689	approved; investigational	Selumetinib	OCCONC(=O)c(c1)c(c(F)c(c12)ncn2C)Nc3c(Cl)cc(Br)cc3
+593	sp|O14965|AURKA_HU	P36507	83.62	38.0	375.0	DB11967	approved; investigational	Binimetinib	OCCONC(=O)c(c1)c(c(F)c(c12)ncn2C)Nc3ccc(Br)cc3F
+594	sp|O14965|AURKA_HU	P36507	83.62	38.0	375.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+595	sp|O14965|AURKA_HU	O15146	70.47	569.0	853.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+596	sp|O14965|AURKA_HU	Q13163	71.96	131.0	421.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+597	sp|O14965|AURKA_HU	P50750	74.69	17.0	318.0	DB03496	experimental; investigational	Alvocidib	CN1CC[C@@H]([C@H](O)C1)c2c(O)cc(O)c(c23)c(=O)cc(o3)-c4ccccc4Cl
+598	sp|O14965|AURKA_HU	P50750	74.69	17.0	318.0	DB06195	investigational	Seliciclib	CC(C)n1cnc(c12)c(nc(n2)N[C@H](CC)CO)NCc3ccccc3
+599	sp|O14965|AURKA_HU	P08922	70.97	1934.0	2220.0	DB11986	approved; investigational	Entrectinib	CN1CCN(CC1)c2ccc(c(c2)NC3CCOCC3)C(=O)Nc4n[nH]c(c45)ccc(c5)Cc6cc(F)cc(F)c6
+600	sp|O14965|AURKA_HU	P08922	70.97	1934.0	2220.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+601	sp|O14965|AURKA_HU	Q96Q40	85.61	56.0	401.0	DB00171	investigational; nutraceutical	ATP	Nc1ncnc(c12)n(cn2)[C@@H]3O[C@@H]([C@@H](O)[C@H]3O)COP(=O)(O)OP(=O)(O)OP(=O)(O)O
+602	sp|O14965|AURKA_HU	Q96Q40	85.61	56.0	401.0	DB06486	investigational	Enzastaurin	c1cccc(c12)c(cn2C)C3=C(C(=O)NC3=O)c4cn(c(c45)cccc5)C6CCN(CC6)Cc7ccccn7
+603	sp|O14965|AURKA_HU	Q96Q40	85.61	56.0	401.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+604	sp|O14965|AURKA_HU	P50613	71.96	8.0	298.0	DB02482	experimental	Phosphonothreonine	OC(=O)[C@H](N)[C@H](C)OP(=O)(O)O
+605	sp|O14965|AURKA_HU	P50613	71.96	8.0	298.0	DB03496	experimental; investigational	Alvocidib	CN1CC[C@@H]([C@H](O)C1)c2c(O)cc(O)c(c23)c(=O)cc(o3)-c4ccccc4Cl
+606	sp|O14965|AURKA_HU	P50613	71.96	8.0	298.0	DB05969	investigational	SNS-032	CC(C)(C)c1cnc(o1)CSc2cnc(s2)NC(=O)C3CCNCC3
+607	sp|O14965|AURKA_HU	P50613	71.96	8.0	298.0	DB06195	investigational	Seliciclib	CC(C)n1cnc(c12)c(nc(n2)N[C@H](CC)CO)NCc3ccccc3
+608	sp|O14965|AURKA_HU	P10398	78.16	257.0	572.0	DB00171	investigational; nutraceutical	ATP	Nc1ncnc(c12)n(cn2)[C@@H]3O[C@@H]([C@@H](O)[C@H]3O)COP(=O)(O)OP(=O)(O)OP(=O)(O)O
+609	sp|O14965|AURKA_HU	P46734	79.16	15.0	334.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+610	sp|O14965|AURKA_HU	Q8IW41	74.19	11.0	310.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+611	sp|O14965|AURKA_HU	Q16832	71.96	555.0	845.0	DB08896	approved	Regorafenib	CNC(=O)c1cc(ccn1)Oc2cc(F)c(cc2)NC(=O)Nc3ccc(Cl)c(c3)C(F)(F)F
+612	sp|O14965|AURKA_HU	Q16832	71.96	555.0	845.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+613	sp|O14965|AURKA_HU	P52564	74.44	22.0	322.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+614	sp|O14965|AURKA_HU	P49759	94.54	97.0	478.0	DB04367	experimental	Debromohymenialdisine	NC1=NC(=O)/C(N1)=C2\CCNC(=O)c(c23)[nH]cc3
+615	sp|O14965|AURKA_HU	P49759	94.54	97.0	478.0	DB06376	investigational	CHGN111	 
+616	sp|O14965|AURKA_HU	P49759	94.54	97.0	478.0	DB08691	experimental	ethyl 3-[(E)-2-amino-1-cyanoethenyl]-6,7-dichloro-1-methyl-1H-indole-2-carboxylate	CCOC(=O)c(n1C)c(/C(C#N)=C\N)c(c12)ccc(Cl)c2Cl
+617	sp|O14965|AURKA_HU	P49759	94.54	97.0	478.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+618	sp|O14965|AURKA_HU	Q9UM73	72.46	1090.0	1382.0	DB00171	investigational; nutraceutical	ATP	Nc1ncnc(c12)n(cn2)[C@@H]3O[C@@H]([C@@H](O)[C@H]3O)COP(=O)(O)OP(=O)(O)OP(=O)(O)O
+619	sp|O14965|AURKA_HU	Q9UM73	72.46	1090.0	1382.0	DB08865	approved	Crizotinib	Clc1c(F)ccc(Cl)c1[C@@H](C)Oc2cc(cnc2N)-c3cn(nc3)C4CCNCC4
+620	sp|O14965|AURKA_HU	Q9UM73	72.46	1090.0	1382.0	DB09063	approved	Ceritinib	C1CNCCC1c2cc(OC(C)C)c(cc2C)Nc3ncc(Cl)/c([nH]3)=N\c4ccccc4S(=O)(=O)C(C)C
+621	sp|O14965|AURKA_HU	Q9UM73	72.46	1090.0	1382.0	DB11363	approved; investigational	Alectinib	C1COCCN1C2CCN(CC2)c(c3)c(CC)cc(c34)C(=O)c5c(C4(C)C)[nH]c6c5ccc(c6)C#N
+622	sp|O14965|AURKA_HU	Q9UM73	72.46	1090.0	1382.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+623	sp|O14965|AURKA_HU	Q9UM73	72.46	1090.0	1382.0	DB12130	approved; investigational	Lorlatinib	Fc(c1)ccc(c12)C(=O)N(C)Cc3c(c(C#N)n(n3)C)c4cc(O[C@@H]2C)c(N)nc4
+624	sp|O14965|AURKA_HU	Q9UM73	72.46	1090.0	1382.0	DB12141	approved; investigational	Gilteritinib	C1COCCC1Nc2c(CC)nc(C(=O)N)c(n2)Nc3ccc(c(c3)OC)N4CCC(CC4)N5CCN(C)CC5
+625	sp|O14965|AURKA_HU	Q9UM73	72.46	1090.0	1382.0	DB12267	approved; investigational	Brigatinib	CN1CCN(CC1)C2CCN(CC2)c3cc(OC)c(cc3)Nc4ncc(Cl)c(n4)Nc5ccccc5P(=O)(C)C
+626	sp|O14965|AURKA_HU	Q9HAZ1	96.28	90.0	478.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+627	sp|O14965|AURKA_HU	Q08345	73.7	605.0	902.0	DB00619	approved	Imatinib	CN1CCN(CC1)Cc2ccc(cc2)C(=O)Nc3cc(c(C)cc3)Nc4nccc(n4)-c5cnccc5
+628	sp|O14965|AURKA_HU	Q08345	73.7	605.0	902.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+629	sp|O14965|AURKA_HU	P11802	74.19	2.0	301.0	DB02733	experimental	Purvalanol	n1cn(C(C)C)c(c12)nc(N[C@@H](CO)C(C)C)nc2Nc3ccc(C(=O)O)c(Cl)c3
+630	sp|O14965|AURKA_HU	P11802	74.19	2.0	301.0	DB03496	experimental; investigational	Alvocidib	CN1CC[C@@H]([C@H](O)C1)c2c(O)cc(O)c(c23)c(=O)cc(o3)-c4ccccc4Cl
+631	sp|O14965|AURKA_HU	P11802	74.19	2.0	301.0	DB09073	approved; investigational	Palbociclib	C1CCCC1n2c(=O)c(C(=O)C)c(C)c(c23)cnc(n3)Nc4ncc(cc4)N5CCNCC5
+632	sp|O14965|AURKA_HU	P11802	74.19	2.0	301.0	DB11730	approved; investigational	Ribociclib	C1CCCC1n2c(C(=O)N(C)C)cc(c23)cnc(n3)Nc4ccc(cn4)N5CCNCC5
+633	sp|O14965|AURKA_HU	P11802	74.19	2.0	301.0	DB12001	approved; investigational	Abemaciclib	CCN1CCN(CC1)Cc2ccc(nc2)Nc3ncc(F)c(n3)-c(c4)cc(F)c(c45)nc(C)n5C(C)C
+634	sp|O14965|AURKA_HU	P11802	74.19	2.0	301.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+635	sp|O14965|AURKA_HU	P53671	78.66	280.0	597.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+636	sp|O14965|AURKA_HU	P49760	95.53	103.0	488.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+637	sp|O14965|AURKA_HU	P33981	71.22	513.0	800.0	DB01782	experimental	Pyrazolanthrone	c1cccc(c12)c3c4c([nH]n3)cccc4C2=O
+638	sp|O14965|AURKA_HU	P33981	71.22	513.0	800.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+639	sp|O14965|AURKA_HU	P33981	71.22	513.0	800.0	DB15498	experimental	BOS172722	Cn1cnnc1-c2cc(OCC)c(cc2)Nc(n3)ncc(c34)cc(C)nc4NCC(C)(C)C
+640	sp|O14965|AURKA_HU	Q16659	74.19	18.0	317.0	DB01017	approved; investigational	Minocycline	O=C1C(C(=O)N)=C(O)[C@@H](N(C)C)[C@@H]([C@@]12O)C[C@H]3C(=C2O)C(=O)c4c(C3)c(N(C)C)ccc4O
+641	sp|O14965|AURKA_HU	Q16659	74.19	18.0	317.0	DB00945	approved; vet_approved	Acetylsalicylic acid	CC(=O)Oc1ccccc1C(=O)O
+642	sp|O14965|AURKA_HU	P31152	73.45	20.0	316.0	DB01017	approved; investigational	Minocycline	O=C1C(C(=O)N)=C(O)[C@@H](N(C)C)[C@@H]([C@@]12O)C[C@H]3C(=C2O)C(=O)c4c(C3)c(N(C)C)ccc4O
+643	sp|O14965|AURKA_HU	P31152	73.45	20.0	316.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+644	sp|O14965|AURKA_HU	P31152	73.45	20.0	316.0	DB00945	approved; vet_approved	Acetylsalicylic acid	CC(=O)Oc1ccccc1C(=O)O
+645	sp|O14965|AURKA_HU	P49840	71.71	116.0	405.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+646	sp|O14965|AURKA_HU	P68400	74.94	27.0	329.0	DB00171	investigational; nutraceutical	ATP	Nc1ncnc(c12)n(cn2)[C@@H]3O[C@@H]([C@@H](O)[C@H]3O)COP(=O)(O)OP(=O)(O)OP(=O)(O)O
+647	sp|O14965|AURKA_HU	P68400	74.94	27.0	329.0	DB01765	experimental	(5-hydroxyindolo[1,2-a]quinazolin-7-yl)acetic acid	c1cccc(c12)n3c(c2CC(=O)O)[nH]c(=O)c4c3cccc4
+648	sp|O14965|AURKA_HU	P68400	74.94	27.0	329.0	DB02170	experimental	1,8-Di-Hydroxy-4-Nitro-Xanthen-9-One	Oc1ccc([N+]([O-])=O)c(c12)oc3c(c2=O)c(O)ccc3
+649	sp|O14965|AURKA_HU	P68400	74.94	27.0	329.0	DB02709	investigational	Resveratrol	Oc1ccc(cc1)/C=C/c2cc(O)cc(O)c2
+650	sp|O14965|AURKA_HU	P68400	74.94	27.0	329.0	DB03035	experimental	1,8-Di-Hydroxy-4-Nitro-Anthraquinone	Oc1cccc(c12)C(=O)c3c(C2=O)c(O)ccc3[N+]([O-])=O
+651	sp|O14965|AURKA_HU	P68400	74.94	27.0	329.0	DB03127	experimental	Benzamidine	NC(=[NH2+])c1ccccc1
+652	sp|O14965|AURKA_HU	P68400	74.94	27.0	329.0	DB03924	experimental	5,8-Di-Amino-1,4-Dihydroxy-Anthraquinone	Nc1ccc(N)c(c12)C(=O)c3c(C2=O)c(O)ccc3O
+653	sp|O14965|AURKA_HU	P68400	74.94	27.0	329.0	DB04216	experimental; investigational	Quercetin	Oc1cc(O)cc(c12)oc(c(c2=O)O)-c3ccc(O)c(O)c3
+654	sp|O14965|AURKA_HU	P68400	74.94	27.0	329.0	DB04395	experimental	Phosphoaminophosphonic Acid-Adenylate Ester	Nc1ncnc(c12)n(cn2)[C@@H]3O[C@H]([C@H](O)[C@H]3O)CO[P@@](=O)(O)O[P@](=O)(O)NP(=O)(O)O
+655	sp|O14965|AURKA_HU	P68400	74.94	27.0	329.0	DB04462	experimental	Tetrabromo-2-Benzotriazole	n1[nH]nc(c12)c(Br)c(Br)c(Br)c2Br
+656	sp|O14965|AURKA_HU	P68400	74.94	27.0	329.0	DB04719	experimental	DIMETHYL-(4,5,6,7-TETRABROMO-1H-BENZOIMIDAZOL-2-YL)-AMINE	CN(C)c([nH]1)nc(c12)c(Br)c(Br)c(Br)c2Br
+657	sp|O14965|AURKA_HU	P68400	74.94	27.0	329.0	DB04720	experimental	S-METHYL-4,5,6,7-TETRABROMO-BENZIMIDAZOLE	CSc([nH]1)nc(c12)c(Br)c(Br)c(Br)c2Br
+658	sp|O14965|AURKA_HU	P68400	74.94	27.0	329.0	DB04721	experimental	N1,N2-ETHYLENE-2-METHYLAMINO-4,5,6,7-TETRABROMO-BENZIMIDAZOLE	CN1CCn(c12)c3c(n2)c(Br)c(Br)c(Br)c3Br
+659	sp|O14965|AURKA_HU	P68400	74.94	27.0	329.0	DB07715	investigational	Emodin	Cc(c1)cc(O)c(c12)C(=O)c3c(C2=O)cc(O)cc3O
+660	sp|O14965|AURKA_HU	P68400	74.94	27.0	329.0	DB07802	experimental	3,8-DIBROMO-7-HYDROXY-4-METHYL-2H-CHROMEN-2-ONE	Cc1c(Br)c(=O)oc(c12)c(Br)c(O)cc2
+661	sp|O14965|AURKA_HU	P68400	74.94	27.0	329.0	DB08338	experimental	19-(cyclopropylamino)-4,6,7,15-tetrahydro-5H-16,1-(azenometheno)-10,14-(metheno)pyrazolo[4,3-o][1,3,9]triazacyclohexadecin-8(9H)-one	O=C(N1)CCCCc2cnn(c(n3)NC4CC4)c2nc3Nc(c5)cccc15
+662	sp|O14965|AURKA_HU	P68400	74.94	27.0	329.0	DB08340	experimental	N,N'-DIPHENYLPYRAZOLO[1,5-A][1,3,5]TRIAZINE-2,4-DIAMINE	c1ccccc1Nc(nc(n23)ccn3)nc2Nc4ccccc4
+663	sp|O14965|AURKA_HU	P68400	74.94	27.0	329.0	DB08345	experimental	4-(2-(1H-IMIDAZOL-4-YL)ETHYLAMINO)-2-(PHENYLAMINO)PYRAZOLO[1,5-A][1,3,5]TRIAZINE-8-CARBONITRILE	c1nc[nH]c1CCNc2nc(nc(n23)c(cn3)C#N)Nc4ccccc4
+664	sp|O14965|AURKA_HU	P68400	74.94	27.0	329.0	DB08353	experimental	2-(CYCLOHEXYLMETHYLAMINO)-4-(PHENYLAMINO)PYRAZOLO[1,5-A][1,3,5]TRIAZINE-8-CARBONITRILE	c1ccccc1Nc2nc(nc(n23)c(cn3)C#N)NCC4CCCCC4
+665	sp|O14965|AURKA_HU	P68400	74.94	27.0	329.0	DB08354	experimental	2-(4-CHLOROBENZYLAMINO)-4-(PHENYLAMINO)PYRAZOLO[1,5-A][1,3,5]TRIAZINE-8-CARBONITRILE	Clc1ccc(cc1)CNc(nc(n23)c(cn3)C#N)nc2Nc4ccccc4
+666	sp|O14965|AURKA_HU	P68400	74.94	27.0	329.0	DB08360	experimental	2-(4-ETHYLPIPERAZIN-1-YL)-4-(PHENYLAMINO)PYRAZOLO[1,5-A][1,3,5]TRIAZINE-8-CARBONITRILE	CCN1CCN(CC1)c(nc(n23)c(cn3)C#N)nc2Nc4ccccc4
+667	sp|O14965|AURKA_HU	P68400	74.94	27.0	329.0	DB08362	experimental	N-(3-(8-CYANO-4-(PHENYLAMINO)PYRAZOLO[1,5-A][1,3,5]TRIAZIN-2-YLAMINO)PHENYL)ACETAMIDE	CC(=O)Nc1cccc(c1)Nc(nc(n23)c(cn3)C#N)nc2Nc4ccccc4
+668	sp|O14965|AURKA_HU	P68400	74.94	27.0	329.0	DB08473	experimental	Dichlororibofuranosylbenzimidazole	OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n2cnc(c23)cc(Cl)c(Cl)c3
+669	sp|O14965|AURKA_HU	P68400	74.94	27.0	329.0	DB08660	experimental	Quinalizarin	Oc1ccc(O)c(c12)C(=O)c3c(C2=O)ccc(O)c3O
+670	sp|O14965|AURKA_HU	P68400	74.94	27.0	329.0	DB08846	investigational	Ellagic acid	Oc(c1)c(O)c(c2c13)oc(=O)c4c2c(oc3=O)c(O)c(c4)O
+671	sp|O14965|AURKA_HU	P68400	74.94	27.0	329.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+672	sp|O14965|AURKA_HU	P49761	97.77	238.0	632.0	DB07664	experimental	K-00546	O=S(=O)(N)c1ccc(cc1)Nc2nc(N)n(n2)C(=S)Nc3c(F)cccc3F
+673	sp|O14965|AURKA_HU	P49761	97.77	238.0	632.0	DB08691	experimental	ethyl 3-[(E)-2-amino-1-cyanoethenyl]-6,7-dichloro-1-methyl-1H-indole-2-carboxylate	CCOC(=O)c(n1C)c(/C(C#N)=C\N)c(c12)ccc(Cl)c2Cl
+674	sp|O14965|AURKA_HU	P49761	97.77	238.0	632.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+675	sp|O14965|AURKA_HU	P19784	74.94	32.0	334.0	DB07546	experimental	[1-(6-{6-[(1-methylethyl)amino]-1H-indazol-1-yl}pyrazin-2-yl)-1H-pyrrol-3-yl]acetic acid	CC(C)Nc(cc1)cc(c12)n(nc2)-c3nc(cnc3)-n4ccc(c4)CC(=O)O
+676	sp|O14965|AURKA_HU	P19784	74.94	32.0	334.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+677	sp|O14965|AURKA_HU	P49841	72.95	51.0	345.0	DB01356	experimental	Lithium cation	[Li+]
+678	sp|O14965|AURKA_HU	P49841	72.95	51.0	345.0	DB01772	experimental	3-[3-(2,3-Dihydroxy-Propylamino)-Phenyl]-4-(5-Fluoro-1-Methyl-1h-Indol-3-Yl)-Pyrrole-2,5-Dione	OC[C@@H](O)CNc1cccc(c1)C2=C(C(=O)NC2=O)c3cn(C)c(c34)ccc(F)c4
+679	sp|O14965|AURKA_HU	P49841	72.95	51.0	345.0	DB01793	experimental	SB-409513	OC(=O)c1cc(ccc1Cl)NC2=C(C(=O)NC2=O)c3cc(Cl)ccc3
+680	sp|O14965|AURKA_HU	P49841	72.95	51.0	345.0	DB01950	experimental	AR-AO-14418	COc1ccc(cc1)CNC(=O)Nc2ncc(s2)[N+]([O-])=O
+681	sp|O14965|AURKA_HU	P49841	72.95	51.0	345.0	DB02010	experimental	Staurosporine	CO[C@@H]1[C@H](NC)C[C@@H](O2)n(c3c4n5[C@]12C)c6c(cccc6)c3c7c(CNC7=O)c4c8c5cccc8
+682	sp|O14965|AURKA_HU	P49841	72.95	51.0	345.0	DB02052	experimental	Indirubin-3'-monoxime	c1cccc(c12)NC(\C\2=N\O)=C3/C(=O)Nc(c34)cccc4
+683	sp|O14965|AURKA_HU	P49841	72.95	51.0	345.0	DB03444	experimental	6-bromoindirubin-3'-oxime	c1cccc(c12)NC(\C\2=N\O)=C3/C(=O)Nc(c34)cc(Br)cc4
+684	sp|O14965|AURKA_HU	P49841	72.95	51.0	345.0	DB04014	experimental	Alsterpaullone	[O-][N+](=O)c(cc1)cc(c12)c3c([nH]2)c4c(NC(=O)C3)cccc4
+685	sp|O14965|AURKA_HU	P49841	72.95	51.0	345.0	DB04395	experimental	Phosphoaminophosphonic Acid-Adenylate Ester	Nc1ncnc(c12)n(cn2)[C@@H]3O[C@H]([C@H](O)[C@H]3O)CO[P@@](=O)(O)O[P@](=O)(O)NP(=O)(O)O
+686	sp|O14965|AURKA_HU	P49841	72.95	51.0	345.0	DB07014	experimental	2-(1,3-benzodioxol-5-yl)-5-[(3-fluoro-4-methoxybenzyl)sulfanyl]-1,3,4-oxadiazole	COc1c(F)cc(cc1)CSc2nnc(o2)-c(cc3)cc(c34)OCO4
+687	sp|O14965|AURKA_HU	P49841	72.95	51.0	345.0	DB07058	experimental	5-[1-(4-methoxyphenyl)-1H-benzimidazol-6-yl]-1,3,4-oxadiazole-2(3H)-thione	COc1ccc(cc1)-n2cnc(c23)ccc(c3)-c4n[nH]c(=S)o4
+688	sp|O14965|AURKA_HU	P49841	72.95	51.0	345.0	DB07149	experimental	(7S)-2-(2-aminopyrimidin-4-yl)-7-(2-fluoroethyl)-1,5,6,7-tetrahydro-4H-pyrrolo[3,2-c]pyridin-4-one	FCC[C@H]1CNC(=O)c(c12)cc([nH]2)-c3nc(N)ncc3
+689	sp|O14965|AURKA_HU	P49841	72.95	51.0	345.0	DB07584	experimental	N-[2-(5-methyl-4H-1,2,4-triazol-3-yl)phenyl]-7H-pyrrolo[2,3-d]pyrimidin-4-amine	Cc1nnc([nH]1)-c2ccccc2Nc3ncnc(c34)[nH]cc4
+690	sp|O14965|AURKA_HU	P49841	72.95	51.0	345.0	DB07585	experimental	5-(5-chloro-7H-pyrrolo[2,3-d]pyrimidin-4-yl)-4,5,6,7-tetrahydro-1H-imidazo[4,5-c]pyridine	Clc1c[nH]c(c12)ncnc2N(C3)CCc(c34)[nH]cn4
+691	sp|O14965|AURKA_HU	P49841	72.95	51.0	345.0	DB07676	experimental	3-({[(3S)-3,4-dihydroxybutyl]oxy}amino)-1H,2'H-2,3'-biindol-2'-one	OC[C@@H](O)CCONc1c([nH]c(c12)cccc2)C(C(=O)N=3)=c(c34)cccc4
+692	sp|O14965|AURKA_HU	P49841	72.95	51.0	345.0	DB07812	experimental	N-[(1S)-2-amino-1-phenylethyl]-5-(1H-pyrrolo[2,3-b]pyridin-4-yl)thiophene-2-carboxamide	c1ccccc1[C@@H](CN)NC(=O)c2ccc(s2)-c(ccn3)c(c34)cc[nH]4
+693	sp|O14965|AURKA_HU	P49841	72.95	51.0	345.0	DB07859	experimental	4-(4-CHLOROPHENYL)-4-[4-(1H-PYRAZOL-4-YL)PHENYL]PIPERIDINE	Clc1ccc(cc1)C2(CCNCC2)c3ccc(cc3)-c4c[nH]nc4
+694	sp|O14965|AURKA_HU	P49841	72.95	51.0	345.0	DB07947	experimental	ISOQUINOLINE-5-SULFONIC ACID (2-(2-(4-CHLOROBENZYLOXY)ETHYLAMINO)ETHYL)AMIDE	Clc1ccc(cc1)COCCNCCNS(=O)(=O)c2cccc(c23)cncc3
+695	sp|O14965|AURKA_HU	P49841	72.95	51.0	345.0	DB08073	experimental	(2S)-1-(1H-INDOL-3-YL)-3-{[5-(3-METHYL-1H-INDAZOL-5-YL)PYRIDIN-3-YL]OXY}PROPAN-2-AMINE	c1cccc(c12)[nH]cc2C[C@H](N)COc3cncc(c3)-c(c4)ccc(c45)[nH]nc5C
+696	sp|O14965|AURKA_HU	P49841	72.95	51.0	345.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+697	sp|O14965|AURKA_HU	P49841	72.95	51.0	345.0	DB12129	investigational; withdrawn	Tideglusib	c1cccc(c12)c(ccc2)-n3sc(=O)n(c3=O)Cc4ccccc4
+698	sp|O14965|AURKA_HU	P49841	72.95	51.0	345.0	DB14507	approved	Lithium citrate	[O-]C(=O)CC(O)(C([O-])=O)CC([O-])=O
+699	sp|O14965|AURKA_HU	P49841	72.95	51.0	345.0	DB14508	experimental	Lithium succinate	[O-]C(=O)CCC([O-])=O
+700	sp|O14965|AURKA_HU	P49841	72.95	51.0	345.0	DB14509	approved	Lithium carbonate	[O-]C([O-])=O
+701	sp|O14965|AURKA_HU	Q9H2X6	71.96	127.0	417.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+702	sp|O14965|AURKA_HU	Q8IIR9	73.7	35.0	332.0	DB11638	experimental; investigational	Artenimol	[C@]123[C@H]4CC[C@@H](C)[C@@H]1CC[C@@](C)(OO2)O[C@H]3OC(O)[C@@H]4C
+703	sp|O14965|AURKA_HU	O75460	88.34	487.0	843.0	DB07382	experimental	N~2~-1H-benzimidazol-5-yl-N~4~-(3-cyclopropyl-1H-pyrazol-5-yl)pyrimidine-2,4-diamine	C1CC1c2n[nH]c(c2)Nc3ccnc(n3)Nc(cc4)cc(c45)nc[nH]5
+704	sp|O14965|AURKA_HU	O75460	88.34	487.0	843.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+705	sp|O14965|AURKA_HU	Q13523	81.64	677.0	1006.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+706	sp|O14965|AURKA_HU	P49336	81.14	11.0	338.0	DB03496	experimental; investigational	Alvocidib	CN1CC[C@@H]([C@H](O)C1)c2c(O)cc(O)c(c23)c(=O)cc(o3)-c4ccccc4Cl
+707	sp|O14965|AURKA_HU	Q8TDR2	80.65	198.0	523.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+708	sp|O14965|AURKA_HU	O00238	72.46	198.0	490.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+710	sp|O14965|AURKA_HU	P30291	77.92	265.0	579.0	DB04608	experimental	9-HYDROXY-4-PHENYL-6H-PYRROLO[3,4-C]CARBAZOLE-1,3-DIONE	c1cc(O)cc(c12)c3c([nH]2)cc(c4c3C(=O)NC4=O)-c5ccccc5
+711	sp|O14965|AURKA_HU	P30291	77.92	265.0	579.0	DB07006	experimental	9-HYDROXY-6-(3-HYDROXYPROPYL)-4-(2-METHOXYPHENYL)PYRROLO[3,4-C]CARBAZOLE-1,3(2H,6H)-DIONE	COc1ccccc1-c2cc(c3c(c24)C(=O)NC4=O)n(CCCO)c5c3cc(O)cc5
+712	sp|O14965|AURKA_HU	P30291	77.92	265.0	579.0	DB07226	experimental	N-[4-(2-CHLOROPHENYL)-1,3-DIOXO-1,2,3,6-TETRAHYDROPYRROLO[3,4-C]CARBAZOL-9-YL]FORMAMIDE	Clc1ccccc1-c2cc(c3c(c24)C(=O)NC4=O)[nH]c5c3cc(cc5)NC=O
+713	sp|O14965|AURKA_HU	P30291	77.92	265.0	579.0	DB07257	experimental	4-(2-chlorophenyl)-8-(2-hydroxyethyl)-6-methylpyrrolo[3,4-e]indole-1,3(2H,6H)-dione	OCCc(cn1C)c(c12)c3c(C(=O)NC3=O)c(c2)-c4ccccc4Cl
+714	sp|O14965|AURKA_HU	P30291	77.92	265.0	579.0	DB07265	experimental	3-(9-HYDROXY-1,3-DIOXO-4-PHENYL-2,3-DIHYDROPYRROLO[3,4-C]CARBAZOL-6(1H)-YL)PROPANOIC ACID	Oc(c1)ccc(c12)n(CCC(=O)O)c3c2c4c(C(=O)NC4=O)c(c3)-c5ccccc5
+715	sp|O14965|AURKA_HU	P30291	77.92	265.0	579.0	DB08365	experimental	8-bromo-4-(2-chlorophenyl)-N-(2-hydroxyethyl)-6-methyl-1,3-dioxo-1,2,3,6-tetrahydropyrrolo[3,4-e]indole-7-carboxamide	OCCNC(=O)c(c1Br)n(C)c(c12)cc(c3c2C(=O)NC3=O)-c4c(Cl)cccc4
+716	sp|O14965|AURKA_HU	P30291	77.92	265.0	579.0	DB11740	investigational	MK-1775	CN1CCN(CC1)c2ccc(cc2)Nc(n3)ncc(c34)c(=O)n(CC=C)n4-c5nc(C(C)(C)O)ccc5
+717	sp|O14965|AURKA_HU	P30291	77.92	265.0	579.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+718	sp|O14965|AURKA_HU	Q04771	72.21	203.0	494.0	DB00171	investigational; nutraceutical	ATP	Nc1ncnc(c12)n(cn2)[C@@H]3O[C@@H]([C@@H](O)[C@H]3O)COP(=O)(O)OP(=O)(O)OP(=O)(O)O
+719	sp|O14965|AURKA_HU	Q04771	72.21	203.0	494.0	DB08597	experimental	Dorsomorphin	C1CCCCN1CCOc2ccc(cc2)-c(cn3)cn(c34)ncc4-c5ccncc5
+720	sp|O14965|AURKA_HU	Q04771	72.21	203.0	494.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+721	sp|O14965|AURKA_HU	P51617	75.93	210.0	516.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+722	sp|O14965|AURKA_HU	P37023	72.21	198.0	489.0	DB00171	investigational; nutraceutical	ATP	Nc1ncnc(c12)n(cn2)[C@@H]3O[C@@H]([C@@H](O)[C@H]3O)COP(=O)(O)OP(=O)(O)OP(=O)(O)O
+723	sp|O14965|AURKA_HU	P36897	71.22	203.0	490.0	DB03921	experimental	4-(3-Pyridin-2-Yl-1h-Pyrazol-4-Yl)Quinoline	n1ccccc1-c2n[nH]cc2-c(ccn3)c(c34)cccc4
+724	sp|O14965|AURKA_HU	P36897	71.22	203.0	490.0	DB04434	experimental	Naphthyridine Inhibitor	Cc1cccc(n1)C2=C(CNN2)c(n3)ccc(c34)nccc4
+725	sp|O14965|AURKA_HU	P36897	71.22	203.0	490.0	DB04480	experimental	3-(4-Fluorophenyl)-2-(6-Methylpyridin-2-Yl)-5,6-Dihydro-4h-Pyrrolo[1,2-B]Pyrazole	C1CCn(c12)nc(-c(nc3C)ccc3)c2-c4ccc(F)cc4
+726	sp|O14965|AURKA_HU	P36897	71.22	203.0	490.0	DB07152	experimental	N-[4-(5-fluoro-6-methylpyridin-2-yl)-5-quinoxalin-6-yl-1H-imidazol-2-yl]acetamide	Fc1ccc(nc1C)-c2nc(NC(=O)C)[nH]c2-c(c3)ccc(c34)nccn4
+727	sp|O14965|AURKA_HU	P36897	71.22	203.0	490.0	DB07267	experimental	2-(6-methylpyridin-2-yl)-N-pyridin-4-ylquinazolin-4-amine	Cc1cccc(n1)-c(n2)nc(c(c23)cccc3)Nc4ccncc4
+728	sp|O14965|AURKA_HU	P36897	71.22	203.0	490.0	DB08450	experimental	N-1H-indazol-5-yl-2-(6-methylpyridin-2-yl)quinazolin-4-amine	Cc1cccc(n1)-c(n2)nc(c(c23)cccc3)Nc(c4)ccc(c45)[nH]nc5
+729	sp|O14965|AURKA_HU	P36897	71.22	203.0	490.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+732	sp|O14965|AURKA_HU	P37173	73.7	239.0	536.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+734	sp|O14965|AURKA_HU	Q13873	75.68	192.0	497.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+735	sp|O14965|AURKA_HU	P36896	71.71	203.0	492.0	DB00171	investigational; nutraceutical	ATP	Nc1ncnc(c12)n(cn2)[C@@H]3O[C@@H]([C@@H](O)[C@H]3O)COP(=O)(O)OP(=O)(O)OP(=O)(O)O
+736	sp|O14965|AURKA_HU	P36896	71.71	203.0	492.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+737	sp|O14965|AURKA_HU	Q9HCP0	70.47	7.0	291.0	DB08325	experimental	2-({6-[(3-Chlorophenyl)amino]-9-isopropyl-9H-purin-2-yl}amino)ethanol	CC(C)n1cnc(c12)c(nc(n2)NCCO)Nc3cc(Cl)ccc3
+738	sp|O14965|AURKA_HU	P0C264	71.96	5.0	295.0	DB12010	approved; investigational	Fostamatinib	COc1c(OC)cc(cc1OC)Nc2ncc(F)c(n2)Nc(cc3)nc(c34)N(C(=O)C(O4)(C)C)COP(=O)(O)O
+739	sp|O14965|AURKA_HU	Q16671	75.43	202.0	506.0	DB00171	investigational; nutraceutical	ATP	Nc1ncnc(c12)n(cn2)[C@@H]3O[C@@H]([C@@H](O)[C@H]3O)COP(=O)(O)OP(=O)(O)OP(=O)(O)O

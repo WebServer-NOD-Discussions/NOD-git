@@ -1,0 +1,13 @@
+mode1,/prod/www/nslab/NOD/Results/SC_Mtb_16_retry_results_0.418/qFile.fasta,/prod/www/nslab/NOD/Results/SC_Mtb_16_retry_results_0.418/, SC_Mtb_16_retry, SC_Mtb_16_retry
+python bin/preSubmitCheck.py mode1 /prod/www/nslab/NOD/Results/SC_Mtb_16_retry_results_0.418/qFile.fasta /prod/www/nslab/NOD/Results/SC_Mtb_16_retry_results_0.418/ &> preSubmit.log
+
+
+python bin/master_handler_v2.py mode1 /prod/www/nslab/NOD/Results/SC_Mtb_16_retry_results_0.418//query.fasta /prod/www/nslab/NOD/Results/SC_Mtb_16_retry_results_0.418/ &> /prod/www/nslab/NOD/Results/SC_Mtb_16_retry_results_0.418//handler.log
+
+
+python NOD/mailContent.py mode1 /prod/www/nslab/NOD/Results/SC_Mtb_16_retry_results_0.418/ Results/SC_Mtb_16_retry_results_0.418 SC_Mtb_16_retry &> /prod/www/nslab/NOD/Results/SC_Mtb_16_retry_results_0.418//mailContent.log
+
+
+python bin/postEmail.py mode1 Results/SC_Mtb_16_retry_results_0.418 SC_Mtb_16_retry SC_Mtb_16_retry sohini@iisc.ac.in &> /prod/www/nslab/NOD/Results/SC_Mtb_16_retry_results_0.418//pushMail.log
+
+

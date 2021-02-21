@@ -1,0 +1,5 @@
+	Query	Target	Query-Cov	Align-From	Align-To	1-Candidate	1-Mol.Name	1-Reg.Status	2-Candidate	2-Mol.Name	2-Reg.Status	Similarity by Tcoff
+0	sp|P11274|BCR_HUMA	P11274	99.92	1	1271	DB00619	Imatinib	approved	DB00619	Imatinib	approved	1.0
+1	sp|P11274|BCR_HUMA	P11274	99.92	1	1271	DB01254	Dasatinib	approved; investigational	DB01254	Dasatinib	approved; investigational	1.0
+2	sp|P11274|BCR_HUMA	P11274	99.92	1	1271	DB06616	Bosutinib	approved	DB06616	Bosutinib	approved	1.0
+3	sp|P11274|BCR_HUMA	P11274	99.92	1	1271	DB08901	Ponatinib	approved; investigational	DB08901	Ponatinib	approved; investigational	1.0

@@ -1,0 +1,65 @@
+	Number of sequences input by user are: 5
+
+	INITIATIED Homology Search with	
+:/prod/www/nslab/NOD/Results/SC_Pfal_5seq_results_0.187//pyRunHmmer.smry	/prod/www/nslab/NOD/Results/SC_Pfal_5seq_results_0.187//pyRunHmmer.align	/prod/www/nslab/NOD/Results/SC_Pfal_5seq_results_0.187//pyRunHmmer.tsv	FASTA	05	FASTA	/prod/www/nslab/NOD/Results/SC_Pfal_5seq_results_0.187//query.fasta	source/1-DgB_TargetProteins.fasta
+	COMPLETED Homology Search
+
+TIME-Homology-Search:	9.52
+
+	FORMATTED: Homology Search output into Tables
+
+TIME-Sanitize-hmmer:	0.02
+
+	Homology table is being FILTERED based on e-value and query coverage
+
+	RETRIEVED: Relevant hits from homology table
+
+TIME-Filter-Table:	0.03
+	Entered in MODE-1
+
+	MAPPING the ids onto DrugBank database to find potent compunds
+
+	Extracted DBids from jackHmmer:	DB00205; DB01131; DB01299
+Find a match against DB00205 in DgBankDB: target
+Find a match against  DB01131 in DgBankDB: target
+Find a match against  DB01299 in DgBankDB: target
+
+	Extracted DBids from jackHmmer:	DB00359; DB00664; DB01145; DB01299; DB06147; DB08798
+Find a match against DB00359 in DgBankDB: target
+Find a match against  DB00664 in DgBankDB: target
+Find a match against  DB01145 in DgBankDB: target
+Find a match against  DB01299 in DgBankDB: target
+Find a match against  DB06147 in DgBankDB: target
+Find a match against  DB08798 in DgBankDB: target
+
+	Extracted DBids from jackHmmer:	quinone), mitochondrial 
+Find a match against quinone), mitochondrial  in DgBankDB: target
+		Sorry! The DBid(s) quinone), mitochondrial could not be matched in the DrugBank
+
+
+	Extracted DBids from jackHmmer:	DB01117
+Find a match against DB01117 in DgBankDB: target
+
+	Extracted DBids from jackHmmer:	DB04141; DB04799; DB07401; DB07636; DB07763; DB07778; DB08330; DB08453; DB08690
+Find a match against DB04141 in DgBankDB: target
+Find a match against  DB04799 in DgBankDB: target
+Find a match against  DB07401 in DgBankDB: target
+Find a match against  DB07636 in DgBankDB: target
+Find a match against  DB07763 in DgBankDB: target
+Find a match against  DB07778 in DgBankDB: target
+Find a match against  DB08330 in DgBankDB: target
+Find a match against  DB08453 in DgBankDB: target
+Find a match against  DB08690 in DgBankDB: target
+
+	Extracted DBids from jackHmmer:	DB03152; DB08690
+Find a match against DB03152 in DgBankDB: target
+Find a match against  DB08690 in DgBankDB: target
+
+	Extracted DBids from jackHmmer:	DB09274
+Find a match against DB09274 in DgBankDB: target
+
+	FETCHED: Potent Drugbank compounds details
+
+TIME-MODE1-Run:	7.98
+
+TIME-Complete-Run:	17.55

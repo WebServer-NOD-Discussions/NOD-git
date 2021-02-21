@@ -1,0 +1,54 @@
+	Number of sequences input by user are: 13
+
+	INITIATIED Homology Search with	
+:/prod/www/nslab/NOD/Results/SC_CS_M1_14_results_0.836//pyRunHmmer.smry	/prod/www/nslab/NOD/Results/SC_CS_M1_14_results_0.836//pyRunHmmer.align	/prod/www/nslab/NOD/Results/SC_CS_M1_14_results_0.836//pyRunHmmer.tsv	FASTA	05	FASTA	/prod/www/nslab/NOD/Results/SC_CS_M1_14_results_0.836//query.fasta	source/1-DgB_TargetProteins.fasta
+	COMPLETED Homology Search
+
+TIME-Homology-Search:	84.83
+
+	FORMATTED: Homology Search output into Tables
+
+TIME-Sanitize-hmmer:	0.09
+
+	Homology table is being FILTERED based on e-value and query coverage
+
+	RETEIVED: Relevant hits from homology table
+
+TIME-Filter-Table:	0.04
+	Entered in MODE-1
+
+	MAPPING the ids onto DrugBank database to find potent compunds
+
+	Extracted DBids from jackHmmer:	DB08748
+Find a match against DB08748 in DgBankDB: target
+
+	Extracted DBids from jackHmmer:	DB07620; DB07743; DB08732
+Find a match against DB07620 in DgBankDB: target
+Find a match against  DB07743 in DgBankDB: target
+Find a match against  DB08732 in DgBankDB: target
+
+	Extracted DBids from jackHmmer:	DB07293; DB07620; DB07743; DB08656; DB08732; DB08748; DB14761; DB15686
+Find a match against DB07293 in DgBankDB: target
+Find a match against  DB07620 in DgBankDB: target
+Find a match against  DB07743 in DgBankDB: target
+Find a match against  DB08656 in DgBankDB: target
+Find a match against  DB08732 in DgBankDB: target
+Find a match against  DB08748 in DgBankDB: target
+Find a match against  DB14761 in DgBankDB: target
+Find a match against  DB15686 in DgBankDB: target
+
+	Extracted DBids from jackHmmer:	DB07293; DB07620; DB07743; DB08656; DB08732; DB08748; DB14761; DB15686
+Find a match against DB07293 in DgBankDB: target
+Find a match against  DB07620 in DgBankDB: target
+Find a match against  DB07743 in DgBankDB: target
+Find a match against  DB08656 in DgBankDB: target
+Find a match against  DB08732 in DgBankDB: target
+Find a match against  DB08748 in DgBankDB: target
+Find a match against  DB14761 in DgBankDB: target
+Find a match against  DB15686 in DgBankDB: target
+
+	FETCHED: Potent Drugbank compounds details
+
+TIME-MODE1-Run:	6.81
+
+TIME-Complete-Run:	91.76

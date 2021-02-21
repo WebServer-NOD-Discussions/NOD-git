@@ -1,0 +1,2 @@
+	tName	tAcc	tLen	qName	qAcc	qLen	eVal	score	bias	domNo	totDom	domCval	domIval	domScor	domBias	hmmStrt	hmmEnd	aliStrt	aliEnd	envStrt	envEnd	envAccu	description	qCov
+0	drugbank_target|P0C6X7	-	7073	sp|P0DTD1|R1AB_SAR	-	7096	0.0	16884.8	138.1	1	1	0.0	0.0	16884.7	138.1	1	7096	1	7073	1	7073	1.0	Replicase polyprotein 1ab (DB07293; DB07620; DB07743; DB08656; DB08732; DB08748; DB14761; DB15686)	99.66

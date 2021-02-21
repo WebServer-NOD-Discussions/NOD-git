@@ -1,0 +1,109 @@
+	Query	Target	Query-Cov	Align-From	Align-To	DrugBank ID	Reg.Status	Mol.Name	SMILES
+0	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00215	approved	Citalopram	Fc1ccc(cc1)C2(CCCN(C)C)OCc(c23)cc(C#N)cc3
+1	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00245	approved	Benzatropine	[C@@H]12CC[C@@H](N1C)C[C@@H](C2)OC(c3ccccc3)c4ccccc4
+2	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00246	approved	Ziprasidone	O=C(N1)Cc(c12)cc(c(Cl)c2)CCN3CCN(CC3)c4nsc(c45)cccc5
+3	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00283	approved; investigational	Clemastine	CN1CCC[C@@H]1CCO[C@](C)(c2ccccc2)c3ccc(Cl)cc3
+4	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00321	approved	Amitriptyline	CN(C)CCC=C1c(cccc2)c2CCc(c13)cccc3
+5	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00334	approved; investigational	Olanzapine	CN1CCN(CC1)C2=Nc(cccc3)c3Nc(c24)sc(c4)C
+6	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00341	approved	Cetirizine	OC(=O)COCCN1CCN(CC1)C(c2ccccc2)c3ccc(Cl)cc3
+7	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00342	approved; withdrawn	Terfenadine	CC(C)(C)c1ccc(cc1)C(O)CCCN2CCC(CC2)C(O)(c3ccccc3)c4ccccc4
+8	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00354	approved	Buclizine	CC(C)(C)c1ccc(cc1)CN2CCN(CC2)C(c3ccccc3)c4ccc(Cl)cc4
+9	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00363	approved	Clozapine	CN1CCN(CC1)C2=Nc(cc(Cl)cc3)c3Nc(c24)cccc4
+10	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00366	approved; vet_approved	Doxylamine	c1cccnc1C(C)(OCCN(C)C)c2ccccc2
+11	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00370	approved	Mirtazapine	CN(C1)CCN(C12)c3c(cccn3)Cc4c2cccc4
+12	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00405	approved	Dexbrompheniramine	c1cccnc1[C@@H](CCN(C)C)c2ccc(Br)cc2
+13	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00408	approved	Loxapine	CN1CCN(CC1)C2=Nc(cccc3)c3Oc(c24)ccc(Cl)c4
+14	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00420	approved; vet_approved	Promazine	CN(C)CCCN1c(cccc2)c2Sc(c13)cccc3
+15	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00427	approved	Triprolidine	c1cccnc1/C(c2ccc(C)cc2)=C/CN3CCCC3
+16	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00433	approved; vet_approved	Prochlorperazine	CN1CCN(CC1)CCCN2c(cccc3)c3Sc(c24)ccc(Cl)c4
+17	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00434	approved	Cyproheptadine	CN1CCC(CC1)=C2c(cccc3)c3C=Cc(c24)cccc4
+18	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00455	approved; investigational	Loratadine	CCOC(=O)N1CCC(CC1)=C2c(ccc(Cl)c3)c3CCc(c24)cccn4
+19	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00458	approved	Imipramine	CN(C)CCCN1c(cccc2)c2CCc(c13)cccc3
+20	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00477	approved; investigational; vet_approved	Chlorpromazine	CN(C)CCCN1c(cccc2)c2Sc(c13)ccc(Cl)c3
+21	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00502	approved	Haloperidol	Clc1ccc(cc1)C2(O)CCN(CC2)CCCC(=O)c3ccc(F)cc3
+22	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00540	approved	Nortriptyline	CNCCC=C1c(cccc2)c2CCc(c13)cccc3
+23	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00543	approved	Amoxapine	C1CNCCN1C(c(c23)cc(Cl)cc2)=Nc4c(O3)cccc4
+24	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00555	approved; investigational	Lamotrigine	Nc1nc(N)c(nn1)-c2c(Cl)c(Cl)ccc2
+25	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00557	approved	Hydroxyzine	OCCOCCN1CCN(CC1)C(c2ccccc2)c3ccc(Cl)cc3
+26	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00568	approved; investigational	Cinnarizine	c1ccccc1/C=C/CN2CCN(CC2)C(c3ccccc3)c4ccccc4
+27	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00637	approved; withdrawn	Astemizole	COc1ccc(cc1)CCN2CCC(CC2)Nc(nc(c34)cccc4)n3Cc5ccc(F)cc5
+28	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00656	approved; investigational	Trazodone	Clc1cccc(c1)N2CCN(CC2)CCCn(c3=O)nc(n34)cccc4
+29	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00715	approved; investigational	Paroxetine	Fc1ccc(cc1)[C@@H]2CCNC[C@H]2COc(cc3)cc(c34)OCO4
+30	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00719	approved	Azatadine	CN1CCC(CC1)=C2c(cccc3)c3CCc(c24)cccn4
+31	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00726	approved	Trimipramine	CN(C)CC(C)CN1c(cccc2)c2CCc(c13)cccc3
+32	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00734	approved; investigational	Risperidone	C1CCCn(c12)c(=O)c(c(n2)C)CCN3CCC(CC3)c4noc(c45)cc(F)cc5
+33	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00737	approved	Meclizine	Cc1cc(ccc1)CN2CCN(CC2)C(c3ccccc3)c4ccc(Cl)cc4
+34	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00748	approved	Carbinoxamine	c1cccnc1C(OCCN(C)C)c2ccc(Cl)cc2
+35	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00751	approved; investigational	Epinastine	NC1=NCC(N12)c3c(cccc3)Cc4c2cccc4
+36	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00767	withdrawn	Benzquinamide	CCN(CC)C(=O)C(C(C1)OC(=O)C)CN(C12)CCc3c2cc(OC)c(c3)OC
+37	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00768	approved	Olopatadine	CN(C)CC/C=C\1c(cccc2)c2COc(c13)ccc(c3)CC(=O)O
+38	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00777	approved	Propiomazine	CCC(=O)c(cc1)cc(c12)N(CC(C)N(C)C)c3c(S2)cccc3
+39	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00792	approved; vet_approved	Tripelennamine	c1cccnc1N(CCN(C)C)Cc2ccccc2
+40	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00797	approved; vet_approved	Tolazoline	N1CCN=C1Cc2ccccc2
+41	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00835	approved	Brompheniramine	c1cccnc1C(CCN(C)C)c2ccc(Br)cc2
+42	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00902	approved	Methdilazine	CN1CCC(C1)CN2c(cccc3)c3Sc(c24)cccc4
+43	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00920	approved	Ketotifen	CN1CCC(CC1)=C2c(ccs3)c3C(=O)Cc(c24)cccc4
+44	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00934	approved; investigational	Maprotiline	CNCCCC12c3c(cccc3)C(CC1)c4c2cccc4
+45	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00950	approved; investigational	Fexofenadine	OC(=O)C(C)(C)c1ccc(cc1)C(O)CCCN2CCC(CC2)C(O)(c3ccccc3)c4ccccc4
+46	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00967	approved; investigational	Desloratadine	C1CNCCC1=C(c(c23)nccc2)c4c(CC3)cc(Cl)cc4
+47	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00972	approved	Azelastine	CN1CCCC(CC1)n(c2=O)nc(c(c23)cccc3)Cc4ccc(Cl)cc4
+48	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB00985	approved	Dimenhydrinate	c1ccccc1C(OCCN(C)C)c2ccccc2
+49	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01069	approved; investigational	Promethazine	CN(C)C(C)CN1c(cccc2)c2Sc(c13)cccc3
+50	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01071	experimental	Mequitazine	C12CCN(CC1)CC2CN3c(cccc4)c4Sc(c35)cccc5
+51	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01075	approved; investigational	Diphenhydramine	c1ccccc1C(OCCN(C)C)c2ccccc2
+52	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01084	approved	Emedastine	CCOCCn1c(nc(c12)cccc2)N3CCCN(C)CC3
+53	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01106	approved; investigational	Levocabastine	c1ccccc1[C@]2(C(=O)O)[C@H](C)CN(CC2)[C@@H](CC3)CC[C@@]3(C#N)c4ccc(F)cc4
+54	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01114	approved	Chlorpheniramine	c1cccnc1C(CCN(C)C)c2ccc(Cl)cc2
+55	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01142	approved; investigational	Doxepin	CN(C)CC/C=C\1c(cccc2)c2COc(c13)cccc3
+56	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01146	approved; investigational	Diphenylpyraline	CN1CCC(CC1)OC(c2ccccc2)c3ccccc3
+57	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01151	approved; investigational	Desipramine	CNCCCN1c(cccc2)c2CCc(c13)cccc3
+58	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01173	approved	Orphenadrine	c1ccccc1C(OCCN(C)C)c2ccccc2C
+59	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01175	approved	Escitalopram	Fc1ccc(cc1)[C@]2(CCCN(C)C)OCc(c23)cc(C#N)cc3
+60	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01176	approved	Cyclizine	c1ccccc1C(N2CCN(C)CC2)c3ccccc3
+61	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01224	approved	Quetiapine	OCCOCCN1CCN(CC1)C2=Nc(cccc3)c3Sc(c24)cccc4
+62	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01237	approved	Bromodiphenhydramine	Brc1ccc(cc1)C(OCCN(C)C)c2ccccc2
+63	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01238	approved; investigational	Aripiprazole	Clc1cccc(c1Cl)N2CCN(CC2)CCCCOc(cc3)cc(c34)NC(=O)CC4
+64	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01239	approved; experimental; investigational; withdrawn	Chlorprothixene	CN(C)CC/C=C\1c(cccc2)c2Sc(c13)ccc(Cl)c3
+65	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01246	approved; vet_approved	Alimemazine	CN(C)CC(C)CN1c(cccc2)c2Sc(c13)cccc3
+66	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01267	approved	Paliperidone	OC1CCCn(c12)c(=O)c(c(n2)C)CCN3CCC(CC3)c4noc(c45)cc(F)cc5
+67	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01403	approved; investigational	Methotrimeprazine	COc(cc1)cc(c12)N(C[C@H](C)CN(C)C)c3c(S2)cccc3
+68	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01615	experimental	Aceprometazine	CN(C)C(C)CN1c(cccc2)c2Sc(c13)ccc(c3)C(=O)C
+69	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01619	approved	Phenindamine	c1ccccc1C2c(cccc3)c3C(=C24)CCN(C4)C
+70	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01620	approved	Pheniramine	c1cccnc1C(CCN(C)C)c2ccccc2
+71	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB01624	approved; investigational	Zuclopenthixol	OCCN1CCN(CC1)CC/C=C\2c(cccc3)c3Sc(c24)ccc(Cl)c4
+72	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB04837	approved; withdrawn	Clofedanol	c1ccccc1C(O)(CCN(C)C)c2ccccc2Cl
+73	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB04841	approved	Flunarizine	c1cc(F)ccc1C(c(cc2)ccc2F)N3CCN(CC3)C/C=C/c4ccccc4
+74	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB04890	approved	Bepotastine	OC(=O)CCCN1CCC(CC1)OC(c2ccccn2)c3ccc(Cl)cc3
+75	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB04905	investigational	Tesmilifene	CCN(CC)CCOc1ccc(cc1)Cc2ccccc2
+76	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB04946	approved	Iloperidone	CC(=O)c1cc(OC)c(cc1)OCCCN2CCC(CC2)c3noc(c34)cc(F)cc4
+77	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB05079	investigational	HY10275	 
+78	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB05080	investigational	OBE101	 
+79	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB05345	investigational	SO-101	 
+80	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB05381	approved; investigational	Histamine	NCCc1c[nH]cn1
+81	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB05492	investigational	Epicept NP-1	Cc1cc([N+]([O-])=O)c(cc1)NCCCN
+82	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB06016	approved; investigational	Cariprazine	CN(C)C(=O)N[C@H]1CC[C@@H](CC1)CCN2CCN(CC2)c3c(Cl)c(Cl)ccc3
+83	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB06148	approved; investigational	Mianserin	CN(C1)CCN(C12)c3c(cccc3)Cc4c2cccc4
+84	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB06153	approved	Pizotifen	CN1CCC(CC1)=C2c(ccs3)c3CCc(c24)cccc4
+85	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB06216	approved	Asenapine	CN(C1)CC(C12)c3c(cccc3)Oc4c2cc(Cl)cc4
+86	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB06229	investigational	Ocaperidone	Cc1cccn(c12)c(=O)c(c(n2)C)CCN3CCC(CC3)c4noc(c45)cc(F)cc5
+87	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB06282	approved	Levocetirizine	OC(=O)COCCN1CCN(CC1)[C@H](c2ccccc2)c3ccc(Cl)cc3
+88	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB06678	investigational	Esmirtazapine	C1CN(C)C[C@@H](N12)c3c(cccc3)Cc4c2nccc4
+89	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB06691	approved; vet_approved	Mepyramine	COc1ccc(cc1)CN(CCN(C)C)c2ncccc2
+90	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB06698	approved; investigational	Betahistine	CNCCc1ccccn1
+91	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB06766	approved	Alcaftadine	CN1CCC(CC1)=C2c(ncc3C=O)n3CCc(c24)cccc4
+92	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB08799	approved	Antazoline	c1ccccc1N(CC2=NCCN2)Cc3ccccc3
+93	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB08800	experimental	Chloropyramine	c1cccnc1N(CCN(C)C)Cc2ccc(Cl)cc2
+94	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB08801	approved; investigational	Dimetindene	c1cccnc1C(C)C2=C(CCN(C)C)Cc(c23)cccc3
+95	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB08802	experimental	Isothipendyl	CN(C)C(C)CN1c(cccc2)c2Sc(c13)cccn3
+96	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB08922	experimental	Perospirone	C1CCC[C@H]([C@H]12)C(=O)N(C2=O)CCCCN3CCN(CC3)c4nsc(c45)cccc5
+97	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB08936	approved	Chlorcyclizine	c1ccccc1C(c(cc2)ccc2Cl)N3CCN(C)CC3
+98	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB09016	approved	Butriptyline	 
+99	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB09167	approved	Dosulepin	CN(C)CC/C=C/1c(cccc2)c2CSc(c13)cccc3
+100	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB09195	approved	Lorpiprazole	C1CC[C@H]([C@H]12)Cn3c2nnc3CCN4CCN(CC4)c5cccc(c5)C(F)(F)F
+101	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB09488	approved	Acrivastine	C1CCCN1C/C=C(\c2ccc(C)cc2)c3cccc(n3)/C=C/C(=O)O
+102	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB09555	approved	Dexchlorpheniramine maleate	c1cccnc1[C@@H](CCN(C)C)c2ccc(Cl)cc2
+103	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB11235	approved	Thonzylamine	COc1ccc(cc1)CN(CCN(C)C)c2ncccn2
+104	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB11591	approved; investigational	Bilastine	CCOCCn1c(nc(c12)cccc2)C3CCN(CC3)CCc4ccc(cc4)C(C)(C)C(=O)O
+105	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB11614	approved	Rupatadine	Cc1cc(cnc1)CN2CCC(CC2)=C3c(ccc(Cl)c4)c4CCc(c35)cccn5
+106	sp|P35367|HRH1_HUM	P35367	99.79	1	487	DB14185	approved; investigational	Aripiprazole lauroxil	CCCCCCCCCCCC(=O)OCN1C(=O)CCc(c12)ccc(c2)OCCCCN3CCN(CC3)c4c(Cl)c(Cl)ccc4
+107	sp|P35367|HRH1_HUM	P70174	100.0	1	488	DB11160	approved	Phenyltoloxamine	CN(C)CCOc1ccccc1Cc2ccccc2

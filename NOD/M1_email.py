@@ -90,12 +90,12 @@ email= form.getvalue('toaddr')
 sequence= form.getvalue('sequence')
 infile= form['uploadBtn']	#Get data from the upload file option.
 checked= form.getvalue('declare')
-qCov= form.getvalue('sliderVal')
+qCov= form.getvalue('sliderVal') # Extracting the raw slider value.
+#qCov=sliderValue[1] #Since Mode-1 has range 40 to 100, a list is passed instead of single integer.
 
 jobId=jobTitle.replace(" ","") # to remove all spaces from user input JobId. Comment this if form validation for no space and underscore are in place.
 jobTitle=jobId
-#upld_path="/prod/www/nslab/NOD/"
-upld_path="/prod/www/nslab/nod_de/"
+upld_path="/prod/www/nslab/NOD/"
 resDir= "Results/" + ("%s_results_%s" %(jobId,round(rand.random(),3)))
 upld_dir= upld_path + resDir
 os.system('mkdir -p %s' %(upld_dir)) #Making directory with userspecific JobId+RandomNumber.
@@ -113,6 +113,9 @@ if inputSeqNo > 5000:
     An email containing <i><u>\"%s\"</i></u> in the subject<br>will be sent to <i><u>%s</u></i>.<br><br>
     """ %(jobId,email)
     html_pg= html_pg+heroSec(msg1,msg2)
+    #Setup Conda local environment for using rdkit and JackHmmer. Calling main python script from bash wrapper.
+    #print('%s/bin/envSetup.sh mode1 %s/qFile.fasta %s/ %s %s %s %s &> %s/shOut.log &' %(upld_path,upld_dir,upld_dir,jobId,jobTitle,email,resDir,upld_dir))
+    os.system('%s/bin/envSetup.sh mode1 %s/qFile.fasta %s/ %s \"%s\" %s %s %s &> %s/shOut.log &' %(upld_path,upld_dir,upld_dir,jobId,jobTitle,email,resDir,qCov,upld_dir))
 else:
     msg1="<i>Your Results are being compiled...</i>"
 #   msg2="It may take some time to find the approved drugs against your protein sequence.<br><br> An email containing <i><u>\"%s\"</i></u> in the subject<br>will be sent to <i><u>%s</u></i>.<br><br>Start Over to submit new queries." %(jobId,email)

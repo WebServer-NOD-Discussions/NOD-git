@@ -1,0 +1,2 @@
+	tName	tAcc	tLen	qName	qAcc	qLen	eVal	score	bias	domNo	totDom	domCval	domIval	domScor	domBias	hmmStrt	hmmEnd	aliStrt	aliEnd	envStrt	envEnd	envAccu	description	qCov
+0	drugbank_target|Q05318	-	2212	sp|Q05318|L_EBOZM	-	2212	0.0	4840.4	18.2	1	1	0.0	0.0	4840.3	18.2	1	2212	1	2212	1	2212	1.0	RNA-directed RNA polymerase L (DB11676; DB14761; DB15686)	99.95

@@ -1,0 +1,30 @@
+[05:02:56] Explicit valence for atom # 2 O, 3, is greater than permitted
+[05:02:57] Explicit valence for atom # 0 N, 4, is greater than permitted
+[05:02:57] Explicit valence for atom # 0 N, 4, is greater than permitted
+[05:02:58] Explicit valence for atom # 0 N, 4, is greater than permitted
+[05:03:01] Explicit valence for atom # 84 N, 4, is greater than permitted
+[05:03:01] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[05:03:02] Explicit valence for atom # 0 N, 4, is greater than permitted
+[05:03:03] Explicit valence for atom # 2 O, 3, is greater than permitted
+[05:03:03] Explicit valence for atom # 0 N, 4, is greater than permitted
+[05:03:03] Explicit valence for atom # 0 N, 4, is greater than permitted
+[05:03:04] Explicit valence for atom # 0 N, 4, is greater than permitted
+[05:03:07] Explicit valence for atom # 84 N, 4, is greater than permitted
+[05:03:08] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[05:03:08] Explicit valence for atom # 0 N, 4, is greater than permitted
+[05:03:09] Explicit valence for atom # 2 O, 3, is greater than permitted
+[05:03:10] Explicit valence for atom # 0 N, 4, is greater than permitted
+[05:03:10] Explicit valence for atom # 0 N, 4, is greater than permitted
+[05:03:11] Explicit valence for atom # 0 N, 4, is greater than permitted
+[05:03:14] Explicit valence for atom # 84 N, 4, is greater than permitted
+[05:03:15] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[05:03:15] Explicit valence for atom # 0 N, 4, is greater than permitted
+[05:03:16] Explicit valence for atom # 2 O, 3, is greater than permitted
+[05:03:17] Explicit valence for atom # 0 N, 4, is greater than permitted
+[05:03:17] Explicit valence for atom # 0 N, 4, is greater than permitted
+[05:03:18] Explicit valence for atom # 0 N, 4, is greater than permitted
+[05:03:21] Explicit valence for atom # 84 N, 4, is greater than permitted
+[05:03:21] SMILES Parse Error: syntax error for input: 'OC1=CC=CC(=C1)C-1=C2\CCC(=N2)\C(=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C\-1N2)C1=CC(O)=CC=C1)C1=CC(O)=CC=C1)\C1=CC(O)=CC=C1'
+[05:03:22] Explicit valence for atom # 0 N, 4, is greater than permitted
+
+[('sp|P11274|BCR_HUMA', 'P11274', 99.92, 1, 1271, 'DB00619', 'Imatinib', 'approved', 'DB00619', 'Imatinib', 'approved', 1.0), ('sp|P11274|BCR_HUMA', 'P11274', 99.92, 1, 1271, 'DB01254', 'Dasatinib', 'approved; investigational', 'DB01254', 'Dasatinib', 'approved; investigational', 1.0), ('sp|P11274|BCR_HUMA', 'P11274', 99.92, 1, 1271, 'DB06616', 'Bosutinib', 'approved', 'DB06616', 'Bosutinib', 'approved', 1.0), ('sp|P11274|BCR_HUMA', 'P11274', 99.92, 1, 1271, 'DB08901', 'Ponatinib', 'approved; investigational', 'DB08901', 'Ponatinib', 'approved; investigational', 1.0)]

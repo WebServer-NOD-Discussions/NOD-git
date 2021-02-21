@@ -1,0 +1,214 @@
+# jackhmmer :: iteratively search a protein sequence against a protein database
+# HMMER 3.3.1 (Jul 2020); http://hmmer.org/
+# Copyright (C) 2020 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query sequence file:             /prod/www/nslab/NOD/Results/SC_HCV_protease_results_0.835//query.fasta
+# target sequence database:        source/1-DgB_TargetProteins.fasta
+# maximum iterations set to:       3
+# output directed to file:         /prod/www/nslab/NOD/Results/SC_HCV_protease_results_0.835//pyRunHmmer.smry
+# MSA of hits saved to file:       /prod/www/nslab/NOD/Results/SC_HCV_protease_results_0.835//pyRunHmmer.align
+# per-dom hits tabular output:     /prod/www/nslab/NOD/Results/SC_HCV_protease_results_0.835//pyRunHmmer.tsv
+# show alignments in output:       no
+# sequence inclusion threshold:    E-value <= 5
+# query <seqfile> format asserted: FASTA
+# target <seqdb> format asserted:  FASTA
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       tr|Q91RS4|Q91RS4_9  [L=181]
+
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence               Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------               -----------
++  2.3e-123  406.7   3.6   2.6e-123  406.5   3.6    1.0  1  drugbank_target|Q91RS4  NS3 protease (DB06290; DB07582; DB138
++  1.9e-120  397.2   3.6     4e-120  396.1   3.6    1.6  1  drugbank_target|P26664  Genome polyprotein (DB05868; DB06058;
++  1.2e-118  391.3   4.1   2.8e-118  390.1   4.1    1.7  1  drugbank_target|P27958  Genome polyprotein (DB08644)
++  6.1e-113  372.7   3.3   1.3e-112  371.6   3.3    1.6  1  drugbank_target|P26663  Genome polyprotein (DB02331; DB03605;
++  1.3e-112  371.6   4.0   2.9e-112  370.5   4.0    1.6  1  drugbank_target|Q99AU2  Genome polyprotein (DB06913; DB07085;
++  3.4e-112  370.3   3.9   7.4e-112  369.2   3.9    1.6  1  drugbank_target|P26662  Genome polyprotein (DB01720; DB04005)
++    4e-112  370.1   4.1   8.5e-112  369.0   4.1    1.6  1  drugbank_target|Q9WMX2  Genome polyprotein (DB07238)
++  5.7e-110  363.1   3.8   1.2e-109  362.0   3.8    1.6  1  drugbank_target|O92972  Genome polyprotein (DB08747)
++   3.5e-92  305.1   4.5    6.9e-92  304.1   4.5    1.5  1  drugbank_target|B0B3C9  Genome polyprotein (DB05521; DB08873;
++   5.6e-88  291.4   2.9    1.3e-87  290.2   2.9    1.7  1  drugbank_target|P26661  Genome polyprotein (DB08701)
++     5e-87  288.3   3.6    1.2e-86  287.0   3.6    1.7  1  drugbank_target|P26660  Genome polyprotein (DB03388; DB03647)
+
+
+Domain annotation for each sequence:
+>> drugbank_target|Q91RS4  NS3 protease (DB06290; DB07582; DB13879)
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  406.5   3.6  5.4e-126  2.6e-123       1     181 []       1     181 []       1     181 [] 1.00
+
+>> drugbank_target|P26664  Genome polyprotein (DB05868; DB06058; DB07582; DB11779)
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  396.1   3.6  8.4e-123    4e-120       1     181 []    1027    1207 ..    1027    1207 .. 1.00
+
+>> drugbank_target|P27958  Genome polyprotein (DB08644)
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  390.1   4.1  5.8e-121  2.8e-118       1     181 []    1027    1207 ..    1027    1207 .. 1.00
+
+>> drugbank_target|P26663  Genome polyprotein (DB02331; DB03605; DB04005; DB04137; DB04298; DB06974; DB07062; DB07169; D
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  371.6   3.3  2.8e-115  1.3e-112       1     181 []    1027    1207 ..    1027    1207 .. 1.00
+
+>> drugbank_target|Q99AU2  Genome polyprotein (DB06913; DB07085; DB07185; DB07273; DB07275; DB07547; DB07770; DB08556)
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  370.5   4.0    6e-115  2.9e-112       1     181 []    1027    1207 ..    1027    1207 .. 1.00
+
+>> drugbank_target|P26662  Genome polyprotein (DB01720; DB04005)
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  369.2   3.9  1.5e-114  7.4e-112       1     181 []    1027    1207 ..    1027    1207 .. 1.00
+
+>> drugbank_target|Q9WMX2  Genome polyprotein (DB07238)
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  369.0   4.1  1.8e-114  8.5e-112       1     181 []    1027    1207 ..    1027    1207 .. 1.00
+
+>> drugbank_target|O92972  Genome polyprotein (DB08747)
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  362.0   3.8  2.5e-112  1.2e-109       1     181 []    1027    1207 ..    1027    1207 .. 1.00
+
+>> drugbank_target|B0B3C9  Genome polyprotein (DB05521; DB08873; DB09297; DB11575; DB12026)
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  304.1   4.5   1.5e-94   6.9e-92       1     181 []       1     181 [.       1     181 [. 0.99
+
+>> drugbank_target|P26661  Genome polyprotein (DB08701)
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  290.2   2.9   2.7e-90   1.3e-87       1     180 [.    1031    1210 ..    1031    1211 .. 0.99
+
+>> drugbank_target|P26660  Genome polyprotein (DB03388; DB03647)
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  287.0   3.6   2.6e-89   1.2e-86       1     181 []    1031    1211 ..    1031    1211 .. 0.99
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (181 nodes)
+Target sequences:                       5258  (2830501 residues searched)
+Passed MSV filter:                       178  (0.0338532); expected 105.2 (0.02)
+Passed bias filter:                      127  (0.0241537); expected 105.2 (0.02)
+Passed Vit filter:                        20  (0.00380373); expected 5.3 (0.001)
+Passed Fwd filter:                        11  (0.00209205); expected 0.1 (1e-05)
+Initial search space (Z):               5258  [actual number of targets]
+Domain search space  (domZ):              11  [number of targets reported over threshold]
+# CPU time: 0.14u 0.00s 00:00:00.14 Elapsed: 00:00:00.09
+# Mc/sec: 5414.12
+
+@@ New targets included:   11
+@@ New alignment includes: 12 subseqs (was 1), including original query
+@@ Continuing to next round.
+
+@@
+@@ Round:                  2
+@@ Included in MSA:        12 subsequences (query + 11 subseqs from 11 targets)
+@@ Model size:             181 positions
+@@
+
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence               Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------               -----------
+   1.3e-119  394.8   2.9   1.4e-119  394.6   2.9    1.0  1  drugbank_target|Q91RS4  NS3 protease (DB06290; DB07582; DB138
+   1.2e-117  388.3   3.9   2.7e-117  387.2   3.9    1.7  1  drugbank_target|Q99AU2  Genome polyprotein (DB06913; DB07085;
+   1.9e-117  387.7   3.4   5.2e-117  386.3   3.4    1.8  1  drugbank_target|P26662  Genome polyprotein (DB01720; DB04005)
+     2e-117  387.6   3.1   4.7e-117  386.4   3.1    1.7  1  drugbank_target|P26664  Genome polyprotein (DB05868; DB06058;
+   2.8e-117  387.1   4.0   6.3e-117  386.0   4.0    1.7  1  drugbank_target|Q9WMX2  Genome polyprotein (DB07238)
+   3.1e-117  387.0   2.9   7.8e-117  385.7   2.9    1.8  1  drugbank_target|P26663  Genome polyprotein (DB02331; DB03605;
+   1.5e-116  384.8   3.4   3.3e-116  383.6   3.4    1.7  1  drugbank_target|P27958  Genome polyprotein (DB08644)
+   4.8e-116  383.1   4.0   1.1e-115  381.9   4.0    1.7  1  drugbank_target|O92972  Genome polyprotein (DB08747)
+   1.7e-106  352.0   4.0   3.3e-106  351.1   4.0    1.5  1  drugbank_target|B0B3C9  Genome polyprotein (DB05521; DB08873;
+   4.2e-106  350.7   2.7     1e-105  349.4   2.7    1.8  1  drugbank_target|P26660  Genome polyprotein (DB03388; DB03647)
+   4.6e-106  350.6   2.3   1.1e-105  349.3   2.3    1.7  1  drugbank_target|P26661  Genome polyprotein (DB08701)
+
+
+Domain annotation for each sequence:
+>> drugbank_target|Q91RS4  NS3 protease (DB06290; DB07582; DB13879)
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  394.6   2.9  2.9e-122  1.4e-119       1     181 []       1     181 []       1     181 [] 1.00
+
+>> drugbank_target|Q99AU2  Genome polyprotein (DB06913; DB07085; DB07185; DB07273; DB07275; DB07547; DB07770; DB08556)
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  387.2   3.9  5.7e-120  2.7e-117       1     181 []    1027    1207 ..    1027    1207 .. 1.00
+
+>> drugbank_target|P26662  Genome polyprotein (DB01720; DB04005)
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  386.3   3.4  1.1e-119  5.2e-117       1     181 []    1027    1207 ..    1027    1207 .. 1.00
+
+>> drugbank_target|P26664  Genome polyprotein (DB05868; DB06058; DB07582; DB11779)
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  386.4   3.1  9.9e-120  4.7e-117       1     181 []    1027    1207 ..    1027    1207 .. 1.00
+
+>> drugbank_target|Q9WMX2  Genome polyprotein (DB07238)
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  386.0   4.0  1.3e-119  6.3e-117       1     181 []    1027    1207 ..    1027    1207 .. 1.00
+
+>> drugbank_target|P26663  Genome polyprotein (DB02331; DB03605; DB04005; DB04137; DB04298; DB06974; DB07062; DB07169; D
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  385.7   2.9  1.6e-119  7.8e-117       1     181 []    1027    1207 ..    1027    1207 .. 1.00
+
+>> drugbank_target|P27958  Genome polyprotein (DB08644)
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  383.6   3.4  6.9e-119  3.3e-116       1     181 []    1027    1207 ..    1027    1207 .. 1.00
+
+>> drugbank_target|O92972  Genome polyprotein (DB08747)
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  381.9   4.0  2.3e-118  1.1e-115       1     181 []    1027    1207 ..    1027    1207 .. 1.00
+
+>> drugbank_target|B0B3C9  Genome polyprotein (DB05521; DB08873; DB09297; DB11575; DB12026)
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  351.1   4.0  6.8e-109  3.3e-106       1     181 []       1     181 [.       1     181 [. 1.00
+
+>> drugbank_target|P26660  Genome polyprotein (DB03388; DB03647)
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  349.4   2.7  2.2e-108    1e-105       1     181 []    1031    1211 ..    1031    1211 .. 1.00
+
+>> drugbank_target|P26661  Genome polyprotein (DB08701)
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  349.3   2.3  2.3e-108  1.1e-105       1     180 [.    1031    1210 ..    1031    1211 .. 0.99
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (181 nodes)
+Target sequences:                       5258  (2830501 residues searched)
+Passed MSV filter:                       143  (0.0271967); expected 105.2 (0.02)
+Passed bias filter:                      115  (0.0218714); expected 105.2 (0.02)
+Passed Vit filter:                        20  (0.00380373); expected 5.3 (0.001)
+Passed Fwd filter:                        11  (0.00209205); expected 0.1 (1e-05)
+Initial search space (Z):               5258  [actual number of targets]
+Domain search space  (domZ):              11  [number of targets reported over threshold]
+# CPU time: 0.57u 0.00s 00:00:00.56 Elapsed: 00:00:00.51
+# Mc/sec: 987.22
+
+@@ New targets included:   0
+@@ New alignment includes: 12 subseqs (was 12), including original query
+@@
+@@ CONVERGED (in 2 rounds). 
+@@
+
+# Alignment of 12 hits satisfying inclusion thresholds saved to: /prod/www/nslab/NOD/Results/SC_HCV_protease_results_0.835//pyRunHmmer.align
+//
+[ok]

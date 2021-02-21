@@ -1,0 +1,153 @@
+Arguments Enterd:
+mode:mode2,
+resDir:/prod/www/nslab/NOD/Results/SC_ebola_RdRp_results_0.677/,
+tblDir:Results/SC_ebola_RdRp_results_0.677,
+jobId:SC_ebola_RdRp
+
+Content-type:text/html
+
+
+
+<!DOCTYPE html>
+	<html lang="en">
+		<head>
+	<meta charset="utf-8">
+	<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<!--TABLE STYLING-->
+<style>
+table {
+  border-spacing:5px;
+  width: 100%;
+  padding: 5px;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 10px;
+  text-align:center;
+  border-bottom: 1px solid #ddd;
+  border-collapse: collapse;
+}
+
+tr:hover {background-color:#f5f5f5;}
+</style>
+
+	<title>NOD-New use of Old Drugs</title>
+	<meta content="" name="description">
+	<meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="../../NOD/img/NOD_img2.png" rel="icon">
+
+
+  <!-- Google Fonts -->
+  <!--  Main CSS File -->
+  <link href="../../NOD/css/style.css" rel="stylesheet">
+
+  <!-- =======================================================
+  *Name: WS-NOD - v 1.2.0
+  *Author: Tarun Jairaj Narwani
+  *License: Creative Commons
+  ======================================================== -->
+</head>
+
+<body>
+<!-- ======= Header ======= -->
+<header>
+    <div id="header" class="container">
+        <div>
+        <h1 class="logo"><a href="../../NOD/index.html"><img src="../../NOD/img/icons/NOD_logo.png" height="60px" width="180px"></a></h1>
+        </div>
+        <div>
+        <nav>
+          <ul>
+            <li><a href="../../NOD/index.html">Home</a></li>
+            <li><a href="../../NOD/webpages/about.html">About-NOD</a></li>
+            <li><a href="../../NOD/webpages/instructions.html">Instructions</a></li>
+            <li class="active"><a href="../../NOD/webpages/run.html">Run-Options</a></li>
+            <!--<li><a href="../../NOD/webpages/organisms.html">Model Organisms</a></li>-->
+			<li><a href="../../NOD/webpages/faq.html">F.A.Q</a></li>
+            <li><a href="../../NOD/webpages/team.html">The Team</a></li>
+            <li><a href="../../NOD/webpages/contact.html">Contact</a></li>
+  
+          </ul>
+        </nav><!-- .nav-menu -->
+        </div>
+      </div>
+</header>
+<!-- ======= Tables Section ======= -->
+	<div id="noheader" class="noheader section-bg">
+        <div id="results" class="section-title">
+        <h2> Results for the Job Title: SC_ebola_RdRp </h2>
+        <div style="text-align: center"><p>The following table consists of potential drug candidates against your query protein(s).<br><br><i>Any drug that has been approved at least once in the past is included.<br>The essential information that might be helpful to make a decision are presented in the table.</i><br></p></div>
+		<h5> Instructions to understand the result table organization.</h5>
+        </div>
+
+		<div class="container">
+        
+        <table id="resDisplay" style="border: 1px solid black">
+			<thead>
+            <tr><i>Results for Query protein entered</i></tr>
+            <tr>
+            <th>Target homolog</th>
+            <th>Query Coverage</th>
+            <th>Alignment Start</th>
+            <th>Alignment End</th>
+            <th>1&deg;Candidate</th>
+			<th>Molecule Name</th>
+			<th>Regulatory Status</th>
+            <th>2&deg;Candidate</th>
+			<th>Molecule Name</th>
+			<th>Regulatory Status</th>
+            <th>Similarity (T<sub>C</sub>)</th>
+			</tr>
+			</thead>
+            <tr>
+            <td><i> The UNIPROT id for the target protein sequence that is homologous to the query protein.</td></i>
+            <td><i> The DrugBank id for the target homolog protein sequence. The query protein can be a target of multiple drugs in DrugBank.</td></i>
+            <td><i> The percentage of query sequence covered by the alignment with target homolog. Only >70% are selected.</i></td>
+            <td><i> Starting coordinates for the alignment, as per the query sequence index.</i></td>
+            <td><i> Ending coordinates for the alignment, as per the query sequence index.</i></td>
+            <td><i> Name of the 1&deg;Candidate (Molecues found while searching in the complete dataset).</td></i>
+			<td><i> Regulatory status and category of the 1&deg; Candidate.</td></i>
+            <td><i> The DrugBank id for the 2&deg; Candidate that is similar in structure to the 1&deg;Candidate.</td></i>
+            <td><i> Name of the 2&deg;Candidate (found while exploring the 2D structural space of 1&deg;Candidate in approved drugs dataset).</td></i>
+			<td><i> Regulatory status and category of the 2&deg;Candidate.</td></i>
+            <td><i> 2D structural similarity index, Tanimoto Co-efficient*(T<sub>C</sub>), obtained by comparing 1&deg;Candidate and 2&deg;Candidate is reported.</td></i>
+			</tr>
+		</table>
+            <tfoot><p style="text-align: right">*T<sub>C</sub> ranges from 0 to 1. Values > 0.7 are selected to ensure that highly similar 2&deg;Candidates are reported.<br></tfoot>
+	</div>
+        <div style="text-align: center"><p><i>NOTE: NOD Users are encouraged to use the <a href="#">clickable links</a> provided in the table to access further details about the compound or the protein.</i></b></p></div>
+    <div class="container section-fg">
+    
+			<table id="resDisplay">
+                <thead>
+                <tr><strong>"Query protein: sp|Q05318|L_EBOZM	"</strong> <a href="mode2_matches.tbl" class="btn-special" style="margin-left:90%">Download Table</a><br></tr>
+                <tr></tr><tr>
+                    <th>S.No</th>
+                    <th>Target homolog</th>
+                    <th>Query Coverage</th>
+                    <th>Alignment Start</th>
+                    <th>Alignment End</th>
+                    <th>1&deg;Candidate</th>
+                    <th>Molecule Name (1&deg;)</th>
+                    <th>Regulatory Status (1&deg;)</th>
+                    <th>2&deg;Candidate</th>
+                    <th>Molecule Name (2&deg;)</th>
+                    <th>Regulatory Status (2&deg;)</th>
+                    <th>Similarity (T<sub>C</sub>)</th>
+                </thead>
+                </tr>
+<tr><td> 1 </td><td><a href="https://www.uniprot.org/uniprot/Q05318"> Q05318 </a></td><td> 99.95 </td><td> 1 </td><td> 2212 </td><td><a href="https://www.drugbank.ca/drugs/DB11676"> DB11676 </a></td><td> Galidesivir </td><td> investigational </td><td> <a href="https://www.drugbank.ca/drugs/-"> - </a></td><td> Sorry! Cannot find </td><td> structurally similar </td><td> approved molecules </td></tr></tr><tr><td> 2 </td><td><a href="https://www.uniprot.org/uniprot/Q05318"> Q05318 </a></td><td> 99.95 </td><td> 1 </td><td> 2212 </td><td><a href="https://www.drugbank.ca/drugs/DB14761"> DB14761 </a></td><td> Remdesivir </td><td> investigational </td><td> <a href="https://www.drugbank.ca/drugs/DB00115"> DB00115 </a></td><td> Cyanocobalamin </td><td> approved; nutraceutical </td><td> 0.73 </td></tr></tr><tr><td> 3 </td><td><a href="https://www.uniprot.org/uniprot/Q05318"> Q05318 </a></td><td> 99.95 </td><td> 1 </td><td> 2212 </td><td><a href="https://www.drugbank.ca/drugs/DB14761"> DB14761 </a></td><td> Remdesivir </td><td> investigational </td><td> <a href="https://www.drugbank.ca/drugs/DB00200"> DB00200 </a></td><td> Hydroxocobalamin </td><td> approved </td><td> 0.8 </td></tr></tr><tr><td> 4 </td><td><a href="https://www.uniprot.org/uniprot/Q05318"> Q05318 </a></td><td> 99.95 </td><td> 1 </td><td> 2212 </td><td><a href="https://www.drugbank.ca/drugs/DB14761"> DB14761 </a></td><td> Remdesivir </td><td> investigational </td><td> <a href="https://www.drugbank.ca/drugs/DB00290"> DB00290 </a></td><td> Bleomycin </td><td> approved; investigational </td><td> 0.73 </td></tr></tr><tr><td> 5 </td><td><a href="https://www.uniprot.org/uniprot/Q05318"> Q05318 </a></td><td> 99.95 </td><td> 1 </td><td> 2212 </td><td><a href="https://www.drugbank.ca/drugs/DB14761"> DB14761 </a></td><td> Remdesivir </td><td> investigational </td><td> <a href="https://www.drugbank.ca/drugs/DB00309"> DB00309 </a></td><td> Vindesine </td><td> approved; investigational </td><td> 0.78 </td></tr></tr><tr><td> 6 </td><td><a href="https://www.uniprot.org/uniprot/Q05318"> Q05318 </a></td><td> 99.95 </td><td> 1 </td><td> 2212 </td><td><a href="https://www.drugbank.ca/drugs/DB14761"> DB14761 </a></td><td> Remdesivir </td><td> investigational </td><td> <a href="https://www.drugbank.ca/drugs/DB00361"> DB00361 </a></td><td> Vinorelbine </td><td> approved; investigational </td><td> 0.78 </td></tr></tr><tr><td> 7 </td><td><a href="https://www.uniprot.org/uniprot/Q05318"> Q05318 </a></td><td> 99.95 </td><td> 1 </td><td> 2212 </td><td><a href="https://www.drugbank.ca/drugs/DB14761"> DB14761 </a></td><td> Remdesivir </td><td> investigational </td><td> <a href="https://www.drugbank.ca/drugs/DB00512"> DB00512 </a></td><td> Vancomycin </td><td> approved </td><td> 0.7 </td></tr></tr><tr><td> 8 </td><td><a href="https://www.uniprot.org/uniprot/Q05318"> Q05318 </a></td><td> 99.95 </td><td> 1 </td><td> 2212 </td><td><a href="https://www.drugbank.ca/drugs/DB14761"> DB14761 </a></td><td> Remdesivir </td><td> investigational </td><td> <a href="https://www.drugbank.ca/drugs/DB00541"> DB00541 </a></td><td> Vincristine </td><td> approved; investigational </td><td> 0.78 </td></tr></tr><tr><td> 9 </td><td><a href="https://www.uniprot.org/uniprot/Q05318"> Q05318 </a></td><td> 99.95 </td><td> 1 </td><td> 2212 </td><td><a href="https://www.drugbank.ca/drugs/DB14761"> DB14761 </a></td><td> Remdesivir </td><td> investigational </td><td> <a href="https://www.drugbank.ca/drugs/DB00570"> DB00570 </a></td><td> Vinblastine </td><td> approved </td><td> 0.78 </td></tr></tr><tr><td> 10 </td><td><a href="https://www.uniprot.org/uniprot/Q05318"> Q05318 </a></td><td> 99.95 </td><td> 1 </td><td> 2212 </td><td><a href="https://www.drugbank.ca/drugs/DB14761"> DB14761 </a></td><td> Remdesivir </td><td> investigational </td><td> <a href="https://www.drugbank.ca/drugs/DB00615"> DB00615 </a></td><td> Rifabutin </td><td> approved; investigational </td><td> 0.74 </td></tr></tr><tr><td> 11 </td><td><a href="https://www.uniprot.org/uniprot/Q05318"> Q05318 </a></td><td> 99.95 </td><td> 1 </td><td> 2212 </td><td><a href="https://www.drugbank.ca/drugs/DB14761"> DB14761 </a></td><td> Remdesivir </td><td> investigational </td><td> <a href="https://www.drugbank.ca/drugs/DB00970"> DB00970 </a></td><td> Dactinomycin </td><td> approved; investigational </td><td> 0.7 </td></tr></tr><tr><td> 12 </td><td><a href="https://www.uniprot.org/uniprot/Q05318"> Q05318 </a></td><td> 99.95 </td><td> 1 </td><td> 2212 </td><td><a href="https://www.drugbank.ca/drugs/DB14761"> DB14761 </a></td><td> Remdesivir </td><td> investigational </td><td> <a href="https://www.drugbank.ca/drugs/DB01200"> DB01200 </a></td><td> Bromocriptine </td><td> approved; investigational </td><td> 0.71 </td></tr></tr><tr><td> 13 </td><td><a href="https://www.uniprot.org/uniprot/Q05318"> Q05318 </a></td><td> 99.95 </td><td> 1 </td><td> 2212 </td><td><a href="https://www.drugbank.ca/drugs/DB14761"> DB14761 </a></td><td> Remdesivir </td><td> investigational </td><td> <a href="https://www.drugbank.ca/drugs/DB01220"> DB01220 </a></td><td> Rifaximin </td><td> approved; investigational </td><td> 0.71 </td></tr></tr><tr><td> 14 </td><td><a href="https://www.uniprot.org/uniprot/Q05318"> Q05318 </a></td><td> 99.95 </td><td> 1 </td><td> 2212 </td><td><a href="https://www.drugbank.ca/drugs/DB14761"> DB14761 </a></td><td> Remdesivir </td><td> investigational </td><td> <a href="https://www.drugbank.ca/drugs/DB03614"> DB03614 </a></td><td> Mecobalamin </td><td> approved; investigational </td><td> 0.8 </td></tr></tr><tr><td> 15 </td><td><a href="https://www.uniprot.org/uniprot/Q05318"> Q05318 </a></td><td> 99.95 </td><td> 1 </td><td> 2212 </td><td><a href="https://www.drugbank.ca/drugs/DB14761"> DB14761 </a></td><td> Remdesivir </td><td> investigational </td><td> <a href="https://www.drugbank.ca/drugs/DB04911"> DB04911 </a></td><td> Oritavancin </td><td> approved; investigational </td><td> 0.73 </td></tr></tr><tr><td> 16 </td><td><a href="https://www.uniprot.org/uniprot/Q05318"> Q05318 </a></td><td> 99.95 </td><td> 1 </td><td> 2212 </td><td><a href="https://www.drugbank.ca/drugs/DB14761"> DB14761 </a></td><td> Remdesivir </td><td> investigational </td><td> <a href="https://www.drugbank.ca/drugs/DB05109"> DB05109 </a></td><td> Trabectedin </td><td> approved; investigational </td><td> 0.74 </td></tr></tr><tr><td> 17 </td><td><a href="https://www.uniprot.org/uniprot/Q05318"> Q05318 </a></td><td> 99.95 </td><td> 1 </td><td> 2212 </td><td><a href="https://www.drugbank.ca/drugs/DB14761"> DB14761 </a></td><td> Remdesivir </td><td> investigational </td><td> <a href="https://www.drugbank.ca/drugs/DB06402"> DB06402 </a></td><td> Telavancin </td><td> approved </td><td> 0.73 </td></tr></tr><tr><td> 18 </td><td><a href="https://www.uniprot.org/uniprot/Q05318"> Q05318 </a></td><td> 99.95 </td><td> 1 </td><td> 2212 </td><td><a href="https://www.drugbank.ca/drugs/DB14761"> DB14761 </a></td><td> Remdesivir </td><td> investigational </td><td> <a href="https://www.drugbank.ca/drugs/DB11191"> DB11191 </a></td><td> Cobamamide </td><td> approved </td><td> 0.8 </td></tr></tr><tr><td> 19 </td><td><a href="https://www.uniprot.org/uniprot/Q05318"> Q05318 </a></td><td> 99.95 </td><td> 1 </td><td> 2212 </td><td><a href="https://www.drugbank.ca/drugs/DB14761"> DB14761 </a></td><td> Remdesivir </td><td> investigational </td><td> <a href="https://www.drugbank.ca/drugs/DB11641"> DB11641 </a></td><td> Vinflunine </td><td> approved; investigational </td><td> 0.78 </td></tr></tr><tr><td> 20 </td><td><a href="https://www.uniprot.org/uniprot/Q05318"> Q05318 </a></td><td> 99.95 </td><td> 1 </td><td> 2212 </td><td><a href="https://www.drugbank.ca/drugs/DB14761"> DB14761 </a></td><td> Remdesivir </td><td> investigational </td><td> <a href="https://www.drugbank.ca/drugs/DB11691"> DB11691 </a></td><td> Naldemedine </td><td> approved; investigational </td><td> 0.73 </td></tr></tr><tr><td> 21 </td><td><a href="https://www.uniprot.org/uniprot/Q05318"> Q05318 </a></td><td> 99.95 </td><td> 1 </td><td> 2212 </td><td><a href="https://www.drugbank.ca/drugs/DB14761"> DB14761 </a></td><td> Remdesivir </td><td> investigational </td><td> <a href="https://www.drugbank.ca/drugs/DB12674"> DB12674 </a></td><td> Lurbinectedin </td><td> approved; investigational </td><td> 0.77 </td></tr></tr><tr><td> 22 </td><td><a href="https://www.uniprot.org/uniprot/Q05318"> Q05318 </a></td><td> 99.95 </td><td> 1 </td><td> 2212 </td><td><a href="https://www.drugbank.ca/drugs/DB14761"> DB14761 </a></td><td> Remdesivir </td><td> investigational </td><td> <a href="https://www.drugbank.ca/drugs/DB13997"> DB13997 </a></td><td> Baloxavir marboxil </td><td> approved; investigational </td><td> 0.71 </td></tr></tr><tr><td> 23 </td><td><a href="https://www.uniprot.org/uniprot/Q05318"> Q05318 </a></td><td> 99.95 </td><td> 1 </td><td> 2212 </td><td><a href="https://www.drugbank.ca/drugs/DB15686"> DB15686 </a></td><td> GS-441524 </td><td> experimental </td><td> <a href="https://www.drugbank.ca/drugs/-"> - </a></td><td> Sorry! Cannot find </td><td> structurally similar </td><td> approved molecules </td></tr></tr></table></div>
+<div style="text-align:left; padding:10px; color:#913A1E;"><p><b><u>DISCLAIMER</u></b>: The drugs displayed in this table are derived from homology based similarity searches against the DrugBank database.<br>
+These are predictive results and are meant to help researchers in the field of drug repurposing.<br>
+Therefore, Team NOD advice its users to <b>NOT</b> consume any drug without proper consulation with their general practitioner.</i></b></p></div>			
+            <!-- Table Section ENDED -->
+	</div>
+</div>
+			<!--  Main JS File --
+			<script src="webpages/assets/js/main.js"></script>
+	</body>
+</html>
+

@@ -1,0 +1,5 @@
+	tName	tAcc	tLen	qName	qAcc	qLen	eVal	score	bias	domNo	totDom	domCval	domIval	domScor	domBias	hmmStrt	hmmEnd	aliStrt	aliEnd	envStrt	envEnd	envAccu	description	qCov
+14	drugbank_target|A7J8L3	-	4382	sp|P0DTC1|R1A_SARS	-	4405	0.0	10404.2	77.3	1	1	0.0	0.0	10404.1	77.3	1	4405	1	4382	1	4382	1.0	Orf1a polyprotein (DB08748)	99.46
+15	drugbank_target|P0C6U8	-	4382	sp|P0DTC1|R1A_SARS	-	4405	0.0	10404.2	77.3	1	1	0.0	0.0	10404.1	77.3	1	4405	1	4382	1	4382	1.0	Replicase polyprotein 1a (DB07620; DB07743; DB08732)	99.46
+16	drugbank_target|P0C6X7	-	7073	sp|P0DTC1|R1A_SARS	-	4405	0.0	10397.8	77.5	1	1	0.0	0.0	10397.5	77.5	1	4403	1	4380	1	4382	1.0	Replicase polyprotein 1ab (DB07293; DB07620; DB07743; DB08656; DB08732; DB08748; DB14761; DB15686)	99.41
+20	drugbank_target|P0C6X7	-	7073	sp|P0DTD1|R1AB_SAR	-	7096	0.0	16884.8	138.1	1	1	0.0	0.0	16884.7	138.1	1	7096	1	7073	1	7073	1.0	Replicase polyprotein 1ab (DB07293; DB07620; DB07743; DB08656; DB08732; DB08748; DB14761; DB15686)	99.66

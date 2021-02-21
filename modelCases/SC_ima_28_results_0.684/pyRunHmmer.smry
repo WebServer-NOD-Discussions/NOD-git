@@ -1,0 +1,142 @@
+# jackhmmer :: iteratively search a protein sequence against a protein database
+# HMMER 3.3.1 (Jul 2020); http://hmmer.org/
+# Copyright (C) 2020 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query sequence file:             /prod/www/nslab/NOD/Results/SC_ima_28_results_0.684//query.fasta
+# target sequence database:        source/1-DgB_TargetProteins.fasta
+# maximum iterations set to:       3
+# output directed to file:         /prod/www/nslab/NOD/Results/SC_ima_28_results_0.684//pyRunHmmer.smry
+# MSA of hits saved to file:       /prod/www/nslab/NOD/Results/SC_ima_28_results_0.684//pyRunHmmer.align
+# per-dom hits tabular output:     /prod/www/nslab/NOD/Results/SC_ima_28_results_0.684//pyRunHmmer.tsv
+# show alignments in output:       no
+# sequence inclusion threshold:    E-value <= 5
+# query <seqfile> format asserted: FASTA
+# target <seqdb> format asserted:  FASTA
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       sp|P11274|BCR_HUMA  [L=1271]
+
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence               Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------               -----------
++         0 2905.5  14.8          0 2905.3  14.8    1.0  1  drugbank_target|P11274  Breakpoint cluster region protein (DB
++   4.2e-09   32.8   0.2    6.7e-09   32.1   0.2    1.2  1  drugbank_target|P27986  Phosphatidylinositol 3-kinase regulat
++   2.2e-08   30.4   0.0    2.2e-08   30.4   0.0    1.0  1  drugbank_target|A1Z199  BCR/ABL p210 fusion protein (DB05164)
++   1.1e-05   21.5   0.2    1.8e-05   20.8   0.2    1.3  1  drugbank_target|O00459  Phosphatidylinositol 3-kinase regulat
++    0.0015   14.4   0.0     0.0022   13.8   0.0    1.1  1  drugbank_target|P32019  Type II inositol 1,4,5-trisphosphate 
+
+
+Domain annotation for each sequence:
+>> drugbank_target|P11274  Breakpoint cluster region protein (DB00619; DB01254; DB06616; DB08901)
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ! 2905.3  14.8         0         0       1    1271 []       1    1271 []       1    1271 [] 1.00
+
+>> drugbank_target|P27986  Phosphatidylinositol 3-kinase regulatory subunit alpha (DB01064; DB05210; DB06486; DB08059)
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   32.1   0.2   6.3e-12   6.7e-09    1068    1221 ..     129     282 ..     123     300 .. 0.80
+
+>> drugbank_target|A1Z199  BCR/ABL p210 fusion protein (DB05164)
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   30.4   0.0   2.1e-11   2.2e-08     880     904 ..       1      25 [.       1      64 [. 0.84
+
+>> drugbank_target|O00459  Phosphatidylinositol 3-kinase regulatory subunit beta (DB01064; DB05210)
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   20.8   0.2   1.7e-08   1.8e-05    1068    1222 ..     125     265 ..      86     303 .. 0.79
+
+>> drugbank_target|P32019  Type II inositol 1,4,5-trisphosphate 5-phosphatase (DB03158)
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   13.8   0.0   2.1e-06    0.0022    1067    1221 ..     829     973 ..     824     981 .. 0.81
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (1271 nodes)
+Target sequences:                       5258  (2830501 residues searched)
+Passed MSV filter:                       321  (0.0610498); expected 105.2 (0.02)
+Passed bias filter:                      179  (0.0340434); expected 105.2 (0.02)
+Passed Vit filter:                        31  (0.00589578); expected 5.3 (0.001)
+Passed Fwd filter:                         7  (0.0013313); expected 0.1 (1e-05)
+Initial search space (Z):               5258  [actual number of targets]
+Domain search space  (domZ):               5  [number of targets reported over threshold]
+# CPU time: 0.62u 0.00s 00:00:00.62 Elapsed: 00:00:00.39
+# Mc/sec: 9035.93
+
+@@ New targets included:   5
+@@ New alignment includes: 6 subseqs (was 1), including original query
+@@ Continuing to next round.
+
+@@
+@@ Round:                  2
+@@ Included in MSA:        6 subsequences (query + 5 subseqs from 5 targets)
+@@ Model size:             1271 positions
+@@
+
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence               Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------               -----------
+          0 3047.3   2.2          0 3047.1   2.2    1.0  1  drugbank_target|P11274  Breakpoint cluster region protein (DB
+    1.4e-42  143.6   0.5      2e-42  143.0   0.5    1.1  1  drugbank_target|P27986  Phosphatidylinositol 3-kinase regulat
+    7.8e-40  134.4   0.1    1.1e-39  133.9   0.1    1.1  1  drugbank_target|P32019  Type II inositol 1,4,5-trisphosphate 
+    1.2e-30  104.0   0.0      2e-30  103.3   0.0    1.2  1  drugbank_target|O00459  Phosphatidylinositol 3-kinase regulat
+    8.7e-12   41.5   0.0    8.7e-12   41.5   0.0    1.0  1  drugbank_target|A1Z199  BCR/ABL p210 fusion protein (DB05164)
+
+
+Domain annotation for each sequence:
+>> drugbank_target|P11274  Breakpoint cluster region protein (DB00619; DB01254; DB06616; DB08901)
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ! 3047.1   2.2         0         0       1    1271 []       1    1271 []       1    1271 [] 1.00
+
+>> drugbank_target|P27986  Phosphatidylinositol 3-kinase regulatory subunit alpha (DB01064; DB05210; DB06486; DB08059)
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  143.0   0.5   1.9e-45     2e-42    1068    1229 ..     129     290 ..     125     300 .. 0.92
+
+>> drugbank_target|P32019  Type II inositol 1,4,5-trisphosphate 5-phosphatase (DB03158)
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  133.9   0.1   1.1e-42   1.1e-39    1066    1223 ..     828     975 ..     824     982 .. 0.95
+
+>> drugbank_target|O00459  Phosphatidylinositol 3-kinase regulatory subunit beta (DB01064; DB05210)
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  103.3   0.0   1.9e-33     2e-30    1067    1223 ..     124     266 ..     121     275 .. 0.96
+
+>> drugbank_target|A1Z199  BCR/ABL p210 fusion protein (DB05164)
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   41.5   0.0   8.2e-15   8.7e-12     880     904 ..       1      25 [.       1      53 [. 0.91
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (1271 nodes)
+Target sequences:                       5258  (2830501 residues searched)
+Passed MSV filter:                       225  (0.0427919); expected 105.2 (0.02)
+Passed bias filter:                      173  (0.0329022); expected 105.2 (0.02)
+Passed Vit filter:                        25  (0.00475466); expected 5.3 (0.001)
+Passed Fwd filter:                         7  (0.0013313); expected 0.1 (1e-05)
+Initial search space (Z):               5258  [actual number of targets]
+Domain search space  (domZ):               5  [number of targets reported over threshold]
+# CPU time: 3.57u 0.03s 00:00:03.59 Elapsed: 00:00:03.28
+# Mc/sec: 1095.28
+
+@@ New targets included:   0
+@@ New alignment includes: 6 subseqs (was 6), including original query
+@@
+@@ CONVERGED (in 2 rounds). 
+@@
+
+# Alignment of 6 hits satisfying inclusion thresholds saved to: /prod/www/nslab/NOD/Results/SC_ima_28_results_0.684//pyRunHmmer.align
+//
+[ok]
